@@ -1,0 +1,20 @@
+{
+  "name": "ss-gridsome",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@sindresorhus/slugify": "^0.9.1",
+    "axios": "^0.19.0",
+    "flexsearch": "^0.6.32",
+    "global": "^4.4.0",
+    "gridsome": "^0.7.11",
+    "gridsome-plugin-flexsearch": "^0.1.6",
+    "gridsome-plugin-tailwindcss": "^2.2.27",
+    "gridsome-transformer-docutils": "^0.2.3",
+    "tailwindcss": "^1.1.4"
+  }
+}
