@@ -10,24 +10,7 @@ const slugify = require('@sindresorhus/slugify');
 
 
 module.exports = function (api) {
-  // const slugReplacement = {
-  //   replacement: '-', // replace spaces with replacement
-  //   remove: /[^\w\s-]/g, // regex to remove characters
-  //   lower: true 
-  // };
-
-  // api.onCreateNode(options => {
-  //   if (options.internal.typeName === 'Guns') {
-  //     options.recordType = options.internal.typeName;
-  //     options.slug = slugify(options.title, slugReplacement);
-  //     return{
-  //       ...options
-  //     }
-  //   }
-  // })
-  
-
-  api.loadSource(actions => {
+   api.loadSource(actions => {
     axios.get('./temp/guns.json')
 
     const guns = actions.addCollection('Guns')
