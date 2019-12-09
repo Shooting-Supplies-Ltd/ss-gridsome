@@ -6,7 +6,7 @@
         </div>
         <div class="w-2/3 flex flex-wrap justify-around w-full ml-12 mt-12">
           <div v-for="edge in $page.allGuns.edges" :key="edge.node.id" class="max-w-sm rounded-b-lg shadow-lg rounded-b-lg w-1/2 mb-8 border-t-4 border-ssblue">
-            <g-link :to="`gun/${edge.node.title}/${edge.node.id}`"><g-image :src="edge.node.images[0].FullPath" style="width: 800px; object-contain: contain;" :alt="edge.node.title" />
+            <g-link :to="`gun/${edge.node.slug}`"><g-image :src="edge.node.images[0].FullPath" style="width: 800px; object-contain: contain;" :alt="edge.node.title" />
             <div class="p-4">
               <h2 class="font-bold uppercase text-xl mt-2">{{edge.node.title}}</h2>
               <h3 class="font-semibold">Variant: {{edge.node.variant}}</h3>
@@ -58,6 +58,7 @@ query ($page: Int) {
         condition
         price
         licence
+        slug
         images {
           FullPath
         }

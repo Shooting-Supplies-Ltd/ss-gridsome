@@ -9,6 +9,13 @@ module.exports = {
   siteDescription: "Your one stop shop for guns of all types, both new & used.",
   plugins: [
     {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: './temp/converted.json',
+        typeName: 'Products'
+      }
+    },
+    {
       use: 'gridsome-plugin-tailwindcss',
       options: {
         tailwindConfig: '',
@@ -34,7 +41,7 @@ module.exports = {
       }
     }
   ],
-  }
+}
 
   
  

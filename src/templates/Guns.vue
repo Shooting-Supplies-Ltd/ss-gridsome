@@ -37,7 +37,7 @@
                     <td>Trigger: {{$context.trigger}}</td>
                   </tr>
                   <tr>
-                    <td>Length{{$context.barelLength}}</td>
+                    <td>Length: {{$context.barelLength}}</td>
                   </tr>
                   <tr>
                     <td>Condition: {{$context.condition}}</td>

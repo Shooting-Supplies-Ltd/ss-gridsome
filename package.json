@@ -7,14 +7,21 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-json": "^0.2.1",
     "@sindresorhus/slugify": "^0.9.1",
     "axios": "^0.19.0",
+    "camaro": "^4.1.2",
+    "dotenv": "^8.2.0",
     "flexsearch": "^0.6.32",
     "global": "^4.4.0",
     "gridsome": "^0.7.11",
     "gridsome-plugin-flexsearch": "^0.1.6",
     "gridsome-plugin-tailwindcss": "^2.2.27",
     "gridsome-transformer-docutils": "^0.2.3",
-    "tailwindcss": "^1.1.4"
+    "tailwindcss": "^1.1.4",
+    "wcf.js": "^0.0.6",
+    "xml-formatter": "^1.2.0",
+    "xml2json": "^0.11.2"
   }
 }

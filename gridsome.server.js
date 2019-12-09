@@ -10,7 +10,7 @@ const slugify = require('@sindresorhus/slugify');
 
 
 module.exports = function (api) {
-   api.loadSource(actions => {
+  api.loadSource(async actions => {
     axios.get('./temp/guns.json')
 
     const guns = actions.addCollection('Guns')
@@ -33,10 +33,12 @@ module.exports = function (api) {
         stockNumber: item.StockNumber,
         serialNumber: item.SerialNumber,
         images: item.Images,
-        licence: item.Licence
+        licence: item.Licence,
+        slug: slugify(`${item.Make}${item.Model}${item.SerialNumber}`)
       })
     }
   })
+
   api.createPages(async ({ graphql, createPage }) => {
     const { data } = await graphql(`{
       allGuns {
@@ -56,6 +58,7 @@ module.exports = function (api) {
             condition
             price
             licence
+            slug
             images {
               FullPath
             }
@@ -66,7 +69,7 @@ module.exports = function (api) {
 
     data.allGuns.edges.forEach(({ node }) => {
       createPage({
-        path: `/gun/${node.title}/${node.id}`,
+        path: `/gun/${node.slug}`,
         component: './src/templates/Guns.vue',
         context: {
           id: node.id,        
@@ -83,7 +86,8 @@ module.exports = function (api) {
           condition: node.condition,
           price: node.price,
           licence: node.licence,
-          images: node.images
+          images: node.images,
+          path: node.slug
         }
       })
     })
