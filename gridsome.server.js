@@ -69,7 +69,7 @@ module.exports = function (api) {
 
     data.allGuns.edges.forEach(({ node }) => {
       createPage({
-        path: `/gun/${node.slug}`,
+        path: `/guns/${node.slug}`,
         component: './src/templates/Guns.vue',
         context: {
           id: node.id,        

@@ -1,5 +1,5 @@
-import plugin_gridsome_plugin_tailwindcss_6 from "C:\\Users\\darry\\Projects\\ss-gridsome\\node_modules\\gridsome-plugin-tailwindcss\\gridsome.client.js"
-import plugin_gridsome_plugin_flexsearch_7 from "C:\\Users\\darry\\Projects\\ss-gridsome\\node_modules\\gridsome-plugin-flexsearch\\gridsome.client.js"
+import plugin_gridsome_plugin_tailwindcss_6 from "/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
+import plugin_gridsome_plugin_flexsearch_7 from "/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-flexsearch/gridsome.client.js"
 
 export default [
   {
@@ -8,6 +8,6 @@ export default [
   },
   {
     run: plugin_gridsome_plugin_flexsearch_7,
-    options: {"collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","variant"]}],"searchFields":["title","variant"],"flexsearch":{"profile":"default"}}
+    options: {"collections":[{"typeName":"Guns","indexName":"Guns","fields":["id","title","variant","condition","slug"]}],"searchFields":["title","variant"],"flexsearch":{"profile":"default"}}
   }
 ]

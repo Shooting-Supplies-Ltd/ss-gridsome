@@ -34,7 +34,7 @@ module.exports = {
           {
             typeName: 'Guns',
             indexName: 'Guns',
-            fields: ['title','variant']
+            fields: ['id','title','variant','condition','slug']
           }
         ],
         searchFields: ['title', 'variant']
