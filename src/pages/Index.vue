@@ -19,7 +19,14 @@
             </div></g-link>            
           </div>
            <div class="flex justify-center mb-8 w-full">
-        <Pager :linkClass="{ pageNum: true }" :info="$page.allGuns.pageInfo" />
+        <Pager 
+          :linkClass="{ pageNum: true }" 
+          :info="$page.allGuns.pageInfo"
+          :showLinks="true"
+          :prevLabel="Prev"
+          :nextLabel="Next"
+          :ariaNextLabel="Next"
+          :ariaPrevLabel="Prev" />
       </div>
         </div>
       </div>
@@ -72,5 +79,8 @@ query ($page: Int) {
   .pageNum {
     font-size: 1.6em;
     margin-right: 0.5em;
+  }
+  .pageNum:active {
+    color: #004d91;
   }
 </style>
