@@ -2136,7 +2136,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/armsan-rs-a218-a78304/",
+    path: "/guns/armsan-rs-a218-a78303/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2168,11 +2168,11 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/armsan-rs-a218-a78303/",
+    path: "/guns/air-arms-s510-superlite167342/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/air-arms-s510-superlite167342/",
+    path: "/guns/armsan-rs-a218-a78304/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2244,7 +2244,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/brocock-compatto0642/",
+    path: "/guns/bsadefiantd-e220251/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2292,11 +2292,11 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/brn-o452857628/",
+    path: "/guns/brocock-compatto0642/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/bsadefiantd-e220251/",
+    path: "/guns/brn-o452857628/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2336,10 +2336,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--pistol-black-powder-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/PistolBlackPowder.vue")
   },
   {
-    path: "/rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Rifle.vue")
-  },
-  {
     path: "/long-barrel-pistol/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--long-barrel-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/LongBarrelPistol.vue")
   },
@@ -2348,16 +2344,20 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--blank-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/BlankPistol.vue")
   },
   {
-    path: "/air-pistol/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirPistol.vue")
-  },
-  {
     path: "/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirRifle.vue")
   },
   {
+    path: "/air-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirPistol.vue")
+  },
+  {
     path: "/test/",
     component: () => import(/* webpackChunkName: "page--src--pages--test-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Test.vue")
+  },
+  {
+    path: "/rifle/",
+    component: () => import(/* webpackChunkName: "page--src--pages--rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Rifle.vue")
   },
   {
     path: "/about/",

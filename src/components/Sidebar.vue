@@ -3,7 +3,7 @@
         <div class="px-6 py-4 mb-2 mt-4 mb-8">
             <div class="uppercase tracking-wide text-c2 mb-4">Search</div> 
             <!-- <div class="flex border px-4 py-2 text-lg text-grey-darkest border-b-4" style="border-left: 4px solid #e2624b !important;">    -->
-                <Search class="min-w-full"/>
+                <Search class="relative x-50 min-w-full"/>
             <!-- </div>            -->
             <div class="uppercase tracking-wide text-c2 mb-4 mt-12">Gun Type</div>
                 <div class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest">   

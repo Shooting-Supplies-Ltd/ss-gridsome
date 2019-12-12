@@ -8,6 +8,6 @@ export default [
   },
   {
     run: plugin_gridsome_plugin_flexsearch_7,
-    options: {"collections":[{"typeName":"Guns","indexName":"Guns","fields":["id","title","variant","condition","slug"]}],"searchFields":["title","variant"],"flexsearch":{"profile":"default"}}
+    options: {"collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","variant","condition","slug"]}],"searchFields":["title","variant"],"flexsearch":{"profile":"default"}}
   }
 ]

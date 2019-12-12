@@ -1,28 +1,38 @@
 <template>
   <Layout>
-      <div class="flex">
-        <div class="w-1/3">
+     <div class="flex mb-4">
+        <div class="w-2/6 h-screen">
           <Sidebar class="min-w-full mt-12 ml-6" />
         </div>
-        <div class="w-2/3 flex flex-wrap justify-around w-full ml-12 mt-12">
-          <div v-for="edge in $page.allGuns.edges" :key="edge.node.id" class="max-w-sm rounded-b-lg shadow-lg rounded-b-lg w-1/2 mb-8 border-t-4 border-ssblue">
-            <g-link :to="`gun/${edge.node.slug}`"><g-image :src="edge.node.images[0].FullPath" style="width: 800px; object-contain: contain;" :alt="edge.node.title" />
-            <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2">{{edge.node.title}}</h2>
-              <h3 class="font-semibold">Variant: {{edge.node.variant}}</h3>
-              <table>
-                <tr>
-                <td>Condition: {{edge.node.condition}}</td>
-                </tr>
-              </table>
-              <p class="font-semibold text-lg mt-2">£{{edge.node.price}}</p>
-            </div></g-link>            
+        
+        <div class="w-4/6 flex flex-wrap justify-around w-full ml-12 mt-12 h-auto">
+          <div v-for="edge in $page.allGuns.edges" :key="edge.node.id" class="max-w-sm rounded-b-lg shadow-lg w-1/2 mb-8 border-t-4 border-ssblue">
+            <g-link :to="`guns/${edge.node.slug}`"><g-image :src="edge.node.images[0].FullPath" style="width: 800px; object-contain: contain;" :alt="edge.node.title" />
+              <div class="p-4">
+                <h2 class="font-bold uppercase text-xl mt-2">{{edge.node.title}}</h2>
+                <h3 class="font-semibold">Variant: {{edge.node.variant}}</h3>
+                <table>
+                  <tr>
+                  <td>Condition: {{edge.node.condition}}</td>
+                  </tr>
+                </table>
+                <p class="font-semibold text-lg mt-2">£{{edge.node.price}}</p>
+              </div>
+            </g-link>            
           </div>
+        
+        <div class="flex justify-center mb-8 w-full">
+          <Pager 
+            :linkClass="{ pageNum: true }" 
+            :info="$page.allGuns.pageInfo"
+            :showLinks="true"
+            :prevLabel="Prev"
+            :nextLabel="Next"
+            :ariaNextLabel="Next"
+            :ariaPrevLabel="Prev" />
         </div>
       </div>
-      <div class="flex justify-center mb-8">
-        <Pager :linkClass="{ pageNum: true }" :info="$page.allGuns.pageInfo" />
-      </div>
+    </div>  
   </Layout>
 </template>
 
@@ -34,14 +44,14 @@ export default {
   components: {
     Sidebar,
     Pager,
-  }
+  },
 }
 </script>
 
 
 <page-query>
 query ($page: Int) {
-  allGuns(perPage: 12, page: $page, filter: {type: {in: ["Pistol (Long Barrel)"]}}) @paginate {
+  allGuns(perPage: 9, sortBy: "title", order: ASC, page: $page, filter: {type: {in: ["Pistol (Long Barrel)"]}}) @paginate {
     pageInfo {
       totalPages
       currentPage
@@ -72,5 +82,8 @@ query ($page: Int) {
   .pageNum {
     font-size: 1.6em;
     margin-right: 0.5em;
+  }
+  .pageNum:active {
+    color: #004d91;
   }
 </style>
