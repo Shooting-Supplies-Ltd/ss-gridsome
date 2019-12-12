@@ -5,13 +5,13 @@
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 const axios = require('axios');
-const data = require('./temp/guns.json');
+// const data = require('./temp/guns.json');
 const slugify = require('@sindresorhus/slugify');
 
 
 module.exports = function (api) {
   api.loadSource(async actions => {
-    axios.get('./temp/guns.json')
+    const {data} = await axios.get(process.env.GRIDSOME_API_URL)
 
     const guns = actions.addCollection('Guns')
 
