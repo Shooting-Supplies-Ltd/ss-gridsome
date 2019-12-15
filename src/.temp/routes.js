@@ -2376,6 +2376,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirRifle.vue")
   },
   {
+    path: "/blog/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Blog.vue")
+  },
+  {
     path: "/test/",
     component: () => import(/* webpackChunkName: "page--src--pages--test-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Test.vue")
   },
