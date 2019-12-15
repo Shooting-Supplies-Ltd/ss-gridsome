@@ -9,10 +9,13 @@ module.exports = {
   siteDescription: "Your one stop shop for guns of all types, both new & used.",
   plugins: [
     {
-      use: '@gridsome/source-filesystem',
+      use: '@gridsome/source-wordpress',
       options: {
-        path: './temp/converted.json',
-        typeName: 'Products'
+        baseUrl: 'https://shootingsuppliesltd.co.uk', // required
+        apiBase: 'wp-json',
+        typeName: 'WordPress',
+        perPage: 100,
+        concurrent: 10
       }
     },
     {
@@ -41,6 +44,11 @@ module.exports = {
       }
     }
   ],
+  templates: {
+    WordPressCategory: '/blog/category/:slug', // adds route for "category" post type (Optional)
+    WordPressPost: '/blog/:year/:month/:day/:slug', //adds route for "post" post type (Optional)
+    WordPressPostTag: '/blog/tag/:slug' // adds route for "post_tag" post type (Optional)
+  },
 }
 
   
