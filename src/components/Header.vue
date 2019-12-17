@@ -1,5 +1,5 @@
 <template>
-    <header class="w-full shadow-lg border-t-4 mb-8 rounded-t border-ssblue">
+    <header class="w-full shadow-lg border-t-4 mb-8 border-ssblue">
         <div id="top-bar" class=" bg-ssblue w-full h-8 flex">
         
         <div class="container w-1/2 flex justify-center items-center text-white">
