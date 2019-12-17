@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Shooting Supplies Ltd - Guns',
-  siteDescription: "Your one stop shop for guns of all types, both new & used.",
+  siteDescription: "Shooting Supplies Ltd are the Midlands leading Firearms Dealer & Shooting Supplies Store. Your one-stop-shop for all of your shooting needs.",
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
