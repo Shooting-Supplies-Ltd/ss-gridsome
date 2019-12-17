@@ -1,6 +1,6 @@
 <template>
     <header class="w-full shadow-lg border-t-4 mb-8 rounded-t border-ssblue">
-        <div id="top-bar" class=" bg-ssblue w-full h-8 flex">
+        <!-- <div id="top-bar" class=" bg-ssblue w-full h-8 flex">
         
         <div class="container w-1/2 flex flex-initial justify-center items-center text-white">
           <div id="contact" class="flex items-center">
@@ -17,8 +17,7 @@
             <p class="text-xl"><a href="https://www.instagram.com/shootingsupplies/" target="_blank"><font-awesome :icon="['fab', 'instagram']" size="sm" class="hover:text-ssorange" /></a></p>
           </div>
         </div>
-      
-      </div>
+      </div> -->
        <div class="flex justify-center bg-white">
         <h1 class="hidden">Shooting Supplies Ltd / Guns</h1>
         <g-link to="/"><g-image class="block flex items-center max-w-xl my-4"
