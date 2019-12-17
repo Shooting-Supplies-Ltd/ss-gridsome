@@ -1,5 +1,5 @@
 <template>
-  <Search>
+  <div>
     <input
       id="search"
       v-model="searchTerm"
@@ -14,11 +14,12 @@
       <div class="hover:text-ssorange hover:border-ssorange z-50" v-if="result.variant != null">{{ result.condition + ' ' + result.title + ' ' + result.variant }}</div>
       <div class="hover:text-ssorange hover:border-ssorange z-50" v-else>{{ result.condition + ' ' + result.title }}</div>
     </g-link>
-  </Search>
+  </div>
 </template>
 
 <script>
 export default {
+  name: 'Search',
   data: () => ({
     searchTerm: ''
   }),
@@ -28,7 +29,7 @@ export default {
       if (searchTerm.length < 3) return []
       return this.$search.search({ query: searchTerm, limit: 50 })
     },
-  }
+  },
 }
 </script>
 
