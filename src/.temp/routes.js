@@ -424,10 +424,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/umarex-glock-17-d-a083680/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/umarex-glock-17-d-a083677/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1177,10 +1173,6 @@ export default [
   },
   {
     path: "/guns/lanbernull08701-99/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/marlin03029526/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {

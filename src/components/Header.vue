@@ -4,17 +4,17 @@
         
         <div class="container w-1/2 flex justify-center items-center text-white">
           <div id="contact" class="flex items-center">
-            <p class="mr-8"><a href="tel:01527831261"><span class="hover:text-ssorange">Call Us: 0152783126<font-awesome :icon="['fas', 'phone']" class="ml-2"/></span></a></p>
-            <p><a href="mailto:info@shootingsuppliesltd.co.uk"><span class="hover:text-ssorange">Email Us: <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></span></a></p>
+            <p class="mr-8"><a href="tel:01527831261"><span class="hover:text-ssorange">Call Us: 0152783126<font-awesome :icon="['fas', 'phone']" class="ml-2 text-sm"/></span></a></p>
+            <p><a href="mailto:info@shootingsuppliesltd.co.uk"><span class="hover:text-ssorange">Email Us: <font-awesome :icon="['fas', 'envelope']" class="ml-2 text-sm"/></span></a></p>
           </div>  
         </div>
         
         <div class="container w-1/2 flex justify-center items-center text-white">
           <div id="social" class="flex items-center">
             <p class="mr-4">Find Us On:</p>
-            <p class="mr-4"><a href="https://www.facebook.com/ShootingSuppliesLTD/" target="_blank"><font-awesome :icon="['fab', 'facebook-square']" class="hover:text-ssorange" /></a></p>
-            <p class="mr-4"><a href="https://twitter.com/shootingsupplys" target="_blank"><font-awesome :icon="['fab', 'twitter']" class="hover:text-ssorange" /></a></p>
-            <p class=""><a href="https://www.instagram.com/shootingsupplies/" target="_blank"><font-awesome :icon="['fab', 'instagram']" class="hover:text-ssorange" /></a></p>
+            <p class="mr-4"><a href="https://www.facebook.com/ShootingSuppliesLTD/" target="_blank"><font-awesome :icon="['fab', 'facebook-square']" class="hover:text-ssorange text-sm" /></a></p>
+            <p class="mr-4"><a href="https://twitter.com/shootingsupplys" target="_blank"><font-awesome :icon="['fab', 'twitter']" class="hover:text-ssorange text-sm" /></a></p>
+            <p class=""><a href="https://www.instagram.com/shootingsupplies/" target="_blank"><font-awesome :icon="['fab', 'instagram']" class="hover:text-ssorange text-sm" /></a></p>
           </div>
         </div>
       </div>
