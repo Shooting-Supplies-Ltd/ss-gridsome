@@ -3,16 +3,16 @@
     <input
       id="search"
       v-model="searchTerm"
-      class="input relative z-50 w-full py-2 px-4 border-2 border-b-2"
+      class="w-full py-2 px-4 border-2 border-b-2 focus:border-ssblue"
       type="text"
       placeholder="Search Guns">
     <g-link
       v-for="result in searchResults"
       :key="result.id"
       :to="`/guns/${result.slug}`"
-      class="search-item relative z-50 px-4 uppercase border-2 py-2 rounded">
-      <div v-if="result.variant != null">{{ result.condition + ' ' + result.title + ' ' + result.variant }}</div>
-      <div v-else>{{ result.condition + ' ' + result.title }}</div>
+      class="relative search-item px-4 uppercase border-2 py-2 rounded">
+      <div class="hover:text-ssorange hover:border-ssorange z-50" v-if="result.variant != null">{{ result.condition + ' ' + result.title + ' ' + result.variant }}</div>
+      <div class="hover:text-ssorange hover:border-ssorange z-50" v-else>{{ result.condition + ' ' + result.title }}</div>
     </g-link>
   </Search>
 </template>

@@ -6,7 +6,7 @@
         </div>
         
         <div class="w-4/6 flex flex-wrap justify-around w-full ml-12 mt-12 h-auto">
-          <div v-for="edge in $page.allGuns.edges" :key="edge.node.id" class="max-w-sm rounded-b-lg shadow-lg w-1/2 mb-8 border-t-4 border-ssblue">
+          <div v-for="edge in $page.allGuns.edges" :key="edge.node.id" id="gun-card" class="max-w-sm rounded-b-lg shadow hover:shadow-lg hover:border-ssorange w-1/2 mb-8 border-t-4 border-ssblue">
             <g-link :to="`guns/${edge.node.slug}`"><g-image :src="edge.node.images[0].FullPath" style="width: 800px; object-contain: contain;" :alt="edge.node.title" />
               <div class="p-4">
                 <h2 class="font-bold uppercase text-xl mt-2">{{edge.node.title}}</h2>
@@ -76,6 +76,10 @@ query ($page: Int) {
 </page-query>
 
 <style>
+  #gun-card:hover {
+    transition: shadow 2s;
+  }
+
   .pageNum {
     font-size: 1.6em;
     margin-right: 0.5em;

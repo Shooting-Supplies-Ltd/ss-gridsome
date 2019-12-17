@@ -13,6 +13,7 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       ssblue: '#004d91',
+      ssorange: 'rgb(239, 70, 36)',
 
       black: '#000',
       white: '#fff',

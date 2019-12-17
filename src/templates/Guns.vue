@@ -49,6 +49,13 @@
                     <td class="pt-6">Price: £{{ $context.price }}</td>
                   </tr>
                 </table>
+                <div>
+                  <p class="mt-4 font-semibold">Contact Us for Further Information:</p>
+                  <div class="mt-4 ">
+                    <a href="tel:01527831261"><button class="h-10 bg-ssblue hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mr-4">Call <font-awesome :icon="['fas', 'phone']" class="ml-2"/></button></a>
+                    <a href="mailto:info@shootingsuppliesltd.co.uk"><button class="h-10 bg-ssblue hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Email <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></button></a>
+                  </div>
+                </div>
               </div>
             </div>
         </div>
