@@ -1,9 +1,5 @@
 export default [
   {
-    path: "/blog/:year/:month/:day/:slug/",
-    component: () => import(/* webpackChunkName: "page--src--templates--word-press-post-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/WordPressPost.vue")
-  },
-  {
     path: "/guns/weihrauch-hw-97-carbine-black-line-st-l2276632/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -452,11 +448,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/umarex-glock-17-kg-u417/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/umarex-glock-17-acw-a517/",
+    path: "/guns/umarex-glock-17-d-a075206/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2370,10 +2362,6 @@ export default [
   {
     path: "/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirRifle.vue")
-  },
-  {
-    path: "/blog/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Blog.vue")
   },
   {
     path: "/test/",
