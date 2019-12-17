@@ -25,6 +25,7 @@
     "gridsome-plugin-tailwindcss": "^2.2.27",
     "gridsome-transformer-docutils": "^0.2.3",
     "tailwindcss": "^1.1.4",
+    "vue": "~2",
     "wcf.js": "^0.0.6",
     "xml-formatter": "^1.2.0",
     "xml2json": "^0.11.2"
