@@ -11,7 +11,6 @@ import '@fortawesome/fontawesome-svg-core/styles.css'
 config.autoAddCss = false;
 library.add(faTwitter, faFacebookSquare, faInstagram)
 library.add(faPhone, faEnvelope)
-dom.watch();
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
