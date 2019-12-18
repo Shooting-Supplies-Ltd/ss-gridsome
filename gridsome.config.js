@@ -14,7 +14,7 @@ module.exports = {
         tailwindConfig: '',
         purgeConfig: {},
         presetEnvConfig: {},
-        shouldPurge: true,
+        shouldPurge: false,
         shouldImport: true,
         shouldTimeTravel: true,
         shouldPurgeUnusedKeyframes: true,
