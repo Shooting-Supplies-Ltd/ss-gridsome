@@ -28,7 +28,7 @@
       <nav id="menu" class="w-full flex justify-around items-center bg-ssblue text-white uppercase h-12 font-semibold text-lg">
           <div class="flex">
           <a href="https://shootingsuppliesltd.co.uk"><p class="mr-12 hover:text-ssorange">Home</p></a>
-          <a href="https://shootingsuppliesltd.co.uk"><p class="mr-12 hover:text-ssorange">Guns</p></a>
+          <a href="https://guns.shootingsuppliesltd.co.uk"><p class="mr-12 hover:text-ssorange">Guns</p></a>
           <a href="https://shootingsuppliesltd.co.uk/product-category/optics/"><p class="mr-12 hover:text-ssorange">Optics</p></a>
           <a href="https://shootingsuppliesltd.co.uk/ammunition/"><p class="mr-12 hover:text-ssorange">Ammunition</p></a>
           <a href="https://shootingsuppliesltd.co.uk/clothing-footwear/"><p class="mr-12 hover:text-ssorange">Clothing</p></a>
