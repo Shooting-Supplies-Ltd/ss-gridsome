@@ -32,7 +32,7 @@
           <a href="https://shootingsuppliesltd.co.uk/product-category/optics/"><p class="mr-12 hover:text-ssorange">Optics</p></a>
           <a href="https://shootingsuppliesltd.co.uk/ammunition/"><p class="mr-12 hover:text-ssorange">Ammunition</p></a>
           <a href="https://shootingsuppliesltd.co.uk/clothing-footwear/"><p class="mr-12 hover:text-ssorange">Clothing</p></a>
-          <a href="https://shootingsuppliesltd.co.uk/safes-security/"<p class="mr-12 hover:text-ssorange">Security</p></a>
+          <a href="https://shootingsuppliesltd.co.uk/safes-security/"><p class="mr-12 hover:text-ssorange">Security</p></a>
           <a href="https://shootingsuppliesltd.co.uk/product-category/spares-accessories/"><p class="mr-12 hover:text-ssorange">Accessories</p></a>
           <a href="https://shootingsuppliesltd.co.uk/special-offers/"><p class="mr-12 hover:text-ssorange">Offers</p></a>
           </div>
