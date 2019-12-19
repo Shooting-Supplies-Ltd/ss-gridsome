@@ -1,5 +1,5 @@
-import plugin_gridsome_plugin_tailwindcss_5 from "/home/darryl/Projects/ss-gridsome-mobile/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
-import plugin_gridsome_plugin_flexsearch_6 from "/home/darryl/Projects/ss-gridsome-mobile/node_modules/gridsome-plugin-flexsearch/gridsome.client.js"
+import plugin_gridsome_plugin_tailwindcss_5 from "/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
+import plugin_gridsome_plugin_flexsearch_6 from "/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-flexsearch/gridsome.client.js"
 
 export default [
   {

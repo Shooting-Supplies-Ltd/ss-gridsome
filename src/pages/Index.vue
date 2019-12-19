@@ -35,13 +35,11 @@
 
 <script>
 import Sidebar from '~/components/Sidebar.vue'
-import Search from '~/components/Search.vue'
 import { Pager } from 'gridsome'
 
 export default {
   components: {
     Sidebar,
-    Search,
     Pager,
   },
 }
