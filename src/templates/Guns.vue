@@ -1,8 +1,8 @@
 <template>
   <Layout>
-    <div class="flex mb-4">
+    <div class="flex mt-4 mb-4">
       <div class="w-1/4"></div>
-        <div class="w-2/4 flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue">
+        <div class="w-7/8 flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8">
           <div class="flex justify-center">
             <g-image :src="$page.allGuns.images[0].FullPath" :alt="$page.allGuns.title" />
           </div>
@@ -52,8 +52,8 @@
                 <div>
                   <p class="mt-4 font-semibold">Contact Us for Further Information:</p>
                   <div class="mt-4 ">
-                    <a href="tel:01527831261"><button class="h-10 bg-ssblue hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mr-4">Call <font-awesome :icon="['fas', 'phone']" class="ml-2"/></button></a>
-                    <a href="mailto:info@shootingsuppliesltd.co.uk"><button class="h-10 bg-ssblue hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Email <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></button></a>
+                    <a href="tel:01527831261"><button class="h-8 py-2 px-2 mr-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded">Call <font-awesome :icon="['fas', 'phone']" class="ml-2"/></button></a>
+                    <a href="mailto:info@shootingsuppliesltd.co.uk"><button class="h-8 py-2 px-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded">Email <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></button></a>
                   </div>
                 </div>
               </div>

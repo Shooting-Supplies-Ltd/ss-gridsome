@@ -1,25 +1,25 @@
 <template>
   <Layout>
-     <div class="flex mb-4">
-        <div class="w-2/6 h-screen">
-          <Sidebar class="relative z-50 min-w-full mt-12 ml-6" />
-        </div>
+    <div class="flex items-start">
+      <div class="hidden lg:block lg:mt-12 lg:w-3/8 h-screen">
+        <Sidebar class="min-w-full ml-6" />
+      </div>
         
-        <div class="w-4/6 flex flex-wrap justify-around w-full ml-12 mt-12 h-auto">
-          <div v-for="edge in $page.allGuns.edges" :key="edge.node.id" id="gun-card" class="max-w-sm rounded-b-lg shadow hover:shadow-lg hover:border-ssorange w-1/2 mb-8 border-t-4 border-ssblue">
-            <g-link :to="`guns/${edge.node.slug}`"><g-image :src="edge.node.images[0].FullPath" style="width: 800px; object-contain: contain;" :alt="edge.node.title" />
-              <div class="p-4">
-                <h2 class="font-bold uppercase text-xl mt-2">{{edge.node.title}}</h2>
-                <h3 class="font-semibold">Variant: {{edge.node.variant}}</h3>
-                <table>
-                  <tr>
-                  <td>Condition: {{edge.node.condition}}</td>
-                  </tr>
-                </table>
-                <p class="font-semibold text-lg mt-2">£{{edge.node.price}}</p>
-              </div>
-            </g-link>            
-          </div>
+      <div class="flex justify-center flex-wrap mx-4 mt-4 h-auto lg:w-5/6 lg:mt-8">
+        <div v-for="edge in $page.allGuns.edges" :key="edge.node.id" id="gun-card" class="max-w-xs rounded-b-lg shadow hover:shadow-lg hover:border-ssorange mb-8 border-t-4 border-ssblue sm:w-1/3 sm:m-4">
+          <g-link :to="`guns/${edge.node.slug}`"><g-image :src="edge.node.images[0].FullPath" :alt="edge.node.title" />
+            <div class="p-4">
+              <h2 class="font-bold uppercase text-xl mt-2">{{edge.node.title}}</h2>
+              <h3 class="font-semibold">Variant: {{edge.node.variant}}</h3>
+              <table>
+                <tr>
+                <td>Condition: {{edge.node.condition}}</td>
+                </tr>
+              </table>
+              <p class="font-semibold text-lg mt-2">£{{edge.node.price}}</p>
+            </div>
+          </g-link>            
+        </div>
         
         <div class="flex justify-center mb-8 w-full">
           <Pager 
@@ -35,11 +35,13 @@
 
 <script>
 import Sidebar from '~/components/Sidebar.vue'
+import Search from '~/components/Search.vue'
 import { Pager } from 'gridsome'
 
 export default {
   components: {
     Sidebar,
+    Search,
     Pager,
   },
 }
@@ -48,7 +50,7 @@ export default {
 
 <page-query>
 query ($page: Int) {
-  allGuns(perPage: 9, page: $page) @paginate {
+  allGuns(perPage: 12, page: $page) @paginate {
     pageInfo {
       totalPages
       currentPage
