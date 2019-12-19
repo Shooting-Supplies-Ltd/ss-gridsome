@@ -428,10 +428,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
   },
   {
-    path: "/guns/umarex-glock-17-d-a083677/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/umarex-glock-17-d-a071717/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
   },
@@ -533,10 +529,6 @@ export default [
   },
   {
     path: "/guns/umarex-ruger-102219-h04416/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/umarex-dx-1719-c02906/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
   },
   {
@@ -1432,10 +1424,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
   },
   {
-    path: "/guns/bsa-ultra-se-black-pepperus-e770345-mn/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/bsa-r10-se-blue-laminaters-e770268-jk/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
   },
@@ -1961,10 +1949,6 @@ export default [
   },
   {
     path: "/guns/bsa-comet-ce-115831-19/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/bsa-comet-ce-115832-19/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome-mobile/src/templates/Guns.vue")
   },
   {

@@ -40,6 +40,9 @@
                     <td>Length: {{$context.barelLength}}</td>
                   </tr>
                   <tr>
+                    <td>Description: {{$context.description}}</td>
+                  </tr>
+                  <tr>
                     <td>Condition: {{$context.condition}}</td>
                   </tr>
                   <tr>

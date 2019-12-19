@@ -27,6 +27,7 @@ module.exports = function (api) {
         orientation: item.Orientation,
         trigger: item.Trigger,
         barrelLength: item.BarrelLengthInches,
+        description: item.Description,
         condition: item.Condition,
         price: item.Price,
         stockNumber: item.StockNumber,
@@ -55,6 +56,7 @@ module.exports = function (api) {
             trigger
             barrelLength
             condition
+            description
             price
             licence
             slug
@@ -83,6 +85,7 @@ module.exports = function (api) {
           trigger: node.trigger,
           barrelLength: node.barrelLength,
           condition: node.condition,
+          description: node.description,
           price: node.price,
           licence: node.licence,
           images: node.images,
