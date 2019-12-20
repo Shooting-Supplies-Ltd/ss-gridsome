@@ -1280,6 +1280,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/gamo-venariv-n550140-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
     path: "/guns/gamo-venariv-n450109-mn/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -2324,6 +2328,14 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/rifle-black-powder/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--rifle-black-powder-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/RifleBlackPowder.vue")
+  },
+  {
+    path: "/shotgun-silenced/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--shotgun-silenced-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/ShotgunSilenced.vue")
+  },
+  {
     path: "/shotgun/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--shotgun-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Shotgun.vue")
   },
@@ -2350,14 +2362,6 @@ export default [
   {
     path: "/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirRifle.vue")
-  },
-  {
-    path: "/rifle-black-powder/",
-    component: () => import(/* webpackChunkName: "page--src--pages--rifle-black-powder-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/RifleBlackPowder.vue")
-  },
-  {
-    path: "/shotgun-silenced/",
-    component: () => import(/* webpackChunkName: "page--src--pages--shotgun-silenced-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/ShotgunSilenced.vue")
   },
   {
     path: "/test/",
