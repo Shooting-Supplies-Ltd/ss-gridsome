@@ -2,7 +2,7 @@
   <Layout>
     <div class="flex mt-4 mb-4">
       <div class="w-1/4"></div>
-        <div class="w-7/8 flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8">
+        <div class="w-7/8 flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4">
           <div class="flex justify-center">
             <g-image :src="$page.allGuns.images[0].FullPath" :alt="$page.allGuns.title" />
           </div>
