@@ -4,7 +4,7 @@
       <div>
         <div id="contact" class="lg:flex">
           <p class="mr-8"><a href="tel:01527831261"><span>Call Us: 0152783126<font-awesome :icon="['fas', 'phone']" class="ml-2" /></span></a></p>
-          <p><a href="mailto:info@shootingsuppliesltd.co.uk"><span>Email Us: <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></span></a></p>
+          <p><a href="mailto:info@shootingsuppliesltd.co.uk?subject=Website General Enquiry"><span>Email Us: <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></span></a></p>
         </div>  
       </div>
       

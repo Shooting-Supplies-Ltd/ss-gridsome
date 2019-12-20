@@ -54,12 +54,12 @@
                 </table>
                 <div>
                   <p class="mt-4 font-semibold">Contact Us for Further Information:</p>
-                  <div class="mt-4 ">
-                    <a href="tel:01527831261"><button class="h-8 py-2 px-2 mr-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded">Call <font-awesome :icon="['fas', 'phone']" class="ml-2"/></button></a>
+                  <div class="mt-4 flex">
+                    <a href="tel:01527831261"><button class="h-8 py-2 px-2 mr-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"><span class="self-center">Call</span> <font-awesome :icon="['fas', 'phone']" class="ml-2"/></button></a>
                     <a v-bind:href="'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
                       $context.title + ' - ' + 
                       $context.id + ' - £' + 
-                      $context.price+''"><button class="h-8 py-2 px-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded">Email <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></button></a>
+                      $context.price+''"><button class="h-8 py-2 px-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"><span class="self-center">Email</span> <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></button></a>
                   </div> 
                 </div>
               </div>
