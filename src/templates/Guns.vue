@@ -2,68 +2,68 @@
   <Layout>
     <div class="flex mt-4 mb-4">
       <div class="w-1/4"></div>
-        <div class="w-7/8 flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4">
-          <div class="flex justify-center">
-            <g-image :src="$page.allGuns.images[0].FullPath" :alt="$page.allGuns.title" />
+        <div class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4">
+          <div class="flex justify-center h-24 sm:h-auto">
+            <g-image :src="$page.allGuns.images[0].FullPath" :alt="$page.allGuns.title"/>
           </div>
-            <div class="container flex flex-wrap mb-6 w-full">
+          <div class="container flex flex-wrap mb-6 w-full">
+            <div>
+              <h1 class="font-bold text-xl pl-6 pt-6">{{ $context.title }}</h1>
+            </div>
+            <div class="ml-6 mt-6 w-full">
+              <table>
+                <tr>
+                  <td>Make: {{$context.make}}</td>
+                </tr>
+                <tr>
+                  <td>Model: {{$context.model}}</td>
+                </tr>
+                <tr>
+                  <td>Variant: {{$context.variant}}</td>
+                </tr>
+                <tr>
+                  <td>Type: {{$context.type}}</td>
+                </tr>
+                <tr>
+                  <td>Mechanism: {{$context.mechanism}}</td>
+                </tr>
+                <tr>
+                  <td>Calibre: {{$context.calibre}}</td>
+                </tr>
+                <tr>
+                  <td>Orientation: {{$context.orientation}}</td>
+                </tr>
+                <tr>
+                  <td>Trigger: {{$context.trigger}}</td>
+                </tr>
+                <tr>
+                  <td>Length: {{$context.barelLength}}</td>
+                </tr>
+                <tr>
+                  <td>Description: {{$context.description}}</td>
+                </tr>
+                <tr>
+                  <td>Condition: {{$context.condition}}</td>
+                </tr>
+                <tr>
+                  <td>Licence: {{$context.licence}}</td>
+                </tr>
+                <tr class="font-bold text-lg">
+                  <td class="pt-6">Price: £{{ $context.price }}</td>
+                </tr>
+              </table>
               <div>
-                <h1 class="font-bold text-xl pl-6 pt-6">{{ $context.title }}</h1>
-              </div>
-              <div class="ml-6 mt-6 w-full">
-                <table>
-                  <tr>
-                    <td>Make: {{$context.make}}</td>
-                  </tr>
-                  <tr>
-                    <td>Model: {{$context.model}}</td>
-                  </tr>
-                  <tr>
-                    <td>Variant: {{$context.variant}}</td>
-                  </tr>
-                  <tr>
-                    <td>Type: {{$context.type}}</td>
-                  </tr>
-                  <tr>
-                    <td>Mechanism: {{$context.mechanism}}</td>
-                  </tr>
-                  <tr>
-                    <td>Calibre: {{$context.calibre}}</td>
-                  </tr>
-                  <tr>
-                    <td>Orientation: {{$context.orientation}}</td>
-                  </tr>
-                  <tr>
-                    <td>Trigger: {{$context.trigger}}</td>
-                  </tr>
-                  <tr>
-                    <td>Length: {{$context.barelLength}}</td>
-                  </tr>
-                  <tr>
-                    <td>Description: {{$context.description}}</td>
-                  </tr>
-                  <tr>
-                    <td>Condition: {{$context.condition}}</td>
-                  </tr>
-                  <tr>
-                    <td>Licence: {{$context.licence}}</td>
-                  </tr>
-                  <tr class="font-bold text-lg">
-                    <td class="pt-6">Price: £{{ $context.price }}</td>
-                  </tr>
-                </table>
-                <div>
-                  <p class="mt-4 font-semibold">Contact Us for Further Information:</p>
-                  <div class="mt-4 flex">
-                    <a href="tel:01527831261"><button class="h-8 py-2 px-2 mr-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"><span class="self-center">Call</span> <font-awesome :icon="['fas', 'phone']" class="ml-2"/></button></a>
-                    <a v-bind:href="'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
-                      $context.title + ' - ' + 
-                      $context.id + ' - £' + 
-                      $context.price+''"><button class="h-8 py-2 px-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"><span class="self-center">Email</span> <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></button></a>
-                  </div> 
-                </div>
+                <p class="mt-4 font-semibold">Contact Us for Further Information:</p>
+                <div class="mt-4 flex">
+                  <a href="tel:01527831261"><button class="h-8 py-2 px-2 mr-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"><span class="self-center">Call</span> <font-awesome :icon="['fas', 'phone']" class="ml-2"/></button></a>
+                  <a v-bind:href="'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
+                    $context.title + ' - ' + 
+                    $context.id + ' - £' + 
+                    $context.price+''"><button class="h-8 py-2 px-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"><span class="self-center">Email</span> <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></button></a>
+                </div> 
               </div>
             </div>
+          </div>
         </div>
       <div class="w-1/4"></div>
     </div>
@@ -76,6 +76,7 @@ query ($id: ID!) {
     title
     images {
       FullPath
+      ThumbPath
     }
   }
 }
