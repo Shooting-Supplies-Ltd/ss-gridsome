@@ -1,6 +1,6 @@
 ---
 title: "All New Pulsar Thermal Scopes Now In!!"
-date: "2017-05-19"
+date: 2017-05-19
 ---
 
 We have seen some major improvements in the world of thermal scopes over the last 3 years.

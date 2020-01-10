@@ -1,4 +1,5 @@
 ---
+slug: gun-of-the-week-weihrauch-hw100bp
 title: "Weihrauch HW100 Bullpup"
 date: "2019-07-24"
 ---

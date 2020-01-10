@@ -1,6 +1,7 @@
 ---
+slug: 5-great-gifts-for-christmas
 title: "5 Great gifts this Christmas"
-date: "2019-12-12"
+date: 2019-12-12
 ---
 
 It’s often difficult to find gifts for our family and friends over the Christmas period but at Shooting Supplies, we stock a great number of shooting accessories that will make great gifts for the shooters in your life.
