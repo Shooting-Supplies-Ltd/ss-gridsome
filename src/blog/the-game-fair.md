@@ -1,0 +1,14 @@
+---
+title: "The Game Fair"
+date: "2018-07-26"
+---
+
+As I'm sure most of you are aware the Game Fair is on this weekend at Ragley Hall.
+
+Pulling thousands of people from all over the UK, it promises to be as busy as always, especially with this fantastic weather we are having!!!
+
+Once again Simpsons Brother gunshop will have some Tippmann Arms rifles on the shelf, including the new 12.5" barrelled Elite-S.
+
+![TIppmann Arms Elite-L](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564485/Tippmann-Arms-Image-1-from-their-Website_mjvwby_y4dbbs_kuvh11.jpg)
+
+And if you fancy a plink while you are there, pop over to Double-Deuce firing range. They have an assortment of Tippmann Arms rifles for you to try. Happy shopping!!

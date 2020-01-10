@@ -7,6 +7,9 @@
 module.exports = {
   siteName: 'Shooting Supplies Ltd - Guns',
   siteDescription: "Shooting Supplies Ltd are the Midlands leading Firearms Dealer & Shooting Supplies Store. Your one-stop-shop for all of your shooting needs.",
+  transformers: {
+    remark: {}
+  },
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -31,6 +34,13 @@ module.exports = {
           }
         ],
         searchFields: ['title', 'variant', 'mechanism', 'id', 'description']
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "blog/**/*.md",
+        typeName: "Post"
       }
     }
   ],
