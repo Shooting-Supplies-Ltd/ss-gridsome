@@ -3,6 +3,8 @@ title: "All New Pulsar Thermal Scopes Now In!!"
 date: 2017-05-19
 ---
 
+# **All New Pulsar Thermal Scopes Now In**
+
 We have seen some major improvements in the world of thermal scopes over the last 3 years.
 
 The quality, ergonomics and functions of the units have all improved as demonstrated by the new Pulsar Helion unit:

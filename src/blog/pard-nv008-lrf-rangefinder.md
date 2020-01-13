@@ -3,7 +3,8 @@ title: "Pard NV008 LRF Rangefinder"
 date: "2019-10-02"
 ---
 
-**In-Store Price £829.00**
+# **Pard NV008 LRF Rangefinder**
+*In-Store from £829.00*
 
 New in stock is the [Pard NV008 LRF](/product/pard-nv008-lrf-digital-scope/) Rangefinder, bringing both performance and value for money to our Night Vision range.
 
@@ -33,6 +34,6 @@ Call Us on 01527831261 to reserve yours or visit us in-store.
 
 ### Pard NV008 LRF Quick Look
 
-https://www.youtube.com/watch?v=BNO-frXYrNs
+`youtube:https://www.youtube.com/watch?v=BNO-frXYrNs`
 
-We stock both Pulsar & Pard night vision scopes, you can find out more and view our current stock on our [night vision page](https://shootingsuppliesltd.co.uk/night-vision/).
+We stock both Pulsar & Pard night vision scopes.

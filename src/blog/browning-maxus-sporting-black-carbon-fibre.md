@@ -3,11 +3,12 @@ title: "Browning Maxus Sporting Black Carbon Fibre"
 date: "2019-11-14"
 ---
 
-28" Maxus Carbon Fibre in-store £1249.00
+# **Browning Maxus Sporting, Black Carbon Fibre**
+*In-Store from £1249.00*
 
 Browning's Maxus Sporting in Black Carbon Fibre looks the business. The Maxus is a proven and globally well-liked gun and this model will certainly not disappoint you if you're looking for a light, responsive semi-auto shotgun.
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573765292/MAXUS-SPORTING-BLACK-CARBON_2_cu7ysv.jpg)
+![Maxus Sporting Black Carbon Shotgun](https://res.cloudinary.com/shooting-supplies/image/upload/v1573765292/MAXUS-SPORTING-BLACK-CARBON_2_cu7ysv.jpg)
 
 Reliability built-in, Browning's Power Drive gas system has been designed to perform under harsh hunting and shooting conditions with a wide array of loads. These guns are supremely reliable and mostly maintenance-free as long as they are kept clean.
 
@@ -15,4 +16,4 @@ Performance, this Maxus Sporting model has less recoil, less muzzle jump, a fast
 
 The years of service this gun will provide make it incredibly good value for money, and just look at that carbon fibre!
 
-[Shop now](https://shootingsuppliesltd.co.uk/products/guns/shotgun/semi-auto-pump/browning-maxus-sporting-black-carbon-28-shotgun/)
+*\*Pricing correct at date of post*

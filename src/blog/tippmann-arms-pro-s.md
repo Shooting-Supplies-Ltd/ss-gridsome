@@ -2,6 +2,8 @@
 title: "Tippmann Arms M4 Pro-S"
 date: "2019-06-26"
 ---
+ 
+# **Tippmann Arms M4 Pro-S**
 
 The newest model to the Tippmann family is the **Tippmann Arms** **Pro-S**.
 
@@ -49,6 +51,6 @@ All of this for **£949**!!
 - Owner’s Manual
 - Tactical Hard Case
 
-To check stock, reserve or have any questions, call our experts on [01527831261](tel:01527831261).
+<p></p>
 
-[![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564181/ViewTippmannArmsStock-1_txjyz0_shuhu2-1_ryljfz.jpg)](https://www.guntrader.uk/Guns-For-Sale/results/0806-298d-eac3-6a1d)
+To check stock, reserve or have any questions, call our experts on [01527831261](tel:01527831261).

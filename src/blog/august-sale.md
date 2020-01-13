@@ -3,9 +3,11 @@ title: "August Sale On Clothing"
 date: "2019-07-26"
 ---
 
-![August Sales 20% Off Seeland Clothing & Footwear](https://shootingsuppliesltd.co.uk/wp-content/uploads/2019/09/Seeland-Logo.png)
+# **August Clothing Sale**
 
 For the month of August, we are holding a massive 20% sale on all clothing and footwear items in store. Including Seeland, Beretta & Harkila brands.
+
+![August Sales 20% Off Seeland Clothing & Footwear](https://shootingsuppliesltd.co.uk/wp-content/uploads/2019/09/Seeland-Logo.png)
 
 ![20% Off Harkila Clothing & Footwear Through August](https://shootingsuppliesltd.co.uk/wp-content/uploads/2019/09/Harkila-Logo.png)
 

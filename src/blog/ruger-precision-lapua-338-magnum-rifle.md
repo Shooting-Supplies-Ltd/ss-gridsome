@@ -1,17 +1,20 @@
 ---
 title: "Ruger Precision Lapua .338 Magnum Rifle"
 date: "2019-09-20"
----
+---*
 
-![Ruger logo, we are a Ruger main dealer](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564869/Ruger-Logo_kevdtl-1_tqfnmv.png)
+# **Ruger Precision Lapua Magnum Rifle**
+*In-Store from £2399*
 
 Ruger went big with its popular Ruger Precision platform and gave us the meaner **Ruger Precision Lapua .338 Magnum** rifle. In the .338 Lapua Ruger have produced a very reliable, accurate and durable long range rifle.
 
 Ruger states: “These new magnum calibre models pair exceptional long-range accuracy potential with tremendous down-range energy, broadening the appeal of an already very popular rifle. These new chambering options broaden the Ruger Precision Rifle’s utility across a wide range of readily-available ammunition.”
 
+The low cost of this rifle makes it an attractive purchase, not only for first-time long-distance shooters but also a compelling choice for those already in the hobby. Pair the Ruger Precision Lapua .338 Magnum with an optic and match ammunition and this rifle is difficult to beat.
+
 ![Ruger Precision 338 Lapua Rifle Front Right Hand View](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564820/Ruger-Precision-Lapua-338-Mag-rh2_diduvx_mqkehw.jpg)
 
-### Ruger Precision Lapua .338 Magnum Features
+## Ruger Precision Lapua .338 Magnum Features
 
 - In-line recoil path manages recoil directly from the rear of the receiver to the butt-stock, providing maximum accuracy potential.
 - Cold hammer-forged, chrome-moly steel barrel with 5R Rifling at minimum bore and groove dimensions.
@@ -38,7 +41,7 @@ Ruger states: “These new magnum calibre models pair exceptional long-range acc
 
 ![Ruger Precision 338 Lapua Magnum Rifle, Rear Right Hand View](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564822/Ruger-Precision-Lapua-338-Mag-rh_c4jefi_dglnow.jpg)
 
-### Ruger Precision Lapua .338 Magnum Specs
+## Ruger Precision Lapua .338 Magnum Specs
 
 - Stock - Folding, Adjustable Length of Pull and Comb Height
 - Finish - Type III Black Hard-Coat Anodized
@@ -55,10 +58,6 @@ Ruger states: “These new magnum calibre models pair exceptional long-range acc
 - Folded Length - 40.35"
 - Width - 3.50"
 
-"The ruger precision has taken over all my precision rifles and is a treat to reload for cheap and hit small targets past 1000 meters"
-
-The low cost of this rifle makes it an attractive purchase, not only for first-time long-distance shooters but also a compelling choice for those already in the hobby. Pair the Ruger Precision Lapua .338 Magnum with an optic and match ammunition and this rifle is difficult to beat.
-
-Shoot further and harder with the Ruger Precision .338 Lapua Magnum for just £2,399 in store.
+<p></p>
 
 Call us on [01527831261](tel:01527831261) to reserve yours today.

@@ -3,7 +3,11 @@ title: "Chiappa Long Barrelled Revolvers Have Arrived"
 date: "2018-12-18"
 ---
 
-![Chiappa Rhino](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564413/Rhino-pistol_wenjlj_vrnocl-1_acmmyq.jpg)
+# **Chiappa Long Barrelled Pistols Have Arrived**
+
+<p align="center">
+<img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564413/Rhino-pistol_wenjlj_vrnocl-1_acmmyq.jpg" />
+</p>
 
 The Chiappa Rhino long barrelled pistols have arrived just in time for Christmas.
 

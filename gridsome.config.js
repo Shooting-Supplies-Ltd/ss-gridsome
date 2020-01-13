@@ -25,6 +25,11 @@ module.exports = {
       options: {
         path: "./src/blog/*.md",
         typeName: "Post",
+        remark: {
+          plugins: [
+            ['gridsome-plugin-remark-youtube']
+          ]
+        }
       }
     },
     {

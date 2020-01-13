@@ -3,6 +3,8 @@ title: "Benelli Raffaello Accademia"
 date: "2019-09-27"
 ---
 
+# **Benelli Raffaello Accademia**
+
 Benelli are well known for their ultra reliable shotguns and the Raffaello Accademia is no exception, with this semi auto they are offering something a little bit special.
 
 The Raffaello Accademia is an exclusive semi auto shotgun, with only 1000 made, it blends tradition with innovative design and build quality.
@@ -21,7 +23,7 @@ Call us on 01527831261 to reserve yours today!
 
 ![The Benelli Raffaello Accademia semi auto shotgun for sale](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564890/Raffaello-Accademia_p9znr8_atvjex.png)
 
-### Raffaello Accademia Features
+## Raffaello Accademia Features
 
 - Inertia driven system - provides extreme reliability
 - Progressive comfort - recoil absorption
@@ -29,7 +31,7 @@ Call us on 01527831261 to reserve yours today!
 
 Read more about the features of this gun on the [Benelli](https://www.benelli.it/en/products/semiautomatic-shotguns/raffaello/raffaello-accademia#node-arma-full-group-canne) website.
 
-### Tech Specs
+## Tech Specs
 
 **Gauge**:
 

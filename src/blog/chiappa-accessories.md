@@ -3,6 +3,8 @@ title: "Chiappa Long Barrel Pistol Accessories"
 date: "2019-10-09"
 ---
 
+# **Chiappa Long Barrel Pistol Accessories**
+
 We have new accessories in for your Chiappa long barrel pistol today.
 
 ## Carbon Fibre Shroud

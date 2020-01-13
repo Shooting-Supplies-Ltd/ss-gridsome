@@ -3,6 +3,9 @@ title: "Beretta 694"
 date: "2019-10-31"
 ---
 
+# **The New Baretta 694**
+*In-Store £3,299*
+
 The new [Beretta 694](http://www.beretta.com/en-uk/new-694/) has been designed in collaboration with the Beretta shooting team specifically for competition shooting, with their one objective in mind, help shooters increase their success rate.
 
 Due to Beretta's meticulous design process, the 694 represents a supremely balanced over-and-under competition shotgun. Natural and quick when shouldering, it features a precise swing and is easy to control.
@@ -23,8 +26,6 @@ The metallic surfaces, which are subject to overheating in constant usage, have 
 
 The bottom of the action is finished with Beretta's three arrows and 694 logo, again in blue, while the Nistan finishing lends it the typical matte grey colour.
 
-https://youtu.be/huIEWodbgyw
-
 The 694 is already supremely balanced when it leaves the factory, but more demanding shooters can opt to use Bretta's B-Fast Balancing System to customise the configuration to suit their needs.
 
 The 694 barrels are designed to support a system of 15, 10 and 5 g weights that can be positioned in the five available slots in the muzzle and under the forend (the weights may be purchased separately).
@@ -33,4 +34,6 @@ Thanks to the fitting system on the lateral rib openings, the weight is spread a
 
 In addition, their design has been developed to perfectly fit the lateral ribs ensuring there is no risk of them being lost or visibility being hindered. 
 
-All in all a fantastic looking gun. Available in-store £3,299
+All in all a fantastic looking gun. 
+
+`youtube:https://youtu.be/huIEWodbgyw`

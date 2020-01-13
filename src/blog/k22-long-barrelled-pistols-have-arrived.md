@@ -3,6 +3,8 @@ title: "K22 Long Barrelled Pistols Have Arrived"
 date: "2016-10-14"
 ---
 
+# **K22 Long Barrelled Pistols Have Arrived**
+
 Brand new shipment of K22 pistols has finally arrived!!!
 
 ![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564296/k22_GP_std_utmjub_viogds-1_uxynal.jpg)

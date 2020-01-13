@@ -3,6 +3,8 @@ title: "Walther Reign Bullpup Now In"
 date: "2019-06-25"
 ---
 
+# **Walther Reign Bullpup Now In Stock**
+
 The Walther Reign bullpup compressed air rifle is a real eye-catcher, the short bull-pup construction alone makes it stand out from the crowd.
 
 ![Walther Regin Bullpups are in stock now!](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564176/Walther-Reign-Slide_jdefmc_edi3xq-1_mlqwtr.jpg)
@@ -23,7 +25,7 @@ Available as .177 or .22 **Just £779**.
 
 #### Call: 01527 831 261
 
-### TECHNICAL DATA
+## TECHNICAL DATA
 
 Caliber
 

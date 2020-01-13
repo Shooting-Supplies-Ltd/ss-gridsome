@@ -3,13 +3,15 @@ title: "Tippmann Arms M4 .22 Pro-S"
 date: "2019-07-19"
 ---
 
+# **Tippmann Arms M4 22 Pro-S**
+
 The Tippmann Arms M4-22 Pro-S is a premium .22 caliber semi-automatic rifle, with aluminium upper and lower receivers and all of the features of a true M4.
 
 ![Tippmann Arms Pro S](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564282/GunOfTheWeek-TippmannArmsProS_fgllrc_mncmfk-1_ngxq5n.jpg)
 
 The Tippmann Arms Pro-S is largely mil-spec compatible and will accept most AR15 stocks, guards and sights.
 
-#### Features
+## Pro-S Features
 
 - Composite Free Float Handguard
 - 12.5” 4150 Solid Steel Barrel with Parkerized Finish
@@ -43,6 +45,6 @@ The Tippmann Arms Pro-S is largely mil-spec compatible and will accept most AR15
 > 
 > Gun Digest
 
-**You can bag your own "ultimate training carbine" in store for just £949, incl. 2 magazines, flip up sights and a tactical hard case.**
+You can bag your own "ultimate training carbine" in store for just £949, incl. 2 magazines, flip up sights and a tactical hard case.
 
-https://youtu.be/ZOloXNR116M
+`youtube:https://youtu.be/ZOloXNR116M`

@@ -3,6 +3,8 @@ title: "Tippmann Arms Elite-L"
 date: "2019-06-26"
 ---
 
+# **Tippmann Arms Elite-L**
+
 ![Tippmann Arms Elite-L](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564280/TippmannArmsElite-L_laqs0z_vvm1yb-1_ri3jsn.jpg)
 
 The **Tippmann Arms Elite-L** rifle is a premium .22 caliber semi-automatic tactical rim-fire rifle.
@@ -39,12 +41,12 @@ Boasting the same ruggedness and reliability of the classic, the Elite-L is the 
 - Owner’s Manual
 - Tactical Hard Case
 
+<p></p>
+
 The Elite-L also comes complete with a spare magazine and hard case, priced at just **£999** (scope not included).
 
 Call our experts on [01527831261](tel:01527831261) to check stock, reserve or to answer any any questions.
 
 #### See The Gun Mart Review [Here](https://www.gunmart.net/gun-reviews/firearms/rifles/tippman-.22lr-ar15)
 
-https://youtu.be/ppi2TW4Wv5Y
-
-[![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564181/ViewTippmannArmsStock-1_txjyz0_shuhu2-1_ryljfz.jpg)](https://www.guntrader.uk/Guns-For-Sale/results/0806-298d-eac3-6a1d)
+`youtube:https://youtu.be/ppi2TW4Wv5Y`

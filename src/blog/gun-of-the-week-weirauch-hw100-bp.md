@@ -4,15 +4,19 @@ title: "Weihrauch HW100 Bullpup"
 date: "2019-07-24"
 ---
 
+# **Gun of the Week - Weihrauch HW100 Bullpup**
+
 For this weeks 'Gun of the Week' our staff have selected the Weihrauch HW 100 BP Air Rifle.
 
-![Weirauch HW 100 Bullpup](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564189/hw100-bullpup-black-grey-synthetic-air-rifle-4_wnppnm_yfupvg-1_rurhlt.jpg)
+<p align="center">
+<img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564189/hw100-bullpup-black-grey-synthetic-air-rifle-4_wnppnm_yfupvg-1_rurhlt.jpg"</img>
+</p>
 
 This Bullpup variation of the original HW100 air rifle has all the benefits of the original. Featuring a simple action, efficient design and is manufactured to the highest standards, as you would expect from Weihrauch.
 
 The Weihrauch HW100 Bullpup air rifle offers excellent accuracy, vibration free shot release, fast and easy repeating and a a 14-shot capacity magazine. The HW100 BP also features a 200 bar fill-able air cartridge, integral pressure gauge and a two stage adjustable match trigger with manual safety and a black sporter stock with a soft-touch finish.
 
-**Specification**
+## Weihrauch HW100 Specification
 
 - **Model:** HW100 BP
 - **Country of origin:** Germany
@@ -31,4 +35,6 @@ The Weihrauch HW100 Bullpup air rifle offers excellent accuracy, vibration free 
 - **Variation over 50 shots:** Average of 12.5 fps for .177s on test
 - **Average energy: **11.5 ft.lbs.
 
-**Contact:** 01527 831 261 or visit us in store and have a look at this gun for yourself.
+<p></p>
+
+Contact 01527 831 261 or visit us in store and have a look at this gun for yourself.

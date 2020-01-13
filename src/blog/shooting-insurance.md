@@ -3,9 +3,10 @@ title: "Do You Need Shooting Insurance?"
 date: "2019-06-28"
 ---
 
+# **Shooting Insurance**
 Get a quote for shooting insurance in seconds at [Gun Guard](https://www.gunguard.co.uk/?a=9382).
 
-![](https://shootingsuppliesltd.co.uk/wp-content/uploads/2019/09/hiscox-insurance.jpg)
+![Hiscox Gun Cover](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222273/hiscox-insurance_kzzgbi.jpg)
 
 Your household insurance policy may not be covering your guns & equipment. As a result we have partnered with Hiscox to offer our customers a discounted rate on their Gunguard policy.
 

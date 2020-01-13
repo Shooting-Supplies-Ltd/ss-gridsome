@@ -3,6 +3,8 @@ title: "Tippmann Arms Elite-S 12.5\" Barrel!!"
 date: "2018-07-05"
 ---
 
+# **Tippmann Arms Elite-S 12.5" Barrel**
+
 ![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png)
 
 So we finally have the third model of the Tippmann Arms rifle ready for sale in the UK.
@@ -15,6 +17,4 @@ Same money as the Elite at **£999**, pop down to have a feel now, or go to one 
 
 Please ring for more info 01527 831 261.
 
-https://youtu.be/gcad6YKmjDM
-
-[![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564181/ViewTippmannArmsStock-1_txjyz0_shuhu2-1_ryljfz.jpg)](https://www.guntrader.uk/Guns-For-Sale/results/0806-298d-eac3-6a1d)
+`youtube:https://youtu.be/gcad6YKmjDM`

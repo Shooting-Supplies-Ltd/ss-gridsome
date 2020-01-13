@@ -3,6 +3,8 @@ title: "The Game Fair"
 date: "2018-07-26"
 ---
 
+# **The Game Fair**
+
 As I'm sure most of you are aware the Game Fair is on this weekend at Ragley Hall.
 
 Pulling thousands of people from all over the UK, it promises to be as busy as always, especially with this fantastic weather we are having!!!

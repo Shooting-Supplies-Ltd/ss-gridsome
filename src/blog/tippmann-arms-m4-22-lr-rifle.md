@@ -3,6 +3,8 @@ title: "The Brilliant Tippmann Arms M4 22 LR"
 date: "2017-11-05"
 ---
 
+# **The Brilliant Tippmann Arms M4 22LR**
+
 ![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png)
 
 The Tippmann Arms M4 22 LR is a premium .22 calibre semi-automatic rifle with aluminium upper and lower receivers, with all the features of a true M4. 
@@ -66,11 +68,11 @@ Available as a package with hard case and spare magazine from only £899.00
 
 ### Youtube Reviews & Information;
 
-https://www.youtube.com/watch?v=ZOloXNR116M
+`youtube:https://www.youtube.com/watch?v=ZOloXNR116M`
 
-https://www.youtube.com/watch?v=FgTALMpuzJ4
+`youtube:https://www.youtube.com/watch?v=FgTALMpuzJ4`
 
-https://www.youtube.com/watch?v=4Fa8Mdjmv\_M
+`youtube:https://www.youtube.com/watch?v=4Fa8Mdjmv\_M`
 
 ### [The Tippmann Arms M4 22 LR Available From Shooting Supplies Ltd From Only £899.00](/product/tippmann-arms-m4-22lr-classic/)
 
