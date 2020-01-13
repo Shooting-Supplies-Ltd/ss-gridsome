@@ -20,10 +20,10 @@
     
     <div class="flex sm:justify-center">
       <button @click="toggle" id="mobile-menu" class="lg:hidden">
-        <font-awesome :icon="['fas', 'bars']" class="my-8 ml-6 text-ssblue" />
+        <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" />
       </button>
       <h1 class="hidden">Shooting Supplies Ltd / Guns</h1>
-      <g-link to="/"><g-image class="p-6"
+      <g-link to="/"><g-image class="p-2"
         src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564903/ShootingSuppliesLogo-800w-1_cno9o2_tpiyii.jpg" 
       /></g-link>
     </div>
@@ -34,7 +34,7 @@
         <a href="https://shootingsuppliesltd.co.uk"><p class="mb-4">Home</p></a>
         <a href="https://guns.shootingsuppliesltd.co.uk"><p class="mb-4">Guns</p></a>
         <a href="https://shootingsuppliesltd.co.uk/product-category/optics/"><p class="mb-4">Optics</p></a>
-        <a href="https://shootingsuppliesltd.co.uk/ammunition/"><p class="mb-4">Ammunition</p></a>
+        <a href="https://shootingsuppliesltd.co.uk/ammunition/"><p class="mb-4">Ammo</p></a>
         <a href="https://shootingsuppliesltd.co.uk/clothing-footwear/"><p class="mb-4">Clothing</p></a>
         <a href="https://shootingsuppliesltd.co.uk/safes-security/"><p class="mb-4">Security</p></a>
         <a href="https://shootingsuppliesltd.co.uk/product-category/spares-accessories/"><p class="mb-4">Accessories</p></a>
@@ -47,7 +47,7 @@
       <a href="https://shootingsuppliesltd.co.uk"><p class="mr-8">Home</p></a>
       <a href="https://guns.shootingsuppliesltd.co.uk"><p class="mr-8">Guns</p></a>
       <a href="https://shootingsuppliesltd.co.uk/product-category/optics/"><p class="mr-8">Optics</p></a>
-      <a href="https://shootingsuppliesltd.co.uk/ammunition/"><p class="mr-8">Ammunition</p></a>
+      <a href="https://shootingsuppliesltd.co.uk/ammunition/"><p class="mr-8">Ammo</p></a>
       <a href="https://shootingsuppliesltd.co.uk/clothing-footwear/"><p class="mr-8">Clothing</p></a>
       <a href="https://shootingsuppliesltd.co.uk/safes-security/"><p class="mr-8">Security</p></a>
       <a href="https://shootingsuppliesltd.co.uk/product-category/spares-accessories/"><p class="mr-8">Accessories</p></a>

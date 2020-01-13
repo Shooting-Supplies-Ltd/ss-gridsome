@@ -941,6 +941,7 @@ export default [
   },
   {
     path: "/guns/marocchi-cd-m-f4858/",
+<<<<<<< HEAD
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1025,6 +1026,88 @@ export default [
   },
   {
     path: "/guns/mossbergnull-p58723-b/",
+=======
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1895-m-r20421-f/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1895-sblm-r75938-h/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1895-sblm-r74475-h/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/henry-repeating-arms-big-boy-steel-bb-s010001-m/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/pietta1851379406/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1895-sblm-r74098-h/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/henry-repeating-arms-big-boy-silver-sb-b0185-m/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1895-m-r37495-h/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1895-m-r37494-h/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1894-cbm-r54629-g/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1894-cbm-r09159-g/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1894-sblm-r37580-i/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1894-sblm-r41597-i/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlin1894-m-r52092-f/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/pedersolinull13968/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marocchi-first-deluxecdm-f5198/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/mossbergnull-mv-p070048/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/henry-repeating-arms-big-boy-b-b0096472-m/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/henry-repeating-arms-big-boy-b-b0096512-m/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/henry-repeating-arms-big-boy-steel-bb-s008222/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1036,6 +1119,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/mossberg-mvpmv-p070013/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1057,6 +1141,13 @@ export default [
   },
   {
     path: "/guns/gamo-whisper-ig-t04-1-c-475943-19/",
+=======
+    path: "/guns/mauser-m03-m013796/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/mossberg-mvpmv-p070013/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1076,6 +1167,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/gamo-maxxim-elit-e04-1-c-610999-19/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1089,6 +1181,49 @@ export default [
   },
   {
     path: "/guns/gamo-coyote-black-tactical-c-y221207-ab/",
+=======
+    path: "/guns/gamo-whisper-ig-t04-1-c-475943-19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/mossberg500-v0660711/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-whisper-ig-t04-1-c-276394-19/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-whisper-ig-t04-1-c-302709-19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
+    path: "/guns/henry-repeating-arms-big-boyb-b0144174/",
+=======
+    path: "/guns/gamo-maxxim-elit-e04-1-c-114566-19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-maxxim-elit-e04-1-c-610999-19/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-junior-hunter04-1-c-310234-19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
+    path: "/guns/gamo-junior-hunter04-1-c-217806-19/",
+=======
+    path: "/guns/lanbernull08701-99/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/marlinnull03029568/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1096,6 +1231,13 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
+    path: "/guns/jager-a-p74113270/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gloc-k17-ge-n5-d-a075423/",
+=======
     path: "/guns/henry-repeating-arms-big-boyb-b0144174/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1105,6 +1247,7 @@ export default [
   },
   {
     path: "/guns/gamo-junior-hunter04-1-c-217806-19/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1112,11 +1255,19 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
+    path: "/guns/henry-repeating-arms-h001975054-h/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-pt-85-tactical18-e10477/",
+=======
     path: "/guns/gamo-varmint-stalker04-1-c-103537-18/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
     path: "/guns/jager-a-p74113270/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1128,22 +1279,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/henry-repeating-arms-h001975054-h/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/gamo-pt-85-tactical18-e10477/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/hatsan-arms-escort-mpa426735/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/hatsan-arms-escort-magnum284384/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
+<<<<<<< HEAD
     path: "/guns/browning-x-bolt-sf-chassis-mdt-h-s350646-z-p354/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1177,13 +1313,53 @@ export default [
   },
   {
     path: "/guns/gamo-pt-8518-k34270/",
+=======
+    path: "/guns/henry-repeating-arms-h001975054-h/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/gamo-venariv-n550140-mn/",
+    path: "/guns/gamo-pt-85-tactical18-e10477/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/hatsan-arms-escort-raider646388/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/hatsan-arms-escort-mpa426735/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/hatsan-arms-escort-magnum284384/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/hatsan-arms-escort-marine275914/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/greener-w-w-gp-g77574/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-x-bolt-sf-chassis-mdt-h-s350646-z-p354/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-pt-85-tactical18-e17781/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-gx-40-g-x450233/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-phox-p-x221045-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
     path: "/guns/guerini-caesar-flyawa-y118440/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1201,6 +1377,20 @@ export default [
   },
   {
     path: "/guns/howa1500-black-b234360/",
+=======
+    path: "/guns/bsa-r10-se-super-carbine-walnut-rs-e220334-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-pt-8518-k34270/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-venariv-n550140-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/howa1500-black-b234360/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1209,9 +1399,19 @@ export default [
   },
   {
     path: "/guns/gletcherjrh-94135-jr-m0625/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/gamo-pt-8518-k33508/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/guerini-caesar-flyawa-y118440/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
     path: "/guns/gamo-phox-p-x450594/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1237,6 +1437,44 @@ export default [
   },
   {
     path: "/guns/investarm152540/",
+=======
+    path: "/guns/gamo-boxerb-x450153-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gs-g1911-standard-a724393/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-phox-p-x450594/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-venariv-n450129-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gamo-venariv-n450109-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/bsa-r10-se-super-carbine-walnut-rs-e220342-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/howa1500-black-b167546/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/investarm271543/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
+    path: "/guns/beretta686-silver-pigeon-1-adjustable-stock-u48568-s/",
+=======
+    path: "/guns/bsa-ultra-se-multishot-tactical-us-e220878-de/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1244,7 +1482,8 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/beretta686-silver-pigeon-1-adjustable-stock-u48568-s/",
+    path: "/guns/hatsan-armsnull630425/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1253,6 +1492,7 @@ export default [
   },
   {
     path: "/guns/bsa-ultra-se-multishot-beech-us-e770213-mn/",
+<<<<<<< HEAD
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1277,10 +1517,44 @@ export default [
   },
   {
     path: "/guns/daystate-wolverine-2-lw-0541/",
+=======
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/investarm152540/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/bsa-ultra-se-multishot-tactical-us-e770218-mn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/hatsan-arms283958/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta686-silver-pigeon-1-adjustable-stock-u48568-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/bsa-ultra-se-multishot-beech-us-e220363/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/dan-wesson2-5-17-d35018/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/heymnull310235/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
     path: "/guns/fxcrownfx-c-183309/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/daystate-wolverine-2-lw-0541/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1308,15 +1582,19 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/heymnull310235/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
     path: "/guns/browning-t-bolt-composite-sporter20581-z-p253/",
+=======
+    path: "/guns/benelli-super-black-eagle-iii-u588679-x18/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/bsar-10-mk2-super-carbine-r770449-de/",
+    path: "/guns/c-z452-2-e-zk-m845230/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1324,6 +1602,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/bsa-ultra-se-multishot-beech-us-e220363/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1389,6 +1668,56 @@ export default [
   },
   {
     path: "/guns/beretta686-silver-pigeon-1-u18067-s/",
+=======
+    path: "/guns/bsa-r10-se-blue-laminaters-e770268-jk/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/bsar-10-mk2-super-carbine-r770449-de/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/franchi-elegantef-f036169/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-t-bolt-composite-sporter20581-z-p253/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-t-bolt-composite-sporter20589-z-p253/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-t-bolt-composite-sporter20308-z-p253/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/gsgfirefly-f407856/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-a-bolt-cam-o02584-z-y351/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/fxdreamlined-194948/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta686-silver-pigeon-1-u18067-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/daystate-wolverine-rwr-0965/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/daystate-mk4-sds-1211/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/daystate-wolverine-rlw-1357/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1400,6 +1729,24 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/beretta686-silver-pigeon-1-u80332-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta686-silver-pigeon-1-u359909-s/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta686-silver-pigeon-1-u66882-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta-a400-xplor-action-x-a164867/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
     path: "/guns/benelli828-u-black-b-s030324-y18/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1433,6 +1780,45 @@ export default [
   },
   {
     path: "/guns/beretta-a-l391-light-a-a470897/",
+=======
+    path: "/guns/beretta686-silver-pigeon-1-u41806-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/fabrique-nationale28764/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-black-synthetic-d000195/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli828-u-silver-b-s024420-u17/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta692-black-edition-s-x21221-a/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-black-synthetic-d000198/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-black-synthetic-d000111/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-black-synthetic-c496760/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli828-u-black-b-s030324-y18/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/bsa-r10-se-cayenners-e770781-jk/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1444,6 +1830,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/fxdreamlined-194948/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1457,29 +1844,41 @@ export default [
   },
   {
     path: "/guns/daystate-wolverine-rlw-1357/",
+=======
+    path: "/guns/bsa-r10-m-k2-r770340-de/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/c-z455-black-synthetic-d000195/",
+    path: "/guns/beretta-a-l391-light-a-a470897/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/bsa-supersport-sess-e22-612189-19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
     path: "/guns/beretta686-silver-pigeon-1-u359909-s/",
+=======
+    path: "/guns/bsa-lightning-xlxls-e2-612221-19/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/c-z455-black-synthetic-d000198/",
+    path: "/guns/bsa-lightning-sels-e22-610526-19/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/c-z455-black-synthetic-c496760/",
+    path: "/guns/bsa-lightning-xlxdls-e7-616879-19/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/browning-t-bolt-sporter20298-z-t253/",
+    path: "/guns/bsa-lightning-sels-e77-610607-19/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/c-z455-black-synthetic-d000111/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1585,6 +1984,113 @@ export default [
   },
   {
     path: "/guns/c-z452-american-a068834/",
+=======
+    path: "/guns/browning-b725-hunter-premium-255092-zr/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-b725-pro-sport-adjustable52829-zr/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-b725-pro-tra-p50183-zv/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-b725-sporter-m-k264302-zr/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-maxus-black-gold115-z-p05767/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-maxus-carbon-fibre115-z-n06698/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-maxus-carbon-fibre115-z-n06688/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-maxus-one-composite115-z-r03422/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-maxus-ultimate-partridges115-z-p05819/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/classic-doublesnull-c-t2-907/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/derya-lion-practicalips-c840/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/franchi-alcione6023240/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli828-u-black-b-s022641-b17/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli828-u-black-b-s019138-k16/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta-d-t10-a-f6850-b/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-t-bolt-sporter20298-z-t253/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-x-bolt-composite56335-z-p354/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-t-bolt-sporter20243-z-p53/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-t-bolt-sporter20875-z-p253/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/blaser-f16-sporting-fusion-fg-r009242/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/fxdreamlined-194826/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-black-synthetic-c917573/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta682-gold-e-r67965-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta686-silver-pigeon-u77664-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/chiappa-rhin-o19-b00602/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/chiappa-rhin-o19-b00603/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/chiappa-rhin-o18-n00384/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1616,6 +2122,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/c-z455-thumbhole-c644919/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1641,10 +2148,24 @@ export default [
   },
   {
     path: "/guns/beretta694-sporting-s-t02110-r/",
+=======
+    path: "/guns/chiappa-rhin-o19-g00452/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/beretta682-gold-e-r67965-s/",
+    path: "/guns/beretta690-sporting-black-u36761-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/chiappa-rhin-o19-e00477/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta694-sporting-s-t02110-r/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-varmint-c239778/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1652,10 +2173,28 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/beretta-ultralight-classic-n62360-s/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta-ultralight-gold-v39606-s/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
+    path: "/guns/beretta-silver-pigeon-r45671-s/",
+=======
+    path: "/guns/beretta-ultralight-gold-u76180-s/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
     path: "/guns/bsa-r10-thrt-h770138-mn/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/beretta-ultralight-classic-n62360-s/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1665,14 +2204,29 @@ export default [
   },
   {
     path: "/guns/chiappa-rhin-o19-e00477/",
+=======
+    path: "/guns/beretta-white-onyx-u91487-s/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/c-z527-varmint-b736389/",
+    path: "/guns/c-z455-varmint-c5300422/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/c-z455-varmint-c772843/",
+>>>>>>> wordpress-posts
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/beretta-a-400-xcelx-a157335/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+<<<<<<< HEAD
     path: "/guns/chiappa-rhin-o19-g00452/",
+=======
+    path: "/guns/beretta-a400-xcel-x-a225973/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1680,7 +2234,11 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/beretta-ultralight-gold-v39606-s/",
+=======
+    path: "/guns/blaser-r8-professional-r-177930/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1688,7 +2246,11 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/blaser-r8-pro-successr-123082/",
+=======
+    path: "/guns/c-z527-varmint-b736389/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1700,11 +2262,19 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/blaser-r8-professional-r-177930/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
     path: "/guns/c-z455-varmint-c772843/",
+=======
+    path: "/guns/chiappa-rhin-o19-e00466/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/blaser-r8-professional-r-117880/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1768,6 +2338,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/bettinsoli-portrait-deluxe-sideplat-e274529/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1777,6 +2348,17 @@ export default [
   },
   {
     path: "/guns/dan-wesson71519-e51635/",
+=======
+    path: "/guns/blaser-r8-professional-r-170320/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-a-bolt04127-z-y351/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/bergara-b1461-06-200869-15/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1784,7 +2366,11 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/c-z455-varmint-c5300422/",
+=======
+    path: "/guns/blaser-r8-ultimate-r-169809/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1800,6 +2386,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/beretta-ultralight-gold-u76180-s/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1821,6 +2408,29 @@ export default [
   },
   {
     path: "/guns/beretta-a-400-xcelx-a157335/",
+=======
+    path: "/guns/browning-gold-medallion24055-nx-g36/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/browning-t-bolt21908-z-t253/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/chiappa-rhin-o18-m00564/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/blaser-r8-pro-successr-123082/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/chiappa1892-take-down14-e88123/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-american-c921977/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1836,6 +2446,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
+<<<<<<< HEAD
     path: "/guns/beretta-a400-xcel-x-a225973/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1885,6 +2496,57 @@ export default [
   },
   {
     path: "/guns/blaser-r8-professional-r-117880/",
+=======
+    path: "/guns/bettinsoli-portrait-deluxe-sideplat-e274529/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/dan-wesson71519-j49938/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/dan-wesson71519-e51635/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-thumbhole-c644884/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z455-thumbhole-c644919/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli-super-nova-z905354-k19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli-m2-comfortech-m974258-g19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli-m2-comfortech-m973846-p19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z452-american-a068834/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli-vinci-c-g064026-j/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli-m2-sp-m965588-r19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/benelli-m2-sp-m965590-z19/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/c-z452-style-a213701/",
+>>>>>>> wordpress-posts
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2224,8 +2886,13 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirRifle.vue")
   },
   {
+<<<<<<< HEAD
     path: "/air-pistol/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirPistol.vue")
+=======
+    path: "/blog/:title/",
+    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Post.vue")
+>>>>>>> wordpress-posts
   },
   {
     path: "/test/",

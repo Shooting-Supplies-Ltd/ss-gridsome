@@ -21,6 +21,18 @@ module.exports = {
       }
     },
     {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "./src/blog/*.md",
+        typeName: "Post",
+        remark: {
+          plugins: [
+            ['gridsome-plugin-remark-youtube']
+          ]
+        }
+      }
+    },
+    {
       use: 'gridsome-plugin-flexsearch',
       options: {
         collections: [
@@ -34,6 +46,9 @@ module.exports = {
       }
     }
   ],
+  templates: {
+    Post: '/blog/:title'
+  }
 }
 
   
