@@ -28,6 +28,7 @@
     "gridsome-plugin-tailwindcss": "^2.2.27",
     "gridsome-transformer-docutils": "^0.2.3",
     "netlify-cms": "^2.10.4",
+    "netlify-cms-widget-youtube": "^0.3.0",
     "tailwindcss": "^1.1.4",
     "vue": "~2",
     "wcf.js": "^0.0.6",

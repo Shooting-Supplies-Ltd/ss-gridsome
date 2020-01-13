@@ -13,9 +13,9 @@ media_library:
     api_key: 796925918192138
 
 collections:
-  - name: "posts"
+  - name: "blog"
     label: "Posts"
-    folder: "./blog"
+    folder: "./src/blog"
     create: true
     slug: "{{slug}}"
     fields:
@@ -23,3 +23,5 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - { label: "video", name: "video", widget: "youtube" }
