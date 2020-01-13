@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: darrylmorley/ss-gridsome
+  branch: master
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
@@ -14,7 +15,7 @@ media_library:
 collections:
   - name: "posts"
     label: "Posts"
-    folder: "posts"
+    folder: "./blog"
     create: true
     slug: "{{slug}}"
     fields:
