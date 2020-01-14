@@ -1,9 +1,15 @@
 ---
-title: "Hawke Airmax Rifle Scopes"
-date: "2019-11-27"
+title: Hawke Airmax Rifle Scopes
+excerpt: >-
+  Hawke Airmax are the perfect range of scopes for your air gun, the Airmax
+  range has been developed with the Air Rifle shooter in mind.
+date: '2019-11-27'
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1574854370/Hawke-Airmax_v5mfan.jpg
+video: 'youtube:https://youtu.be/QlZi5eFvWqk'
 ---
-
 # **Hawke Airmax Rifle Scopes**
+
 *Various Models In Store from £249.95+*
 
 [Hawke](/brand/hawke/) Airmax are the perfect range of scopes for your air gun, the Airmax range has been developed with the Air Rifle shooter in mind.
@@ -24,5 +30,4 @@ Half Mil Dot spacing on the lower post provides increased aim points for long sh
 
 Hawke Airmax Compact scopes have been developed for the increasing range of bullpup and carbine rifles, providing a scope that is lightweight and small in size without compromising on the quality already existing in the Airmax range.
 
-`youtube:https://youtu.be/QlZi5eFvWqk`
-
+``
