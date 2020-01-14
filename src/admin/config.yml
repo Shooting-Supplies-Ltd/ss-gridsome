@@ -23,5 +23,5 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - { label: "video", name: "video", widget: "youtube" }
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - { label: "video", name: "video", widget: "youtube", required: false}
