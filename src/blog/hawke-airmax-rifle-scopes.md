@@ -6,7 +6,7 @@ excerpt: >-
 date: '2019-11-27'
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1574854370/Hawke-Airmax_v5mfan.jpg
-video: 'youtube:https://youtu.be/QlZi5eFvWqk'
+video: 'https://youtu.be/QlZi5eFvWqk'
 ---
 # **Hawke Airmax Rifle Scopes**
 
