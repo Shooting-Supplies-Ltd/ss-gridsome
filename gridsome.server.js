@@ -32,7 +32,7 @@ module.exports = function (api) {
         price: item.Price,
         stockNumber: item.StockNumber,
         serialNumber: item.SerialNumber,
-        images: item.Images,
+        images: [...item.Images],
         licence: item.Licence,
         slug: slugify(`${item.Make}${item.Model}${item.SerialNumber}`)
       })
