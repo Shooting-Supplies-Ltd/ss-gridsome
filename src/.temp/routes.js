@@ -2220,12 +2220,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--blank-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/BlankPistol.vue")
   },
   {
-    path: "/air-pistol/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirPistol.vue")
-  },
-  {
     path: "/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirRifle.vue")
+  },
+  {
+    path: "/air-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirPistol.vue")
   },
   {
     path: "/blog/:title/",

@@ -13,9 +13,9 @@ media_library:
     api_key: 796925918192138
 
 collections:
-  - name: "blog"
+  - name: "Post"
     label: "Posts"
-    folder: "./src/blog"
+    folder: "src/blog"
     create: true
     slug: "{{slug}}"
     fields:

@@ -9,7 +9,7 @@ export default [
   },
   {
     run: plugin_gridsome_plugin_netlify_cms_7,
-    options: {"publicPath":"/admin","htmlTitle":"Content Editor","configPath":"src/admin/config.yml","modulePath":"/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/lib/cms.js","htmlPath":"/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/templates/index.html","injectScript":true,"enableIdentityWidget":true,"debug":false}
+    options: {"publicPath":"/admin","plugins":["netlify-cms-widget-youtube"],"htmlTitle":"Content Editor","configPath":"src/admin/config.yml","modulePath":"/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/lib/cms.js","htmlPath":"/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/templates/index.html","injectScript":true,"enableIdentityWidget":true,"debug":false}
   },
   {
     run: plugin_gridsome_plugin_flexsearch_8,
