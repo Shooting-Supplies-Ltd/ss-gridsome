@@ -2887,9 +2887,16 @@ export default [
   },
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
     path: "/air-pistol/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirPistol.vue")
 =======
+=======
+    path: "/air-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/AirPistol.vue")
+  },
+  {
+>>>>>>> netlify-cms
     path: "/blog/:title/",
     component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Post.vue")
 >>>>>>> wordpress-posts
