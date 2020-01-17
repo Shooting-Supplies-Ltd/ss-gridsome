@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div id="top-bar" class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:h-8">
+    <div id="top-bar" class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:h-10">
       <div>
         <div id="contact" class="lg:flex">
           <p class="mr-8"><a href="tel:01527831261"><span>Call Us: 01527831261<font-awesome :icon="['fas', 'phone']" class="ml-2" /></span></a></p>
