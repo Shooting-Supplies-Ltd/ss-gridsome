@@ -53,10 +53,10 @@ module.exports = {
           {
             typeName: 'Guns',
             indexName: 'Guns',
-            fields: ['title','variant','condition','slug', 'images', 'price', 'mechanism', 'id', 'description']
+            fields: ['title', 'slug', 'images', 'price', 'mechanism', 'id']
           }
         ],
-        searchFields: ['title', 'variant', 'mechanism', 'id', 'description']
+        searchFields: ['title', 'mechanism']
       }
     },
   ],
