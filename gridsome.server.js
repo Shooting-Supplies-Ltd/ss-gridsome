@@ -32,12 +32,20 @@ module.exports = function (api) {
         price: item.Price,
         stockNumber: item.StockNumber,
         serialNumber: item.SerialNumber,
+        imageCount: item.ImageCount,
         images: [...item.Images],
         licence: item.Licence,
         slug: slugify(`${item.Make}${item.Model}${item.SerialNumber}`)
       })
     }
   })
+
+  api.onCreateNode(options => {
+    if (options.internal.typeName === "Guns" && options.imageCount === 0) {
+      // return null to filter it out
+      return null;
+    }
+  });
 
   api.createPages(async ({ graphql, createPage }) => {
     const { data } = await graphql(`{
