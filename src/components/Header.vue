@@ -3,17 +3,18 @@
     <div id="top-bar" class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:h-10">
       <div>
         <div id="contact" class="lg:flex">
-          <p class="mr-8"><a href="tel:01527831261"><span>Call Us: 01527831261<font-awesome :icon="['fas', 'phone']" class="ml-2" /></span></a></p>
-          <p><a href="mailto:info@shootingsuppliesltd.co.uk?subject=Website General Enquiry"><span>Email Us: <font-awesome :icon="['fas', 'envelope']" class="ml-2"/></span></a></p>
+          <p class="mr-8 font-bold"><a href="tel:01527831261"><font-awesome :icon="['fas', 'phone-alt']" size="md" /><span class="text-lg ml-2">01527 831 261</span></a></p>
+          <!-- <p><a href="mailto:info@shootingsuppliesltd.co.uk?subject=Website General Enquiry"><span>Email Us: </span></a></p> -->
         </div>  
       </div>
       
       <div>
         <div id="social" class="lg:flex">
-          <p class="mr-4">Find Us On:</p>
-          <p class="mr-4"><a href="https://www.facebook.com/ShootingSuppliesLTD/" target="_blank"><font-awesome :icon="['fab', 'facebook-square']" /></a></p>
-          <p class="mr-4"><a href="https://twitter.com/shootingsupplys" target="_blank"><font-awesome :icon="['fab', 'twitter']" /></a></p>
-          <p class=""><a href="https://www.instagram.com/shootingsupplies/" target="_blank"><font-awesome :icon="['fab', 'instagram']" /></a></p>
+          <!-- <p class="mr-4">Find Us On:</p> -->
+          <p class="mr-4"><a href="https://www.facebook.com/ShootingSuppliesLTD/" target="_blank"><font-awesome :icon="['fab', 'facebook-square']" size="lg" /></a></p>
+          <p class="mr-4"><a href="https://twitter.com/shootingsupplys" target="_blank"><font-awesome :icon="['fab', 'twitter']" size="lg" /></a></p>
+          <p class="mr-4"><a href="https://www.instagram.com/shootingsupplies/" target="_blank"><font-awesome :icon="['fab', 'instagram']" size="lg" /></a></p>
+          <p class=""><a href="mailto:info@shootingsuppliesltd.co.uk" target="_blank"><font-awesome :icon="['fas', 'envelope']" size="lg" /></a></p>
         </div>
       </div>
     </div>

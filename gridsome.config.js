@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Shooting Supplies Ltd - Guns',
-  siteDescription: "Shooting Supplies Ltd are the Midlands leading Firearms Dealer & Shooting Supplies Store. Your one-stop-shop for all of your shooting needs.",
+  siteDescription: "Shooting Supplies Ltd are the Midlands leading Firearms Dealer & Shooting Supplies Store.",
   transformers: {
     remark: {
       externalLinksTarget: '_blank',
