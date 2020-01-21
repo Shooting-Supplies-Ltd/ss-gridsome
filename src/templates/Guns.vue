@@ -84,9 +84,32 @@ query ($id: ID!) {
 
 <script>
 export default {
-  name: `{{this.$page.title}}`,
-  metaInfo: {
-    title: `{this.$context.title}`
+  metaInfo() {
+    return {
+      title: this.$page.allGuns.title,
+      meta: [
+        {
+          name: "brand",
+          content: this.$context.make
+        },
+        {
+          name: "description",
+          content: this.$context.description
+        },
+        {
+          name: "itemCondition",
+          content: this.$context.condition
+        },
+        {
+          name: "model",
+          content: this.$context.model
+        },
+        {
+          name: "image",
+          content: this.$page.allGuns.images[0].FullPath
+        }
+      ]
+    }
   },
   methods: { 
     sendEmail() {
