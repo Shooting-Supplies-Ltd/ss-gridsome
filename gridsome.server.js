@@ -15,6 +15,7 @@ module.exports = function (api) {
     const guns = actions.addCollection('Guns')
 
     for (const item of data.Guns) {
+      if (item.ImageCount === 0) continue
       guns.addNode({
         id: item.SerialNumber,        
         title: (item.Model) ? `${item.Make} ${item.Model}` : `${item.Make}`,
@@ -42,8 +43,9 @@ module.exports = function (api) {
 
   api.onCreateNode(options => {
     if (options.internal.typeName === "Guns" && options.imageCount === 0) {
+      console.log(options)
       // return null to filter it out
-      return null;
+      return ;
     }
   });
 
