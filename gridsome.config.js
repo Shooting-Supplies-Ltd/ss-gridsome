@@ -42,6 +42,9 @@ module.exports = {
     {
     use: `gridsome-plugin-netlify-cms`,
     options: {
+      flexsearch: {
+        profile: 'match'
+      },
       publicPath: `/admin`,
       plugins: [`netlify-cms-widget-youtube`]
       }

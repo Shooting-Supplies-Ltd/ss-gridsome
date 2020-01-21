@@ -9,10 +9,10 @@ export default [
   },
   {
     run: plugin_gridsome_plugin_netlify_cms_7,
-    options: {"publicPath":"/admin","plugins":["netlify-cms-widget-youtube"],"htmlTitle":"Content Editor","configPath":"src/admin/config.yml","modulePath":"/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/lib/cms.js","htmlPath":"/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/templates/index.html","injectScript":true,"enableIdentityWidget":true,"debug":false}
+    options: {"flexsearch":{"profile":"match"},"publicPath":"/admin","plugins":["netlify-cms-widget-youtube"],"htmlTitle":"Content Editor","configPath":"src/admin/config.yml","modulePath":"/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/lib/cms.js","htmlPath":"/home/darryl/Projects/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/templates/index.html","injectScript":true,"enableIdentityWidget":true,"debug":false}
   },
   {
     run: plugin_gridsome_plugin_flexsearch_8,
-    options: {"collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","variant","condition","slug","images","price","mechanism","id","description"]}],"searchFields":["title","variant","mechanism","id","description"],"flexsearch":{"profile":"default"}}
+    options: {"collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","slug","images","price","mechanism","id"]}],"searchFields":["title","mechanism"],"flexsearch":{"profile":"default"}}
   }
 ]
