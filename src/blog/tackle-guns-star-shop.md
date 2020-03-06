@@ -1,4 +1,5 @@
 ---
+slug: read-our-tackle-and-guns-magazine-review
 title: "Read Our Tackle & Guns Star Shop Review"
 date: "2019-09-13"
 ---

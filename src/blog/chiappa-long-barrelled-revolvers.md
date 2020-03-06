@@ -1,4 +1,5 @@
 ---
+slug: chiappa-long-barrel-revolvers-have-arrived
 title: "Chiappa Long Barrelled Revolvers Have Arrived"
 date: "2018-12-18"
 ---

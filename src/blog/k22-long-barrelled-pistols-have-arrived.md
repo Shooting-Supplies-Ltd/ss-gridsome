@@ -1,4 +1,5 @@
 ---
+slug: k22-long-barrel-pistols-have-arrived
 title: "K22 Long Barrelled Pistols Have Arrived"
 date: "2016-10-14"
 ---

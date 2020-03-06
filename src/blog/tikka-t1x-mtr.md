@@ -1,10 +1,12 @@
 ---
+slug: tikka-t1x-mtr
 title: "Tikka T1x MTR"
 date: "2019-09-06"
 ---
 
 # **Gun of the week - Tikka T1X MTR**
-*In-Store Price from £529*
+
+_In-Store Price from £529_
 
 Our gun of the week the Tikka T1x MTR (Multi-Task Rimfire) is a rimfire, bolt action rifle. The T1x has been designed to handle a wide range of shooting tasks and shows all of the build quality and accuracy that Tikka are known for.
 

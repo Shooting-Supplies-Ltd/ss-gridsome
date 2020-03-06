@@ -5,7 +5,7 @@ import plugin_gridsome_plugin_flexsearch_8 from "/Users/darryl/Projects/shooting
 export default [
   {
     run: plugin_gridsome_plugin_tailwindcss_5,
-    options: {"tailwindConfig":"","purgeConfig":{"keyframes":true,"content":["./src/**/*.vue","./src/**/*.js","./src/**/*.jsx","./src/**/*.ts","./src/**/*.tsx","./src/**/*.html","./src/**/*.pug","./src/**/*.md","./src/**/*.svg"],"whitelist":["body","html","img","a","g-image","g-image--lazy","g-image--loaded","active","active--exact"],"whitelistPatterns":[{},{},{},{},{},{},{}]},"presetEnvConfig":{"stage":0,"autoprefixer":false},"shouldPurge":false,"shouldImport":true,"shouldTimeTravel":true,"shouldPurgeUnusedKeyframes":true}
+    options: {"tailwindConfig":"","purgeConfig":{"content":["./src/**/*.vue","./src/**/*.js","./src/**/*.jsx","./src/**/*.ts","./src/**/*.tsx","./src/**/*.html","./src/**/*.pug","./src/**/*.md","./src/**/*.svg"],"whitelist":["body","html","img","a","g-image","g-image--lazy","g-image--loaded","active","active--exact"]},"presetEnvConfig":{"stage":0,"autoprefixer":false},"shouldPurge":false,"shouldImport":true,"shouldTimeTravel":true,"shouldPurgeUnusedKeyframes":true}
   },
   {
     run: plugin_gridsome_plugin_netlify_cms_7,
@@ -13,6 +13,6 @@ export default [
   },
   {
     run: plugin_gridsome_plugin_flexsearch_8,
-    options: {"pathPrefix":"","siteUrl":"","collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","slug","images","price","mechanism","id","variant","condition","calibre"]}],"searchFields":["title","mechanism","calibre"],"flexsearch":{"profile":"default"}}
+    options: {"collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","slug","images","price","mechanism","id","variant","condition","calibre"]}],"searchFields":["title","mechanism","calibre"],"flexsearch":{"profile":"default"}}
   }
 ]

@@ -1,7 +1,9 @@
 ---
+slug: new-products-arriving
 title: "New Products Arriving"
 date: "2016-08-26"
 ---
+
 # **New Products Arriving**
 
 New Rovince Anti-tick clothing now in. Visit the website now to see how you can protect yourself against the dangers of Lymes disease. [http://www.rovince.co.uk/](http://www.rovince.co.uk/)

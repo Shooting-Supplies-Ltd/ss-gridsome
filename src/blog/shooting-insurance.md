@@ -1,9 +1,11 @@
 ---
+slug: protect-your-gun
 title: "Do You Need Shooting Insurance?"
 date: "2019-06-28"
 ---
 
 # **Shooting Insurance**
+
 Get a quote for shooting insurance in seconds at [Gun Guard](https://www.gunguard.co.uk/?a=9382).
 
 ![Hiscox Gun Cover](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222273/hiscox-insurance_kzzgbi.jpg)

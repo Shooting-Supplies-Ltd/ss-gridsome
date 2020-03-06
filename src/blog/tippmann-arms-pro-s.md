@@ -1,8 +1,9 @@
 ---
+slug: tippmann-arms-m4-pro-s
 title: "Tippmann Arms M4 Pro-S"
 date: "2019-06-26"
 ---
- 
+
 # **Tippmann Arms M4 Pro-S**
 
 The newest model to the Tippmann family is the **Tippmann Arms** **Pro-S**.

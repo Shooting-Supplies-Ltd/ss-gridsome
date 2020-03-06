@@ -1,4 +1,5 @@
 ---
+slug: air-rifle-licensing-petition
 title: Air Rifle Licensing Petition
 excerpt: >-
   As I'm sure most of you are aware, the government has been looking at

@@ -1,4 +1,5 @@
 ---
+slug: new-clean-ammo-cci-22lr
 title: "New clean ammo from CCI for your 22LR"
 date: "2019-10-24"
 ---

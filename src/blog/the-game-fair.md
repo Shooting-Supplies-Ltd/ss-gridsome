@@ -1,4 +1,5 @@
 ---
+slug: the-game-fair
 title: "The Game Fair"
 date: "2018-07-26"
 ---

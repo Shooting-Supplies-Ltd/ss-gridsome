@@ -1,18 +1,18 @@
 ---
+slug: sauer-100-xt-synthetic
 title: "Sauer 100 XT Synthetic"
 date: "2019-10-04"
 ---
 
 # **Sauer 100 XT Synthetic**
-*In store price £899*
 
+_In store price £899_
 
 The Sauer 100 XT centrefire rifle offers unrivalled performance for an entry level gun, and whilst this is an entry level rifle, Sauer haven't skimped on the quality.
 
 Offering a wide range of calibre's, available in 223, 243, 308 and 30-06, and keeping a few of Sauer's premium features, including adjustable single-stage trigger, three-position safety, hammer-forged original SAUER barrel, famously smooth SAUER bolt, and ERGO MAX stock geometry. This is a highly recommended buy.
 
 For accuracy and build quality, at this price, you won't find much better.
-
 
 ![Sauer 100 XT Synthetic](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564924/Sauer-100-XT_setzjg_h20huk.png)
 

@@ -1,4 +1,5 @@
 ---
+slug: breaking-news
 title: "Breaking News!!"
 date: "2015-11-27"
 ---
@@ -49,6 +50,6 @@ there is no sound evidence to ban lead shot.
 
 BASC want to ensure that lead ammunition is not banned.
 
-**Please sign the BASC ****petition now**
+**Please sign the BASC \*\***petition now\*\*
 
 https://petition.parliament.uk/petitions/112165

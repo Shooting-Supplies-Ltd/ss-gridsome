@@ -1,4 +1,5 @@
 ---
+slug: walther-reign-bullpup-now-in
 title: "Walther Reign Bullpup Now In"
 date: "2019-06-25"
 ---

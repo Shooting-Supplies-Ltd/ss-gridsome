@@ -1,11 +1,14 @@
 ---
+slug: umarex-ruger-co2-air-rifle
 title: "Umarex Ruger 10/22 CO2 Air Rifle, The Ultimate Backyard Plinker"
 date: "2019-11-22"
 ---
+
 ![Umarex Ruger 10/22 Air Rifle](https://res.cloudinary.com/shooting-supplies/image/upload/v1574436181/Umarex-Ruger-10-22-CO2-Air-Rifle_nn3cu5.jpg)
 
 # **Umarex Ruger 10/22 CO2 Air Rifle**
-*In-Store Price £199.95*
+
+_In-Store Price £199.95_
 
 The Umarex Ruger 10/22 CO2 Air Rifle is a fantastic looking replica of the original rimfire rifle from Ruger. The Air Rifle is powered by 2x 12g CO2 canisters and uses a 10 round magazine that is pretty close to the original design.
 

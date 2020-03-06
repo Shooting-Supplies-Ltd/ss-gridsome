@@ -1,10 +1,12 @@
 ---
+slug: pard-nv008-lrf-rangefinder
 title: "Pard NV008 LRF Rangefinder"
 date: "2019-10-02"
 ---
 
 # **Pard NV008 LRF Rangefinder**
-*In-Store from £829.00*
+
+_In-Store from £829.00_
 
 New in stock is the [Pard NV008 LRF](/product/pard-nv008-lrf-digital-scope/) Rangefinder, bringing both performance and value for money to our Night Vision range.
 

@@ -1,4 +1,5 @@
 ---
+slug: marlin-1894-lever-action-44-cal
 title: "Marlin 1894 Lever Action 44 Cal"
 date: "2016-10-26"
 ---

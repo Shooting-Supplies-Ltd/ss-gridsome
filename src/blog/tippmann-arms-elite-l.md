@@ -1,4 +1,5 @@
 ---
+slug: tippmann-arms-elite-l
 title: "Tippmann Arms Elite-L"
 date: "2019-06-26"
 ---

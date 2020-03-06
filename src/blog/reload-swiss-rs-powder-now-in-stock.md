@@ -1,4 +1,5 @@
 ---
+slug: reload-swiss-rs-reloading-powder-now-in
 title: "Reload Swiss RS Reloading Powder Now In Stock"
 date: "2017-11-01"
 ---

@@ -1,4 +1,5 @@
 ---
+slug: chiappa-long-barrel-pistol-accessories
 title: "Chiappa Long Barrel Pistol Accessories"
 date: "2019-10-09"
 ---

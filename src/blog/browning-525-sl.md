@@ -1,5 +1,6 @@
 ---
-title: "Gun of the Week - Browning 525 SL 30\""
+slug: gun-of-the-week-browning-525-sl
+title: 'Gun of the Week - Browning 525 SL 30"'
 date: "2019-07-12"
 ---
 
@@ -15,19 +16,19 @@ Utilising a laminate stock which does a good job of providing stability and redu
 
 ## Browning 525 SL 30" Specifications:
 
-* Model: Browning B525SL
-* Calibre: 12 Gauge
-* Barrel: Back bore 30"
-* Chokes: Midas Extended, cylinder, 1/4 1/2 & 3/4
-* Top Rib Width: 10mm
-* Weight: 3.65Kg
-* Length: 48"
-* Chamber: 3", 76mm
-* Type: Over & Under
-* Action: Steel
-* Stock: Laminate
-* Length of pull: 14.75"
-* Recoil Pad: Inflex II
+- Model: Browning B525SL
+- Calibre: 12 Gauge
+- Barrel: Back bore 30"
+- Chokes: Midas Extended, cylinder, 1/4 1/2 & 3/4
+- Top Rib Width: 10mm
+- Weight: 3.65Kg
+- Length: 48"
+- Chamber: 3", 76mm
+- Type: Over & Under
+- Action: Steel
+- Stock: Laminate
+- Length of pull: 14.75"
+- Recoil Pad: Inflex II
 
 <p></p>
 

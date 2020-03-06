@@ -1,4 +1,5 @@
 ---
+slug: tippmann-arms-elite-shadow
 title: "Tippmann Arms Elite Shadow"
 date: "2019-08-02"
 ---

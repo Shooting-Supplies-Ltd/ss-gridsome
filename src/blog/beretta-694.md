@@ -1,10 +1,12 @@
 ---
+slug: new-beretta-694
 title: "Beretta 694"
 date: "2019-10-31"
 ---
 
 # **The New Baretta 694**
-*In-Store £3,299*
+
+_In-Store £3,299_
 
 The new [Beretta 694](http://www.beretta.com/en-uk/new-694/) has been designed in collaboration with the Beretta shooting team specifically for competition shooting, with their one objective in mind, help shooters increase their success rate.
 
@@ -32,8 +34,8 @@ The 694 barrels are designed to support a system of 15, 10 and 5 g weights that 
 
 Thanks to the fitting system on the lateral rib openings, the weight is spread along the whole length of the barrel, improving the weapon's motion and reducing muzzle jump but without creating any noise or vibrations during the shot.
 
-In addition, their design has been developed to perfectly fit the lateral ribs ensuring there is no risk of them being lost or visibility being hindered. 
+In addition, their design has been developed to perfectly fit the lateral ribs ensuring there is no risk of them being lost or visibility being hindered.
 
-All in all a fantastic looking gun. 
+All in all a fantastic looking gun.
 
 `youtube:https://youtu.be/huIEWodbgyw`

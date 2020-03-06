@@ -1,16 +1,18 @@
 ---
+slug: hawke-airmax-rifle-scopes
 title: "Hawke Airmax Rifle Scopes"
 date: "2019-11-27"
 ---
 
 # **Hawke Airmax Rifle Scopes**
-*Various Models In Store from £249.95+*
+
+_Various Models In Store from £249.95+_
 
 [Hawke](/brand/hawke/) Airmax are the perfect range of scopes for your air gun, the Airmax range has been developed with the Air Rifle shooter in mind.
 
 Airmax scopes all feature 16 layer multi-coated optics that have been developed to provide crisp, clear and high-resolution images.
 
-All of the 30mm models have the side parallax adjustment that provides precise focus down to 10 yards/9 meters.      
+All of the 30mm models have the side parallax adjustment that provides precise focus down to 10 yards/9 meters.
 
 ## AMX Reticle
 
@@ -25,4 +27,3 @@ Half Mil Dot spacing on the lower post provides increased aim points for long sh
 Hawke Airmax Compact scopes have been developed for the increasing range of bullpup and carbine rifles, providing a scope that is lightweight and small in size without compromising on the quality already existing in the Airmax range.
 
 `youtube:https://youtu.be/QlZi5eFvWqk`
-

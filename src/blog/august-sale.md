@@ -1,4 +1,5 @@
 ---
+slug: august-clothing-sale
 title: "August Sale On Clothing"
 date: "2019-07-26"
 ---

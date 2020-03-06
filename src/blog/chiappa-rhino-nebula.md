@@ -1,10 +1,12 @@
 ---
+slug: new-chiappa-rhino-nebula
 title: "Chiappa Rhino Nebula"
 date: "2019-08-16"
 ---
 
 # **Chiappa Rhino Nebula**
-*In-Store from £1495.*
+
+_In-Store from £1495._
 
 Chiappa Firearms have introduced the new Nebula variant of its Rhino revolver, sporting a captivating multi-colored finish which almost instantly made it a star.
 

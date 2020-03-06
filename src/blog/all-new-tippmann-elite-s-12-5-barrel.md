@@ -1,5 +1,6 @@
 ---
-title: "Tippmann Arms Elite-S 12.5\" Barrel!!"
+slug: tippmann-arms-elite-s
+title: 'Tippmann Arms Elite-S 12.5" Barrel!!'
 date: "2018-07-05"
 ---
 

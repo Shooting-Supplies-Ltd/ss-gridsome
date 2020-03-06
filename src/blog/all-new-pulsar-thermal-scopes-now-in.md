@@ -1,4 +1,5 @@
 ---
+slug: all-new-pulsar-thermal-scopes-now-in
 title: "All New Pulsar Thermal Scopes Now In!!"
 date: 2017-05-19
 ---

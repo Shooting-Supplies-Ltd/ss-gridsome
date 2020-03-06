@@ -1,4 +1,5 @@
 ---
+slug: tippmann-arms-m4-22-pro-s
 title: "Tippmann Arms M4 .22 Pro-S"
 date: "2019-07-19"
 ---
@@ -42,7 +43,7 @@ The Tippmann Arms Pro-S is largely mil-spec compatible and will accept most AR15
 - Tactical Hard Case
 
 > [Has Tippman Created The Ultimate Training Carbine?](https://gundigest.com/rifles/ars-rifles/m4-22-pro-has-tippman-created-the-ultimate-training-carbine)
-> 
+>
 > Gun Digest
 
 You can bag your own "ultimate training carbine" in store for just £949, incl. 2 magazines, flip up sights and a tactical hard case.

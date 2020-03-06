@@ -1,10 +1,12 @@
 ---
+slug: blaser-r8-ultimate
 title: "Blaser R8 Ultimate"
 date: "2019-08-09"
 ---
 
 # **Blaser R8 Ultimate**
-*In-Store from £3,749*
+
+_In-Store from £3,749_
 
 Presented for the first time at the Jagd & Hund show in 2019, the Blaser R8 Ultimate needs no introduction and has set the standard in functionality in design.
 

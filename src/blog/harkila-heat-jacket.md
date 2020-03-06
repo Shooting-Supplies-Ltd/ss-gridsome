@@ -1,4 +1,5 @@
 ---
+slug: harkila-heat-jacket-in-stock-now
 title: "Harkila Heat Jacket In Stock Now"
 date: "2019-08-02"
 ---

@@ -1,4 +1,5 @@
 ---
+slug: benelli-raffaello-accademia
 title: "Benelli Raffaello Accademia"
 date: "2019-09-27"
 ---

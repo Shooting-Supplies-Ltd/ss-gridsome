@@ -1,10 +1,12 @@
 ---
+slug: gun-of-the-week-browning-725-pro-sport
 title: "Gun of the Week - Browning 725 Pro Sport"
 date: "2019-08-30"
 ---
 
 # **Gun of the Week - Browning 725 Pro Sport**
-*In-Store Price from £3,099*
+
+_In-Store Price from £3,099_
 
 The Browning 725 Pro-sport is an evolution on Browning's 40 year old platform which has brought the 725 right up to date and has been designed to be the perfect fit gun wether you're shooting sporting or compak.
 

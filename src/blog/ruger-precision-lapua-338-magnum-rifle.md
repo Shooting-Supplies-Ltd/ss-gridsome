@@ -1,10 +1,12 @@
 ---
+slug: ruger-precision-lapua-338-magnum-rifle
 title: "Ruger Precision Lapua .338 Magnum Rifle"
 date: "2019-09-20"
----*
+---
 
 # **Ruger Precision Lapua Magnum Rifle**
-*In-Store from £2399*
+
+_In-Store from £2399_
 
 Ruger went big with its popular Ruger Precision platform and gave us the meaner **Ruger Precision Lapua .338 Magnum** rifle. In the .338 Lapua Ruger have produced a very reliable, accurate and durable long range rifle.
 
@@ -47,13 +49,13 @@ The low cost of this rifle makes it an attractive purchase, not only for first-t
 - Finish - Type III Black Hard-Coat Anodized
 - Barrel Length - 26"
 - Barrel - Cold Hammer-Forged, 5R Rifling
--  Thread Pattern - 3/4"-24
+- Thread Pattern - 3/4"-24
 - Twist - 1:9.375" RH
 - Grooves - 5
 - Weight - 15.2 lb.
 - Capacity - 5
 - Height - 7.50"
--  Overall Length - 49"-52.50"
+- Overall Length - 49"-52.50"
 - Length of Pull - 12.70" - 16.20"
 - Folded Length - 40.35"
 - Width - 3.50"

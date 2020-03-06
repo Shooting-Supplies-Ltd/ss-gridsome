@@ -1,10 +1,12 @@
 ---
+slug: tippmann-arms-elite-s-gen-2
 title: "Tippmann Arms Elite-S Gen II in Stock Now"
 date: "2019-08-23"
 ---
 
 # **Tippmann Arms Elite-S Gen II**
-*Just £999 in Store*
+
+_Just £999 in Store_
 
 New in stock today, we have the next generation Tippmann Arms Elite-S, the Gen II.
 
@@ -22,29 +24,29 @@ The Elite-S Gen II is largely mil-spec compatible and will accept most AR15 stoc
 
 ## **Tippmann Arms Elite-S Gen II Features:**
 
-* 9″ Aluminum Free Float M-Loc Handguard  
-* Semi-Automatic  
-* Bolt Catch - Hold Open Last Round  
-* Popular AR Platform  
-* 25 Round Magazine x2  
-* Functional Forward Assist Button  
-* Aluminium Upper and Lower Receivers  
-* Charging Handle  
-* Easy Push Pin Disassembly  
-* Full Length Top Picatinny Rail  
-* Adjustable Flip Up Sights  
-* Adjustable Stock  
-* Shell Deflector  
-* 2-Position, Receiver Mounted Safety Lever  
-* 12.5” 4150 Solid Steel Barrel with Parkerized Finish  
-* 1/2 x 28 Threaded A2 Birdcage  
-* 4½ Pound Trigger Pull  
-* Fully Functional Bolt Dust Cover  
-* Mil-Spec FCG (With the exception of the Safety lever. It is proprietary.)  
-* Allows For Drop in Trigger Assemblies  
-* Standard “bicycle lock” Storage Safety  
-* Gen2 Style Pistol Grip  
-* Ambidextrous Rear Sling Adapter Plate  
-* Compatible With Most Standard AR15 Components and Accessories  
-* Owner’s Manual  
-* Tactical Hard Case
+- 9″ Aluminum Free Float M-Loc Handguard
+- Semi-Automatic
+- Bolt Catch - Hold Open Last Round
+- Popular AR Platform
+- 25 Round Magazine x2
+- Functional Forward Assist Button
+- Aluminium Upper and Lower Receivers
+- Charging Handle
+- Easy Push Pin Disassembly
+- Full Length Top Picatinny Rail
+- Adjustable Flip Up Sights
+- Adjustable Stock
+- Shell Deflector
+- 2-Position, Receiver Mounted Safety Lever
+- 12.5” 4150 Solid Steel Barrel with Parkerized Finish
+- 1/2 x 28 Threaded A2 Birdcage
+- 4½ Pound Trigger Pull
+- Fully Functional Bolt Dust Cover
+- Mil-Spec FCG (With the exception of the Safety lever. It is proprietary.)
+- Allows For Drop in Trigger Assemblies
+- Standard “bicycle lock” Storage Safety
+- Gen2 Style Pistol Grip
+- Ambidextrous Rear Sling Adapter Plate
+- Compatible With Most Standard AR15 Components and Accessories
+- Owner’s Manual
+- Tactical Hard Case

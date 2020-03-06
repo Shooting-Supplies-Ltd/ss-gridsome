@@ -1,4 +1,5 @@
 ---
+slug: browning-b525-shadow-special-edition
 title: "Browning 525 Shadow"
 date: "2019-10-11"
 ---
@@ -15,19 +16,19 @@ The Browning 525 Shadow offers great- affordability, perfect balance and a stron
 
 ## Browning 525 Shadow Specifications:
 
-* Calibre - 12 gauge
-* Weight - 3.3 Kg
-* Chamber - 76mm (3")
-* Barrel - Back Bored
-* Chokes - 4 x Invector Plus (1/4, 1/2, 3/4, Full)
-* Top rib - 6mm
-* Barrel finish - Blued
-* Sights - Front Sight
-* Action frame - Steel
-* Wood grade - Grade 2 Oil Finished
-* Length of pull - 14 3/4"
-* Recoil Pad - Inflex II
-* Stock dimensions - Drop at comb 36mm, Drop at heel 56mm
-* Packaged in Browning ABS case
-<p></p>  
-We have both R/H and L/H 30" in store from £1749
+- Calibre - 12 gauge
+- Weight - 3.3 Kg
+- Chamber - 76mm (3")
+- Barrel - Back Bored
+- Chokes - 4 x Invector Plus (1/4, 1/2, 3/4, Full)
+- Top rib - 6mm
+- Barrel finish - Blued
+- Sights - Front Sight
+- Action frame - Steel
+- Wood grade - Grade 2 Oil Finished
+- Length of pull - 14 3/4"
+- Recoil Pad - Inflex II
+- Stock dimensions - Drop at comb 36mm, Drop at heel 56mm
+- Packaged in Browning ABS case
+  <p></p>  
+  We have both R/H and L/H 30" in store from £1749

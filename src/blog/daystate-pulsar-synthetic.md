@@ -1,10 +1,12 @@
 ---
+slug: daystate-pulsar-synthetic
 title: "Daystate Pulsar Synthetic"
 date: "2019-08-02"
 ---
 
 # **Daystate Pulsar Synthetic**
-*In-Store from £1499*
+
+_In-Store from £1499_
 
 The Daystate Pulsar Synthetic PCP Air Rifle is a damned good air rifle, read on to learn more.
 

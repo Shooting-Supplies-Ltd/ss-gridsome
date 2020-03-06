@@ -1,4 +1,5 @@
 ---
+slug: new-tippmann-arms-25-round-magazine
 title: "New Tippmann Arms 25 Round Magazines!!!"
 date: "2018-12-13"
 ---

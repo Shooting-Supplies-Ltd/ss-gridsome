@@ -1,4 +1,5 @@
 ---
+slug: new-clothing-delivery
 title: "New Clothing Delivery"
 date: "2016-09-29"
 ---
