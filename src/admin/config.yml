@@ -29,3 +29,5 @@ collections:
           widget: "image",
           required: false,
         }
+
+publish_mode: editorial_workflow
