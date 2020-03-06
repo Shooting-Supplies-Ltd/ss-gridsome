@@ -1,7 +1,12 @@
 ---
 slug: tippmann-arms-elite-s
-title: 'Tippmann Arms Elite-S 12.5" Barrel!!'
-date: "2018-07-05"
+title: Tippmann Arms Elite-S 12.5" Barrel!!
+excerpt: >-
+  So we finally have the third model of the Tippmann Arms rifle ready for sale
+  in the UK.
+date: '2018-07-05'
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573222150/Tippmann-Arms-NoBg_wvnmpp.png
 ---
 
 # **Tippmann Arms Elite-S 12.5" Barrel**
