@@ -1,6 +1,9 @@
 ---
-title: "Air Rifle Licensing Petition"
-date: 2018-02-15
+title: Air Rifle Licensing Petition
+excerpt: >-
+  As I'm sure most of you are aware, the government has been looking at
+  reviewing the air gun licencing laws in England and Wales.
+date: 2018-02-15T00:00:00.000Z
 ---
 
 # **Air Rifle Licencing Petition**
