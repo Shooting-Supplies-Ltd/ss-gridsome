@@ -44,7 +44,7 @@ module.exports = {
         flexsearch: {
           profile: "match"
         },
-        publicPath: `/admin`,
+        publicPath: `/ss-cms`,
         plugins: [`netlify-cms-widget-youtube`]
       }
     },
