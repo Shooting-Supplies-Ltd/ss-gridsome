@@ -109,13 +109,13 @@
         <a href="https://shootingsuppliesltd.co.uk/product-category/optics/"
           ><p class="mr-8">Optics</p></a
         >
-        <a href="https://shootingsuppliesltd.co.uk/ammunition/"
+        <a href="https://guns.shootingsuppliesltd.co.uk/blog/ammunition/"
           ><p class="mr-8">Ammo</p></a
         >
-        <a href="https://shootingsuppliesltd.co.uk/clothing-footwear/"
+        <a href="https://guns.shootingsuppliesltd.co.uk/blog/clothing-footwear/"
           ><p class="mr-8">Clothing</p></a
         >
-        <a href="https://shootingsuppliesltd.co.uk/safes-security/"
+        <a href="https://guns.shootingsuppliesltd.co.uk/blog/safes-security/"
           ><p class="mr-8">Security</p></a
         >
         <a
