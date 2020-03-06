@@ -4,6 +4,8 @@ title: "Breaking News!!"
 date: "2015-11-27"
 excerpt: >-
   The government is trying to ban .22 semi auto rifles.
+category: News
+keywords: semi auto rifles
 ---
 
 # **Breaking News**

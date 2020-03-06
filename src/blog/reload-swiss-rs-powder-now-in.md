@@ -1,11 +1,13 @@
 ---
-slug: reload-swiss-rs-reloading-powder-now-in
+slug: reload-swiss-rs-powder-now-in
 title: "Reload Swiss RS Reloading Powder Now In Stock"
 date: "2017-11-01"
 excerpt: >-
   We carry a range of reloading supplies, powders and tools and due to increased interest and glowing reports we are now stocking Swiss RS reloading powder.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573223056/reload-swiss-logo_cc0ano_txclrg.png
+category: News
+keyword: reloading powder, rs swiss
 ---
 
 # **Reload Swiss RS Powder Now In**

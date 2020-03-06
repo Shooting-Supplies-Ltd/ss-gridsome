@@ -1,11 +1,13 @@
 ---
-slug: read-our-tackle-and-guns-magazine-review
+slug: tackle-guns-star-shop
 title: "Read Our Tackle & Guns Star Shop Review"
 date: "2019-09-13"
 excerpt: >-
   We were visited by Tackle & Guns secret shoppers and received the start shop award
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564795/star-shopper_e6rgo3_hlr3ca.gif
+category: News
+keywords: shop review, tackle and guns magazine
 ---
 
 # **Tackle & Guns Star Shop Review**

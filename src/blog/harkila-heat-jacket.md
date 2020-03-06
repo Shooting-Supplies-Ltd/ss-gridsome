@@ -1,11 +1,13 @@
 ---
-slug: harkila-heat-jacket-in-stock-now
+slug: harkila-heat-jacket
 title: "Harkila Heat Jacket In Stock Now"
 date: "2019-08-02"
 excerpt: >-
   The Harkila Heat Jacket is a fantastic bit of kit to keep you warm during the coming winter months.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564121/Harkila-Heat-Jacket_pntar3_pkf20n-1_gqa3hp.jpg
+category: News
+keywords: harkila, heated jacket
 ---
 
 # **Harkila Heat Jacket**

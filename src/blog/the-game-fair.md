@@ -6,6 +6,8 @@ excerpt: >-
   Pulling thousands of people from all over the UK, it promises to be as busy as always, especially with this fantastic weather we are having!!!
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564485/Tippmann-Arms-Image-1-from-their-Website_mjvwby_y4dbbs_kuvh11.jpg
+category: News
+keywords: game fair, event, shooting, guns, scopes
 ---
 
 # **The Game Fair**

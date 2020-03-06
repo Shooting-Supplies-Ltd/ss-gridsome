@@ -6,6 +6,8 @@ excerpt: >-
   A winner since it was first introduced, the Yildiz over and under is a great value shotgun at a budget price range.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573565466/Yildiz-OverUnder_nlskx5_xlol9h.jpg
+category: Gun of the Week
+keywords: yildiz, over and under, shotgun
 ---
 
 # **Yildiz Over & Under**

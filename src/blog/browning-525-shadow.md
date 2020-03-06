@@ -1,11 +1,13 @@
 ---
-slug: browning-b525-shadow-special-edition
+slug: browning-b525-shadow
 title: "Browning 525 Shadow"
 date: "2019-10-11"
 excerpt: >-
   A special edition featuring upgraded American Walnut, matt black action, a gold trigger and a nice gold engraving.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1578939799/Browning-B525-Shadow_m5omvi.jpg
+category: News
+keywords: browning b5252 shadow, shotgun, over and under
 ---
 
 # **Browning 525 Shadow**

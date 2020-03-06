@@ -6,6 +6,8 @@ excerpt: >-
   enelli are well known for their ultra reliable shotguns and the Raffaello Accademia is no exception, with this semi auto they are offering something a little bit special.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564890/Raffaello-Accademia_p9znr8_atvjex.png
+category: Gun of the Week
+keywords: benelli raffaello accademia, shotgun, special edition
 ---
 
 # **Benelli Raffaello Accademia**

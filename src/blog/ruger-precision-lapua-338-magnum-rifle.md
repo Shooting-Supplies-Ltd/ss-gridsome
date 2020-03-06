@@ -6,6 +6,8 @@ excerpt: >-
   Ruger went big with its popular Ruger Precision platform and gave us the meaner Ruger Precision Lapua .338 Magnum rifle.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564820/Ruger-Precision-Lapua-338-Mag-rh2_diduvx_mqkehw.jpg
+category: News
+keywords: lapua, .338, ruger precision, long range rifle
 ---
 
 # **Ruger Precision Lapua Magnum Rifle**

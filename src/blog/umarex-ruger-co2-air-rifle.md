@@ -6,6 +6,8 @@ excerpt: >-
   The Umarex Ruger 10/22 CO2 Air Rifle is a fantastic looking replica of the original rimfire rifle from Ruger.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1574436181/Umarex-Ruger-10-22-CO2-Air-Rifle_nn3cu5.jpg
+category: News
+keywords: umarex, co2 air rifle, ruger
 ---
 
 ![Umarex Ruger 10/22 Air Rifle](https://res.cloudinary.com/shooting-supplies/image/upload/v1574436181/Umarex-Ruger-10-22-CO2-Air-Rifle_nn3cu5.jpg)

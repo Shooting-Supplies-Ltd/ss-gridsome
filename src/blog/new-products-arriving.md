@@ -4,6 +4,8 @@ title: "New Products Arriving"
 date: "2016-08-26"
 excerpt: >-
   New Products have arrived.
+category: News
+keywords: clothing, anti-tick, vortex rifle scopes, boots, thermal night vision, pulsar, yukon
 ---
 
 # **New Products Arriving**

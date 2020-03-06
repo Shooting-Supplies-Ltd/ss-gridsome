@@ -1,11 +1,13 @@
 ---
-slug: chiappa-long-barrel-pistol-accessories
+slug: chiappa-accessories
 title: "Chiappa Long Barrel Pistol Accessories"
 date: "2019-10-09"
 excerpt: >-
   We have new accessories in for your Chiappa long barrel pistol today.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573565016/chiappa-with-carbon-shroud_cgu2qr_bprfnp.jpg
+category: News
+keywords: chiappa, long barrel pistol, accessories, chiappa rhino
 ---
 
 # **Chiappa Long Barrel Pistol Accessories**

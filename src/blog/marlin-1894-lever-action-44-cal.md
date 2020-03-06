@@ -6,6 +6,8 @@ excerpt: >-
   They have been on back order for 18 months, but we have finally received a shipment of the sort after Marlin lever action rifles!!
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564297/1894_apjzin_jltbeg-1_ciibwy.png
+category: News
+keywords: marlin 1894, lever action, rifle
 ---
 
 # **Marlin 1894 Lever Action 44 Cal**

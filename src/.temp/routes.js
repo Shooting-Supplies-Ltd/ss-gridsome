@@ -1188,10 +1188,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/investarm271543/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/hatsan-armsnull630425/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -2132,7 +2128,7 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Blog.vue")
   },
   {
-    path: "/blog/:title/",
+    path: "/blog/:slug/",
     component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Post.vue")
   },
   {

@@ -6,6 +6,8 @@ excerpt: >-
   Sporting a Gen 2 grip for improved handling, a nickel bolt and now also paired with the 25 round mag.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564514/Elite-S-Gen-II_opwafz_ndi2ul.png
+category: News
+keywords: tippmann arms, elite-s, gen ii, m4, 22lr
 ---
 
 # **Tippmann Arms Elite-S Gen II**

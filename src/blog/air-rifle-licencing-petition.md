@@ -1,10 +1,13 @@
 ---
-slug: air-rifle-licensing-petition
+slug: air-rifle-licencing-petition
 title: Air Rifle Licensing Petition
 excerpt: >-
   As I'm sure most of you are aware, the government has been looking at
   reviewing the air gun licencing laws in England and Wales.
 date: 2018-02-15T00:00:00.000Z
+author: Shooting Supplies
+catgeory: News
+keywords: air rifle licencing
 ---
 
 # **Air Rifle Licencing Petition**

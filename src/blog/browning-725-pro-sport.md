@@ -1,11 +1,13 @@
 ---
-slug: gun-of-the-week-browning-725-pro-sport
+slug: browning-725-pro-sport
 title: "Gun of the Week - Browning 725 Pro Sport"
 date: "2019-08-30"
 excerpt: >-
   The Browning 725 Pro-sport is an evolution on Browning's 40 year old platform which has brought the 725 right up to date.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564590/Browning-725-ProSport_ri2kti_yrnviq.jpg
+category: Gun of the Week
+keywords: browning 725, pro sport, shotgun
 ---
 
 # **Gun of the Week - Browning 725 Pro Sport**

@@ -6,6 +6,8 @@ excerpt: >-
   The brand new shipment of K22 pistols has finally arrived!!!
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564296/k22_GP_std_utmjub_viogds-1_uxynal.jpg
+category: News
+keywords: long barrel pistol, k22
 ---
 
 # **K22 Long Barrelled Pistols Have Arrived**

@@ -1,5 +1,5 @@
 ---
-slug: 5-great-gifts-for-christmas
+slug: 5-great-gifts-christmas
 title: 5 Great gifts this Christmas
 excerpt: >-
   It’s often difficult to find gifts for our family and friends over the
@@ -8,7 +8,11 @@ excerpt: >-
 date: 2019-12-12T00:00:00.000Z
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1576320943/Christmas-Shooting-Supplies_buseop.jpg
+author: Shooting Supplies
+category: News
+keywords: christmas gifts, aimcam pro 2, bisley cleaning kit, 3M Peltor Sportac Hearing Protection
 ---
+
 # **5 Great Gifts For Christmas**
 
 It’s often difficult to find gifts for our family and friends over the Christmas period but at Shooting Supplies, we stock a great number of shooting accessories that will make great gifts for the shooters in your life.
@@ -21,7 +25,7 @@ The Pro 2 camera glasses from Aimcam are a great way to capture all of the actio
 
 **In store £199.95**
 
-- - -
+---
 
 ## Bisley's cleaning kits.
 
@@ -31,7 +35,7 @@ We stock a range of cleaning kits & accessories from Bisley, the perfect choice 
 
 **In store £ Various**
 
-- - -
+---
 
 ## Protect their hearing with 3M Peltor Sportac Hearing Protectors
 
@@ -41,7 +45,7 @@ These highly rated hearing protectors are designed specifically for hunters and 
 
 **In store £139.95**
 
-- - -
+---
 
 ## Keep on shooting with a new Cartridge Bag
 
@@ -51,7 +55,7 @@ We have a great range of Teales and Beretta Cartridge Bags to choose from, offer
 
 Item pictured - Teales Devonshire Cartridge Bag - **In store £109.99**
 
-- - -
+---
 
 ## For those most difficult to choose for
 

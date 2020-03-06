@@ -6,6 +6,8 @@ excerpt: >-
   Your household insurance policy may not be covering your guns & equipment.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573222273/hiscox-insurance_kzzgbi.jpg
+category: News
+keywords: gun insurance, shooting insurance
 ---
 
 # **Shooting Insurance**

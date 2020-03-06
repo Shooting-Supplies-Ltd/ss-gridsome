@@ -1,11 +1,13 @@
 ---
-slug: the-brilliant-tippmann-arms-m4-22-lr
+slug: the-brilliant-tippmann-arms-m4-22lr
 title: "The Brilliant Tippmann Arms M4 22 LR"
 date: "2017-11-05"
 excerpt: >-
   The Tippmann Arms M4 22 LR is a premium .22 calibre semi-automatic rifle with aluminium upper and lower receivers, with all the features of a true M4.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png
+category: News
+keywords: tippmann arms, m4, 22lr, rifle
 ---
 
 # **The Brilliant Tippmann Arms M4 22LR**

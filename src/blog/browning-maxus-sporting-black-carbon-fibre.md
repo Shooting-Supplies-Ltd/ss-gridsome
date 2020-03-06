@@ -6,6 +6,8 @@ excerpt: >-
   Browning's Maxus Sporting in Black Carbon Fibre looks the business.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573765292/MAXUS-SPORTING-BLACK-CARBON_2_cu7ysv.jpg
+category: News
+keywords: browning maxus, sporting, shotgun
 ---
 
 # **Browning Maxus Sporting, Black Carbon Fibre**

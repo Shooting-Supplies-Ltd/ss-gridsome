@@ -6,6 +6,8 @@ excerpt: >-
   The quality, ergonomics and functions of the Thermal Scopes have all improved as demonstrated by the new Pulsar Helion unit.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564299/pulsar-xq23v-thermal-monoculars_vntxoy_oxv1c0-1_ecs6pn.jpg
+category: News
+keywords: pulsar thermal scope
 ---
 
 # **All New Pulsar Thermal Scopes Now In**
