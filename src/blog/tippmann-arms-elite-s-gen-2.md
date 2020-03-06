@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564514/Elite-S-Gen-II_opwafz_ndi2ul.png
 category: News
 keywords: tippmann arms, elite-s, gen ii, m4, 22lr
+author: Shooting Supplies
 ---
 
 # **Tippmann Arms Elite-S Gen II**

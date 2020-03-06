@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1578939799/Browning-B525-Shadow_m5omvi.jpg
 category: News
 keywords: browning b5252 shadow, shotgun, over and under
+author: Shooting Supplies
 ---
 
 # **Browning 525 Shadow**

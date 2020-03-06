@@ -20,6 +20,9 @@
               <h2 class="font-bold uppercase text-xl mt-2">
                 {{ edge.node.title }}
               </h2>
+              <h5 class="italic">
+                {{ edge.node.author }} - {{ edge.node.date }}
+              </h5>
               <p style="margin-top: 10px">{{ edge.node.excerpt }}</p>
             </div>
           </g-link>
@@ -59,12 +62,13 @@ query ($page: Int) {
     edges {
       node {
         id
-        date
+        date(format: "DD-MM-YYYY")
         slug
         title
         excerpt
         content
         thumbnail
+        author
       }
     }
   }

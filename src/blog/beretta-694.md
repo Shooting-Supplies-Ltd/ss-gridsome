@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573565406/694-features_wnxsa5_y03dyo.jpg
 category: News
 keywords: beretta 694, shotgun, over and under
+author: Shooting Supplies
 ---
 
 # **The New Baretta 694**

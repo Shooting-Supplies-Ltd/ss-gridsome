@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564906/PardNV008LRFRangefinder_orrkzp-1_vlvhvz.jpg
 catgeory: News
 keywords: pard nv008, rangefinder, night vision, rifle scope
+author: Shooting Supplies
 ---
 
 # **Pard NV008 LRF Rangefinder**

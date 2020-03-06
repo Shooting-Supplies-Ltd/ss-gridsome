@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564890/Raffaello-Accademia_p9znr8_atvjex.png
 category: Gun of the Week
 keywords: benelli raffaello accademia, shotgun, special edition
+author: Shooting Supplies
 ---
 
 # **Benelli Raffaello Accademia**

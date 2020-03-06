@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573765292/MAXUS-SPORTING-BLACK-CARBON_2_cu7ysv.jpg
 category: News
 keywords: browning maxus, sporting, shotgun
+author: Shooting Supplies
 ---
 
 # **Browning Maxus Sporting, Black Carbon Fibre**

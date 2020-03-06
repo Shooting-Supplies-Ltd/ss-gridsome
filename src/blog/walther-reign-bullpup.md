@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564176/Walther-Reign-Slide_jdefmc_edi3xq-1_mlqwtr.jpg
 category: News
 keywords: walther reign, bullpup, air rifle
+author: Shooting Supplies
 ---
 
 # **Walther Reign Bullpup Now In Stock**

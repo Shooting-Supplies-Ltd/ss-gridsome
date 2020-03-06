@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png
 category: News
 keywords: tippmann arms elite
+author: Shooting Supplies
 ---
 
 # **Tippmann Arms Elite-S 12.5" Barrel**

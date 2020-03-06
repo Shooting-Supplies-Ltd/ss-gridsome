@@ -1,5 +1,5 @@
 ---
-slug: tippmann-arms-m4-pro-s
+slug: tippmann-arms-pro-s
 title: "Tippmann Arms M4 Pro-S"
 date: "2019-06-26"
 excerpt: >-
@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564117/Tippmann-Arms-Pro-S-800x320_kllxzp_qk0n8g-1_esmiej.jpg
 category: News
 keywords: tippmann arms, pro-s, m4, 22lr, rifle
+author: Shooting Supplies
 ---
 
 # **Tippmann Arms M4 Pro-S**

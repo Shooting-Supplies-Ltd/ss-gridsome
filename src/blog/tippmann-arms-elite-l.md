@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564280/TippmannArmsElite-L_laqs0z_vvm1yb-1_ri3jsn.jpg
 category: News
 keywords: tippmann arms, m4, 22lr, elite-l
+author: Shooting Supplies
 ---
 
 # **Tippmann Arms Elite-L**

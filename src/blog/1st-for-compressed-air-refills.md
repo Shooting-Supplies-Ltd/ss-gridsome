@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1574353197/Gun-Charging-Kit-A-Clamp-with-hose_jkwukc.jpg
 category: News
 keywords: compressed air, air rifles, scuba tanks, diving tanks
+author: Shooting Supplies
 ---
 
 # **Shooting Supplies are your first stop for air refills!**

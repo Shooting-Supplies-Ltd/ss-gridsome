@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564321/Tippmann-Arms-M4-22-25-22LR-magazine_opcpgq_bjvxec-1_glk4mc.jpg
 category: News
 keywords: tippmann arms, 22lr, magazine
+author: Shooting Supplies
 ---
 
 # **New Tippmann Arms 25 Round Magazines**

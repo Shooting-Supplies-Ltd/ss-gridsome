@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564121/Harkila-Heat-Jacket_pntar3_pkf20n-1_gqa3hp.jpg
 category: News
 keywords: harkila, heated jacket
+author: Shooting Supplies
 ---
 
 # **Harkila Heat Jacket**

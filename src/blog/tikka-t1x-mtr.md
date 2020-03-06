@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564596/tikka-t1x_xjqadt_msnwic.png
 category: Gun of the Week
 keywords: tikka t1x, rifle, rimfire
+author: Shooting Supplies
 ---
 
 # **Gun of the week - Tikka T1X MTR**

@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png
 category: News
 keywords: tippmann arms, m4, 22lr, rifle
+author: Shooting Supplies
 ---
 
 # **The Brilliant Tippmann Arms M4 22LR**

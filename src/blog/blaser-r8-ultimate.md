@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564101/Blaser-R8-Ultimate_y4khm5_nq7big-1_eqiafx.jpg
 category: News
 keywords: blaser r8 ultimate, rifle
+author: Shooting Supplies
 ---
 
 # **Blaser R8 Ultimate**

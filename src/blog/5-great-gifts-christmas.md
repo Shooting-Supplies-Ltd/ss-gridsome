@@ -5,7 +5,7 @@ excerpt: >-
   It’s often difficult to find gifts for our family and friends over the
   Christmas period but at Shooting Supplies, we stock a great number of shooting
   accessories that will make great gifts for the shooters in your life.
-date: 2019-12-12T00:00:00.000Z
+date: 2019-12-12T00:00:00
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1576320943/Christmas-Shooting-Supplies_buseop.jpg
 author: Shooting Supplies

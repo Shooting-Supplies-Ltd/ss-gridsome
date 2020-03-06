@@ -6,6 +6,7 @@ excerpt: >-
   New Products have arrived.
 category: News
 keywords: clothing, anti-tick, vortex rifle scopes, boots, thermal night vision, pulsar, yukon
+author: Shooting Supplies
 ---
 
 # **New Products Arriving**

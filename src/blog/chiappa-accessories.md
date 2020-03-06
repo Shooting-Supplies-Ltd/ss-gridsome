@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573565016/chiappa-with-carbon-shroud_cgu2qr_bprfnp.jpg
 category: News
 keywords: chiappa, long barrel pistol, accessories, chiappa rhino
+author: Shooting Supplies
 ---
 
 # **Chiappa Long Barrel Pistol Accessories**

@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564189/hw100-bullpup-black-grey-synthetic-air-rifle-4_wnppnm_yfupvg-1_rurhlt.jpg
 category: Gun of the Week
 keywords: weihrauch hw100, bullpup, air rifle
+author: Shooting Supplies
 ---
 
 # **Gun of the Week - Weihrauch HW100 Bullpup**

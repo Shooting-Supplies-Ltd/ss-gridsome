@@ -3,11 +3,12 @@ slug: browning-525-sl
 title: 'Gun of the Week - Browning 525 SL 30"'
 date: "2019-07-12"
 excerpt: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564590/Browning-725-ProSport_ri2kti_yrnviq.jpg
+  The Browning 525 SL has been chosen for our gun of the week. £1999 in store.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564291/B525-SPORTER-LAMINATED-ADJ_1_wokvdy_heq12o-1_xipuux.jpg
 category: Gun of the Week
 keywords: browning 525 sl, shotgun, 12 gauge, sporter
+author: Shooting Supplies
 ---
 
 # **Gun of the Week - Browning 525 SL**

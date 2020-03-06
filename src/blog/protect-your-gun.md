@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573222273/hiscox-insurance_kzzgbi.jpg
 category: News
 keywords: gun insurance, shooting insurance
+author: Shooting Supplies
 ---
 
 # **Shooting Insurance**

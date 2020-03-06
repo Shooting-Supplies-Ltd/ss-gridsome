@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564118/Tippmann-Arms-Elite-S-Shadow-800x320_icol32_bni8ll-1_idowxq.jpg
 category: News
 keywords: tippmann arms, elite shadow, m4, 22lr, rifle
+author: Shooting Supplies
 ---
 
 # **Tippmann Arms Elite Shadow**

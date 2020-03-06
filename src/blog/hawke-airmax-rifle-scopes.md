@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1574854370/Hawke-Airmax_v5mfan.jpg
 category: News
 keywords: hawke, rifle scopes, amx reticle
+author: Shooting Supplies
 ---
 
 # **Hawke Airmax Rifle Scopes**

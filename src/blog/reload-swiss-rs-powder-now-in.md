@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573223056/reload-swiss-logo_cc0ano_txclrg.png
 category: News
 keyword: reloading powder, rs swiss
+author: Shooting Supplies
 ---
 
 # **Reload Swiss RS Powder Now In**

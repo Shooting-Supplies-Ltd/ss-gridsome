@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564590/Browning-725-ProSport_ri2kti_yrnviq.jpg
 category: Gun of the Week
 keywords: browning 725, pro sport, shotgun
+author: Shooting Supplies
 ---
 
 # **Gun of the Week - Browning 725 Pro Sport**

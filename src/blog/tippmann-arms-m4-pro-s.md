@@ -7,6 +7,7 @@ excerpt: >-
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564282/GunOfTheWeek-TippmannArmsProS_fgllrc_mncmfk-1_ngxq5n.jpg
 category: tippmann arms, m4, 22lr, pro-s, rifle
+author: Shooting Supplies
 ---
 
 # **Tippmann Arms M4 22 Pro-S**

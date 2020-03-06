@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564093/Chiappa-Rhino-Nebula_cwglcy_c3tyo2-1_etagap.jpg
 category: News
 keywords: chiappa rhino, long barrel pistol, chiappa nebula
+author: Shooting Supplies
 ---
 
 # **Chiappa Rhino Nebula**

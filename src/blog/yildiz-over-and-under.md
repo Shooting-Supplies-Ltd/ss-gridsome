@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573565466/Yildiz-OverUnder_nlskx5_xlol9h.jpg
 category: Gun of the Week
 keywords: yildiz, over and under, shotgun
+author: Shooting Supplies
 ---
 
 # **Yildiz Over & Under**

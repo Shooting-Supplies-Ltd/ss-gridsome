@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564299/pulsar-xq23v-thermal-monoculars_vntxoy_oxv1c0-1_ecs6pn.jpg
 category: News
 keywords: pulsar thermal scope
+author: Shooting Supplies
 ---
 
 # **All New Pulsar Thermal Scopes Now In**

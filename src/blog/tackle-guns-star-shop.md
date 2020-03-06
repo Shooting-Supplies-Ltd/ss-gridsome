@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564795/star-shopper_e6rgo3_hlr3ca.gif
 category: News
 keywords: shop review, tackle and guns magazine
+author: Shooting Supplies
 ---
 
 # **Tackle & Guns Star Shop Review**

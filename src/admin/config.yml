@@ -29,5 +29,6 @@ collections:
           widget: "image",
           required: false,
         }
+      - { label: "video", name: "video", widget: "youtube", required: "false" }
 
 publish_mode: editorial_workflow

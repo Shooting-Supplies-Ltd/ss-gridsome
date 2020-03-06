@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573223224/August-Sale_cpllax_jmbv2n.jpg
 category: Offers
 keywords: clothing, sale
+author: Shooting Supplies
 ---
 
 # **August Clothing Sale**

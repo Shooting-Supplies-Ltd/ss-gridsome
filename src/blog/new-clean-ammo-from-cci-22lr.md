@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573565373/934CC_Clean22_s01ujt-1_ovb1cw.png
 category: News
 keywords: ammo, 22lr, clean ammo
+author: Shooting Supplies
 ---
 
 # **New Clean 22LR Ammo from CCI**

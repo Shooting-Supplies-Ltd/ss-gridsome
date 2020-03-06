@@ -5,9 +5,10 @@ date: "2019-08-02"
 excerpt: >-
   The Daystate Pulsar Synthetic PCP Air Rifle is a damned good air rifle, read on to learn more.
 thumbnail: >-
-  ttps://res.cloudinary.com/shooting-supplies/image/upload/v1573564169/Daystate-pulsar-MainProd3_eiy45x_twcpgp-1_pjvnp8.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564169/Daystate-pulsar-MainProd3_eiy45x_twcpgp-1_pjvnp8.jpg
 category: News
 keywords: daystate pulsar, air rifle, pcp
+author: Shooting Supplies
 ---
 
 # **Daystate Pulsar Synthetic**

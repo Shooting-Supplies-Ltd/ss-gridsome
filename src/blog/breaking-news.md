@@ -6,6 +6,7 @@ excerpt: >-
   The government is trying to ban .22 semi auto rifles.
 category: News
 keywords: semi auto rifles
+author: Shooting Supplies
 ---
 
 # **Breaking News**

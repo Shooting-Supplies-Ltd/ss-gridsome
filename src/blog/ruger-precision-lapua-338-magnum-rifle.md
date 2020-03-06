@@ -8,6 +8,7 @@ thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1573564820/Ruger-Precision-Lapua-338-Mag-rh2_diduvx_mqkehw.jpg
 category: News
 keywords: lapua, .338, ruger precision, long range rifle
+author: Shooting Supplies
 ---
 
 # **Ruger Precision Lapua Magnum Rifle**
