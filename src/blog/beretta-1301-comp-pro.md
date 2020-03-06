@@ -1,4 +1,5 @@
 ---
+slug: beretta-1301-comp-pro
 title: "Beretta 1301 Comp Pro"
 date: "2020-01-16"
 author: Shooting Supplies
@@ -6,7 +7,6 @@ excerpt: >-
   The Beretta 1301 Comp Pro offers a package of accuracy, power, speed, and comfort.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1583521482/Beretta-1301-Comp-Pro_l9juji.jpg
-slug: beretta-1301-comp-pro
 category: Gun of the Week
 keywords: beretta, 1301 comp pro, shotgun, 12 gauge
 ---

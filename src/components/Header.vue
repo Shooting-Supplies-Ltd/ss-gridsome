@@ -57,7 +57,8 @@
       <g-link to="/"
         ><g-image
           class="p-2"
-          src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564903/ShootingSuppliesLogo-800w-1_cno9o2_tpiyii.jpg"
+          src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564879/ShootingSuppliesLogo-800w_hl9vd1_acybpt.jpg"
+          width="800"
       /></g-link>
     </div>
 
@@ -74,13 +75,13 @@
         <a href="https://shootingsuppliesltd.co.uk/product-category/optics/"
           ><p class="mb-4">Optics</p></a
         >
-        <a href="https://shootingsuppliesltd.co.uk/ammunition/"
+        <a href="https://guns.shootingsuppliesltd.co.uk/blog/ammunition/"
           ><p class="mb-4">Ammo</p></a
         >
-        <a href="https://shootingsuppliesltd.co.uk/clothing-footwear/"
+        <a href="https://guns.shootingsuppliesltd.co.uk/blog/clothing-footwear/"
           ><p class="mb-4">Clothing</p></a
         >
-        <a href="https://shootingsuppliesltd.co.uk/safes-security/"
+        <a href="https://guns.shootingsuppliesltd.co.uk/blog/safes-security/"
           ><p class="mb-4">Security</p></a
         >
         <a
