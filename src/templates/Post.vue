@@ -2,11 +2,13 @@
   <Layout>
     <div class="flex mt-4 mb-4">
       <div class="w-1/4"></div>
-        <div class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4 p-4">
-          <div class="flex justify-center h-24 sm:h-auto">
-            <div v-html="$page.post.content"/>
-          </div>
+      <div
+        class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4 p-4"
+      >
+        <div class="flex justify-center h-24 sm:h-auto">
+          <div v-html="$page.post.content" />
         </div>
+      </div>
       <div class="w-1/4"></div>
     </div>
   </Layout>
@@ -17,6 +19,8 @@ query Post ($path: String!) {
   post: post (path: $path) {
     title
     content
+    excerpt
+    thumbnail
   }
 }
 </page-query>
@@ -25,7 +29,33 @@ query Post ($path: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.post.title
+      title: this.$page.post.title,
+      meta: [
+        {
+          name: "description",
+          content: this.$page.post.excerpt
+        },
+        {
+          property: "og:title",
+          content: this.$page.post.title
+        },
+        {
+          name: "twitter:card",
+          content: this.$page.post.thumbnail ? "summary_large_image" : "summary"
+        },
+        {
+          name: "twitter:creator",
+          content: "@darryljmorley"
+        },
+        {
+          property: "og:description",
+          content: this.$page.post.excerpt
+        },
+        {
+          property: "og:image",
+          content: this.$page.post.thumbnail
+        }
+      ]
     };
   }
 };
