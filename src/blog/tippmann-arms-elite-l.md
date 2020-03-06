@@ -2,6 +2,10 @@
 slug: tippmann-arms-elite-l
 title: "Tippmann Arms Elite-L"
 date: "2019-06-26"
+excerpt: >-
+  It comes equipped with a 12″ Aluminium free floating M-lok hand guard and a smooth profile 16″ barrel.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564280/TippmannArmsElite-L_laqs0z_vvm1yb-1_ri3jsn.jpg
 ---
 
 # **Tippmann Arms Elite-L**

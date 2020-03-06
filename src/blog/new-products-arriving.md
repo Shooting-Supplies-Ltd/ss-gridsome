@@ -2,6 +2,8 @@
 slug: new-products-arriving
 title: "New Products Arriving"
 date: "2016-08-26"
+excerpt: >-
+  New Products have arrived.
 ---
 
 # **New Products Arriving**

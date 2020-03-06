@@ -2,6 +2,10 @@
 slug: pard-nv008-lrf-rangefinder
 title: "Pard NV008 LRF Rangefinder"
 date: "2019-10-02"
+excerpt: >-
+  New in stock is the Pard NV008 LRF Rangefinder, bringing both performance and value for money to our Night Vision range.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564906/PardNV008LRFRangefinder_orrkzp-1_vlvhvz.jpg
 ---
 
 # **Pard NV008 LRF Rangefinder**

@@ -2,6 +2,8 @@
 slug: new-clothing-delivery
 title: "New Clothing Delivery"
 date: "2016-09-29"
+excerpt: >-
+  New in for the Autumn season the latest Harkila and Seeland clothing, including the new Kensinton jacket and trousers.
 ---
 
 # **New Clothing Delivery**

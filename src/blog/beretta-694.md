@@ -2,6 +2,10 @@
 slug: new-beretta-694
 title: "Beretta 694"
 date: "2019-10-31"
+excerpt: >-
+  Due to Beretta's meticulous design process, the 694 represents a supremely balanced over-and-under competition shotgun.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573565406/694-features_wnxsa5_y03dyo.jpg
 ---
 
 # **The New Baretta 694**

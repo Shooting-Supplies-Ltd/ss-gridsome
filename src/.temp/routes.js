@@ -1148,10 +1148,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/howa1500-black-b234360/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/howa1500-black-b167546/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1405,10 +1401,6 @@ export default [
   },
   {
     path: "/guns/benelli828-u-silver-bs-024420-u17/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/benelli828-u-black-bs-030324-y18/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {

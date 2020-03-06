@@ -2,6 +2,10 @@
 slug: sauer-100-xt-synthetic
 title: "Sauer 100 XT Synthetic"
 date: "2019-10-04"
+excerpt: >-
+  The Sauer 100 XT centrefire rifle offers unrivalled performance for an entry level gun.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564924/Sauer-100-XT_setzjg_h20huk.png
 ---
 
 # **Sauer 100 XT Synthetic**

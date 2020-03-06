@@ -2,6 +2,10 @@
 slug: browning-maxus-sporting-black-carbon-fibre
 title: "Browning Maxus Sporting Black Carbon Fibre"
 date: "2019-11-14"
+excerpt: >-
+  Browning's Maxus Sporting in Black Carbon Fibre looks the business.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573765292/MAXUS-SPORTING-BLACK-CARBON_2_cu7ysv.jpg
 ---
 
 # **Browning Maxus Sporting, Black Carbon Fibre**

@@ -2,6 +2,10 @@
 slug: gun-of-the-week-browning-525-sl
 title: 'Gun of the Week - Browning 525 SL 30"'
 date: "2019-07-12"
+excerpt: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564590/Browning-725-ProSport_ri2kti_yrnviq.jpg
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564291/B525-SPORTER-LAMINATED-ADJ_1_wokvdy_heq12o-1_xipuux.jpg
 ---
 
 # **Gun of the Week - Browning 525 SL**

@@ -2,6 +2,10 @@
 slug: new-chiappa-rhino-nebula
 title: "Chiappa Rhino Nebula"
 date: "2019-08-16"
+excerpt: >-
+  Chiappa Firearms have introduced the new Nebula variant of its Rhino revolver, sporting a captivating multi-colored finish which almost instantly made it a star.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564093/Chiappa-Rhino-Nebula_cwglcy_c3tyo2-1_etagap.jpg
 ---
 
 # **Chiappa Rhino Nebula**

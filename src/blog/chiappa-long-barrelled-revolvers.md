@@ -2,6 +2,10 @@
 slug: chiappa-long-barrel-revolvers-have-arrived
 title: "Chiappa Long Barrelled Revolvers Have Arrived"
 date: "2018-12-18"
+excerpt: >-
+  The Chiappa Rhino long barrelled pistols have arrived just in time for Christmas.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564413/Rhino-pistol_wenjlj_vrnocl-1_acmmyq.jpg
 ---
 
 # **Chiappa Long Barrelled Pistols Have Arrived**

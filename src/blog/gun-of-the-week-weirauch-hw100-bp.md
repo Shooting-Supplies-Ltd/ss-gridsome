@@ -2,6 +2,10 @@
 slug: gun-of-the-week-weihrauch-hw100bp
 title: "Weihrauch HW100 Bullpup"
 date: "2019-07-24"
+excerpt: >-
+  For this weeks 'Gun of the Week' our staff have selected the Weihrauch HW 100 BP Air Rifle.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564189/hw100-bullpup-black-grey-synthetic-air-rifle-4_wnppnm_yfupvg-1_rurhlt.jpg
 ---
 
 # **Gun of the Week - Weihrauch HW100 Bullpup**

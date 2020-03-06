@@ -2,6 +2,10 @@
 slug: tippmann-arms-elite-s-gen-2
 title: "Tippmann Arms Elite-S Gen II in Stock Now"
 date: "2019-08-23"
+excerpt: >-
+  Sporting a Gen 2 grip for improved handling, a nickel bolt and now also paired with the 25 round mag.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564514/Elite-S-Gen-II_opwafz_ndi2ul.png
 ---
 
 # **Tippmann Arms Elite-S Gen II**

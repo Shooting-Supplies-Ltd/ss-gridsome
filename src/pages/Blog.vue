@@ -20,7 +20,7 @@
               <h2 class="font-bold uppercase text-xl mt-2">
                 {{ edge.node.title }}
               </h2>
-              <p>{{ edge.node.excerpt }}</p>
+              <p style="margin-top: 10px">{{ edge.node.excerpt }}</p>
             </div>
           </g-link>
         </div>

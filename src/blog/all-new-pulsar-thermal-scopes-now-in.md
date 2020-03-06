@@ -2,6 +2,10 @@
 slug: all-new-pulsar-thermal-scopes-now-in
 title: "All New Pulsar Thermal Scopes Now In!!"
 date: 2017-05-19
+excerpt: >-
+  The quality, ergonomics and functions of the Thermal Scopes have all improved as demonstrated by the new Pulsar Helion unit.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564299/pulsar-xq23v-thermal-monoculars_vntxoy_oxv1c0-1_ecs6pn.jpg
 ---
 
 # **All New Pulsar Thermal Scopes Now In**

@@ -9,7 +9,7 @@ export default [
   },
   {
     run: plugin_gridsome_plugin_netlify_cms_7,
-    options: {"flexsearch":{"profile":"match"},"publicPath":"/admin","plugins":["netlify-cms-widget-youtube"],"htmlTitle":"Content Editor","configPath":"src/admin/config.yml","modulePath":"/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/lib/cms.js","htmlPath":"/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/templates/index.html","injectScript":true,"enableIdentityWidget":true,"debug":false}
+    options: {"flexsearch":{"profile":"match"},"publicPath":"/ss-cms","plugins":["netlify-cms-widget-youtube"],"htmlTitle":"Content Editor","configPath":"src/admin/config.yml","modulePath":"/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/lib/cms.js","htmlPath":"/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/templates/index.html","injectScript":true,"enableIdentityWidget":true,"debug":false}
   },
   {
     run: plugin_gridsome_plugin_flexsearch_8,

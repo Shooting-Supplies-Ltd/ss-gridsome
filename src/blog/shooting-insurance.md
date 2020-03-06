@@ -2,6 +2,10 @@
 slug: protect-your-gun
 title: "Do You Need Shooting Insurance?"
 date: "2019-06-28"
+excerpt: >-
+  Your household insurance policy may not be covering your guns & equipment.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573222273/hiscox-insurance_kzzgbi.jpg
 ---
 
 # **Shooting Insurance**

@@ -2,6 +2,10 @@
 slug: blaser-r8-ultimate
 title: "Blaser R8 Ultimate"
 date: "2019-08-09"
+excerpt: >-
+  The Blaser R8 Ultimate needs no introduction and has set the standard in functionality in design.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564101/Blaser-R8-Ultimate_y4khm5_nq7big-1_eqiafx.jpg
 ---
 
 # **Blaser R8 Ultimate**

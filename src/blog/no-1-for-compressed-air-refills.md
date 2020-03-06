@@ -2,6 +2,10 @@
 slug: 1st-for-compressed-air-refills
 title: "No. 1 for Compressed Air Refills!"
 date: "2019-11-21"
+excerpt: >-
+  We provide quick and easy Air Refills for your air rifles or diving tanks.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1574353197/Gun-Charging-Kit-A-Clamp-with-hose_jkwukc.jpg
 ---
 
 # **Shooting Supplies are your first stop for air refills!**

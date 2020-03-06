@@ -2,6 +2,10 @@
 slug: tippmann-arms-m4-pro-s
 title: "Tippmann Arms M4 Pro-S"
 date: "2019-06-26"
+excerpt: >-
+  The newest model to the Tippmann family is the Pro-S. The Pro-S has a polymer handguard, instead of the Aluminium version on the Elite.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564117/Tippmann-Arms-Pro-S-800x320_kllxzp_qk0n8g-1_esmiej.jpg
 ---
 
 # **Tippmann Arms M4 Pro-S**

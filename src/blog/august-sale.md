@@ -2,6 +2,10 @@
 slug: august-clothing-sale
 title: "August Sale On Clothing"
 date: "2019-07-26"
+excerpt: >-
+  For the month of August, we are holding a massive 20% sale on all clothing and footwear items in store.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573223224/August-Sale_cpllax_jmbv2n.jpg
 ---
 
 # **August Clothing Sale**

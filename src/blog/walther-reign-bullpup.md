@@ -2,6 +2,10 @@
 slug: walther-reign-bullpup-now-in
 title: "Walther Reign Bullpup Now In"
 date: "2019-06-25"
+excerpt: >-
+  The Walther Reign bullpup compressed air rifle is a real eye-catcher, the short bull-pup construction alone makes it stand out from the crowd.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564176/Walther-Reign-Slide_jdefmc_edi3xq-1_mlqwtr.jpg
 ---
 
 # **Walther Reign Bullpup Now In Stock**

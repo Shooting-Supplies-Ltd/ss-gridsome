@@ -2,6 +2,10 @@
 slug: new-clean-ammo-cci-22lr
 title: "New clean ammo from CCI for your 22LR"
 date: "2019-10-24"
+excerpt: >-
+  We have received a batch of the new ammo from CCI for your 22LR rifles.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573565373/934CC_Clean22_s01ujt-1_ovb1cw.png
 ---
 
 # **New Clean 22LR Ammo from CCI**

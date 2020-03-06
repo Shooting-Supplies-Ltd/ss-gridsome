@@ -2,6 +2,10 @@
 slug: new-tippmann-arms-25-round-magazine
 title: "New Tippmann Arms 25 Round Magazines!!!"
 date: "2018-12-13"
+excerpt: >-
+  We have received our first shipment of the Tippmann Arms 22LR 25 round magazines.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564321/Tippmann-Arms-M4-22-25-22LR-magazine_opcpgq_bjvxec-1_glk4mc.jpg
 ---
 
 # **New Tippmann Arms 25 Round Magazines**
