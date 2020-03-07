@@ -11,6 +11,8 @@ category: Gun of the Week
 keywords: beretta, 1301 comp pro, shotgun, 12 gauge
 ---
 
+# **Beretta 1301 Comp Pro**
+
 ![Beretta 1301 Comp Pro](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521482/Beretta-1301-Comp-Pro_l9juji.jpg)
 
 The Beretta 1301 Comp Pro offers a package of accuracy, power, speed, and comfort. As a result, the 12 gauge shotgun is one of the most sought after models from the Beretta lineup.

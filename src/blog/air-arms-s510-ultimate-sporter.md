@@ -11,6 +11,8 @@ category: Gun of the Week
 keywords: air arms, s510 ultimate sporter, pcp air rifle
 ---
 
+# **Air Arms S510 Ultimate Sporter**
+
 ![In-store from £969](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521476/Air-Arms-Ultimate-Sporter-177-Black-Air-Rifle-scaled_glg6d0.jpg)
 
 The S510 Ultimate Sporter from Air Arms is packed with quality and great features. This PCP air rifle has a fresh look, new features, and is built to be one of the best hunting rifles available.

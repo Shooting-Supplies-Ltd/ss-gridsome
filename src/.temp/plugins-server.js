@@ -1,6 +1,7 @@
 import plugin_gridsome_plugin_tailwindcss_5 from "/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
 import plugin_gridsome_plugin_netlify_cms_7 from "/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome-plugin-netlify-cms/gridsome.client.js"
 import plugin_gridsome_plugin_flexsearch_8 from "/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome-plugin-flexsearch/gridsome.client.js"
+import plugin_gridsome_plugin_google_analytics_9 from "/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/@gridsome/plugin-google-analytics/gridsome.client.js"
 
 export default [
   {
@@ -14,5 +15,9 @@ export default [
   {
     run: plugin_gridsome_plugin_flexsearch_8,
     options: {"collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","slug","images","price","mechanism","id","variant","condition","calibre"]}],"searchFields":["title","mechanism","calibre"],"flexsearch":{"profile":"default"}}
+  },
+  {
+    run: plugin_gridsome_plugin_google_analytics_9,
+    options: {"id":"UA-144478142-2"}
   }
 ]

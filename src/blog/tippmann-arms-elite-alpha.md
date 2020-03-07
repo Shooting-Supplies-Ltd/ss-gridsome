@@ -11,6 +11,8 @@ category: News
 keywords: tippmann arms, elite alpha, m4, 22lr, rifle
 ---
 
+# **Tippmann Arms Elite Alpha - Special Edition Rifle**
+
 We have a limited run of the Tippmann Arms Elite Alpha, see it now at the British Shooting Show or in-store.
 
 With all of the features of the Elite-L plus:

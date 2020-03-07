@@ -11,6 +11,8 @@ category: News
 keywords: marlin dark, lever action, rifle
 ---
 
+# **New Marlin Dark**
+
 Coming Soon..
 
 Owning one of Marlins' highly anticipated Dark Series lever-action rifles is in touching distance. The dark series range of 1894/95 stealthy, tricked out, and blacked out lever-action rifles is aiming to bring lever-action rifles back to the fore.

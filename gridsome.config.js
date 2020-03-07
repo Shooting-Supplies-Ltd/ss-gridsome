@@ -70,6 +70,18 @@ module.exports = {
         ],
         searchFields: ["title", "mechanism", "calibre"]
       }
+    },
+    {
+      use: "@gridsome/plugin-google-analytics",
+      options: {
+        id: "UA-144478142-2"
+      }
+    },
+    {
+      use: "gridsome-plugin-yandex-metrika",
+      options: {
+        id: 55362838
+      }
     }
   ],
   templates: {

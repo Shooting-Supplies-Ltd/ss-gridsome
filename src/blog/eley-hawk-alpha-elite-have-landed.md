@@ -11,6 +11,8 @@ category: News
 keywords: eley hawk, cartridges, shotgun, ammo
 ---
 
+# **New Eley Hawk Alpha Elite Cartiridges**
+
 ![Eley Hawk Alpha Elite Launch Poster](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521426/68936_EH_Product_Sheet_practical-shooting-FINAL-NO-PF1_ti2omg.jpg)
 
 Eley Hawk has launched its latest innovation in cartridges the Alpha Elite. A brand new “birdshot” cartridge for the Practical Shooting Discipline this has been crafted to ensure the best results for this fast-paced sport.
