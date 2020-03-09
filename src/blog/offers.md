@@ -20,12 +20,12 @@ Call for further details: 01527 831 261 or visit us in-store.
 
 ## Air Guns
 
-| Description                                   | Std Price | Offer Price |
-| --------------------------------------------- | --------- | ----------- |
-| BSA R10 MK2 Super Carbine .177 – Black Pepper | £779      | £679        |
-| BSA Definite Black Soft Touch .177            |           | £899        |
-| BSA Ultra SE Tactical Package                 |           | £579        |
-| Walther Reign                                 | £799      | £699        |
+| Description | Std Price | Offer Price |
+|-------------|-----------|-------------|
+| BSA R10 MK2 Super Carbine .177 – Black Pepper | £779 | £679 |
+| BSA Definite Black Soft Touch .177 | | £899 |
+| BSA Ultra SE Tactical Package | | £579 |
+| Walther Reign | £799 | £699 |
 
 ## Shotguns
 

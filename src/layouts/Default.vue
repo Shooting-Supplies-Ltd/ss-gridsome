@@ -3,9 +3,10 @@
     <Header />
     <transition name="fade" appear>
       <main>
-        <slot/>
+        <slot />
       </main>
     </transition>
+    <Footer />
   </div>
 </template>
 
@@ -20,12 +21,13 @@
 </style>
 
 <script>
-import Header from '~/components/Header.vue'
+import Header from "~/components/Header.vue";
+import Footer from "~/components/Footer.vue";
 
 export default {
   components: {
     Header,
+    Footer
   }
-}
+};
 </script>
-

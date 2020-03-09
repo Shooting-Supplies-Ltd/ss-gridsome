@@ -680,10 +680,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/sig-sauer-p22619-f08672/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/sig-sauer-p22619-f08673/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -2044,16 +2040,20 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--shotgun-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Shotgun.vue")
   },
   {
-    path: "/rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Rifle.vue")
-  },
-  {
     path: "/pistol-black-powder/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--pistol-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/PistolBlackPowder.vue")
   },
   {
+    path: "/rifle/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Rifle.vue")
+  },
+  {
     path: "/long-barrel-pistol/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--long-barrel-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/LongBarrelPistol.vue")
+  },
+  {
+    path: "/guns/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Guns.vue")
   },
   {
     path: "/blank-pistol/:page(\\d+)?/",
@@ -2080,17 +2080,13 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--test-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Test.vue")
   },
   {
-    path: "/about/",
-    component: () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/About.vue")
-  },
-  {
     name: "404",
     path: "/404/",
     component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
   },
   {
     name: "home",
-    path: "/:page(\\d+)?/",
+    path: "/",
     component: () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Index.vue")
   },
   {

@@ -5,9 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "Shooting Supplies Ltd - Guns",
-  siteDescription:
-    "Shooting Supplies Ltd are the Midlands leading Firearms Dealer & Shooting Supplies Store.",
+  siteName: "Shooting Supplies Ltd",
+  siteDescription: "The Midlands Leading Shooting Supplier",
   transformers: {
     remark: {
       externalLinksTarget: "_blank",
@@ -36,6 +35,20 @@ module.exports = {
         remark: {
           plugins: [["gridsome-plugin-remark-youtube"]]
         }
+      }
+    },
+    {
+      use: "gridsome-plugin-purgecss",
+      // default options, the following will be included if you don't provide anything
+      options: {
+        content: [
+          "./src/**/*.vue",
+          "./src/**/*.js",
+          "./src/**/*.jsx",
+          "./src/**/*.pug",
+          "./src/**/*.md"
+        ],
+        defaultExtractor: content => content.match(/[A-Za-z0-9-_:/]+/g) || []
       }
     },
     {

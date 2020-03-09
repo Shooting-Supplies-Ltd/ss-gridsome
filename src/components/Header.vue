@@ -1,12 +1,14 @@
 <template>
   <header>
+    <!-- Top Bar -->
     <div
       id="top-bar"
       class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:h-10"
     >
+      <!-- Phone Number -->
       <div>
-        <div id="contact" class="lg:flex">
-          <p class="mr-8 font-bold">
+        <div id="contact" class="lg:flex hover:text-ssorange">
+          <p class="mr-8 font-semibold">
             <a href="tel:01527831261"
               ><font-awesome :icon="['fas', 'phone-alt']" size="md" /><span
                 class="text-lg ml-2"
@@ -14,33 +16,33 @@
               ></a
             >
           </p>
-          <!-- <p><a href="mailto:info@shootingsuppliesltd.co.uk?subject=Website General Enquiry"><span>Email Us: </span></a></p> -->
         </div>
       </div>
 
+      <!-- Social Contact Options -->
       <div>
         <div id="social" class="lg:flex">
           <!-- <p class="mr-4">Find Us On:</p> -->
-          <p class="mr-4">
+          <p class="mr-4 hover:text-ssorange">
             <a
               href="https://www.facebook.com/ShootingSuppliesLTD/"
               target="_blank"
               ><font-awesome :icon="['fab', 'facebook-square']" size="lg"
             /></a>
           </p>
-          <p class="mr-4">
+          <p class="mr-4 hover:text-ssorange">
             <a href="https://twitter.com/shootingsupplys" target="_blank"
               ><font-awesome :icon="['fab', 'twitter']" size="lg"
             /></a>
           </p>
-          <p class="mr-4">
+          <p class="mr-4 hover:text-ssorange">
             <a
               href="https://www.instagram.com/shootingsupplies/"
               target="_blank"
               ><font-awesome :icon="['fab', 'instagram']" size="lg"
             /></a>
           </p>
-          <p class="">
+          <p class="hover:text-ssorange">
             <a href="mailto:info@shootingsuppliesltd.co.uk" target="_blank"
               ><font-awesome :icon="['fas', 'envelope']" size="lg"
             /></a>
@@ -49,6 +51,7 @@
       </div>
     </div>
 
+    <!-- Logo & Mobile Menu Button-->
     <div class="flex sm:justify-center">
       <button @click="toggle" id="mobile-menu" class="lg:hidden">
         <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" />
@@ -58,80 +61,101 @@
           SH<span class="text-ssorange">O</span
           ><span style="color:black;">O</span>TING SUPPLIES LTD
         </h1>
-        <!-- <g-image
-          class="p-2"
-          src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564879/ShootingSuppliesLogo-800w_hl9vd1_acybpt.jpg"
-          width="800"
-      /> -->
       </g-link>
     </div>
 
+    <!-- Mobile Menu With Display Option -->
     <div
       :class="open ? 'block' : 'hidden'"
       class="bg-ssblue text-white uppercase font-semibold"
     >
-      <SearchHeader />
+      <!-- Search Bar Component -->
+      <Search />
+
       <div class="text-sm sm:flex-grow align-center p-4 text-lg text-center">
-        <a href="https://shootingsuppliesltd.co.uk"><p class="mb-4">Home</p></a>
-        <a href="https://guns.shootingsuppliesltd.co.uk"
-          ><p class="mb-4">Guns</p></a
-        >
-        <a href="https://shootingsuppliesltd.co.uk/product-category/optics/"
-          ><p class="mb-4">Optics</p></a
-        >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog/ammunition/"
-          ><p class="mb-4">Ammo</p></a
-        >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog/clothing-footwear/"
-          ><p class="mb-4">Clothing</p></a
-        >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog/safes-security/"
-          ><p class="mb-4">Security</p></a
-        >
+        <g-link to="/">
+          <p class="mb-4 hover:text-ssorange">Home</p>
+        </g-link>
+
+        <g-link to="/guns">
+          <p class="mb-4 hover:text-ssorange">Guns</p>
+        </g-link>
+
+        <a href="https://shootingsuppliesltd.co.uk/product-category/optics/">
+          <p class="mb-4 hover:text-ssorange">Optics</p>
+        </a>
+
+        <g-link to="/blog/ammunition/">
+          <p class="mb-4 hover:text-ssorange">Ammo</p>
+        </g-link>
+
+        <g-link to="/blog/clothing-footwear/">
+          <p class="mb-4 hover:text-ssorange">Clothing</p>
+        </g-link>
+
+        <g-link to="/blog/safes-security/">
+          <p class="mb-4 hover:text-ssorange">Security</p>
+        </g-link>
+
         <a
           href="https://shootingsuppliesltd.co.uk/product-category/spares-accessories/"
-          ><p class="mb-4">Accessories</p></a
         >
-        <a href="https://shootingsuppliesltd.co.uk/special-offers/"
-          ><p class="mb-4">Offers</p></a
-        >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog"
-          ><p class="mb-4">Blog</p></a
-        >
+          <p class="mb-4 hover:text-ssorange">Accessories</p>
+        </a>
+
+        <a href="https://shootingsuppliesltd.co.uk/special-offers/">
+          <p class="mb-4 hover:text-ssorange">Offers</p>
+        </a>
+
+        <g-link to="/blog">
+          <p class="mb-4 hover:text-ssorange">Blog</p>
+        </g-link>
       </div>
     </div>
 
+    <!-- Main Nav -->
     <nav
       id="menu"
-      class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:uppercase lg:text-2xl lg:h-auto"
+      class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:uppercase lg:text-2xl lg:h-auto font-medium"
     >
       <div class="lg:flex lg:mt-4">
-        <a href="https://shootingsuppliesltd.co.uk"><p class="mr-8">Home</p></a>
-        <a href="https://guns.shootingsuppliesltd.co.uk"
-          ><p class="mr-8">Guns</p></a
-        >
-        <a href="https://shootingsuppliesltd.co.uk/product-category/optics/"
-          ><p class="mr-8">Optics</p></a
-        >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog/ammunition/"
-          ><p class="mr-8">Ammo</p></a
-        >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog/clothing-footwear/"
-          ><p class="mr-8">Clothing</p></a
-        >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog/safes-security/"
-          ><p class="mr-8">Security</p></a
-        >
+        <g-link to="/">
+          <p class="mr-8 hover:text-ssorange">Home</p>
+        </g-link>
+
+        <g-link to="/guns">
+          <p class="mr-8 hover:text-ssorange">Guns</p>
+        </g-link>
+
+        <a href="https://shootingsuppliesltd.co.uk/product-category/optics/">
+          <p class="mr-8 hover:text-ssorange">Optics</p>
+        </a>
+
+        <g-link to="/blog/ammunition/">
+          <p class="mr-8 hover:text-ssorange">Ammo</p>
+        </g-link>
+
+        <g-link to="/blog/clothing-footwear/">
+          <p class="mr-8 hover:text-ssorange">Clothing</p>
+        </g-link>
+
+        <g-link to="/blog/safes-security/">
+          <p class="mr-8 hover:text-ssorange">Security</p>
+        </g-link>
+
         <a
           href="https://shootingsuppliesltd.co.uk/product-category/spares-accessories/"
-          ><p class="mr-8">Accessories</p></a
         >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog/offers"
-          ><p class="mr-8">Offers</p></a
-        >
-        <a href="https://guns.shootingsuppliesltd.co.uk/blog"
-          ><p class="mb-4">Blog</p></a
-        >
+          <p class="mr-8 hover:text-ssorange">Accessories</p>
+        </a>
+
+        <g-link to="/blog/offers">
+          <p class="mr-8 hover:text-ssorange">Offers</p>
+        </g-link>
+
+        <g-link to="/blog">
+          <p class="mb-4 hover:text-ssorange">Blog</p>
+        </g-link>
       </div>
     </nav>
 
@@ -139,13 +163,14 @@
       id="main-search"
       class="hidden lg:block lg:relative lg:z-50 lg:h-12 lg:w-full lg:mb-12"
     >
-      <SearchHeader class="lg:bg-ssblue" />
+      <!-- Search Bar Component -->
+      <Search class="lg:bg-ssblue" />
     </div>
   </header>
 </template>
 
 <script>
-import SearchHeader from "~/components/SearchHeader.vue";
+import Search from "~/components/Search.vue";
 
 export default {
   name: "Header",
@@ -160,7 +185,7 @@ export default {
     }
   },
   components: {
-    SearchHeader
+    Search
   }
 };
 </script>
