@@ -2064,12 +2064,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirPistol.vue")
   },
   {
-    path: "/air-rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirRifle.vue")
-  },
-  {
     path: "/blog/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Blog.vue")
+  },
+  {
+    path: "/air-rifle/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirRifle.vue")
   },
   {
     path: "/blog/:slug/",
