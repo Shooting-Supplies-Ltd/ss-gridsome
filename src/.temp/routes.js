@@ -76,10 +76,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/weihrauch-hw-77-k-laminate208717-b/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/weihrauch-hw-100-kt-laminate-adjustable1970098/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -517,10 +513,6 @@ export default [
   },
   {
     path: "/guns/smith-and-wesson1000-fb-28081/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/umarex-uzi-w1012264/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1972,10 +1964,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/brocock-enigma-nvn/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/air-arms-pro-sport134886/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -2028,6 +2016,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/accuracy-internationalnull-nvn/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
     path: "/guns/bsadefiantde-220251/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -2068,24 +2060,24 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/rifle-black-powder/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--rifle-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/RifleBlackPowder.vue")
-  },
-  {
     path: "/shotgun-silenced/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--shotgun-silenced-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/ShotgunSilenced.vue")
+  },
+  {
+    path: "/rifle-black-powder/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--rifle-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/RifleBlackPowder.vue")
   },
   {
     path: "/shotgun/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--shotgun-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Shotgun.vue")
   },
   {
-    path: "/rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Rifle.vue")
-  },
-  {
     path: "/pistol-black-powder/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--pistol-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/PistolBlackPowder.vue")
+  },
+  {
+    path: "/rifle/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Rifle.vue")
   },
   {
     path: "/long-barrel-pistol/:page(\\d+)?/",
@@ -2104,12 +2096,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirPistol.vue")
   },
   {
-    path: "/blog/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Blog.vue")
-  },
-  {
     path: "/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirRifle.vue")
+  },
+  {
+    path: "/blog/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Blog.vue")
   },
   {
     path: "/blog/:slug/",

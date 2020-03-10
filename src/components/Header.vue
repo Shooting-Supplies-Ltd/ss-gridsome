@@ -98,7 +98,9 @@
       <!-- Search Bar Component -->
       <Search />
 
-      <div class="text-lg lg:flex-grow align-center p-12 text-2xl text-center">
+      <div
+        class="text-lg lg:flex-grow align-center p-1 pb-6 text-2xl text-center"
+      >
         <g-link to="/">
           <p class="mb-4 hover:text-ssorange">Home</p>
         </g-link>

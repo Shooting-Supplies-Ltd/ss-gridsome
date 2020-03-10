@@ -3,9 +3,9 @@
     <div class="flex mt-4 mb-4">
       <div class="w-1/4"></div>
       <div
-        class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4 p-4"
+        class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-16 lg:w-2/4 p-4"
       >
-        <div class="flex justify-center h-24 sm:h-auto">
+        <div class="flex justify-center h-auto sm:h-24 sm:h-auto">
           <div v-html="$page.post.content" />
         </div>
       </div>
