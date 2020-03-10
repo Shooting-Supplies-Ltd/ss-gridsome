@@ -1,8 +1,8 @@
 <template>
   <Layout>
     <div>
-      <div id="top-row" class="hidden sm:block sm:mt-20">
-        <ul class="flex justify-between items-center mx-12">
+      <div id="top-row" class="hidden lg:block lg:mt-20">
+        <ul class="flex justify-between items-center lg:mx-12">
           <div>
             <li>
               <g-link to="/blog/gunsmithing/">
@@ -66,20 +66,23 @@
         </ul>
       </div>
 
-      <div class="hidden sm:block mx-8 my-4">
+      <div class="hidden lg:block mx-8 my-4">
         <hr class="border-ssblue" />
       </div>
 
-      <div id="product-select-row-1" class="my-8 sm:mx-24 sm:my-24">
-        <ul class="flex flex-wrap justify-around items-center">
+      <div
+        id="product-select-row-1"
+        class="my-8 md:mx-8 md:my-12 lg:mx-24 lg:my-24"
+      >
+        <ul class="flex flex-wrap justify-around">
           <div>
-            <li class="hover:text-ssorange mb-12 border-t sm:border-none">
+            <li class="mb-12 border-t lg:border-none hover:text-ssorange">
               <g-link to="/guns">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565379/Guns_bylme2_icn8l5.jpg"
                 />
                 <h2
-                  class="flex justify-center font-bold text-xl sm:text-2xl sm:mt-6"
+                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
                 >
                   GUNS
                 </h2>
@@ -87,13 +90,13 @@
             </li>
           </div>
           <div>
-            <li class="hover:text-ssorange mb-12 border-t sm:border-none">
+            <li class="mb-12 hover:text-ssorange border-t lg:border-none">
               <g-link to="/blog/ammunition/">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565380/Ammo_dqveke_faucxd.jpg"
                 />
                 <h2
-                  class="flex justify-center font-bold text-xl sm:text-2xl sm:mt-6"
+                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
                 >
                   AMMO
                 </h2>
@@ -101,13 +104,13 @@
             </li>
           </div>
           <div>
-            <li class="hover:text-ssorange mb-12 border-t sm:border-none">
+            <li class="hover:text-ssorange mb-12 border-t lg:border-none">
               <g-link to="">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565381/Scopes_pweqna_a6ievw.jpg"
                 />
                 <h2
-                  class="flex justify-center font-bold text-xl sm:text-2xl sm:mt-6"
+                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
                 >
                   OPTICS
                 </h2>
@@ -116,30 +119,30 @@
           </div>
         </ul>
       </div>
-      <div id="product-select-row-2" class="my-8 sm:mx-24 sm:my-24">
+      <div id="product-select-row-2" class="my-8 lg:mx-24 lg:my-24">
         <ul class="flex flex-wrap items-center justify-around">
           <div>
-            <li class="hover:text-ssorange mb-12 border-t sm:border-none">
+            <li class="hover:text-ssorange mb-12 border-t lg:border-none">
               <g-link to="/blog/maintenance-cleaning/">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565382/Maintenance_sne6oe_gmgncb.jpg"
                 />
                 <h2
-                  class="flex justify-center font-bold text-xl sm:text-2xl sm:mt-6"
+                  class="flex flex-wrap justify-center font-bold text-xl lg:text-2xl lg:mt-6"
                 >
-                  MAINTENANCE & CLEANING
+                  MAINTENANCE
                 </h2>
               </g-link>
             </li>
           </div>
           <div>
-            <li class="hover:text-ssorange mb-12 border-t sm:border-none">
+            <li class="hover:text-ssorange mb-12 border-t lg:border-none">
               <g-link to="/blog/reloading/">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565383/Reloading_aruwyq_pibivk.jpg"
                 />
                 <h2
-                  class="flex justify-center font-bold text-xl sm:text-2xl sm:mt-6"
+                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
                 >
                   RELOADING
                 </h2>
@@ -147,13 +150,13 @@
             </li>
           </div>
           <div>
-            <li class="hover:text-ssorange mb-4 border-t sm:border-none">
+            <li class="hover:text-ssorange mb-4 border-t lg:border-none">
               <g-link to="/blog/clothing-footwear/">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565383/Clothing_r4zxrt_wo3xz7.jpg"
                 />
                 <h2
-                  class="flex justify-center font-bold text-xl sm:text-2xl sm:mt-6"
+                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
                 >
                   CLOTHING
                 </h2>

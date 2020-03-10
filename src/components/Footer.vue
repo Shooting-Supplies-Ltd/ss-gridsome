@@ -1,6 +1,6 @@
 <template>
   <div
-    class="hidden md:flex pb-8 pt-4 flex bg-ssblue text-white justify-around shadow-top md:text-xl"
+    class="hidden lg:flex pb-8 pt-4 flex bg-ssblue text-white justify-around shadow-top lg:text-xl"
   >
     <!-- About Us Footer Menu -->
     <div id="about-us-footer-menu">

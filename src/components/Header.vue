@@ -3,14 +3,14 @@
     <!-- Top Bar -->
     <div
       id="top-bar"
-      class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:h-10"
+      class="hidden lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:h-10"
     >
       <!-- Phone Number -->
       <div>
         <div id="contact" class="lg:flex hover:text-ssorange">
           <p class="mr-8 font-semibold">
             <a href="tel:01527831261"
-              ><font-awesome :icon="['fas', 'phone-alt']" size="md" /><span
+              ><font-awesome :icon="['fas', 'phone-alt']" size="lg" /><span
                 class="text-lg ml-2"
                 >01527 831 261</span
               ></a
@@ -52,11 +52,11 @@
     </div>
 
     <!-- Logo & Mobile Menu Button-->
-    <div class="md:flex justify-center mt-4 md:mt-0">
-      <div id="mobile-logo" class="block md:hidden flex justify-center">
+    <div class="lg:flex justify-center mt-4 lg:mt-0">
+      <div id="mobile-logo" class="block lg:hidden flex justify-center">
         <g-link to="/">
           <h1
-            class="text-2xl text-ssblue mb-4"
+            class="text-2xl sm:text-5xl text-ssblue mb-4"
             style="font-family: ShooterSFRegular;"
           >
             SH<span class="text-ssorange">O</span
@@ -66,12 +66,12 @@
       </div>
       <div
         id="mobile-menu"
-        class="block flex justify-center bg-ssblue p-2 md:hidden"
+        class="block flex justify-center bg-ssblue p-2 lg:hidden"
       >
         <button
           @click="toggle"
           id="mobile-menu"
-          class="md:hidden text-white text-xl"
+          class="lg:hidden text-white text-xl"
         >
           MENU
           <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
@@ -80,7 +80,7 @@
       <div id="main-logo">
         <g-link to="/">
           <h1
-            class="md:my-4 hidden md:block md:text-5xl text-ssblue text-5xl"
+            class="lg:my-4 hidden lg:block lg:text-5xl text-ssblue"
             style="font-family: ShooterSFRegular;"
           >
             SH<span class="text-ssorange">O</span
@@ -98,7 +98,7 @@
       <!-- Search Bar Component -->
       <Search />
 
-      <div class="text-sm sm:flex-grow align-center p-12 text-2xl text-center">
+      <div class="text-lg lg:flex-grow align-center p-12 text-2xl text-center">
         <g-link to="/">
           <p class="mb-4 hover:text-ssorange">Home</p>
         </g-link>
@@ -142,9 +142,9 @@
     <!-- Main Nav -->
     <nav
       id="menu"
-      class="hidden md:block md:flex md:justify-around md:items-center md:bg-ssblue md:text-white md:uppercase md:text-2xl md:h-auto font-medium"
+      class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:uppercase lg:text-xl xl:text-2xl font-medium"
     >
-      <div class="md:flex md:mt-4">
+      <div class="lg:flex lg:mt-4">
         <g-link to="/">
           <p class="mr-8 hover:text-ssorange">Home</p>
         </g-link>
@@ -188,9 +188,9 @@
     <!-- Search Bar Component -->
     <div
       id="main-search"
-      class="hidden md:block md:relative md:z-50 md:h-8 md:w-full md:mb-8"
+      class="hidden lg:block lg:relative lg:z-50 lg:h-8 lg:w-full lg:mb-8"
     >
-      <Search class="md:bg-ssblue" />
+      <Search class="lg:bg-ssblue" />
     </div>
   </header>
 </template>
