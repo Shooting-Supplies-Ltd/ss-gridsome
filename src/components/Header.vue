@@ -52,16 +52,42 @@
     </div>
 
     <!-- Logo & Mobile Menu Button-->
-    <div class="flex sm:justify-center">
-      <button @click="toggle" id="mobile-menu" class="lg:hidden">
-        <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" />
-      </button>
-      <g-link to="/">
-        <h1 class="text-ssblue text-5xl" style="font-family: ShooterSFRegular;">
-          SH<span class="text-ssorange">O</span
-          ><span style="color:black;">O</span>TING SUPPLIES LTD
-        </h1>
-      </g-link>
+    <div class="md:flex justify-center mt-4 md:mt-0">
+      <div id="mobile-logo" class="block md:hidden flex justify-center">
+        <g-link to="/">
+          <h1
+            class="text-2xl text-ssblue mb-4"
+            style="font-family: ShooterSFRegular;"
+          >
+            SH<span class="text-ssorange">O</span
+            ><span style="color:black;">O</span>TING SUPPLIES LTD
+          </h1>
+        </g-link>
+      </div>
+      <div
+        id="mobile-menu"
+        class="block flex justify-center bg-ssblue p-2 md:hidden"
+      >
+        <button
+          @click="toggle"
+          id="mobile-menu"
+          class="md:hidden text-white text-xl"
+        >
+          MENU
+          <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
+        </button>
+      </div>
+      <div id="main-logo">
+        <g-link to="/">
+          <h1
+            class="md:my-4 hidden md:block md:text-5xl text-ssblue text-5xl"
+            style="font-family: ShooterSFRegular;"
+          >
+            SH<span class="text-ssorange">O</span
+            ><span style="color:black;">O</span>TING SUPPLIES LTD
+          </h1>
+        </g-link>
+      </div>
     </div>
 
     <!-- Mobile Menu With Display Option -->
@@ -72,13 +98,13 @@
       <!-- Search Bar Component -->
       <Search />
 
-      <div class="text-sm sm:flex-grow align-center p-4 text-lg text-center">
+      <div class="text-sm sm:flex-grow align-center p-12 text-2xl text-center">
         <g-link to="/">
           <p class="mb-4 hover:text-ssorange">Home</p>
         </g-link>
 
         <g-link to="/guns">
-          <p class="mb-4 hover:text-ssorange">Guns</p>
+          <p class=" mb-4 hover:text-ssorange">Guns</p>
         </g-link>
 
         <a href="https://shootingsuppliesltd.co.uk/product-category/optics/">
@@ -108,7 +134,7 @@
         </a>
 
         <g-link to="/blog">
-          <p class="mb-4 hover:text-ssorange">Blog</p>
+          <p class="hover:text-ssorange">Blog</p>
         </g-link>
       </div>
     </div>
@@ -116,9 +142,9 @@
     <!-- Main Nav -->
     <nav
       id="menu"
-      class="hidden lg:block lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:uppercase lg:text-2xl lg:h-auto font-medium"
+      class="hidden md:block md:flex md:justify-around md:items-center md:bg-ssblue md:text-white md:uppercase md:text-2xl md:h-auto font-medium"
     >
-      <div class="lg:flex lg:mt-4">
+      <div class="md:flex md:mt-4">
         <g-link to="/">
           <p class="mr-8 hover:text-ssorange">Home</p>
         </g-link>
@@ -159,12 +185,12 @@
       </div>
     </nav>
 
+    <!-- Search Bar Component -->
     <div
       id="main-search"
-      class="hidden lg:block lg:relative lg:z-50 lg:h-12 lg:w-full lg:mb-12"
+      class="hidden md:block md:relative md:z-50 md:h-8 md:w-full md:mb-8"
     >
-      <!-- Search Bar Component -->
-      <Search class="lg:bg-ssblue" />
+      <Search class="md:bg-ssblue" />
     </div>
   </header>
 </template>

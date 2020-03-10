@@ -1,5 +1,7 @@
 <template>
-  <div class="pb-8 pt-4 flex bg-ssblue text-white justify-around shadow-top">
+  <div
+    class="hidden md:flex pb-8 pt-4 flex bg-ssblue text-white justify-around shadow-top md:text-xl"
+  >
     <!-- About Us Footer Menu -->
     <div id="about-us-footer-menu">
       <h3>About Us</h3>
