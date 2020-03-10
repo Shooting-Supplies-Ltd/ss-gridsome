@@ -1,5 +1,17 @@
 <template>
   <Layout>
+    <div
+      id="filter-menu"
+      class="block flex justify-center bg-white p-2 lg:hidden border-b-2 border-black"
+    >
+      <button @click="toggle" id="filter-menu" class="lg:hidden text-xl">
+        Filter
+        <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
+      </button>
+    </div>
+    <div :class="open ? 'block' : 'hidden'" class="uppercase font-semibold">
+      <Sidebar />
+    </div>
     <div class="flex items-start">
       <div class="hidden lg:block lg:mt-16 lg:w-3/8 h-screen">
         <Sidebar class="min-w-full ml-6" />
@@ -55,6 +67,16 @@ import Sidebar from "~/components/Sidebar.vue";
 import { Pager } from "gridsome";
 
 export default {
+  data() {
+    return {
+      open: false
+    };
+  },
+  methods: {
+    toggle() {
+      this.open = !this.open;
+    }
+  },
   components: {
     Sidebar,
     Pager
