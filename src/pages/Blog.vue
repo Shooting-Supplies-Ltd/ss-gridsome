@@ -1,13 +1,11 @@
 <template>
   <Layout>
     <div class="flex items-start">
-      <div class="hidden lg:block lg:mt-12 lg:w-3/8 h-screen">
+      <!-- <div class="hidden lg:block lg:mt-16 lg:w-3/8 h-screen">
         <Sidebar class="min-w-full ml-6" />
-      </div>
+      </div> -->
 
-      <div
-        class="flex justify-center flex-wrap mx-4 mt-4 h-auto lg:w-5/6 lg:mt-8"
-      >
+      <div class="flex justify-around flex-wrap mx-4 mt-4 h-auto lg:mt-12">
         <div
           v-for="edge in $page.allPost.edges"
           :key="edge.node.id"

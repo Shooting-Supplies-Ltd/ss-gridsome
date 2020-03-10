@@ -2060,12 +2060,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/shotgun-silenced/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--shotgun-silenced-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/ShotgunSilenced.vue")
-  },
-  {
     path: "/rifle-black-powder/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--rifle-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/RifleBlackPowder.vue")
+  },
+  {
+    path: "/shotgun-silenced/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--shotgun-silenced-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/ShotgunSilenced.vue")
   },
   {
     path: "/shotgun/:page(\\d+)?/",

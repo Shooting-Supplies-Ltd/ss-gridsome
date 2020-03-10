@@ -2,7 +2,7 @@
   <Layout>
     <div>
       <div id="top-row" class="hidden lg:block lg:mt-20">
-        <ul class="flex justify-between items-center lg:mx-12">
+        <ul class="flex justify-between items-center lg:mx-12 xl:mx-24">
           <div>
             <li>
               <g-link to="/blog/gunsmithing/">
@@ -72,7 +72,7 @@
 
       <div
         id="product-select-row-1"
-        class="my-8 md:mx-8 md:my-12 lg:mx-24 lg:my-24"
+        class="my-8 md:mx-8 md:my-12 lg:mx-24 lg:my-24 xl:mx-32 xl:my-32"
       >
         <ul class="flex flex-wrap justify-around">
           <div>
@@ -119,7 +119,10 @@
           </div>
         </ul>
       </div>
-      <div id="product-select-row-2" class="my-8 lg:mx-24 lg:my-24">
+      <div
+        id="product-select-row-2"
+        class="my-8 lg:mx-24 lg:my-24 xl:mx-32 xl:my-32"
+      >
         <ul class="flex flex-wrap items-center justify-around">
           <div>
             <li class="hover:text-ssorange mb-12 border-t lg:border-none">
@@ -170,7 +173,7 @@
         <hr class="border-ssblue" />
       </div>
 
-      <div class="mx-12 my-8">
+      <div class="mx-12 my-12">
         <Carousel />
       </div>
     </div>
