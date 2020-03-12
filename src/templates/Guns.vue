@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="flex mt-4 mb-4">
+    <div class="flex mt-4 mb-4 sm:mt-16">
       <div class="w-1/4"></div>
       <div
         class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4"

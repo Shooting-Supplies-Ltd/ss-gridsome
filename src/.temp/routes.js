@@ -280,10 +280,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/weatherby-xxiias-007967/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/tikka-t3-x-lite-stainless-m75999/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1008,6 +1004,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/lanber-ig-161914/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
     path: "/guns/lithgow-woomerax-00364/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1049,10 +1049,6 @@ export default [
   },
   {
     path: "/guns/lincoln33046/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/lanber161914/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2060,12 +2056,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--blank-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/BlankPistol.vue")
   },
   {
-    path: "/air-rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirRifle.vue")
-  },
-  {
     path: "/air-pistol/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirPistol.vue")
+  },
+  {
+    path: "/air-rifle/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirRifle.vue")
   },
   {
     path: "/blog/:page(\\d+)?/",
