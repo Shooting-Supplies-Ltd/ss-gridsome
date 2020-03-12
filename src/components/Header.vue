@@ -109,7 +109,9 @@
           <p class=" mb-4 hover:text-ssorange">Guns</p>
         </g-link>
 
-        <a href="https://shootingsuppliesltd.co.uk/product-category/optics/">
+        <a
+          href="https://aws.shootingsuppliesltd.co.uk/product-category/optics/"
+        >
           <p class="mb-4 hover:text-ssorange">Optics</p>
         </a>
 
@@ -126,12 +128,12 @@
         </g-link>
 
         <a
-          href="https://shootingsuppliesltd.co.uk/product-category/spares-accessories/"
+          href="https://aws.shootingsuppliesltd.co.uk/product-category/spares-accessories/"
         >
           <p class="mb-4 hover:text-ssorange">Accessories</p>
         </a>
 
-        <a href="https://shootingsuppliesltd.co.uk/special-offers/">
+        <a href="/blog/offers/">
           <p class="mb-4 hover:text-ssorange">Offers</p>
         </a>
 
@@ -155,7 +157,9 @@
           <p class="mr-8 hover:text-ssorange">Guns</p>
         </g-link>
 
-        <a href="https://shootingsuppliesltd.co.uk/product-category/optics/">
+        <a
+          href="https://aws.shootingsuppliesltd.co.uk/product-category/optics/"
+        >
           <p class="mr-8 hover:text-ssorange">Optics</p>
         </a>
 
@@ -172,7 +176,7 @@
         </g-link>
 
         <a
-          href="https://shootingsuppliesltd.co.uk/product-category/spares-accessories/"
+          href="https://aws.shootingsuppliesltd.co.uk/product-category/spares-accessories/"
         >
           <p class="mr-8 hover:text-ssorange">Accessories</p>
         </a>
