@@ -3,7 +3,7 @@
     <!-- Top Bar -->
     <div
       id="top-bar"
-      class="hidden lg:flex lg:justify-around lg:items-center lg:bg-ssblue lg:text-white lg:h-10"
+      class="hidden sm:flex sm:justify-around sm:items-center sm:bg-ssblue sm:text-white sm:h-10 sm:py-2"
     >
       <!-- Phone Number -->
       <div>

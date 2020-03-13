@@ -32,8 +32,20 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--long-barrel-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/LongBarrelPistol.vue")
   },
   {
+    path: "/accessories/targets/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--targets-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Targets.vue")
+  },
+  {
+    path: "/accessories/stocks/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--stocks-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Stocks.vue")
+  },
+  {
     path: "/optics/binoculars/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--optics--binoculars-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/optics/Binoculars.vue")
+  },
+  {
+    path: "/accessories/magazines/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--magazines-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Magazines.vue")
   },
   {
     path: "/guns/blank-pistol/:page(\\d+)?/",
@@ -44,8 +56,36 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirPistol.vue")
   },
   {
+    path: "/accessories/handguards/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Handguards.vue")
+  },
+  {
     path: "/guns/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirRifle.vue")
+  },
+  {
+    path: "/accessories/holsters/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Holsters.vue")
+  },
+  {
+    path: "/accessories/grips/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--grips-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Grips.vue")
+  },
+  {
+    path: "/accessories/cheek-pieces/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--cheek-pieces-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/CheekPieces.vue")
+  },
+  {
+    path: "/accessories/bipods-rests/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--bipods-rests-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/BipodsRests.vue")
+  },
+  {
+    path: "/accessories/attachments-mounts/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--attachments-mounts-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/AttachmentsMounts.vue")
+  },
+  {
+    path: "/accessories/buttstocks/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--buttstocks-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Buttstocks.vue")
   },
   {
     path: "/products/yukon-photon-rt-6x50s-night-vision-rifle-scope/",
@@ -504,10 +544,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/weihrauch-hw-99-s2275379/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/weihrauch-hw-95-k2273885/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -881,10 +917,6 @@ export default [
   },
   {
     path: "/guns/uberti-cattleua-1575/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/sig-sauer-mpx-18-j38764/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2348,10 +2380,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/browningnull53389-py-166/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/batnull-mb-35/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -2486,6 +2514,10 @@ export default [
   {
     path: "/blog/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Blog.vue")
+  },
+  {
+    path: "/accessories/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Accessories.vue")
   },
   {
     path: "/blog/:slug/",
