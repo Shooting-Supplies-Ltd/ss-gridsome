@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="flex mt-4 mb-4">
+    <div class="flex mt-4 mb-4 sm:mt-16 sm:mb-8">
       <div class="w-1/4"></div>
       <div
         class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4"
@@ -13,7 +13,9 @@
         </div>
         <div class="container flex flex-wrap mb-6 w-full">
           <div>
-            <h1 class="font-bold text-xl pl-6 pt-6">{{ $context.title }}</h1>
+            <h1 class="font-bold text-xl pl-6 pt-6">
+              {{ $context.title }}
+            </h1>
           </div>
           <div class="ml-6 mt-6 w-full">
             <table>

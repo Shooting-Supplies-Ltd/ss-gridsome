@@ -10,42 +10,29 @@
       </button>
     </div>
     <div :class="open ? 'block' : 'hidden'" class="uppercase font-semibold">
-      <Sidebar />
+      <AccessoriesSidebar />
     </div>
 
     <div class="flex items-start">
       <div class="hidden lg:block lg:mt-16 lg:w-3/8 h-screen">
-        <Sidebar class="min-w-full ml-6" />
+        <AccessoriesSidebar class="min-w-full ml-6" />
       </div>
 
       <div
         class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12"
       >
         <div
-          v-for="edge in $page.allGuns.edges"
+          v-for="edge in $page.allWooProducts.edges"
           :key="edge.node.id"
           id="gun-card"
           class="max-w-xs rounded-b-lg shadow hover:shadow-lg hover:border-ssorange mb-8 border-t-4 border-ssblue sm:w-1/3 sm:m-4"
         >
-          <g-link :to="`guns/${edge.node.slug}`"
-            ><g-image
-              :src="edge.node.images[0].FullPath"
-              :alt="edge.node.title"
-            />
+          <g-link :to="`/products/${edge.node.slug}`"
+            ><g-image :src="edge.node.images[0].src" :alt="edge.node.name" />
             <div class="p-4">
               <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">
-                {{ edge.node.title }}
+                {{ edge.node.name }}
               </h2>
-              <h3 class="font-semibold">Variant: {{ edge.node.variant }}</h3>
-              <table>
-                <tr>
-                  <td>Condition: {{ edge.node.condition }}</td>
-                </tr>
-                <tr>
-                  <td>Calibre: {{ edge.node.calibre }}</td>
-                </tr>
-              </table>
-
               <p class="font-semibold text-lg mt-2">£{{ edge.node.price }}</p>
             </div>
           </g-link>
@@ -54,7 +41,7 @@
         <div class="flex justify-center mb-8 w-full">
           <Pager
             :linkClass="{ pageNum: true }"
-            :info="$page.allGuns.pageInfo"
+            :info="$page.allWooProducts.pageInfo"
             :showLinks="true"
           />
         </div>
@@ -64,13 +51,13 @@
 </template>
 
 <script>
-import Sidebar from "~/components/Sidebar.vue";
+import AccessoriesSidebar from "~/components/AccessoriesSidebar.vue";
 import { Pager } from "gridsome";
 
 export default {
   metaInfo() {
     return {
-      title: "Guns"
+      title: "Charging Handles"
     };
   },
   data() {
@@ -84,34 +71,40 @@ export default {
     }
   },
   components: {
-    Sidebar,
+    AccessoriesSidebar,
     Pager
   }
 };
 </script>
 
 <page-query>
-query ($page: Int) {
-  allGuns(perPage: 12, page: $page, sortBy: "name", order: ASC) @paginate {
+query products ($page: Int) {
+  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {in: 4090}}}, sortBy: "name", order: ASC) @paginate {
     pageInfo {
-      totalPages
-      currentPage
-    }
+    totalPages
+    currentPage
+}
     edges {
       node {
         id
-        title
-        type
-        mechanism
-        calibre
-        variant
-        barrelLength
-        condition
-        price
-        licence
+        sku
+        name
         slug
+        status
+        short_description
+        description
+        price
+        stock_status
+        categories {
+          id
+          name
+        }
         images {
-          FullPath
+          src
+        }
+        brands {
+          id
+          name
         }
       }
     }

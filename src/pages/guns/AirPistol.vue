@@ -67,6 +67,11 @@ import Sidebar from "~/components/Sidebar.vue";
 import { Pager } from "gridsome";
 
 export default {
+  metaInfo() {
+    return {
+      title: "Air Pistols"
+    };
+  },
   data() {
     return {
       open: false
@@ -86,7 +91,7 @@ export default {
 
 <page-query>
 query ($page: Int) {
-  allGuns(perPage: 12, page: $page, sortBy: "title", order: ASC, filter: {type: {in: ["Shotgun"]}}) @paginate {
+  allGuns(perPage: 12, page: $page, sortBy: "title", order: ASC, filter: {type: {in: ["Air Pistol"]}}) @paginate {
     pageInfo {
       totalPages
       currentPage

@@ -77,7 +77,7 @@
         <ul class="flex flex-wrap justify-around">
           <div>
             <li class="mb-12 border-t lg:border-none hover:text-ssorange">
-              <g-link to="/guns">
+              <g-link to="/guns/">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565379/Guns_bylme2_icn8l5.jpg"
                 />
@@ -105,7 +105,7 @@
           </div>
           <div>
             <li class="hover:text-ssorange mb-12 border-t lg:border-none">
-              <g-link to="">
+              <g-link to="/optics/">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565381/Scopes_pweqna_a6ievw.jpg"
                 />

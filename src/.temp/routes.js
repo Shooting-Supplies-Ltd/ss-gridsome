@@ -1,7 +1,299 @@
 export default [
   {
+    path: "/optics/scopes/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--optics--scopes-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/optics/Scopes.vue")
+  },
+  {
+    path: "/optics/night-vision/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--optics--night-vision-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/optics/NightVision.vue")
+  },
+  {
+    path: "/guns/rifle-black-powder/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/RifleBlackPowder.vue")
+  },
+  {
+    path: "/guns/shotgun-silenced/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-silenced-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/ShotgunSilenced.vue")
+  },
+  {
+    path: "/guns/shotgun/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Shotgun.vue")
+  },
+  {
+    path: "/guns/pistol-black-powder/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
+  },
+  {
+    path: "/guns/rifle/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Rifle.vue")
+  },
+  {
+    path: "/accessories/targets/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--targets-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Targets.vue")
+  },
+  {
+    path: "/guns/long-barrel-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--long-barrel-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/LongBarrelPistol.vue")
+  },
+  {
+    path: "/optics/binoculars/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--optics--binoculars-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/optics/Binoculars.vue")
+  },
+  {
+    path: "/accessories/magazines/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--magazines-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Magazines.vue")
+  },
+  {
+    path: "/accessories/mounts/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--mounts-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Mounts.vue")
+  },
+  {
+    path: "/guns/blank-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--blank-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/BlankPistol.vue")
+  },
+  {
+    path: "/accessories/holsters/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Holsters.vue")
+  },
+  {
+    path: "/guns/air-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirPistol.vue")
+  },
+  {
+    path: "/guns/air-rifle/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirRifle.vue")
+  },
+  {
+    path: "/accessories/grips/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--grips-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Grips.vue")
+  },
+  {
+    path: "/accessories/charging-handles/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--charging-handles-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/ChargingHandles.vue")
+  },
+  {
+    path: "/accessories/cheek-pieces/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--cheek-pieces-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/CheekPieces.vue")
+  },
+  {
+    path: "/accessories/bipods-rests/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--bipods-rests-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/BipodsRests.vue")
+  },
+  {
+    path: "/accessories/butt-stocks/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--butt-stocks-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/ButtStocks.vue")
+  },
+  {
+    path: "/accessories/attachments/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--attachments-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Attachments.vue")
+  },
+  {
+    path: "/products/yukon-photon-rt-6x50s-night-vision-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-strikeeagle-4-24x50-ebr-4-moa-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-crossfire-ii-4-12x50-ao-bdc-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-diamondback-tactical-6-24x50-ffp-moa-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z8i-2-3-18x56-p-ill-4a-300-i-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/walther-ppq-22lr-long-barrel-pistol-with-shroud/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-viper-hst-4-16x44-hst-vmr1-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-razor-hd-lh-3-15x42-hsr4-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-crossfire-ii-6-24x50-ao-bdc-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-crossfire-ii-3-9x40-dead-hold-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/winchester-sxp-defender-fde-pump-action-shotgun/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-diamondback-hp-4-16x42-bdc-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z8i-2-3-18x56-p-ill-4a-i-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-viper-hst-6-24x50-vmr1-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-crossfire-ii-4-12x40-ao-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z8i-1-7-13-3x42-ill-4a-i-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/umarex-ruger-10-22-co2-177-air-rifle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-strike-eagle-1-6x24-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/walther-ppq-22lr-long-barrel-pistol/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-pst-ii-5-25x50-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-diamondback-tactical-4-12x40-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z8i-2-16x50-p-ill-4a-i-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-x5-5-25x56-1-8-moa-plex-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/walther-colt-gold-cup-22lr/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z8i-0-75-6x20-ld-i-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z6i-3-18x50-ill-bt-4a-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z6i-2-5-15x56-bt-4a-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/vortex-viper-red-dot-sight/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z6i-2-12x50-4a-300-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-z6i-1-6x24-cd-i-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-elite-shadow-m4-22-rifle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-pro-s-m4-22-rifle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-elite-s-m4-22-rifle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-elite-l-m4-22-rifle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-m4-22-lr-classic-rifle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-low-pro-10rnd-magazine/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-9-m-lok-handguard/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-hard-sided-rifle-case/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-ambi-safety-selector/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-extended-charging-handle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-12-aluminium-handguard/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-cl-pocket-8x25-binoculars-green/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-cl-companion-8x30-binoculars-green/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-25rnd-magazine/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-el-8x42-range-binoculars/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-el-10x42-range-binoculars/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-el-10x42-hd-binoculars/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/tippmann-arms-cap/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/pard-nv008-digital-night-vision-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/swarovski-slc-8x56-binoculars/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
     path: "/guns/weihrauch-hw-97-carbine-black-line-stl-2276632/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/products/pard-nv008-lrf-digital-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
     path: "/guns/yildiz-spz-m-junior-y27966/",
@@ -22,6 +314,10 @@ export default [
   {
     path: "/guns/umarex-smith-and-wesson-revolver-6-black-sg-19196452/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/products/ranger-pro-5x42/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
     path: "/guns/yildiz-tk-36-s87547/",
@@ -196,6 +492,18 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/products/nm400-ir-ic-torch-only/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/pulsar-quantum-xq23v/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/hawke-airmax-30-sf-compact-6-24x50-amx-ir-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
     path: "/guns/yildiz-s86829/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -213,10 +521,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-60-j37921/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/weihrauch-hw-60-j22126/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -280,11 +584,27 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/weihrauch-hw-6052144/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+    path: "/products/hawke-airmax-30-sf-6-24x50-amx-ir-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
-    path: "/guns/weatherby-xxiias-007967/",
+    path: "/products/hawke-airmax-30-sf-4-16x50-amx-ir-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/hawke-airmax-30-compact-3-12x40-amx-ir-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/hawke-airmax-30-sf-8-32x50-amx-ir-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/hawke-airmax-30-compact-4-16x44-amx-ir-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/guns/weihrauch-hw-6052144/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -364,6 +684,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/umarex-glock-17-da-071566/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
     path: "/guns/umarex-glock-19-xda-062915/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -389,10 +713,6 @@ export default [
   },
   {
     path: "/guns/umarex-glock-19-da-010949/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/umarex-glock-17-da-071566/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -512,6 +832,14 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/products/hawke-airmax-30-sf-3-12x50-rifle-scope/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/lyman-powder-measure-stand/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
     path: "/guns/smith-and-wesson1000-fb-28081/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -533,6 +861,10 @@ export default [
   },
   {
     path: "/guns/tippmann-arms-elite-s004145/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/guns/tippmann-arms-elite-l004708/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -612,8 +944,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/tippmann-arms-elite004708/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+    path: "/products/form-pistol-grip-for-chiappa-rhino-lh-black-laminte/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-self-healing-target-with-spare-board-blue/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
     path: "/guns/tippmann-arms-elite004160/",
@@ -688,6 +1024,14 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/products/fab-defense-gl-core-ar15-m4-collapsible-buttstock/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-t-pod-g2-qr-tactical-bipod/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
     path: "/guns/savage-arms110-f328091/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -740,6 +1084,30 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/products/fab-defense-ruger-10-22-precision-stock/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-ruger-10-22-collapsible-stock/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-fgg-s-tactical-folding-foregrip/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-ptk-vts-ergonomic-grip-combo/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-9mm-dummy-rounds-10-pack/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-t-pod-g2-tactical-bipod/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
     path: "/guns/pennineengland-42-03-1535-97/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -773,10 +1141,6 @@ export default [
   },
   {
     path: "/guns/sauer100-c008935/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/sauer100-c007758/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -816,12 +1180,104 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/products/derya-lion-practical-lp-series-semi-auto-shotgun/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/bsa-r-10-se-super-carbine-177-black-air-rifle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-quick-detach-sling-swivel/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-harris-aluminium-bipod-mount/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-gl-core-s-buttstock/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-gl-shock-cp-buttstock/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-advanced-mag-well-grip/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-scorpus-glock-paddle-holster/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-scorpus-glock-belt-holster/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-ag47-ergonomic-pistol-grip/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-agr43-tactical-pistol-grip/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-ag43-tactical-pistol-grip/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
     path: "/guns/pietta-dance-revolverc-00790/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
     path: "/guns/pedersoli-rem-patternpd-37686/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/products/chiappa-rhino-nebula-120ds-357-long-barrel-revolver/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-versatile-tactical-support/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-tactical-folding-grip/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-rubberised-ergonomic-foregrip/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-mag-well-grip/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-glock-scope-mount/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-universal-scope-mount/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-ar15-collapsible-buttstock/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-adjustable-cheek-rest/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-mono-pod-buttstock/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/fab-defense-ar-podium-bipod/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
     path: "/guns/rizzininull44084/",
@@ -856,6 +1312,14 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/products/daystate-red-wolf-hi-lite-177/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/chiappa-rhino-120ds-9mm-long-barrel-revolver/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
     path: "/guns/lanbernull13-03-10476-01-12-76/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -866,6 +1330,18 @@ export default [
   {
     path: "/guns/piettanull-r453847/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/products/browning-maxus-sporting-black-carbon-28-shotgun/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/bsa-comet-evo-silentium-22-air-rifle/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
+  },
+  {
+    path: "/products/dillon-d-terminator-electronic-scale/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
     path: "/guns/marocchi-first-deluxecdmf-5198/",
@@ -937,10 +1413,6 @@ export default [
   },
   {
     path: "/guns/marlin1894-cstmr-72069-h/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/marlin1894-csblmr-70341-i/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1020,6 +1492,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/lanber-ig-161914/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
     path: "/guns/lithgow-woomerax-00364/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1038,6 +1514,10 @@ export default [
   {
     path: "/guns/gamo-whisper-igt-04-1-c-475943-19/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
+    path: "/products/cobra-javelin-2/",
+    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
     path: "/guns/lanber28275612-70/",
@@ -1061,10 +1541,6 @@ export default [
   },
   {
     path: "/guns/lincoln33046/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/lanber161914/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1232,10 +1708,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/browning-t-bolt-target-varmint20750-zp-253/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/browning-t-bolt-composite-sporter20308-zp-253/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1341,10 +1813,6 @@ export default [
   },
   {
     path: "/guns/beretta-a400-xplor-action-xa-164867/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/beretta692-black-edition-sx-18900-a/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1780,10 +2248,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/browning-b325-g238210-nx/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/beretta626-onyxa-43648-a/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1861,10 +2325,6 @@ export default [
   },
   {
     path: "/guns/daystate-mk43007/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/bsaultra-jsrujs-770135-mn/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2000,10 +2460,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/guns/armsan-a61217-a71170/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
     path: "/guns/brnomodel-2218356/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -2060,56 +2516,24 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
-    path: "/rifle-black-powder/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--rifle-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/RifleBlackPowder.vue")
-  },
-  {
-    path: "/shotgun-silenced/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--shotgun-silenced-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/ShotgunSilenced.vue")
-  },
-  {
-    path: "/shotgun/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--shotgun-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Shotgun.vue")
-  },
-  {
-    path: "/pistol-black-powder/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--pistol-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/PistolBlackPowder.vue")
-  },
-  {
-    path: "/rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Rifle.vue")
-  },
-  {
-    path: "/long-barrel-pistol/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--long-barrel-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/LongBarrelPistol.vue")
+    path: "/optics/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--optics-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Optics.vue")
   },
   {
     path: "/guns/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Guns.vue")
   },
   {
-    path: "/blank-pistol/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--blank-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/BlankPistol.vue")
-  },
-  {
-    path: "/air-pistol/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--air-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirPistol.vue")
-  },
-  {
-    path: "/air-rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/AirRifle.vue")
-  },
-  {
     path: "/blog/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Blog.vue")
   },
   {
-    path: "/blog/:slug/",
-    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Post.vue")
+    path: "/accessories/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Accessories.vue")
   },
   {
-    path: "/test/",
-    component: () => import(/* webpackChunkName: "page--src--pages--test-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/Test.vue")
+    path: "/blog/:slug/",
+    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Post.vue")
   },
   {
     name: "404",

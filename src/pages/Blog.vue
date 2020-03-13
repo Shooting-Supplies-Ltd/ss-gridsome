@@ -43,6 +43,11 @@ import Sidebar from "~/components/Sidebar.vue";
 import { Pager } from "gridsome";
 
 export default {
+  metaInfo() {
+    return {
+      title: "Blog"
+    };
+  },
   components: {
     Sidebar,
     Pager

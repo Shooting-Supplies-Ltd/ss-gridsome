@@ -12,14 +12,13 @@
     <div :class="open ? 'block' : 'hidden'" class="uppercase font-semibold">
       <Sidebar />
     </div>
-
     <div class="flex items-start">
       <div class="hidden lg:block lg:mt-16 lg:w-3/8 h-screen">
         <Sidebar class="min-w-full ml-6" />
       </div>
 
       <div
-        class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12"
+        class="flex justify-center flex-wrap mx-4 mt-4 h-auto lg:w-5/6 lg:mt-12"
       >
         <div
           v-for="edge in $page.allGuns.edges"
@@ -33,7 +32,7 @@
               :alt="edge.node.title"
             />
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">
+              <h2 class="font-bold uppercase text-xl mt-2">
                 {{ edge.node.title }}
               </h2>
               <h3 class="font-semibold">Variant: {{ edge.node.variant }}</h3>
@@ -70,7 +69,7 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Guns"
+      title: "Rifles"
     };
   },
   data() {
@@ -92,7 +91,7 @@ export default {
 
 <page-query>
 query ($page: Int) {
-  allGuns(perPage: 12, page: $page, sortBy: "name", order: ASC) @paginate {
+  allGuns(perPage: 12, page: $page, sortBy: "title", order: ASC, filter: {type: {in: ["Rifle"]}}) @paginate {
     pageInfo {
       totalPages
       currentPage

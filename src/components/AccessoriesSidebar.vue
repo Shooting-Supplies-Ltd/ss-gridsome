@@ -3,65 +3,63 @@
     class="overflow-hidden shadow-lg border-t-4 bg-white rounded-b-lg rounded-t border-ssblue w-full lg:w-1/4"
   >
     <div class="px-6 py-4 mt-4 mb-8">
-      <!-- <div class="uppercase tracking-wide text-c2 mb-4">Search</div> 
-                <Search class="relative x-50 min-w-full"/>
-            </div>            -->
-      <div class="uppercase tracking-wide text-c2 mb-4">Gun Type</div>
+      <div class="uppercase tracking-wide text-c2 mb-4">Accessory Type</div>
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
       >
-        <g-link to="/guns/air-pistol/">Air Pistol</g-link>
+        <g-link to="/accessories/attachments/">Attachments</g-link>
+      </div>
+      <div
+        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/accessories/bipods-rests/">Bipods & Rests</g-link>
+      </div>
+      <div
+        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/accessories/butt-stocks/">Butt Stocks</g-link>
+      </div>
+      <div
+        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/accessories/charging-handles">Charging Handles</g-link>
+      </div>
+      <div
+        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/accessories/cheek-pieces">Cheek Pieces</g-link>
       </div>
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:text-ssorange"
       >
-        <g-link to="/guns/air-rifle/">Air Rifle</g-link>
+        <g-link to="/accessories/grips/">Grips</g-link>
       </div>
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
       >
-        <g-link to="/guns/long-barrel-pistol/">Long Barrel Pistol</g-link>
+        <g-link to="/accessories/holsters/">Holsters</g-link>
       </div>
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
       >
-        <g-link to="/guns/pistol-black-powder/">Pistol - Black Powder</g-link>
+        <g-link to="/accessories/magazines/">Magazines</g-link>
       </div>
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
       >
-        <g-link to="/guns/blank-pistol/">Pistol - Blanks</g-link>
+        <g-link to="/accessories/mounts/">Mounts</g-link>
       </div>
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
       >
-        <g-link to="/guns/rifle/">Rifle</g-link>
-      </div>
-      <div
-        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
-      >
-        <g-link to="/guns/rifle-black-powder/">Rifle - Black Powder</g-link>
-      </div>
-      <div
-        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
-      >
-        <g-link to="/guns/shotgun/">Shotgun</g-link>
-      </div>
-      <div
-        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:text-ssorange"
-      >
-        <g-link to="/guns/shotgun-silenced/">Shotgun - Silenced</g-link>
+        <g-link to="/accessories/targets">Targets</g-link>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import Search from "~/components/Search.vue";
 export default {
-  name: "Sidebar",
-  components: {
-    Search
-  }
+  name: "AccessoriesSidebar"
 };
 </script>
