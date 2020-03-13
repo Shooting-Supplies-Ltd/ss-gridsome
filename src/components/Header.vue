@@ -21,7 +21,7 @@
 
       <!-- Social Contact Options -->
       <div>
-        <div id="social" class="lg:flex">
+        <div id="social" class="sm:flex">
           <!-- <p class="mr-4">Find Us On:</p> -->
           <p class="mr-4 hover:text-ssorange">
             <a

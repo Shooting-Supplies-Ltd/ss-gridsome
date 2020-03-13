@@ -6,15 +6,20 @@
         class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4"
       >
         <div class="px-6 flex justify-center">
-          <g-image :src="$context.images[0].src" :alt="$context.name" />
+          <g-image
+            :src="$page.wooProducts.images[0].src"
+            :alt="$page.wooProducts.name"
+          />
         </div>
 
         <div class="container flex flex-wrap mb-6 w-full px-6 py-6">
           <div>
-            <h1 class="font-bold text-xl">{{ $context.name }}</h1>
-            <div class="mt-2 font-bold text-lg">£{{ $context.price }}</div>
+            <h1 class="font-bold text-2xl">{{ $page.wooProducts.name }}</h1>
+            <div class="mt-2 font-bold text-lg">
+              £{{ $page.wooProducts.price }}
+            </div>
           </div>
-          <div v-html="$context.content" class="mt-2"></div>
+          <div v-html="$page.wooProducts.description" class="mt-2"></div>
 
           <div class="mt-4 w-full">
             <div>
@@ -32,11 +37,11 @@
                 <a
                   v-bind:href="
                     'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
-                      $context.name +
+                      $page.wooProducts.name +
                       ' - ' +
-                      $context.sku +
+                      $page.wooProducts.sku +
                       ' - £' +
-                      $context.price +
+                      $page.wooProducts.price +
                       ''
                   "
                   ><button
@@ -65,23 +70,42 @@ div >>> table {
 }
 </style>
 
+<page-query>
+query ($id: ID!) {
+  wooProducts(id: $id) {
+    id
+    sku
+    name
+    price
+    description
+    short_description
+    images {
+      src
+    }
+    brands {
+      name
+    }
+  }
+}
+</page-query>
+
 <script>
 export default {
   metaInfo() {
     return {
-      title: this.$context.name,
+      title: this.$page.wooProducts.name,
       meta: [
         {
           name: "brand",
-          content: this.$context.brands.name
+          content: this.$page.wooProducts.brands.name
         },
         {
           name: "description",
-          content: this.$context.excerpt
+          content: this.$page.wooProducts.short_description
         },
         {
           name: "image",
-          content: this.$context.images[0].src
+          content: this.$page.wooProducts.images[0].src
         }
       ]
     };

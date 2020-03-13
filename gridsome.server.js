@@ -60,24 +60,7 @@ module.exports = function(api) {
           edges {
             node {
               id
-              title
-              make
-              model
-              type
-              mechanism
-              calibre
-              variant
-              orientation
-              trigger
-              barrelLength
-              condition
-              description
-              price
-              licence
               slug
-              images {
-                FullPath
-              }
             }
           }
         }
@@ -89,23 +72,7 @@ module.exports = function(api) {
         path: `/guns/${node.slug}`,
         component: "./src/templates/Guns.vue",
         context: {
-          id: node.id,
-          title: node.title,
-          make: node.make,
-          model: node.model,
-          variant: node.variant,
-          type: node.type,
-          mechanism: node.mechanism,
-          calibre: node.calibre,
-          orientation: node.orientation,
-          trigger: node.trigger,
-          barrelLength: node.barrelLength,
-          condition: node.condition,
-          description: node.description,
-          price: node.price,
-          licence: node.licence,
-          images: node.images,
-          path: node.slug
+          id: node.id
         }
       });
     });
@@ -134,25 +101,7 @@ module.exports = function(api) {
           edges {
             node {
               id
-              sku
-              name
               slug
-              status
-              short_description
-              description
-              price
-              stock_status
-              categories {
-                id
-                name
-              }
-              images {
-                src
-              }
-              brands {
-                id
-                name
-              }
             }
           }
         }
@@ -164,18 +113,7 @@ module.exports = function(api) {
         path: `/products/${node.slug}`,
         component: "./src/templates/Products.vue",
         context: {
-          id: node.id,
-          sku: node.sku,
-          name: node.name,
-          slug: node.slug,
-          status: node.status,
-          excerpt: node.short_description,
-          content: node.description,
-          price: node.price,
-          stockStatus: node.stock_status,
-          categories: node.categories,
-          images: node.images,
-          brands: node.brands
+          id: node.id
         }
       });
     });

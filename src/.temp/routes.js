@@ -56,12 +56,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirPistol.vue")
   },
   {
-    path: "/accessories/handguards/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Handguards.vue")
-  },
-  {
     path: "/guns/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirRifle.vue")
+  },
+  {
+    path: "/accessories/handguards/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Handguards.vue")
   },
   {
     path: "/accessories/holsters/:page(\\d+)?/",
@@ -80,12 +80,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--bipods-rests-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/BipodsRests.vue")
   },
   {
-    path: "/accessories/attachments-mounts/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--accessories--attachments-mounts-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/AttachmentsMounts.vue")
-  },
-  {
     path: "/accessories/buttstocks/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--buttstocks-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Buttstocks.vue")
+  },
+  {
+    path: "/accessories/attachments-mounts/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--attachments-mounts-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/AttachmentsMounts.vue")
   },
   {
     path: "/products/yukon-photon-rt-6x50s-night-vision-rifle-scope/",
@@ -949,10 +949,6 @@ export default [
   },
   {
     path: "/guns/sako-finnfire-iil-60797/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/ruger10-22-target-laminate0001-13265/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {

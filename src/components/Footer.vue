@@ -33,44 +33,14 @@
       <hr class="mb-4 mt-1" />
       <ul>
         <li>
-          <g-link to="/air-rifle" class="hover:text-ssorange"
-            >Air Rifles</g-link
-          >
+          <g-link to="/guns" class="hover:text-ssorange">Guns</g-link>
         </li>
         <li>
-          <g-link to="/air-pistol" class="hover:text-ssorange"
-            >Air Pistols</g-link
-          >
+          <g-link to="/optics" class="hover:text-ssorange">Optics</g-link>
         </li>
         <li>
-          <g-link to="/long-barrel-pistol" class="hover:text-ssorange"
-            >Long Barrel Pistols</g-link
-          >
-        </li>
-        <li>
-          <g-link to="/pistol-black-powder" class="hover:text-ssorange"
-            >Black Powder Pistols</g-link
-          >
-        </li>
-        <li>
-          <g-link to="/blank-pistol" class="hover:text-ssorange"
-            >Blank Pistols</g-link
-          >
-        </li>
-        <li>
-          <g-link to="/rifle" class="hover:text-ssorange">Rifles</g-link>
-        </li>
-        <li>
-          <g-link to="/rifle-black-powder" class="hover:text-ssorange"
-            >Black Powder Pistols</g-link
-          >
-        </li>
-        <li>
-          <g-link to="/shotgun" class="hover:text-ssorange">Shotguns</g-link>
-        </li>
-        <li>
-          <g-link to="/shotgun-silenced" class="hover:text-ssorange"
-            >Silenced Shotguns</g-link
+          <g-link to="/accessories" class="hover:text-ssorange"
+            >Accessories</g-link
           >
         </li>
       </ul>

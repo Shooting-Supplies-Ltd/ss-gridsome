@@ -13,50 +13,50 @@
         </div>
         <div class="container flex flex-wrap mb-6 w-full">
           <div>
-            <h1 class="font-bold text-xl pl-6 pt-6">
-              {{ $context.title }}
+            <h1 class="font-bold text-2xl pl-6 pt-6">
+              {{ $page.allGuns.title }}
             </h1>
           </div>
           <div class="ml-6 mt-6 w-full">
             <table>
               <tr>
-                <td>Make: {{ $context.make }}</td>
+                <td>Make: {{ $page.allGuns.make }}</td>
               </tr>
               <tr>
-                <td>Model: {{ $context.model }}</td>
+                <td>Model: {{ $page.allGuns.model }}</td>
               </tr>
               <tr>
-                <td>Variant: {{ $context.variant }}</td>
+                <td>Variant: {{ $page.allGuns.variant }}</td>
               </tr>
               <tr>
-                <td>Type: {{ $context.type }}</td>
+                <td>Type: {{ $page.allGuns.type }}</td>
               </tr>
               <tr>
-                <td>Mechanism: {{ $context.mechanism }}</td>
+                <td>Mechanism: {{ $page.allGuns.mechanism }}</td>
               </tr>
               <tr>
-                <td>Calibre: {{ $context.calibre }}</td>
+                <td>Calibre: {{ $page.allGuns.calibre }}</td>
               </tr>
               <tr>
-                <td>Orientation: {{ $context.orientation }}</td>
+                <td>Orientation: {{ $page.allGuns.orientation }}</td>
               </tr>
               <tr>
-                <td>Trigger: {{ $context.trigger }}</td>
+                <td>Trigger: {{ $page.allGuns.trigger }}</td>
               </tr>
               <tr>
-                <td>Length: {{ $context.barelLength }}</td>
+                <td>Length: {{ $page.allGuns.barrelLength }}</td>
               </tr>
               <tr>
-                <td>Description: {{ $context.description }}</td>
+                <td>Description: {{ $page.allGuns.description }}</td>
               </tr>
               <tr>
-                <td>Condition: {{ $context.condition }}</td>
+                <td>Condition: {{ $page.allGuns.condition }}</td>
               </tr>
               <tr>
-                <td>Licence: {{ $context.licence }}</td>
+                <td>Licence: {{ $page.allGuns.licence }}</td>
               </tr>
               <tr class="font-bold text-lg">
-                <td class="pt-6">Price: £{{ $context.price }}</td>
+                <td class="pt-6">Price: £{{ $page.allGuns.price }}</td>
               </tr>
             </table>
 
@@ -75,11 +75,11 @@
                 <a
                   v-bind:href="
                     'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
-                      $context.title +
+                      $page.allGuns.title +
                       ' - ' +
-                      $context.id +
+                      $page.allGuns.id +
                       ' - £' +
-                      $context.price +
+                      $page.allGuns.price +
                       ''
                   "
                   ><button
@@ -101,7 +101,21 @@
 <page-query>
 query ($id: ID!) {
   allGuns: guns (id: $id) {
+    id
     title
+    make
+    model
+    variant
+    type
+    mechanism
+    calibre
+    orientation
+    trigger
+    barrelLength
+    description
+    condition
+    licence
+    price
     images {
       FullPath
       ThumbPath
@@ -118,19 +132,19 @@ export default {
       meta: [
         {
           name: "brand",
-          content: this.$context.make
+          content: this.$page.allGuns.make
         },
         {
           name: "model",
-          content: this.$context.model
+          content: this.$page.allGuns.model
         },
         {
           name: "description",
-          content: this.$context.description
+          content: this.$page.allGuns.description
         },
         {
           name: "itemCondition",
-          content: this.$context.condition
+          content: this.$page.allGuns.condition
         },
         {
           name: "image",
