@@ -25,16 +25,11 @@
     "global": "^4.4.0",
     "gridsome": "^0.7.11",
     "gridsome-plugin-flexsearch": "^0.1.6",
-    "gridsome-plugin-netlify-cms": "^1.0.9",
     "gridsome-plugin-purgecss": "^1.0.12",
     "gridsome-plugin-remark-youtube": "^1.0.1",
     "gridsome-plugin-tailwindcss": "^2.2.27",
-    "gridsome-plugin-yandex-metrika": "^0.1.2",
     "gridsome-transformer-docutils": "^0.2.3",
-    "netlify-cms": "^2.10.4",
-    "netlify-cms-widget-youtube": "^0.3.0",
     "tailwindcss": "^1.1.4",
-    "vue": "~2",
-    "vue-carousel": "^0.18.0"
+    "vue": "~2"
   }
 }

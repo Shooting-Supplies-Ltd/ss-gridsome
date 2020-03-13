@@ -21,7 +21,7 @@ module.exports = {
         tailwindConfig: "",
         purgeConfig: {},
         presetEnvConfig: {},
-        shouldPurge: false,
+        shouldPurge: true,
         shouldImport: true,
         shouldTimeTravel: true,
         shouldPurgeUnusedKeyframes: true
@@ -35,16 +35,6 @@ module.exports = {
         remark: {
           plugins: [["gridsome-plugin-remark-youtube"]]
         }
-      }
-    },
-    {
-      use: `gridsome-plugin-netlify-cms`,
-      options: {
-        flexsearch: {
-          profile: "match"
-        },
-        publicPath: `/ss-cms`,
-        plugins: [`netlify-cms-widget-youtube`]
       }
     },
     {
@@ -74,12 +64,6 @@ module.exports = {
       use: "@gridsome/plugin-google-analytics",
       options: {
         id: "UA-144478142-2"
-      }
-    },
-    {
-      use: "gridsome-plugin-yandex-metrika",
-      options: {
-        id: 55362838
       }
     }
   ],
