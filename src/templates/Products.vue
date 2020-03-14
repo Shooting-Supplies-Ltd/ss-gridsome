@@ -5,7 +5,7 @@
       <div
         class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4"
       >
-        <div class="px-6 flex justify-center">
+        <div class="px-6 block w-full">
           <g-image
             :src="$page.wooProducts.images[0].src"
             :alt="$page.wooProducts.name"

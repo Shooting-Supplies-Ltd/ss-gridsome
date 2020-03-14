@@ -5,7 +5,7 @@
       <div
         class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4"
       >
-        <div class="flex justify-center h-24 sm:h-auto">
+        <div class="block w-full">
           <g-image
             :src="$page.allGuns.images[0].FullPath"
             :alt="$page.allGuns.title"
