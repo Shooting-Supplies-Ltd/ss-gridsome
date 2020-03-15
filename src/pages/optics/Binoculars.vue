@@ -79,7 +79,7 @@ export default {
 
 <page-query>
 query products ($page: Int) {
-  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {eq: 323}} }) @paginate {
+  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {eq: 323}} }, sortBy: "name", order: ASC) @paginate {
     pageInfo {
     totalPages
     currentPage
