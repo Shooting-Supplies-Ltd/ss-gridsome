@@ -52,12 +52,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--blank-pistol-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/BlankPistol.vue")
   },
   {
-    path: "/accessories/holsters/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Holsters.vue")
-  },
-  {
     path: "/accessories/handguards/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Handguards.vue")
+  },
+  {
+    path: "/accessories/holsters/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Holsters.vue")
   },
   {
     path: "/guns/air-pistol/:page(\\d+)?/",
