@@ -72,7 +72,7 @@
 
       <div
         id="product-select-row-1"
-        class="my-8 md:mx-8 md:my-12 lg:mx-24 lg:my-24 xl:mx-32 xl:my-32"
+        class="my-8 md:mx-8 md:my-12 lg:mx-24 lg:my-20 xl:mx-32 xl:my-20"
       >
         <ul class="flex flex-wrap justify-around">
           <div>
@@ -121,7 +121,7 @@
       </div>
       <div
         id="product-select-row-2"
-        class="my-8 lg:mx-24 lg:my-24 xl:mx-32 xl:my-32"
+        class="my-8 lg:mx-24 lg:my-20 xl:mx-32 xl:my-20"
       >
         <ul class="flex flex-wrap items-center justify-around">
           <div>
