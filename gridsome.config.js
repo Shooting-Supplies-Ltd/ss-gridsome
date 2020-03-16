@@ -7,6 +7,7 @@
 module.exports = {
   siteName: "Shooting Supplies Ltd",
   siteDescription: "The Midlands Leading Shooting Supplier",
+  siteUrl: "https://www.shootingsuppliesltd.co.uk",
   transformers: {
     remark: {
       externalLinksTarget: "_blank",
@@ -64,6 +65,18 @@ module.exports = {
       use: "@gridsome/plugin-google-analytics",
       options: {
         id: "UA-144478142-2"
+      }
+    },
+    {
+      use: "@gridsome/plugin-sitemap",
+      options: {
+        cacheTime: 600000, // default
+        config: {
+          "/guns/*": {
+            changefreq: "daily",
+            priority: 0.8
+          }
+        }
       }
     }
   ],
