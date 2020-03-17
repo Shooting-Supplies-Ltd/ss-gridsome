@@ -55,13 +55,13 @@
     <div class="lg:flex justify-center mt-4 lg:mt-0">
       <div id="mobile-logo" class="block lg:hidden flex justify-center">
         <g-link to="/">
-          <h1
+          <p
             class="text-2xl sm:text-5xl text-ssblue mb-4"
             style="font-family: ShooterSFRegular;"
           >
             SH<span class="text-ssorange">O</span
             ><span style="color:black;">O</span>TING SUPPLIES LTD
-          </h1>
+          </p>
         </g-link>
       </div>
       <div
