@@ -173,5 +173,17 @@
 </template>
 
 <script>
-export default {};
+export default {
+  metaInfo() {
+    return {
+      title: "Shooting Supplies Ltd",
+      meta: [
+        {
+          name: "description",
+          content: "The Midlands Leading Shooting Supplier"
+        }
+      ]
+    };
+  }
+};
 </script>

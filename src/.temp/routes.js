@@ -20,12 +20,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Shotgun.vue")
   },
   {
-    path: "/guns/pistol-black-powder/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
-  },
-  {
     path: "/guns/rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Rifle.vue")
+  },
+  {
+    path: "/guns/pistol-black-powder/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
   },
   {
     path: "/accessories/targets/:page(\\d+)?/",
