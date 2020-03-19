@@ -20,12 +20,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Shotgun.vue")
   },
   {
-    path: "/guns/rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Rifle.vue")
-  },
-  {
     path: "/guns/pistol-black-powder/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
+  },
+  {
+    path: "/guns/rifle/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Rifle.vue")
   },
   {
     path: "/accessories/targets/:page(\\d+)?/",
@@ -577,10 +577,6 @@ export default [
   },
   {
     path: "/guns/umarex-walther-cp-88-a18127524-g/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/umarex-beretta-m-92-fshg-19151164/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -2578,6 +2574,10 @@ export default [
   {
     path: "/blog/:slug/",
     component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/templates/Post.vue")
+  },
+  {
+    path: "/index-new/",
+    component: () => import(/* webpackChunkName: "page--src--pages--index-new-vue" */ "/Users/darryl/Projects/shooting-supplies/ss-gridsome/src/pages/IndexNew.vue")
   },
   {
     name: "404",
