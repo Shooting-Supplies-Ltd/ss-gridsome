@@ -4,14 +4,17 @@ title: The Weihrauch HW110KT & T Have Landed
 date: 2020-03-19
 author: Shooting Supplies
 keywords: Weihrauch, air rifle, pop air rifle
-thumbnail: >- https://res.cloudinary.com/shooting-supplies/image/upload/v1584620342/Weihrauch-HW-110KT-FB_zzgl0m.jpg
+thumbnail: >- 
+    https://res.cloudinary.com/shooting-supplies/image/upload/v1584620342/Weihrauch-HW-110KT-FB_zzgl0m.jpg
+excerpt: >- 
+    The Weihrauch HW110T & KT have landed this morning.
 ---
 
 # The Weirauch HW110T & KT Laminted Have Landed
 
 In-Store from £819
 
-The **HW110T & HW110KT from Weuihrauch** are sporter style pcp air rifles. Featuring 2x 10 shot magazines, Weihrauch silencer, quick fill cylinder, a well balanced two stage adjustable match trigger and fast fire action.
+The **HW110T & HW110KT from Weihrauch** are sporter style pcp air rifles. Featuring 2x 10 shot magazines, Weihrauch silencer, quick fill cylinder, a well balanced two stage adjustable match trigger and fast fire action.
 
 ![Weihrauch HW110 KT](https://res.cloudinary.com/shooting-supplies/image/upload/w_800,ar_16:9,c_fill,g_auto,e_sharpen/v1584619559/Weihrauch-HW110-KT-T_hynb0o.png)
 
