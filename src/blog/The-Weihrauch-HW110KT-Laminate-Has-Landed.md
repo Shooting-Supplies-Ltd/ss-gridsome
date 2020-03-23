@@ -1,7 +1,7 @@
 ---
 slug: weihrauch-hw110kt-arrives
 title: The Weihrauch HW110KT & T Have Landed
-date: "2020-03-19"
+date: 2020-03-19
 author: Shooting Supplies
 keywords: Weihrauch, air rifle, pop air rifle
 thumbnail: >- 
@@ -17,7 +17,6 @@ In-Store from £819
 The **HW110T & HW110KT from Weihrauch** are sporter style pcp air rifles. Featuring 2x 10 shot magazines, Weihrauch silencer, quick fill cylinder, a well balanced two stage adjustable match trigger and fast fire action.
 
 ![Weihrauch HW110 KT](https://res.cloudinary.com/shooting-supplies/image/upload/w_800,ar_16:9,c_fill,g_auto,e_sharpen/v1584619559/Weihrauch-HW110-KT-T_hynb0o.png)
-*Scope not included
 
 The latest Weihrauch is set to take the Air Rifle market by storm, it's a fantastic example of the quality German engineering Weihrauch are known for. 
 
@@ -27,7 +26,7 @@ The gun comes in at 3Kg unscoped and is capable of around 220 shots per 200bar f
 
 Without a doubt one of the most accurate air rifles available today.
 
-The <span style="color: #004d91">[Weihrauch T](/guns/weihrauch-hw-110-t2107268)</span> & <span style="color: #004d91">[Weihrauch KT](/guns/weihrauch-hw-110-kt-2107116)</span> .177 Laminate's are both avaible now.
+The [Weihrauch T](/guns/weihrauch-hw-110-t2107268) & [Weihrauch KT](/guns/weihrauch-hw-110-kt-2107116) .177 Laminate's are both avaible now.
 
 Pellets, magazines and scopes for the the Weihrauch 110 are all available in store.
 

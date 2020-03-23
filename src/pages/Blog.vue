@@ -57,7 +57,7 @@ export default {
 
 <page-query>
 query ($page: Int) {
-  allPost(perPage: 12, page: $page, sortBy: "date") @paginate {
+  allPost(perPage: 12, page: $page) @paginate {
     pageInfo {
       totalPages
       currentPage
