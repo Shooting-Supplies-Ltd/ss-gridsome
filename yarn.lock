@@ -9280,11 +9280,6 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"
   integrity sha512-BXq3jwIagosjgNVae6tkHzzIk6a8MHFtzAdwhnV5VlvPTFxDCvIttgSiHWjdGoTJvXtmRu5HacExfdarRcFhog==
 
-vue-html-slider@^1.3.3:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/vue-html-slider/-/vue-html-slider-1.3.3.tgz#0775d71e4379042b5ad7f44bbee21ba3409e8123"
-  integrity sha512-y089z/5nARTgyeisnVbhrO4RgNE1DqoG/uNSAURKCK+9WwTW9cP2xcFshKaXjNwAguZFLmgyd1YVsL8bh38ocA==
-
 vue-loader@^15.7.1:
   version "15.8.3"
   resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-15.8.3.tgz#857cb9e30eb5fc25e66db48dce7e4f768602a23c"
@@ -9302,6 +9297,13 @@ vue-meta@^2.2.2:
   integrity sha512-hnZvDNvLh+PefJLfYkZhG6cSBNKikgQyiEK8lI/P2qscM1DC/qHHOfdACPQ/VDnlaWU9VlcobCTNyVtssTR4XQ==
   dependencies:
     deepmerge "^4.0.0"
+
+vue-popup@^0.2.14:
+  version "0.2.14"
+  resolved "https://registry.yarnpkg.com/vue-popup/-/vue-popup-0.2.14.tgz#aa3d461c6f2ab01ef4546665d730395ec6028302"
+  integrity sha1-qj1GHG8qsB70VGZl1zA5XsYCgwI=
+  dependencies:
+    wind-dom "0.0.3"
 
 vue-router@^3.1.3:
   version "3.1.3"
@@ -9489,6 +9491,11 @@ widest-line@^2.0.0:
   integrity sha512-Ba5m9/Fa4Xt9eb2ELXt77JxVDV8w7qQrH0zS/TWSJdLyAwQjWoOzpzj5lwVftDz6n/EOu3tNACS84v509qwnJA==
   dependencies:
     string-width "^2.1.1"
+
+wind-dom@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/wind-dom/-/wind-dom-0.0.3.tgz#3456e3d959dbebdcbf76ca68c6a4e8142f26360f"
+  integrity sha1-NFbj2Vnb69y/dspoxqToFC8mNg8=
 
 wordwrap@~0.0.2:
   version "0.0.3"

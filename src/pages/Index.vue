@@ -1,6 +1,9 @@
 <template>
   <Layout>
     <div>
+      <div id="popup" class="flex justify-center mt-24">
+        <Popup class="inset-auto" />
+      </div>
       <div id="top-row" class="hidden lg:block lg:mt-20">
         <ul class="flex justify-between items-center sm:py-8 lg:mx-12 xl:mx-24">
           <div>
@@ -173,6 +176,8 @@
 </template>
 
 <script>
+import Popup from "../components/Popup";
+
 export default {
   metaInfo() {
     return {
@@ -184,6 +189,9 @@ export default {
         }
       ]
     };
+  },
+  components: {
+    Popup
   }
 };
 </script>
