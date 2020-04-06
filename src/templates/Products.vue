@@ -37,12 +37,12 @@
                 <a
                   v-bind:href="
                     'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
-                      $page.wooProducts.name +
-                      ' - ' +
-                      $page.wooProducts.sku +
-                      ' - £' +
-                      $page.wooProducts.price +
-                      ''
+                    $page.wooProducts.name +
+                    ' - ' +
+                    $page.wooProducts.sku +
+                    ' - £' +
+                    $page.wooProducts.price +
+                    ''
                   "
                   ><button
                     class="h-10 py-2 px-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"
@@ -82,9 +82,6 @@ query ($id: ID!) {
     images {
       src
     }
-    brands {
-      name
-    }
   }
 }
 </page-query>
@@ -96,19 +93,15 @@ export default {
       title: this.$page.wooProducts.name,
       meta: [
         {
-          name: "brand",
-          content: this.$page.wooProducts.brands.name
-        },
-        {
           name: "description",
-          content: this.$page.wooProducts.short_description
+          content: this.$page.wooProducts.short_description,
         },
         {
           name: "image",
-          content: this.$page.wooProducts.images[0].src
-        }
-      ]
+          content: this.$page.wooProducts.images[0].src,
+        },
+      ],
     };
-  }
+  },
 };
 </script>

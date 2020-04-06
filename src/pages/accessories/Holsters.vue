@@ -57,23 +57,23 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Holsters"
+      title: "Holsters",
     };
   },
   data() {
     return {
-      open: false
+      open: false,
     };
   },
   methods: {
     toggle() {
       this.open = !this.open;
-    }
+    },
   },
   components: {
     AccessoriesSidebar,
-    Pager
-  }
+    Pager,
+  },
 };
 </script>
 
@@ -101,10 +101,6 @@ query ($page: Int) {
         }
         images {
           src
-        }
-        brands {
-          id
-          name
         }
       }
     }

@@ -57,23 +57,23 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Optics"
+      title: "Optics",
     };
   },
   data() {
     return {
-      open: false
+      open: false,
     };
   },
   methods: {
     toggle() {
       this.open = !this.open;
-    }
+    },
   },
   components: {
     OpticsSidebar,
-    Pager
-  }
+    Pager,
+  },
 };
 </script>
 
@@ -101,10 +101,6 @@ query products ($page: Int) {
         }
         images {
           src
-        }
-        brands {
-          id
-          name
         }
       }
     }
