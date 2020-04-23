@@ -5,7 +5,7 @@ date: "2017-11-05"
 excerpt: >-
   The Tippmann Arms M4 22 LR is a premium .22 calibre semi-automatic rifle with aluminium upper and lower receivers, with all the features of a true M4.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573223061/logos/Tippmann-Logo-from-their-website.png
 category: News
 keywords: tippmann arms, m4, 22lr, rifle
 author: Shooting Supplies
@@ -13,7 +13,7 @@ author: Shooting Supplies
 
 # **The Brilliant Tippmann Arms M4 22LR**
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png)
+![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223061/logos/Tippmann-Logo-from-their-website.png)
 
 The Tippmann Arms M4 22 LR is a premium .22 calibre semi-automatic rifle with aluminium upper and lower receivers, with all the features of a true M4.
 
@@ -21,11 +21,11 @@ The M4 22 LR is largely mil-spec compatible with fully functioning buffer tube**
 
 Available as a package with hard case and spare magazine from only £899.00
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564485/Tippmann-Arms-Image-1-from-their-Website_mjvwby_y4dbbs_kuvh11.jpg)
+![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223057/guns/Tippmann-Arms-Image-1-from-their-Website.jpg)
 
 ## Some of the amazing features of the Tippmann Arms M4 22 LR rifle include;
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564483/Tippmann-Arms-Image-4-from-their-Website_up0qi7_dkhpuu_dydwct.jpg)
+![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223059/tippmann/Tippmann-Arms-Image-4-from-their-Website.jpg)
 
 - 8 Sided Handguard
 - 4 Picatinny Rails included
@@ -34,7 +34,7 @@ Available as a package with hard case and spare magazine from only £899.00
 - Complete with Muzzle Break
 - Adjustable Flip Up Sights
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564480/Tippmann-Arms-Image-2-from-their-Website_xzuyye_jdpmmx_hl42a7.jpg)
+![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223062/tippmann/Tippmann-Arms-Image-2-from-their-Website.jpg)
 
 ### All The Controls & Features You Know From an AR Platform
 
@@ -48,7 +48,7 @@ Available as a package with hard case and spare magazine from only £899.00
 
 ### All Aluminium Receiver & Bolt Hold Open On Empty
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564477/Tippmann-Arms-Image-3-from-their-Website_eomsxx_ojz7al_kec4pb.jpg)
+![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223085/tippmann/Tippmann-Arms-Image-3-from-their-Website.jpg)
 
 - Selector Switch Safety
 - All Aluminium Receivers

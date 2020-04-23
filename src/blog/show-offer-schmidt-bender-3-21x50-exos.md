@@ -6,14 +6,14 @@ author: Shooting Supplies
 excerpt: >-
   We have a special offer for all those attending the British Shooting Show this year.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1583521443/schimdtBenderShowOfferFB_ahttl9.png
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1583521443/Blog/Schimdt-Bender-Show-Offer-FB.png
 category: News
 keywords: schmidt and bender, rifle scope, exos
 ---
 
 # **Special Show Offer From Schmidt & Bender**
 
-![Schmidt & Bender Rifle Scope Offer](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521443/schimdtBenderShowOfferFB_ahttl9.png)
+![Schmidt & Bender Rifle Scope Offer](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521443/Blog/Schimdt-Bender-Show-Offer-FB.png)
 
 We have a special offer for all those attending the British Shooting Show this year, the Schmidt & Bender Exos 3-21x50, (specific model above).
 

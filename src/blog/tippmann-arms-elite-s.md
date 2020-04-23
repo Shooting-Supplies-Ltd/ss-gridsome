@@ -5,7 +5,7 @@ date: "2018-07-05"
 excerpt: >-
   We finally have the third model of the Tippmann Arms rifle ready for sale in the UK.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573223061/logos/Tippmann-Logo-from-their-website.png
 category: News
 keywords: tippmann arms elite
 author: Shooting Supplies
@@ -13,7 +13,7 @@ author: Shooting Supplies
 
 # **Tippmann Arms Elite-S 12.5" Barrel**
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564481/Tippmann-Logo-from-their-website_vu352l_vkwchm_ik8qpw.png)
+![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223061/logos/Tippmann-Logo-from-their-website.png)
 
 So we finally have the third model of the Tippmann Arms rifle ready for sale in the UK.
 

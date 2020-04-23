@@ -5,7 +5,7 @@ date: "2019-10-24"
 excerpt: >-
   We have received a batch of the new ammo from CCI for your 22LR rifles.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573565373/934CC_Clean22_s01ujt-1_ovb1cw.png
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573222009/ammo/CCI-Clean-22.png
 category: News
 keywords: ammo, 22lr, clean ammo
 author: Shooting Supplies
@@ -15,7 +15,7 @@ author: Shooting Supplies
 
 We have received a batch of the new **ammo** from **CCI** for your **22LR rifles**.
 
-<p align="center"><img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565373/934CC_Clean22_s01ujt-1_ovb1cw.png" /></p>
+<p align="center"><img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573222009/ammo/CCI-Clean-22.png" /></p>
 
 ## **Clean.22** polymer coated
 

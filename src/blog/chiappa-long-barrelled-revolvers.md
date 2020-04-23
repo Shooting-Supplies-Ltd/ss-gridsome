@@ -5,7 +5,7 @@ date: "2018-12-18"
 excerpt: >-
   The Chiappa Rhino long barrelled pistols have arrived just in time for Christmas.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564413/Rhino-pistol_wenjlj_vrnocl-1_acmmyq.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573223113/Blog/Chiappa-Rhino-Pistol.jpg
 category: News
 keywords: chiappa rhino, long barrel pistol
 author: Shooting Supplies
@@ -14,7 +14,7 @@ author: Shooting Supplies
 # **Chiappa Long Barrelled Pistols Have Arrived**
 
 <p align="center">
-<img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564413/Rhino-pistol_wenjlj_vrnocl-1_acmmyq.jpg" />
+<img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573223113/Blog/Chiappa-Rhino-Pistol.jpg" />
 </p>
 
 The Chiappa Rhino long barrelled pistols have arrived just in time for Christmas.

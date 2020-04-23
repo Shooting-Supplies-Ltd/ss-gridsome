@@ -5,7 +5,7 @@ date: "2019-11-27"
 excerpt: >-
   Airmax scopes all feature 16 layer multi-coated optics that have been developed to provide crisp, clear and high-resolution images.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1574854370/Hawke-Airmax_v5mfan.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1574854370/Blog/Hawke-Airmax.jpg
 category: News
 keywords: hawke, rifle scopes, amx reticle
 author: Shooting Supplies

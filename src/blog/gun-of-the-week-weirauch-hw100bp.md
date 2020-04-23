@@ -5,7 +5,7 @@ date: "2019-07-24"
 excerpt: >-
   For this weeks 'Gun of the Week' our staff have selected the Weihrauch HW 100 BP Air Rifle.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564189/hw100-bullpup-black-grey-synthetic-air-rifle-4_wnppnm_yfupvg-1_rurhlt.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573223222/Blog/weirauch-hw100bp-gun-of-the-week.jpg
 category: Gun of the Week
 keywords: weihrauch hw100, bullpup, air rifle
 author: Shooting Supplies
@@ -16,7 +16,7 @@ author: Shooting Supplies
 For this weeks 'Gun of the Week' our staff have selected the Weihrauch HW 100 BP Air Rifle.
 
 <p align="center">
-<img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564189/hw100-bullpup-black-grey-synthetic-air-rifle-4_wnppnm_yfupvg-1_rurhlt.jpg"</img>
+<img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573223210/guns/hw100-bullpup-black-grey-synthetic-air-rifle.jpg"></img>
 </p>
 
 This Bullpup variation of the original HW100 air rifle has all the benefits of the original. Featuring a simple action, efficient design and is manufactured to the highest standards, as you would expect from Weihrauch.

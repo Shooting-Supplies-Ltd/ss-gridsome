@@ -5,7 +5,7 @@ date: "2019-07-19"
 excerpt: >-
   The Tippmann Arms M4-22 Pro-S is a premium .22 caliber semi-automatic rifle, with aluminium upper and lower receivers and all of the features of a true M4.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564282/GunOfTheWeek-TippmannArmsProS_fgllrc_mncmfk-1_ngxq5n.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573223187/Blog/Gun-Of-The-Week-Tippmann-Arms-Pro-S.jpg
 category: tippmann arms, m4, 22lr, pro-s, rifle
 author: Shooting Supplies
 ---
@@ -14,7 +14,7 @@ author: Shooting Supplies
 
 The Tippmann Arms M4-22 Pro-S is a premium .22 caliber semi-automatic rifle, with aluminium upper and lower receivers and all of the features of a true M4.
 
-![Tippmann Arms Pro S](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564282/GunOfTheWeek-TippmannArmsProS_fgllrc_mncmfk-1_ngxq5n.jpg)
+![Tippmann Arms Pro S](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223187/Blog/Gun-Of-The-Week-Tippmann-Arms-Pro-S.jpg)
 
 The Tippmann Arms Pro-S is largely mil-spec compatible and will accept most AR15 stocks, guards and sights.
 

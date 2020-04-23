@@ -5,7 +5,7 @@ date: "2019-10-04"
 excerpt: >-
   The Sauer 100 XT centrefire rifle offers unrivalled performance for an entry level gun.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564924/Sauer-100-XT_setzjg_h20huk.png
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573222171/guns/Sauer-100-XT.png
 category: Gun of the Week
 keywords: sauer 100 xt, synthetic, entry level, rifle
 author: Shooting Supplies
@@ -21,7 +21,7 @@ Offering a wide range of calibre's, available in 223, 243, 308 and 30-06, and ke
 
 For accuracy and build quality, at this price, you won't find much better.
 
-![Sauer 100 XT Synthetic](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564924/Sauer-100-XT_setzjg_h20huk.png)
+![Sauer 100 XT Synthetic](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222171/guns/Sauer-100-XT.png)
 
 ## Features of the Sauer 100 XT:
 

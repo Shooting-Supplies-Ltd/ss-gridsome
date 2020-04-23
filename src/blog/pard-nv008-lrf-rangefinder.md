@@ -5,7 +5,7 @@ date: "2019-10-02"
 excerpt: >-
   New in stock is the Pard NV008 LRF Rangefinder, bringing both performance and value for money to our Night Vision range.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564906/PardNV008LRFRangefinder_orrkzp-1_vlvhvz.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573222190/Blog/Pard-NV008-LRF-Rangefinder.jpg
 catgeory: News
 keywords: pard nv008, rangefinder, night vision, rifle scope
 author: Shooting Supplies
@@ -19,7 +19,7 @@ New in stock is the [Pard NV008 LRF](/product/pard-nv008-lrf-digital-scope/) Ran
 
 The NV008 LRF is a brilliant all in one package, equipped with a 600m laser rangefinder and digital 1080p day/night vision. MP4 video recording and quick swap batteries, plus a weaver rail mount all included.
 
-![Pard NV008 LRF Rangefinder for sale](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564906/PardNV008LRFRangefinder_orrkzp-1_vlvhvz.jpg)
+![Pard NV008 LRF Rangefinder for sale](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222190/Blog/Pard-NV008-LRF-Rangefinder.jpg)
 
 ## Pard NV008 LRF Features
 

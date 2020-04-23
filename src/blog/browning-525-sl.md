@@ -5,7 +5,7 @@ date: "2019-07-12"
 excerpt: >-
   The Browning 525 SL has been chosen for our gun of the week. £1999 in store.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564291/B525-SPORTER-LAMINATED-ADJ_1_wokvdy_heq12o-1_xipuux.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573223159/guns/B525-SPORTER-LAMINATED-ADJ_1_wokvdy_heq12o.jpg
 category: Gun of the Week
 keywords: browning 525 sl, shotgun, 12 gauge, sporter
 author: Shooting Supplies
@@ -15,7 +15,7 @@ author: Shooting Supplies
 
 The Browning 525 SL has been chosen for our gun of the week. £1999 in store.
 
-![Browning 525 Sporter Laminated](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564291/B525-SPORTER-LAMINATED-ADJ_1_wokvdy_heq12o-1_xipuux.jpg)
+![Browning 525 Sporter Laminated](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223159/guns/B525-SPORTER-LAMINATED-ADJ_1_wokvdy_heq12o.jpg)
 
 Browning offers some beautifully designed and well-made [shotguns](https://shootingsuppliesltd.co.uk/shotguns/) and the 525 Sporter Laminate is one of them. With a sporty and aggressive style, the SL is an improved upon version of the original 525 over and under shotgun.
 

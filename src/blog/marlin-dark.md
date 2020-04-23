@@ -6,7 +6,7 @@ author: Shooting Supplies
 excerpt: >-
   Owning one of Marlins' highly anticipated Dark Series lever-action rifles is in touching distance.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1583521454/MODEL-1895-DARK-SERIES_jv81f1.png
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1583521454/guns/MODEL-1895-DARK-SERIES.png
 category: News
 keywords: marlin dark, lever action, rifle
 ---
@@ -17,7 +17,7 @@ Coming Soon..
 
 Owning one of Marlins' highly anticipated Dark Series lever-action rifles is in touching distance. The dark series range of 1894/95 stealthy, tricked out, and blacked out lever-action rifles is aiming to bring lever-action rifles back to the fore.
 
-![Marlin Dark, lever action rifle](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521459/Marlin-Dark_pcth0m.jpg)
+![Marlin Dark, lever action rifle](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521454/guns/MODEL-1895-DARK-SERIES.png)
 
 Designed for the modern hunter, they feature a stealthy-tough black matte parkerised finish and a black-webbed hardwood stock. With a host of performance enhancements, including a threaded barrel, big-loop lever and XS Lever Rail with ghost ring peep that also accommodates a wide variety of optics.
 

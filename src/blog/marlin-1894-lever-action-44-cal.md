@@ -15,7 +15,7 @@ author: Shooting Supplies
 
 They have been on back order for 18 months, but we have finally received a shipment of the sort after Marlin lever action rifles!!
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564297/1894_apjzin_jltbeg-1_ciibwy.png)
+![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223153/guns/Marlin-1894.png)
 
 With the advantage of side loading and side ejection, they make an ideal rifle for galley shooting.
 

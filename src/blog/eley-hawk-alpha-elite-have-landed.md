@@ -6,14 +6,14 @@ author: Shooting Supplies
 excerpt: >-
   Eley Hawk has launched its latest innovation in cartridges the Alpha Elite.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1583521426/68936_EH_Product_Sheet_practical-shooting-FINAL-NO-PF1_ti2omg.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1583521426/Blog/68936_EH_Product_Sheet_practical-shooting-FINAL-NO-PF1_ti2omg.jpg
 category: News
 keywords: eley hawk, cartridges, shotgun, ammo
 ---
 
 # **New Eley Hawk Alpha Elite Cartiridges**
 
-![Eley Hawk Alpha Elite Launch Poster](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521426/68936_EH_Product_Sheet_practical-shooting-FINAL-NO-PF1_ti2omg.jpg)
+![Eley Hawk Alpha Elite Launch Poster](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521426/Blog/68936_EH_Product_Sheet_practical-shooting-FINAL-NO-PF1_ti2omg.jpg)
 
 Eley Hawk has launched its latest innovation in cartridges the Alpha Elite. A brand new “birdshot” cartridge for the Practical Shooting Discipline this has been crafted to ensure the best results for this fast-paced sport.
 
@@ -25,4 +25,4 @@ The use of a 16 mm brass length delivers an easy eject on mag fed,  semi-automa
 
 Available in-store today!
 
-![Eley Hawk Elite Alpha Specification Sheet](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521431/68936_EH_Product_Sheet_practical-shooting-FINAL-NO-PF2_foekpe.jpg)
+![Eley Hawk Elite Alpha Specification Sheet](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521431/Blog/68936_EH_Product_Sheet_practical-shooting-FINAL-NO-PF2_foekpe.jpg)
