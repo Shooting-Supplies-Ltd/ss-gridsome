@@ -10,7 +10,7 @@
             <li>
               <g-link to="/blog/gunsmithing/">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564904/AirArmsApproved-1_cppvyz_m973pf.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573223183/misc/AirArmsApproved_a6mdjd_jwccgj.jpg"
                   style="max-width: 160px;"
                 />
               </g-link>
@@ -20,7 +20,7 @@
             <li>
               <g-link to="/blog/offers">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564898/special-offers_ftxhmi_eqolxg_kwyp7m.png"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573222197/misc/special-offers_ftxhmi_eqolxg.png"
                   style="max-width: 160px;"
                 />
               </g-link>
@@ -30,7 +30,7 @@
             <li>
               <g-link to="/blog/tackle-guns-star-shop">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564830/Tackle-and-Guns-Star-Shop-1_gixwr1_th35jk.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564830/logos/Tackle-and-Guns-Star-Shop-1_gixwr1_th35jk.jpg"
                   style="max-width: 160px;"
                 />
               </g-link>
@@ -39,7 +39,7 @@
           <div>
             <li>
               <g-image
-                src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565462/Deko-SpreadTheCost_lw6axe_pvrogz.png"
+                src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565462/misc/Deko-SpreadTheCost_lw6axe_pvrogz.png"
                 style="max-width: 160px;"
               />
             </li>
@@ -50,7 +50,7 @@
                 href="https://www.guntrader.uk/dealers/bromsgrove/shooting-supplies-ltd"
               >
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564902/findus-guntrader-v1-1_ucbhx5_ks7jfv_nknsa5.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573222241/misc/find-us-guntrader_pzj8vm.jpg"
                   style="max-width: 160px;"
                 />
               </a>
@@ -60,7 +60,7 @@
             <li>
               <g-link to="/blog/contact-us">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573564832/Opening-Times-1_ybxree_trnybp_qix4tx.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573222843/misc/Opening-Times_rufl99.jpg"
                   style="max-width: 160px;"
                 />
               </g-link>
@@ -82,7 +82,7 @@
             <li class="mb-12 border-t lg:border-none hover:text-ssorange">
               <g-link to="/guns/">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565379/Guns_bylme2_icn8l5.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561021/shootingsuppliesltd.co.uk/Guns.jpg"
                 />
                 <h2
                   class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
@@ -96,7 +96,7 @@
             <li class="mb-12 hover:text-ssorange border-t lg:border-none">
               <g-link to="/blog/ammunition/">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565380/Ammo_dqveke_faucxd.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561043/shootingsuppliesltd.co.uk/Ammo.jpg"
                 />
                 <h2
                   class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
@@ -145,7 +145,7 @@
             <li class="hover:text-ssorange mb-12 border-t lg:border-none">
               <g-link to="/blog/reloading/">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565383/Reloading_aruwyq_pibivk.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561100/shootingsuppliesltd.co.uk/Reloading.jpg"
                 />
                 <h2
                   class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
@@ -159,7 +159,7 @@
             <li class="hover:text-ssorange mb-4 border-t lg:border-none">
               <g-link to="/blog/clothing-footwear/">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565383/Clothing_r4zxrt_wo3xz7.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561134/shootingsuppliesltd.co.uk/Clothing.jpg"
                 />
                 <h2
                   class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"

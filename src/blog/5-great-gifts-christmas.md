@@ -7,7 +7,7 @@ excerpt: >-
   accessories that will make great gifts for the shooters in your life.
 date: 2019-12-12T00:00:00
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1576320943/Christmas-Shooting-Supplies_buseop.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1576320943/Blog/Christmas-Shooting-Supplies_buseop.jpg
 author: Shooting Supplies
 category: News
 keywords: christmas gifts, aimcam pro 2, bisley cleaning kit, 3M Peltor Sportac Hearing Protection

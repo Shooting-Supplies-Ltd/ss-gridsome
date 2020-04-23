@@ -5,7 +5,7 @@ date: "2019-09-27"
 excerpt: >-
   enelli are well known for their ultra reliable shotguns and the Raffaello Accademia is no exception, with this semi auto they are offering something a little bit special.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1573564890/Raffaello-Accademia_p9znr8_atvjex.png
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573222202/Blog/BenelliRaffaelloAccademiaGOTWSlide_vvohwj.jpg
 category: Gun of the Week
 keywords: benelli raffaello accademia, shotgun, special edition
 author: Shooting Supplies
@@ -19,7 +19,7 @@ The Raffaello Accademia is an exclusive semi auto shotgun, with only 1000 made, 
 
 In the Accademia, Benelli have created a unique and collectible, premium shotgun. Featuring Satin Walnut furniture and a unique engraving. The engraving is the result of a collaboration between Benelli and students of Urbino's Academy of Fine Arts.
 
-![The unique design on the action of the Benelli Raffaello Accademia.](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564886/Raffaello-Accademia-2_oaha1c_jt6wjn.jpg)
+![The unique design on the action of the Benelli Raffaello Accademia.](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222207/guns/Raffaello-Accademia-2_oaha1c.jpg)
 
 The barrels of the Accademia have been treated with Benelli's B.E.S.T. finishing process which provides an exceptional finish with a brilliant stand out black and provides excellent resistance to corrosion and wear.
 
@@ -29,7 +29,7 @@ The Raffaello Accademia is a must have!
 
 Call us on 01527831261 to reserve yours today!
 
-![The Benelli Raffaello Accademia semi auto shotgun for sale](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564890/Raffaello-Accademia_p9znr8_atvjex.png)
+![The Benelli Raffaello Accademia semi auto shotgun for sale](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222205/guns/Raffaello-Accademia_p9znr8.png)
 
 ## Raffaello Accademia Features
 
