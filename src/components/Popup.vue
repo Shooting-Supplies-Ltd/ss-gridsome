@@ -11,7 +11,7 @@
       <p>
         Whilst the store currently remains closed. We are now able to send non-restricted items via mail.
         <br></br>
-        Initially please forward all enquiries to <a href="mailto:info@shootingsuppliesltd.co.uk" style="color: blue;">info@shootingsuppliesltd.co.uk</a>
+        Please follow this <a style="color: blue;" href="/temp-order-form">link</a> to complete a short form and we shall get back to you asap!
         <br></br>
         Please note that we are out of stock on all Pard items at the moment.
         <br></br>
