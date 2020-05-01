@@ -9,9 +9,13 @@
     </div>
     <div class="bg-gray-200 md:text-base text-sm border-b p-2 h-36">
       <p>
-        Following the governments announcement, the shop will now be closed. Future updates will be posted both here and on Social media.
+        Whilst the store currently remains closed. We are now able to send non-restricted items via mail.
         <br></br>
-        We hope to see you soon & take care of yourselves!
+        Initially please forward all enquiries to <a href="mailto:info@shootingsuppliesltd.co.uk" style="color: blue;">info@shootingsuppliesltd.co.uk</a>
+        <br></br>
+        Please note that we are out of stock on all Pard items at the moment.
+        <br></br>
+        We hope to see you back in the shop soon & take care of yourselves!
       </p>
     </div>
     <div class="p-2 flex justify-end rounded-b">

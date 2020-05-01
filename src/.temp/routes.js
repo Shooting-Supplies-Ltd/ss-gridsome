@@ -20,12 +20,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Shotgun.vue")
   },
   {
-    path: "/guns/pistol-black-powder/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
-  },
-  {
     path: "/guns/rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Rifle.vue")
+  },
+  {
+    path: "/guns/pistol-black-powder/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
   },
   {
     path: "/accessories/targets/:page(\\d+)?/",
@@ -936,6 +936,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
+    path: "/guns/steyr-mannlicher-lg-11006474/",
+    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
+  },
+  {
     path: "/guns/sig-sauer-p32019-k15851/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
@@ -1013,10 +1017,6 @@ export default [
   },
   {
     path: "/guns/tippmann-sports0018035/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/steyr-lg-11006474/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
   },
   {
