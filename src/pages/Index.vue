@@ -110,7 +110,7 @@
             <li class="hover:text-ssorange mb-12 border-t lg:border-none">
               <g-link to="/optics/">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565381/Scopes_pweqna_a6ievw.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561058/shootingsuppliesltd.co.uk/Scopes.jpg"
                 />
                 <h2
                   class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
@@ -131,7 +131,7 @@
             <li class="hover:text-ssorange mb-12 border-t lg:border-none">
               <g-link to="/blog/maintenance-cleaning/">
                 <g-image
-                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573565382/Maintenance_sne6oe_gmgncb.jpg"
+                  src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561073/shootingsuppliesltd.co.uk/Maintenance.jpg"
                 />
                 <h2
                   class="flex flex-wrap justify-center font-bold text-xl lg:text-2xl lg:mt-6"
