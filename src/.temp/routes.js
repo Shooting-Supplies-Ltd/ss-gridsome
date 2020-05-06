@@ -28,12 +28,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Rifle.vue")
   },
   {
-    path: "/accessories/targets/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--accessories--targets-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Targets.vue")
-  },
-  {
     path: "/guns/long-barrel-pistol/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--long-barrel-pistol-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/LongBarrelPistol.vue")
+  },
+  {
+    path: "/accessories/targets/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--targets-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Targets.vue")
   },
   {
     path: "/accessories/stocks/:page(\\d+)?/",
@@ -52,20 +52,20 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--blank-pistol-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/BlankPistol.vue")
   },
   {
-    path: "/accessories/holsters/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Holsters.vue")
-  },
-  {
-    path: "/accessories/handguards/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Handguards.vue")
-  },
-  {
     path: "/guns/air-pistol/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirPistol.vue")
   },
   {
     path: "/guns/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirRifle.vue")
+  },
+  {
+    path: "/accessories/handguards/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Handguards.vue")
+  },
+  {
+    path: "/accessories/holsters/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Holsters.vue")
   },
   {
     path: "/accessories/grips/:page(\\d+)?/",
@@ -80,12 +80,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--bipods-rests-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/BipodsRests.vue")
   },
   {
-    path: "/accessories/attachments-mounts/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--accessories--attachments-mounts-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/AttachmentsMounts.vue")
-  },
-  {
     path: "/accessories/buttstocks/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--buttstocks-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Buttstocks.vue")
+  },
+  {
+    path: "/accessories/attachments-mounts/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--accessories--attachments-mounts-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/AttachmentsMounts.vue")
   },
   {
     path: "/products/yukon-photon-rt-6x50s-night-vision-rifle-scope/",
@@ -260,20 +260,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
-    path: "/products/pard-nv008-digital-night-vision-rifle-scope/",
-    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
-  },
-  {
     path: "/products/tippmann-arms-cap/",
     component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
     path: "/guns/weihrauch-hw-97-carbine-black-line-stl-2276632/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/products/pard-nv008-lrf-digital-rifle-scope/",
-    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
   },
   {
     path: "/guns/yildiz-spz-m-junior-y27966/",
