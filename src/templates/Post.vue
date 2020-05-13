@@ -64,6 +64,7 @@ export default {
 <style>
 h1 {
   font-size: 2em;
+  margin-bottom: 0.5em;
 }
 
 h2 {
@@ -87,6 +88,8 @@ img {
 }
 
 li {
+  margin-left: 0.5em;
   margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 </style>
