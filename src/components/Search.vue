@@ -17,21 +17,19 @@
         >
           <g-link :to="`/guns/${result.slug}`">
             <figure :v-if="result.images[0].FullPath" @click="clearSearch">
-              <g-image
-                :src="`${result.images[0].FullPath}`"
-                class="rounded"
-              ></g-image>
+              <g-image :src="`${JSON.parse(result.images)[0].FullPath}`" class="rounded"></g-image>
               <h2
                 class="hover:text-ssorange hover:border-ssorange mt-4 text-md"
                 v-if="result.variant != null"
               >
                 {{
-                  result.condition + " " + result.title + " " + result.variant
+                result.condition + " " + result.title + " " + result.variant
                 }}
               </h2>
-              <h2 class="hover:text-ssorange hover:border-ssorange" v-else>
-                {{ result.condition + " " + result.title }}
-              </h2>
+              <h2
+                class="hover:text-ssorange hover:border-ssorange"
+                v-else
+              >{{ result.condition + " " + result.title }}</h2>
               <p>£{{ result.price }}</p>
             </figure>
           </g-link>
