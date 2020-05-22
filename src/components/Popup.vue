@@ -11,7 +11,7 @@
       <p>
         GOOD NEWS! 
         <br></br>
-        As of Tuesday 26/05 we will be offering both restricted and non-restricted items for sale in store BY APPOINTMENT ONLY
+        As of Tuesday 26/05 we will be offering both restricted and non-restricted items BY APPOINTMENT ONLY (Please do not come to the store without an appointment as we will be unable to help you).
         <br></br>
         Please either <a href="mailto:info@shootingsuppliesltd.co.uk" style="color: blue;">email</a> us your requirements and contact details. Or, follow this <a style="color: blue;" href="/temp-order-form">link</a> to complete a short form and we shall get back to you ASAP!
         <br></br>
