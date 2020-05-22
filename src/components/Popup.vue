@@ -9,13 +9,15 @@
     </div>
     <div class="bg-gray-200 md:text-base text-sm border-b p-2 h-36">
       <p>
-        Whilst the store currently remains closed. We are now able to send non-restricted items via mail.
+        GOOD NEWS! 
         <br></br>
-        Please follow this <a style="color: blue;" href="/temp-order-form">link</a> to complete a short form and we shall get back to you asap!
+        As of Tuesday 26/05 we will be offering both restricted and non-restricted items for sale in store BY APPOINTMENT ONLY
         <br></br>
-        Please note that we are out of stock on all Pard items at the moment.
+        Please either <a href="mailto:info@shootingsuppliesltd.co.uk" style="color: blue;">email</a> us your requirements and contact details. Or, follow this <a style="color: blue;" href="/temp-order-form">link</a> to complete a short form and we shall get back to you ASAP!
         <br></br>
-        We hope to see you back in the shop soon & take care of yourselves!
+        Please note that we are out of stock on all Pard items.
+        <br></br>
+        We're looking forward to seeing you again soon!
       </p>
     </div>
     <div class="p-2 flex justify-end rounded-b">
