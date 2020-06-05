@@ -14,7 +14,7 @@ author: Shooting Supplies
 
 What rifle should you get when you're on a budget?
 
-How about the T3X Roughtech from Tikka. Providing the action of a much more expensive rifle and sub MOA accuracy, you really can't go wrong.
+How about the T3X Roughtech from Tikka. Providing the action of a much more expensive rifle and 1 MOA accuracy guaranteed, you really can't go wrong.
 
 ![Tikka T3X Roughtech Creedmoor Rifle](https://res.cloudinary.com/shooting-supplies/image/upload/v1591351691/Blog/Tikka_T3X_Roughtech_dnfnv1.png)
 
