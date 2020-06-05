@@ -28,12 +28,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/Rifle.vue")
   },
   {
-    path: "/guns/long-barrel-pistol/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--guns--long-barrel-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/LongBarrelPistol.vue")
-  },
-  {
     path: "/accessories/targets/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--targets-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Targets.vue")
+  },
+  {
+    path: "/guns/long-barrel-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--long-barrel-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/LongBarrelPistol.vue")
   },
   {
     path: "/accessories/stocks/:page(\\d+)?/",
@@ -52,20 +52,20 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--blank-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/BlankPistol.vue")
   },
   {
-    path: "/guns/air-pistol/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/AirPistol.vue")
-  },
-  {
-    path: "/guns/air-rifle/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/AirRifle.vue")
-  },
-  {
     path: "/accessories/handguards/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Handguards.vue")
   },
   {
     path: "/accessories/holsters/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Holsters.vue")
+  },
+  {
+    path: "/guns/air-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/AirPistol.vue")
+  },
+  {
+    path: "/guns/air-rifle/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/AirRifle.vue")
   },
   {
     path: "/accessories/grips/:page(\\d+)?/",
@@ -2165,10 +2165,6 @@ export default [
   },
   {
     path: "/guns/accuracy-internationalnull-nvn/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/crosman1077419111563/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
