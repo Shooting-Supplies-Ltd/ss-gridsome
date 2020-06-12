@@ -53,6 +53,6 @@ With the same features, ruggedness and reliability of the Elite. The Elite LF Fl
 
 In store at Shooting Supplies Ltd for just £999.
 
-Call our experts on [01527831261](tel:01527831261) to check stock, reserve or to answer any any questions.
+Call our experts on [01527831261](tel:01527831261) to check stock, reserve or to answer any questions.
 
 `youtube:https://youtu.be/ppi2TW4Wv5Y`
