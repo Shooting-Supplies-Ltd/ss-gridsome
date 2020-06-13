@@ -18,21 +18,17 @@
         <AccessoriesSidebar class="min-w-full ml-6" />
       </div>
 
-      <div
-        class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12"
-      >
+      <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
         <div
           v-for="edge in $page.allWooProducts.edges"
           :key="edge.node.id"
           id="gun-card"
           class="max-w-xs rounded-b-lg shadow hover:shadow-lg hover:border-ssorange mb-8 border-t-4 border-ssblue sm:w-1/3 sm:m-4"
         >
-          <g-link :to="`/products/${edge.node.slug}`"
-            ><g-image :src="edge.node.images[0].src" :alt="edge.node.name" />
+          <g-link :to="`/products/${edge.node.slug}`">
+            <g-image :src="edge.node.images[0].src" :alt="edge.node.name" />
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">
-                {{ edge.node.name }}
-              </h2>
+              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.name }}</h2>
               <p class="font-semibold text-lg mt-2">£{{ edge.node.price }}</p>
             </div>
           </g-link>
@@ -57,29 +53,29 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Stocks",
+      title: "Stocks"
     };
   },
   data() {
     return {
-      open: false,
+      open: false
     };
   },
   methods: {
     toggle() {
       this.open = !this.open;
-    },
+    }
   },
   components: {
     AccessoriesSidebar,
-    Pager,
-  },
+    Pager
+  }
 };
 </script>
 
 <page-query>
 query products ($page: Int) {
-  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {eq: 365}}}, sortBy: "name", order: ASC) @paginate {
+  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {eq: 4700}}}, sortBy: "name", order: ASC) @paginate {
     pageInfo {
     totalPages
     currentPage

@@ -100,10 +100,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Products.vue")
   },
   {
-    path: "/products/vortex-razor-hd-lh-3-15x42-hsr4-rifle-scope/",
-    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Products.vue")
-  },
-  {
     path: "/products/vortex-viper-hst-4-16x44-hst-vmr1-rifle-scope/",
     component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Products.vue")
   },
@@ -309,10 +305,6 @@ export default [
   },
   {
     path: "/guns/winchester-sxp-defender-12-azn-45951/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/weihrauch-hw-97-kt-black-line2287978/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -689,10 +681,6 @@ export default [
   },
   {
     path: "/guns/tikka-t3-x-tac-x55120/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/tikka-t3-x-tac-v35375/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1084,10 +1072,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Products.vue")
   },
   {
-    path: "/products/fab-defense-ag47-ergonomic-pistol-grip/",
-    component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Products.vue")
-  },
-  {
     path: "/products/fab-defense-scorpus-glock-belt-holster/",
     component: () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Products.vue")
   },
@@ -1301,10 +1285,6 @@ export default [
   },
   {
     path: "/guns/pietta1851379406/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/mossberg-hushpower-v0851759/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1569,10 +1549,6 @@ export default [
   },
   {
     path: "/guns/bsar-10-se-blue-laminaterse-770268-jk/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/bsar-10-mk2-super-carbine-r770449-de/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {
@@ -1957,10 +1933,6 @@ export default [
   },
   {
     path: "/guns/daystate-genusgs-0094/",
-    component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
-  },
-  {
-    path: "/guns/crosman-dpms-18-l22512/",
     component: () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
   },
   {

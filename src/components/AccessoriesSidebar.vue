@@ -7,14 +7,17 @@
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:text-ssorange"
       >
-        <g-link to="/accessories/attachments-mounts"
-          >Attachments & Mounts</g-link
-        >
+        <g-link to="/accessories/attachments-mounts">Attachments & Mounts</g-link>
       </div>
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:text-ssorange"
       >
         <g-link to="/accessories/bipods-rests">Bipods & Rests</g-link>
+      </div>
+      <div
+        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:text-ssorange"
+      >
+        <g-link to="/accessories/buttstocks">Buttstocks</g-link>
       </div>
       <div
         class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:text-ssorange"

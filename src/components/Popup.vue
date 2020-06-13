@@ -8,19 +8,10 @@
       </div>
     </div>
     <div class="bg-gray-200 md:text-base text-sm border-b p-2 h-36">
-      <p>
-        GOOD NEWS!  
-        <br></br>
-        In line with the current government advice, we shall be re-opening on Tuesday the 16th of June
-        <br></br>
-        We are currently still offering both restricted and non-restricted items BY APPOINTMENT ONLY (Please do not come to the store without an appointment as we will be unable to help you).
-        <br></br>
-        Please either <a href="mailto:info@shootingsuppliesltd.co.uk" style="color: blue;">email</a> us your requirements and contact details. Or, follow this <a style="color: blue;" href="/temp-order-form">link</a> to complete a short form and we shall get back to you ASAP!
-        <br></br>
-        Please note that we are out of stock on all Pard items.
-        <br></br>
-        We're looking forward to seeing you again soon!
-      </p>
+      <p>GOOD NEWS!</p>
+      <p>In line with the current government advice, we shall be re-opening on Tuesday the 16th of June - We're looking forward to seeing you again soon!</p>
+      <br></br>
+      <p>Please be aware that this website is in active development - Please call ahead to ensure that a listed product is in stock 01527 831 261</p>
     </div>
     <div class="p-2 flex justify-end rounded-b">
       <button
