@@ -1,32 +1,43 @@
 <template>
   <Layout>
-    <div
-      id="filter-menu"
-      class="block flex justify-center bg-white p-2 lg:hidden border-b-2 border-black"
-    >
-      <button @click="toggle" id="filter-menu" class="lg:hidden text-xl">
-        Filter
-        <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
-      </button>
+    <!-- Add a filter menu for mobile view -->
+    <div class="mobile-filter-menu">
+      <div
+        id="filter-menu"
+        class="block flex justify-center bg-white p-2 lg:hidden border-b-2 border-black"
+      >
+        <button @click="toggle" id="filter-menu" class="lg:hidden text-xl">
+          Filter
+          <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
+        </button>
+      </div>
+      <div :class="open ? 'block' : 'hidden'" class="uppercase font-semibold">
+        <Sidebar />
+      </div>
     </div>
-    <div :class="open ? 'block' : 'hidden'" class="uppercase font-semibold">
-      <Sidebar />
-    </div>
-
+   
+   <!-- Add the main container -->
     <div class="flex items-start">
+      <!-- Add the Sidebar component -->
       <div class="hidden lg:block lg:mt-40 lg:w-3/8 h-screen">
         <Sidebar class="min-w-full ml-6" />
-      </div>
+      </div> 
 
+      <!-- Gun Cards Container -->
       <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
+      <!-- Iterate through guns and create gun cards -->
         <div
           v-for="edge in $page.allGuns.edges"
           :key="edge.node.id"
           id="gun-card"
-          class="max-w-xs rounded-b-lg shadow hover:shadow-lg hover:border-ssorange mb-8 border-t-4 border-ssblue sm:w-1/3 sm:m-4"
+          class="max-w-xs mb-8 sm:w-1/2 sm:m-4 rounded-lg shadow hover:shadow-lg border-2 border-gray-300 hover:border-2 hover:border-ssorange"
         >
+          <!-- Create link to product page -->
           <g-link :to="`guns/${edge.node.slug}`">
-            <g-image :src="edge.node.images[0].FullPath" :alt="edge.node.title" />
+            <!-- Add image to gun card -->
+            <div class="gun-card-image h-48 w-full">
+              <g-image :src="edge.node.images[0].FullPath" :alt="edge.node.title" class="h-48 w-full object-cover object-center" />
+            </div>
             <div class="p-4">
               <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.title }}</h2>
               <h3 class="font-semibold">Variant: {{ edge.node.variant }}</h3>

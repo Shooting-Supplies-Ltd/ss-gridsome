@@ -24,12 +24,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Shotgun.vue")
   },
   {
-    path: "/guns/pistol-black-powder/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
-  },
-  {
     path: "/guns/rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Rifle.vue")
+  },
+  {
+    path: "/guns/pistol-black-powder/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
   },
   {
     path: "/accessories/targets/:page(\\d+)?/",
@@ -64,12 +64,12 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Holsters.vue")
   },
   {
-    path: "/guns/air-pistol/:page(\\d+)?/",
-    component: () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirPistol.vue")
-  },
-  {
     path: "/guns/air-rifle/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirRifle.vue")
+  },
+  {
+    path: "/guns/air-pistol/:page(\\d+)?/",
+    component: () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirPistol.vue")
   },
   {
     path: "/accessories/grips/:page(\\d+)?/",

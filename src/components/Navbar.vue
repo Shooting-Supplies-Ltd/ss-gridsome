@@ -66,9 +66,11 @@
         </g-link>
       </div>
     </div>
+    
+    <!-- Main Nav Bar -->
     <nav id="nav-main" class="hidden lg:bg-ssblue lg:flex">
       <div id="nav-main-1" class="flex w-1/5 justify-center">
-        <div id="logo" class="absolute z-10 mt-4">
+        <div id="logo" class="absolute mt-4 z-10">
           <g-link to="/">
             <g-image src="~/assets/images/Logo.png" width="180px" />
           </g-link>
