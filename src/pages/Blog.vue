@@ -10,10 +10,16 @@
           v-for="edge in $page.allPost.edges"
           :key="edge.node.id"
           id="gun-card"
-          class="max-w-xs rounded-b-lg shadow hover:shadow-lg hover:border-ssorange mb-8 border-t-4 border-ssblue sm:w-1/3 sm:m-4"
+          class="max-w-xs mb-8 sm:w-1/2 sm:m-4 rounded-lg shadow hover:shadow-lg border-2 border-gray-300 hover:border-2 hover:border-ssorange"
         >
           <g-link :to="`blog/${edge.node.slug}`">
-            <g-image :src="edge.node.thumbnail" :alt="edge.node.title" />
+            <div class="gun-card-image h-48 w-full">
+              <g-image
+                :src="edge.node.thumbnail"
+                :alt="edge.node.title"
+                class="h-48 w-full object-cover object-center"
+              />
+            </div>
             <div class="p-4">
               <h2 class="font-bold uppercase text-xl mt-2">{{ edge.node.title }}</h2>
               <h5 class="italic">{{ edge.node.author }} - {{ edge.node.date }}</h5>

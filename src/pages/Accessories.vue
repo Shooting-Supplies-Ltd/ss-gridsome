@@ -23,7 +23,7 @@
 
       <!-- Accessory Cards Container -->
       <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
-         <!-- Iterate through accessories and create the cards -->
+        <!-- Iterate through accessories and create the cards -->
         <div
           v-for="edge in $page.allWooProducts.edges"
           :key="edge.node.id"
@@ -34,7 +34,11 @@
           <g-link :to="`/products/${edge.node.slug}`">
             <!-- Add image to accessory card -->
             <div class="gun-card-image h-48 w-full">
-              <g-image :src="edge.node.images[0].src" :alt="edge.node.name" class="h-48 w-full object-contain object-center" />
+              <g-image
+                :src="edge.node.images[0].src"
+                :alt="edge.node.name"
+                class="h-48 w-full object-contain object-center"
+              />
             </div>
             <div class="p-4">
               <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.name }}</h2>

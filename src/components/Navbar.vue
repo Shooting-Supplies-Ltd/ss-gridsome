@@ -2,33 +2,36 @@
   <!-- Setup Navbar and add logo -->
   <div>
     <!-- Logo & Mobile Menu Button-->
-    <div class="lg:hidden justify-center mt-4 lg:mt-0">
-      <div id="mobile-menu" class="block flex justify-center bg-ssblue p-2 lg:hidden">
-        <button @click="toggle" id="mobile-menu" class="lg:hidden mb-4 text-white text-xl">
+    <div id="main-logo" class="flex justify-center">
+      <g-link to="/">
+        <h1
+          class="flex self-end mt-4 mb-4 text-ssblue text-3xl lg:hidden"
+          style="font-family: ShooterSFRegular;"
+        >
+          SH
+          <span class="text-ssorange">O</span>
+          <span style="color:black;">O</span>TING SUPPLIES LTD
+        </h1>
+      </g-link>
+    </div>
+    <div class="lg:hidden lg:mt-4 lg:mt-0">
+      <div id="mobile-menu" class="flex p-2 justify-center items-center bg-ssblue lg:hidden">
+        <button @click="toggle" id="mobile-menu" class="p-2 lg:hidden text-white text-xl font-bold">
           MENU
           <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
         </button>
       </div>
-      <div id="main-logo">
-        <g-link to="/">
-          <h1
-            class="block lg:hidden flex justify-center text-ssblue"
-            style="font-family: ShooterSFRegular;"
-          >
-            SH
-            <span class="text-ssorange">O</span>
-            <span style="color:black;">O</span>TING SUPPLIES LTD
-          </h1>
-        </g-link>
-      </div>
     </div>
 
     <!-- Mobile Menu With Display Option -->
-    <div :class="open ? 'block' : 'hidden'" class="bg-ssblue text-white uppercase font-semibold">
+    <div
+      :class="open ? 'block' : 'hidden'"
+      class="pt-2 bg-ssblue text-white uppercase font-semibold"
+    >
       <!-- Search Bar Component -->
       <Search />
 
-      <div class="text-lg lg:flex-grow align-center p-1 pb-6 text-2xl text-center">
+      <div class="p-1 pb-6 text-lg lg:flex-grow align-center text-2xl text-center">
         <g-link to="/">
           <p class="mb-4 hover:text-ssorange">Home</p>
         </g-link>
@@ -66,7 +69,7 @@
         </g-link>
       </div>
     </div>
-    
+
     <!-- Main Nav Bar -->
     <nav id="nav-main" class="hidden lg:bg-ssblue lg:flex">
       <div id="nav-main-1" class="flex w-1/5 justify-center">
@@ -203,3 +206,10 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+@font-face {
+  font-family: ShooterSFRegular;
+  src: url(../assets/ShooterSFRegular.ttf);
+}
+</style>

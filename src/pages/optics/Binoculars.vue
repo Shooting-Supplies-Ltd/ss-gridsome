@@ -23,10 +23,16 @@
           v-for="edge in $page.allWooProducts.edges"
           :key="edge.node.id"
           id="gun-card"
-          class="max-w-xs rounded-b-lg shadow hover:shadow-lg hover:border-ssorange mb-8 border-t-4 border-ssblue sm:w-1/3 sm:m-4"
+          class="max-w-xs mb-8 sm:w-1/2 sm:m-4 rounded-lg shadow hover:shadow-lg border-2 border-gray-300 hover:border-2 hover:border-ssorange"
         >
           <g-link :to="`/products/${edge.node.slug}`">
-            <g-image :src="edge.node.images[0].src" :alt="edge.node.name" />
+            <div class="gun-card-image h-48 w-full">
+              <g-image
+                :src="edge.node.images[0].src"
+                :alt="edge.node.name"
+                class="h-48 w-full object-cover object-center"
+              />
+            </div>
             <div class="p-4">
               <h2 class="font-bold uppercase text-xl mt-2">{{ edge.node.name }}</h2>
               <p class="font-semibold text-lg mt-2">£{{ edge.node.price }}</p>
