@@ -1,6 +1,6 @@
 <template>
   <div
-    class="overflow-hidden shadow-lg border-t-4 bg-white rounded-b-lg rounded-t border-ssblue w-full lg:w-1/4"
+    class="overflow-hidden shadow border-t-4 bg-white rounded-b-lg rounded-t border-ssblue w-full lg:w-1/4"
   >
     <div class="px-6 py-4 mt-4 mb-8">
       <!-- <div class="uppercase tracking-wide text-c2 mb-4">Search</div> 
