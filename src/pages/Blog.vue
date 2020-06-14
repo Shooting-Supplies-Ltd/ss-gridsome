@@ -3,9 +3,9 @@
     <div class="flex items-start">
       <!-- <div class="hidden lg:block lg:mt-16 lg:w-3/8 h-screen">
         <Sidebar class="min-w-full ml-6" />
-      </div> -->
+      </div>-->
 
-      <div class="flex justify-around flex-wrap mx-4 mt-4 h-auto lg:mt-12">
+      <div class="flex justify-around flex-wrap mx-4 mt-4 h-auto lg:mt-32">
         <div
           v-for="edge in $page.allPost.edges"
           :key="edge.node.id"
@@ -15,23 +15,15 @@
           <g-link :to="`blog/${edge.node.slug}`">
             <g-image :src="edge.node.thumbnail" :alt="edge.node.title" />
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2">
-                {{ edge.node.title }}
-              </h2>
-              <h5 class="italic">
-                {{ edge.node.author }} - {{ edge.node.date }}
-              </h5>
+              <h2 class="font-bold uppercase text-xl mt-2">{{ edge.node.title }}</h2>
+              <h5 class="italic">{{ edge.node.author }} - {{ edge.node.date }}</h5>
               <p style="margin-top: 10px">{{ edge.node.excerpt }}</p>
             </div>
           </g-link>
         </div>
 
         <div class="flex justify-center mb-8 w-full">
-          <Pager
-            :linkClass="{ pageNum: true }"
-            :info="$page.allPost.pageInfo"
-            :showLinks="true"
-          />
+          <Pager :linkClass="{ pageNum: true }" :info="$page.allPost.pageInfo" :showLinks="true" />
         </div>
       </div>
     </div>

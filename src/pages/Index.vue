@@ -1,10 +1,11 @@
 <template>
   <Layout>
+    <Banner class="hidden lg:flex lg:border-b-2 lg:border-black lg:mb-8" />
+    <div id="popup" class="flex justify-center mt-24">
+      <Popup class="inset-auto" />
+    </div>
     <div>
-      <div id="popup" class="flex justify-center mt-24">
-        <Popup class="inset-auto" />
-      </div>
-      <div id="top-row" class="hidden lg:block lg:mt-20">
+      <div id="top-row" class="hidden lg:block lg:mt-8">
         <ul class="flex justify-between items-center sm:py-8 lg:mx-12 xl:mx-24">
           <div>
             <li>
@@ -46,9 +47,7 @@
           </div>
           <div>
             <li>
-              <a
-                href="https://www.guntrader.uk/dealers/bromsgrove/shooting-supplies-ltd"
-              >
+              <a href="https://www.guntrader.uk/dealers/bromsgrove/shooting-supplies-ltd">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573222241/misc/find-us-guntrader_pzj8vm.jpg"
                   style="max-width: 160px;"
@@ -84,11 +83,7 @@
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561021/shootingsuppliesltd.co.uk/Guns.jpg"
                 />
-                <h2
-                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
-                >
-                  GUNS
-                </h2>
+                <h2 class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6">GUNS</h2>
               </g-link>
             </li>
           </div>
@@ -98,11 +93,7 @@
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561043/shootingsuppliesltd.co.uk/Ammo.jpg"
                 />
-                <h2
-                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
-                >
-                  AMMO
-                </h2>
+                <h2 class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6">AMMO</h2>
               </g-link>
             </li>
           </div>
@@ -112,20 +103,13 @@
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561058/shootingsuppliesltd.co.uk/Scopes.jpg"
                 />
-                <h2
-                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
-                >
-                  OPTICS
-                </h2>
+                <h2 class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6">OPTICS</h2>
               </g-link>
             </li>
           </div>
         </ul>
       </div>
-      <div
-        id="product-select-row-2"
-        class="my-8 lg:mx-24 lg:my-20 xl:mx-32 xl:my-20"
-      >
+      <div id="product-select-row-2" class="my-8 lg:mx-24 lg:my-20 xl:mx-32 xl:my-20">
         <ul class="flex flex-wrap items-center justify-around">
           <div>
             <li class="hover:text-ssorange mb-12 border-t lg:border-none">
@@ -135,9 +119,7 @@
                 />
                 <h2
                   class="flex flex-wrap justify-center font-bold text-xl lg:text-2xl lg:mt-6"
-                >
-                  MAINTENANCE
-                </h2>
+                >MAINTENANCE</h2>
               </g-link>
             </li>
           </div>
@@ -147,11 +129,7 @@
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561100/shootingsuppliesltd.co.uk/Reloading.jpg"
                 />
-                <h2
-                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
-                >
-                  RELOADING
-                </h2>
+                <h2 class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6">RELOADING</h2>
               </g-link>
             </li>
           </div>
@@ -161,11 +139,7 @@
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561134/shootingsuppliesltd.co.uk/Clothing.jpg"
                 />
-                <h2
-                  class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6"
-                >
-                  CLOTHING
-                </h2>
+                <h2 class="flex justify-center font-bold text-xl lg:text-2xl lg:mt-6">CLOTHING</h2>
               </g-link>
             </li>
           </div>
@@ -177,6 +151,7 @@
 
 <script>
 import Popup from "../components/Popup";
+import Banner from "../components/Banner";
 
 export default {
   metaInfo() {
@@ -191,7 +166,8 @@ export default {
     };
   },
   components: {
-    Popup
+    Popup,
+    Banner
   }
 };
 </script>

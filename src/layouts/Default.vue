@@ -1,6 +1,7 @@
 <template>
   <div>
-    <Header />
+    <Topbar class="hidden lg:flex" />
+    <Navbar />
     <transition name="fade" appear>
       <main>
         <slot />
@@ -21,12 +22,14 @@
 </style>
 
 <script>
-import Header from "~/components/Header.vue";
+import Topbar from "~/components/Topbar.vue";
+import Navbar from "~/components/Navbar.vue";
 import Footer from "~/components/Footer.vue";
 
 export default {
   components: {
-    Header,
+    Topbar,
+    Navbar,
     Footer
   }
 };

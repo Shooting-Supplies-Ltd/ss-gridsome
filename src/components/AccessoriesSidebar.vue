@@ -50,7 +50,7 @@
         <g-link to="/accessories/stocks">Stocks</g-link>
       </div>
       <div
-        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:text-ssorange"
+        class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-1 hover:text-ssorange"
       >
         <g-link to="/accessories/targets">Targets</g-link>
       </div>

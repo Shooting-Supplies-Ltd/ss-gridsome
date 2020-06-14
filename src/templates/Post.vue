@@ -3,7 +3,7 @@
     <div class="flex justify-center mt-4 mb-4">
       <div class="w-1/4"></div>
       <div
-        class="flex justify-center flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-16 lg:w-2/4 p-4"
+        class="flex justify-center flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mb-16 lg:mt-16 lg:w-2/4 p-4"
       >
         <div id="blog" class="flex justify-center h-auto sm:h-24 sm:h-auto sm:w-4/5">
           <div v-html="$page.post.content" />

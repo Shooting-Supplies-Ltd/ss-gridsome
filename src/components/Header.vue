@@ -9,12 +9,10 @@
       <div>
         <div id="contact" class="lg:flex hover:text-ssorange">
           <p class="mr-8 font-semibold">
-            <a href="tel:01527831261"
-              ><font-awesome :icon="['fas', 'phone-alt']" size="lg" /><span
-                class="text-lg ml-2"
-                >01527 831 261</span
-              ></a
-            >
+            <a href="tel:01527831261">
+              <font-awesome :icon="['fas', 'phone-alt']" size="lg" />
+              <span class="text-lg ml-2">01527 831 261</span>
+            </a>
           </p>
         </div>
       </div>
@@ -24,28 +22,24 @@
         <div id="social" class="sm:flex">
           <!-- <p class="mr-4">Find Us On:</p> -->
           <p class="mr-4 hover:text-ssorange">
-            <a
-              href="https://www.facebook.com/ShootingSuppliesLTD/"
-              target="_blank"
-              ><font-awesome :icon="['fab', 'facebook-square']" size="lg"
-            /></a>
+            <a href="https://www.facebook.com/ShootingSuppliesLTD/" target="_blank">
+              <font-awesome :icon="['fab', 'facebook-square']" size="lg" />
+            </a>
           </p>
           <p class="mr-4 hover:text-ssorange">
-            <a href="https://twitter.com/shootingsupplys" target="_blank"
-              ><font-awesome :icon="['fab', 'twitter']" size="lg"
-            /></a>
+            <a href="https://twitter.com/shootingsupplys" target="_blank">
+              <font-awesome :icon="['fab', 'twitter']" size="lg" />
+            </a>
           </p>
           <p class="mr-4 hover:text-ssorange">
-            <a
-              href="https://www.instagram.com/shootingsupplies/"
-              target="_blank"
-              ><font-awesome :icon="['fab', 'instagram']" size="lg"
-            /></a>
+            <a href="https://www.instagram.com/shootingsupplies/" target="_blank">
+              <font-awesome :icon="['fab', 'instagram']" size="lg" />
+            </a>
           </p>
           <p class="hover:text-ssorange">
-            <a href="mailto:info@shootingsuppliesltd.co.uk" target="_blank"
-              ><font-awesome :icon="['fas', 'envelope']" size="lg"
-            /></a>
+            <a href="mailto:info@shootingsuppliesltd.co.uk" target="_blank">
+              <font-awesome :icon="['fas', 'envelope']" size="lg" />
+            </a>
           </p>
         </div>
       </div>
@@ -55,24 +49,15 @@
     <div class="lg:flex justify-center mt-4 lg:mt-0">
       <div id="mobile-logo" class="block lg:hidden flex justify-center">
         <g-link to="/">
-          <p
-            class="text-2xl sm:text-5xl text-ssblue mb-4"
-            style="font-family: ShooterSFRegular;"
-          >
-            SH<span class="text-ssorange">O</span
-            ><span style="color:black;">O</span>TING SUPPLIES LTD
+          <p class="text-2xl sm:text-5xl text-ssblue mb-4" style="font-family: ShooterSFRegular;">
+            SH
+            <span class="text-ssorange">O</span>
+            <span style="color:black;">O</span>TING SUPPLIES LTD
           </p>
         </g-link>
       </div>
-      <div
-        id="mobile-menu"
-        class="block flex justify-center bg-ssblue p-2 lg:hidden"
-      >
-        <button
-          @click="toggle"
-          id="mobile-menu"
-          class="lg:hidden text-white text-xl"
-        >
+      <div id="mobile-menu" class="block flex justify-center bg-ssblue p-2 lg:hidden">
+        <button @click="toggle" id="mobile-menu" class="lg:hidden text-white text-xl">
           MENU
           <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
         </button>
@@ -83,30 +68,26 @@
             class="lg:my-4 hidden lg:block lg:text-5xl text-ssblue"
             style="font-family: ShooterSFRegular;"
           >
-            SH<span class="text-ssorange">O</span
-            ><span style="color:black;">O</span>TING SUPPLIES LTD
+            SH
+            <span class="text-ssorange">O</span>
+            <span style="color:black;">O</span>TING SUPPLIES LTD
           </h1>
         </g-link>
       </div>
     </div>
 
     <!-- Mobile Menu With Display Option -->
-    <div
-      :class="open ? 'block' : 'hidden'"
-      class="bg-ssblue text-white uppercase font-semibold"
-    >
+    <div :class="open ? 'block' : 'hidden'" class="bg-ssblue text-white uppercase font-semibold">
       <!-- Search Bar Component -->
       <Search />
 
-      <div
-        class="text-lg lg:flex-grow align-center p-1 pb-6 text-2xl text-center"
-      >
+      <div class="text-lg lg:flex-grow align-center p-1 pb-6 text-2xl text-center">
         <g-link to="/">
           <p class="mb-4 hover:text-ssorange">Home</p>
         </g-link>
 
         <g-link to="/guns">
-          <p class=" mb-4 hover:text-ssorange">Guns</p>
+          <p class="mb-4 hover:text-ssorange">Guns</p>
         </g-link>
 
         <a href="/optics/">
@@ -149,9 +130,14 @@
           <p class="mr-8 hover:text-ssorange">Home</p>
         </g-link>
 
-        <g-link to="/guns">
-          <p class="mr-8 hover:text-ssorange">Guns</p>
-        </g-link>
+        <div @mouseleave="gunsIsOpen = false">
+          <button @mouseover="gunsIsOpen = !gunsIsOpen" class="text-white text-xl font-bold">
+            <g-link to="/guns" class="p-4 hover:text-ssorange">GUNS</g-link>
+          </button>
+          <div v-if="gunsIsOpen" class="absolute z-100 w-38 mt-4 p-4 bg-ssblue rounded-b">
+            <g-link to="/guns/brand/tippmann-arms" class="hover:text-ssorange">TIPPMANN</g-link>
+          </div>
+        </div>
 
         <a href="/optics/">
           <p class="mr-8 hover:text-ssorange">Optics</p>
@@ -184,10 +170,7 @@
     </nav>
 
     <!-- Search Bar Component -->
-    <div
-      id="main-search"
-      class="hidden lg:block lg:relative lg:z-50 lg:h-8 lg:w-full lg:mb-8"
-    >
+    <div id="main-search" class="hidden lg:block lg:relative lg:z-50 lg:h-8 lg:w-full lg:mb-8">
       <Search class="lg:bg-ssblue" />
     </div>
   </header>
@@ -200,7 +183,8 @@ export default {
   name: "Header",
   data() {
     return {
-      open: false
+      open: false,
+      gunsIsOpen: false
     };
   },
   methods: {

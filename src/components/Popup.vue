@@ -27,8 +27,12 @@
 <script>
 export default {
   name: "Popup",
+  data: {
+    popup: true
+  },
   methods: {
     hide: function(event) {
+      this.popup = false
       var close = document.getElementById('popup')
       close.classList.add('hidden')
     }

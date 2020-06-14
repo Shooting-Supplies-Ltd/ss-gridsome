@@ -14,7 +14,7 @@
     </div>
 
     <div class="flex items-start">
-      <div class="hidden lg:block lg:mt-16 lg:w-3/8 h-screen">
+      <div class="hidden lg:block lg:mt-40 lg:w-3/8 h-screen">
         <AccessoriesSidebar class="min-w-full ml-6" />
       </div>
 

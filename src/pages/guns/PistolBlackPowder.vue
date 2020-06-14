@@ -13,28 +13,21 @@
       <Sidebar />
     </div>
     <div class="flex items-start">
-      <div class="hidden lg:block lg:mt-16 lg:w-3/8 h-screen">
+      <div class="hidden lg:block lg:mt-40 lg:w-3/8 h-screen">
         <Sidebar class="min-w-full ml-6" />
       </div>
 
-      <div
-        class="flex justify-center flex-wrap mx-4 mt-4 h-auto lg:w-5/6 lg:mt-12"
-      >
+      <div class="flex justify-center flex-wrap mx-4 mt-4 h-auto lg:w-5/6 lg:mt-12">
         <div
           v-for="edge in $page.allGuns.edges"
           :key="edge.node.id"
           id="gun-card"
           class="max-w-xs rounded-b-lg shadow hover:shadow-lg hover:border-ssorange mb-8 border-t-4 border-ssblue sm:w-1/3 sm:m-4"
         >
-          <g-link :to="`guns/${edge.node.slug}`"
-            ><g-image
-              :src="edge.node.images[0].FullPath"
-              :alt="edge.node.title"
-            />
+          <g-link :to="`guns/${edge.node.slug}`">
+            <g-image :src="edge.node.images[0].FullPath" :alt="edge.node.title" />
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2">
-                {{ edge.node.title }}
-              </h2>
+              <h2 class="font-bold uppercase text-xl mt-2">{{ edge.node.title }}</h2>
               <h3 class="font-semibold">Variant: {{ edge.node.variant }}</h3>
               <table>
                 <tr>
@@ -51,11 +44,7 @@
         </div>
 
         <div class="flex justify-center mb-8 w-full">
-          <Pager
-            :linkClass="{ pageNum: true }"
-            :info="$page.allGuns.pageInfo"
-            :showLinks="true"
-          />
+          <Pager :linkClass="{ pageNum: true }" :info="$page.allGuns.pageInfo" :showLinks="true" />
         </div>
       </div>
     </div>
