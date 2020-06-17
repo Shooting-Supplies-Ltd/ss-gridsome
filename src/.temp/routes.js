@@ -782,10 +782,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/sig-sauer-x-five-18-e12314/",
-    component: c25
-  },
-  {
     path: "/products/lyman-powder-measure-stand/",
     component: c24
   },
@@ -1570,10 +1566,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/gamba60833/",
-    component: c25
-  },
-  {
     path: "/guns/classic-doublesnull-ct-2-907/",
     component: c25
   },
@@ -1890,10 +1882,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/blaser-r8-ultimate-r-169809/",
-    component: c25
-  },
-  {
     path: "/guns/blaser-r8-professional-r-117880/",
     component: c25
   },
@@ -1903,6 +1891,10 @@ export default [
   },
   {
     path: "/guns/blaser-r8-professional-r-170320/",
+    component: c25
+  },
+  {
+    path: "/guns/blaser-r8-ultimate-r-169412/",
     component: c25
   },
   {
@@ -1974,19 +1966,11 @@ export default [
     component: c25
   },
   {
-    path: "/guns/dan-wesson71519-j49938/",
-    component: c25
-  },
-  {
     path: "/guns/crosman1377-c413-b06730-c/",
     component: c25
   },
   {
     path: "/guns/colt-saa-19-k96720/",
-    component: c25
-  },
-  {
-    path: "/guns/colt-saa-19-d18025/",
     component: c25
   },
   {
@@ -2078,19 +2062,11 @@ export default [
     component: c25
   },
   {
-    path: "/guns/blaser-r8-r-169412/",
-    component: c25
-  },
-  {
     path: "/guns/air-arms-s410-carbine-superlite170424/",
     component: c25
   },
   {
     path: "/guns/air-arms-s510-ultimate-sporter164422/",
-    component: c25
-  },
-  {
-    path: "/guns/air-arms-s410-carbine-superlite167863/",
     component: c25
   },
   {
@@ -2135,10 +2111,6 @@ export default [
   },
   {
     path: "/guns/blaser-r-189730/",
-    component: c25
-  },
-  {
-    path: "/guns/crosman2250318-b06085/",
     component: c25
   },
   {

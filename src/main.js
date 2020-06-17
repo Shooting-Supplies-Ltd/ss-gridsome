@@ -5,23 +5,33 @@ import DefaultLayout from "~/layouts/Default.vue";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 import { config, library } from "@fortawesome/fontawesome-svg-core";
 import {
-  faTwitter,
   faFacebookSquare,
-  faInstagram
+  faInstagram,
+  faTwitterSquare,
+  faPinterestSquare,
+  faWhatsappSquare,
 } from "@fortawesome/free-brands-svg-icons";
 import {
   faPhoneAlt,
-  faEnvelope,
-  faBars
+  faEnvelopeSquare,
+  faBars,
 } from "@fortawesome/free-solid-svg-icons";
 import "@fortawesome/fontawesome-svg-core/styles.css";
+import SocialSharing from "vue-social-sharing";
 
 config.autoAddCss = false;
-library.add(faTwitter, faFacebookSquare, faInstagram);
-library.add(faPhoneAlt, faEnvelope, faBars);
+library.add(
+  faTwitterSquare,
+  faFacebookSquare,
+  faInstagram,
+  faPinterestSquare,
+  faWhatsappSquare
+);
+library.add(faPhoneAlt, faEnvelopeSquare, faBars);
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component("Layout", DefaultLayout);
   Vue.component("font-awesome", FontAwesomeIcon);
+  Vue.use(SocialSharing);
 }

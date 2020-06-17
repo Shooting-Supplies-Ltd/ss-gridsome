@@ -9,22 +9,30 @@
         <hr class="mb-4 mt-1" />
         <ul>
           <li>
-            <g-link to="/blog" class="hover:text-ssorange font-semibold text-lg">BLOG</g-link>
+            <g-link to="/blog" class="hover:text-ssorange font-semibold text-lg"
+              >BLOG</g-link
+            >
           </li>
           <li>
-            <g-link to="/blog/about-us" class="hover:text-ssorange font-semibold text-lg">ABOUT US</g-link>
+            <g-link
+              to="/blog/about-us"
+              class="hover:text-ssorange font-semibold text-lg"
+              >ABOUT US</g-link
+            >
           </li>
           <li>
             <g-link
               to="/blog/contact-us"
               class="hover:text-ssorange font-semibold text-lg"
-            >CONTACT US</g-link>
+              >CONTACT US</g-link
+            >
           </li>
           <li>
             <g-link
               to="/blog/privacy-policy"
               class="hover:text-ssorange font-semibold text-lg"
-            >PRIVACY POLICY</g-link>
+              >PRIVACY POLICY</g-link
+            >
           </li>
         </ul>
       </div>
@@ -34,13 +42,23 @@
         <hr class="mb-4 mt-1" />
         <ul>
           <li>
-            <g-link to="/guns" class="hover:text-ssorange font-semibold text-lg">GUNS</g-link>
+            <g-link to="/guns" class="hover:text-ssorange font-semibold text-lg"
+              >GUNS</g-link
+            >
           </li>
           <li>
-            <g-link to="/optics" class="hover:text-ssorange font-semibold text-lg">OPTICS</g-link>
+            <g-link
+              to="/optics"
+              class="hover:text-ssorange font-semibold text-lg"
+              >OPTICS</g-link
+            >
           </li>
           <li>
-            <g-link to="/accessories" class="hover:text-ssorange font-semibold text-lg">ACCESSORIES</g-link>
+            <g-link
+              to="/accessories"
+              class="hover:text-ssorange font-semibold text-lg"
+              >ACCESSORIES</g-link
+            >
           </li>
         </ul>
       </div>
@@ -61,7 +79,7 @@
           target="_blank"
           class="hover:text-ssorange mr-4"
         >
-          <font-awesome :icon="['fab', 'twitter']" size="2x" />
+          <font-awesome :icon="['fab', 'twitter-square']" size="2x" />
         </a>
 
         <a
@@ -90,7 +108,9 @@
         <p class="font-semibold text-lg">TEL: 01527 831 261</p>
         <p class="font-semibold text-lg hover:text-ssorange">
           EMAIL:
-          <a href="mailto:info@shootingsuppliesltd.co.uk">INFO@SHOOTINGSUPPLIESLTD.CO.UK</a>
+          <a href="mailto:info@shootingsuppliesltd.co.uk"
+            >INFO@SHOOTINGSUPPLIESLTD.CO.UK</a
+          >
         </p>
 
         <iframe
@@ -109,6 +129,6 @@
 
 <script>
 export default {
-  name: "Footer"
+  name: "Footer",
 };
 </script>

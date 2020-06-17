@@ -1,58 +1,67 @@
 <template>
-  <div>
-    <facebook
-      class="lg: mt-1 mr-4 lg:mr-0 cursor-pointer"
+  <div class="cursor-pointer">
+    <ShareNetwork
+      v-for="network in networks"
+      :network="network.network"
+      :key="network.key"
+      :style="{ color: network.color }"
       :url="url"
-      scale="3"
-    ></facebook>
-    <twitter
-      class="mr-4 lg:mr-0 cursor-pointer"
-      :url="url"
-      title="I found this at shootingsupplies.co.uk"
-      scale="3"
-    ></twitter>
-    <whats-app
-      class="mr-4 lg:mr-0 cursor-pointer"
-      :url="url"
-      title="Hi, I found this and thought you might like it"
-      scale="3"
-    ></whats-app>
-    <pinterest
-      class="mr-4 lg:mr-0 cursor-pointer"
-      :url="url"
-      scale="3"
-    ></pinterest>
-    <email
-      class="cursor-pointer"
-      :url="url"
-      subject="I found this at Shooting Supplies"
-      scale="3"
-    ></email>
+      :title="$page.post.title"
+      :media="$page.post.thumbnail"
+      hashtags="shooting,targetsports,hunting,shootingsupplies"
+      class="flex flex-col"
+    >
+      <font-awesome :icon="network.icon" size="3x" />
+      <span class="btnspan">{{ network.name }}</span>
+    </ShareNetwork>
   </div>
 </template>
 
 <script>
-import {
-  Facebook,
-  Twitter,
-  WhatsApp,
-  Pinterest,
-  Email,
-} from "vue-socialmedia-share";
-
 export default {
   name: "SocialSidebar",
-  components: {
-    Facebook,
-    Twitter,
-    WhatsApp,
-    Pinterest,
-    Email,
-  },
+  components: {},
   data() {
     return {
-      url: window.location.href,
+      networks: [
+        {
+          network: "facebook",
+          icon: ["fab", "facebook-square"],
+          color: "#1877f2",
+        },
+        {
+          network: "twitter",
+          icon: ["fab", "twitter-square"],
+          color: "#1877f2",
+        },
+        {
+          network: "pinterest",
+          icon: ["fab", "pinterest-square"],
+          color: "#E60023",
+        },
+        {
+          network: "whatsapp",
+          icon: ["fab", "whatsapp-square"],
+          color: "#00E676",
+        },
+        {
+          network: "email",
+          icon: ["fas", "envelope-square"],
+          color: "#004D91",
+        },
+      ],
+      url: "",
     };
+  },
+  methods: {
+    setUrl() {
+      return (this.url = window.location.href);
+    },
+  },
+  mounted() {
+    if (process.isClient) {
+      this.setUrl();
+    }
   },
 };
 </script>
