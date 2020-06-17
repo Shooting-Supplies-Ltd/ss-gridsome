@@ -84,20 +84,29 @@
       <div
         id="nav-main"
         class="w-3/5 flex justify-center items-center text-white text-xl font-bold"
+        @mouseleave="gunsIsOpen = false, ammoIsOpen = false"
       >
-        <div @mouseleave="gunsIsOpen = false">
+        <div>
           <button @mouseover="gunsIsOpen = !gunsIsOpen" class="text-white text-xl font-bold">
             <g-link to="/guns" class="p-4 hover:text-ssorange">GUNS</g-link>
           </button>
-          <div v-if="gunsIsOpen" class="absolute z-100 w-38 mt-4 p-4 bg-ssblue rounded-b">
+          <div
+            v-if="gunsIsOpen"
+            @mouseleave="gunsIsOpen = false"
+            class="absolute z-100 w-38 mt-4 p-4 bg-ssblue rounded-b"
+          >
             <g-link to="/guns/brand/tippmann-arms" class="hover:text-ssorange">TIPPMANN</g-link>
           </div>
         </div>
-        <div @mouseleave="ammoIsOpen = false">
+        <div>
           <button @mouseover="ammoIsOpen = !ammoIsOpen" class="text-white text-xl font-bold">
             <g-link to="/blog/ammunition" class="p-4 hover:text-ssorange">AMMO</g-link>
           </button>
-          <div v-if="ammoIsOpen" class="absolute z-100 w-38 mt-4 p-4 bg-ssblue rounded-b">
+          <div
+            v-if="ammoIsOpen"
+            @mouseleave="ammoIsOpen = false"
+            class="absolute z-100 w-38 mt-4 p-4 bg-ssblue rounded-b"
+          >
             <g-link to="/blog/reloading" class="hover:text-ssorange">RELOADING</g-link>
           </div>
         </div>
@@ -108,32 +117,6 @@
         <g-link to="/blog/maintenance-cleaning" class="p-4 hover:text-ssorange">MAINTENANCE</g-link>
         <g-link to="/blog/clothing-footwear" class="p-4 hover:text-ssorange">CLOTHING</g-link>
       </div>
-
-      <!-- <div id="nav-main-links" class="w-3/5 flex justify-center">
-      <ul class="flex text-white text-xl font-bold">
-        <li class="p-4 hover:text-ssorange">
-          <g-link to="/guns/">GUNS</g-link>
-        </li>
-        <li class="p-4 hover:text-ssorange">
-          <g-link to="/ammo/">AMMO</g-link>
-        </li>
-        <li class="p-4 hover:text-ssorange">
-          <g-link to="/accessories/">ACCESSORIES</g-link>
-        </li>
-        <li class="p-4 hover:text-ssorange">
-          <g-link to="/scopes/">SCOPES</g-link>
-        </li>
-        <li class="p-4 hover:text-ssorange">
-          <g-link to="/security/">SECURITY</g-link>
-        </li>
-        <li class="p-4 hover:text-ssorange">
-          <g-link to="/maintenance/">MAINTENANCE</g-link>
-        </li>
-        <li class="p-4 hover:text-ssorange">
-          <g-link to="/clothing/">CLOTHING</g-link>
-        </li>
-      </ul>
-      </div>-->
 
       <!--Add search input to navbar -->
       <div id="nav-main-search" class="w-1/5 flex justify-center p-4 font-bold text-lg text-white">
@@ -148,7 +131,7 @@
         <!-- Handle search results -->
         <div
           id="results"
-          class="max-h-full absolute z-10 bg-ssblue mt-8 w-1/5 rounded-b-md overflow-auto"
+          class="max-h-screen mt-4 absolute z-10 bg-ssblue mt-8 w-1/5 rounded-b overflow-auto"
         >
           <div v-for="result in searchResults" :key="result.id" class="p-4 w-full">
             <g-link :to="`/guns/${result.slug}`">

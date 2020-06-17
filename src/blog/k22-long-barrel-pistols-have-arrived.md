@@ -15,7 +15,11 @@ author: Shooting Supplies
 
 Brand new shipment of K22 pistols has finally arrived!!!
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223155/guns/k22_GP.jpg)
+****
+
+![K22 Long Barrel Pistol](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223155/guns/k22_GP.jpg)
+
+****
 
 From the standard pistols to the X-trim plus with chrome slide, we have the full range.
 

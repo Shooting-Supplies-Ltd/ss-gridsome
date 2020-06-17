@@ -618,10 +618,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/weihrauch-hw-44702178/",
-    component: c25
-  },
-  {
     path: "/guns/weihrauch-hw-45436734/",
     component: c25
   },
@@ -746,10 +742,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/uberti1858-new-armya-73058/",
-    component: c25
-  },
-  {
     path: "/guns/uberti1858-new-armya-76810/",
     component: c25
   },
@@ -854,6 +846,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/savage-arms-model-110-f328091/",
+    component: c25
+  },
+  {
     path: "/guns/savage-arms-thumbhole-laminate-0930790/",
     component: c25
   },
@@ -926,10 +922,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/ruger-old-army-145-68899/",
-    component: c25
-  },
-  {
     path: "/guns/sako-barrel-only-002533/",
     component: c25
   },
@@ -954,10 +946,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/sig-sauer-p22619-g14362/",
-    component: c25
-  },
-  {
     path: "/guns/sig-sauer-m1718-k09172/",
     component: c25
   },
@@ -968,10 +956,6 @@ export default [
   {
     path: "/products/fab-defense-gl-core-ar15-m4-collapsible-buttstock/",
     component: c24
-  },
-  {
-    path: "/guns/savage-arms110-f328091/",
-    component: c25
   },
   {
     path: "/guns/sauer202-classic-n43954/",
@@ -1190,6 +1174,10 @@ export default [
     component: c24
   },
   {
+    path: "/products/fab-raps-rear-stock-black/",
+    component: c24
+  },
+  {
     path: "/guns/rizzininull44084/",
     component: c25
   },
@@ -1220,6 +1208,10 @@ export default [
   {
     path: "/guns/pietta1858-armyr-459868/",
     component: c25
+  },
+  {
+    path: "/products/fab-bungee-sling-black/",
+    component: c24
   },
   {
     path: "/guns/lanbernull13-03-10476-01-12-76/",
@@ -1434,10 +1426,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/gamo-pt-85-tactical18-e18512/",
-    component: c25
-  },
-  {
     path: "/guns/gamo-pt-85-tactical18-e18511/",
     component: c25
   },
@@ -1463,10 +1451,6 @@ export default [
   },
   {
     path: "/guns/gamo-venarivn-450109-mn/",
-    component: c25
-  },
-  {
-    path: "/guns/gamo-boxerbx-450153-mn/",
     component: c25
   },
   {
@@ -1503,10 +1487,6 @@ export default [
   },
   {
     path: "/guns/bsau-ltra-se-multishot-tactical-use-220342-jf/",
-    component: c25
-  },
-  {
-    path: "/guns/bsau-ltra-se-multishot-tactical-use-220878-de/",
     component: c25
   },
   {
@@ -1738,10 +1718,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/bsar-10-se-cayennerse-770781-jk/",
-    component: c25
-  },
-  {
     path: "/guns/bsal-ightning-xlxlse-2-612221-19/",
     component: c25
   },
@@ -1779,10 +1755,6 @@ export default [
   },
   {
     path: "/guns/browning-cynergy-composite20071-zr-132/",
-    component: c25
-  },
-  {
-    path: "/guns/browning-b725-promaster-51296-zn/",
     component: c25
   },
   {
@@ -2002,10 +1974,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/air-arms-s510-ultimate-sporter-carbine170593/",
-    component: c25
-  },
-  {
     path: "/guns/dan-wesson71519-j49938/",
     component: c25
   },
@@ -2039,10 +2007,6 @@ export default [
   },
   {
     path: "/guns/browning-b525-sporter56748-zzn/",
-    component: c25
-  },
-  {
-    path: "/guns/beretta626-onyxa-43648-a/",
     component: c25
   },
   {
@@ -2115,18 +2079,6 @@ export default [
   },
   {
     path: "/guns/blaser-r8-r-169412/",
-    component: c25
-  },
-  {
-    path: "/guns/daystate-mk43007/",
-    component: c25
-  },
-  {
-    path: "/guns/air-arms-pro-sport-walnut171435/",
-    component: c25
-  },
-  {
-    path: "/guns/air-arms-s410-carbine-walnut135866/",
     component: c25
   },
   {
@@ -2211,10 +2163,6 @@ export default [
   },
   {
     path: "/guns/air-arms-hft-500169992/",
-    component: c25
-  },
-  {
-    path: "/guns/air-arms-galahad-walnut900635/",
     component: c25
   },
   {

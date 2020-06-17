@@ -15,11 +15,20 @@ author: Shooting Supplies
 
 The Browning 525 SL has been chosen for our gun of the week. £1999 in store.
 
-![Browning 525 Sporter Laminated](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223159/guns/B525-SPORTER-LAMINATED-ADJ_1_wokvdy_heq12o.jpg)
-
 Browning offers some beautifully designed and well-made [shotguns](https://shootingsuppliesltd.co.uk/shotguns/) and the 525 Sporter Laminate is one of them. With a sporty and aggressive style, the SL is an improved upon version of the original 525 over and under shotgun.
 
+****
+
+![Browning 525 Sporter Laminated](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223159/guns/B525-SPORTER-LAMINATED-ADJ_1_wokvdy_heq12o.jpg)
+
+****
+
+
 Utilising a laminate stock which does a good job of providing stability and reducing recoil for that perfect shot. The Browning 525 SL is regarded by many as the best Browning that they've shot.
+
+The 525 SL is a perfect 'do anything', hard wearing and working 12-gauge with Browning's heritage.
+
+****
 
 ## Browning 525 SL 30" Specifications:
 
@@ -37,8 +46,9 @@ Utilising a laminate stock which does a good job of providing stability and redu
 - Length of pull: 14.75"
 - Recoil Pad: Inflex II
 
-<p></p>
 
-A perfect 'do anything', hard wearing and working 12-gauge with Browning's heritage.
+
+
+****
 
 `youtube:https://youtu.be/I7bfk4RRhJE`

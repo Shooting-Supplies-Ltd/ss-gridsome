@@ -15,7 +15,11 @@ author: Shooting Supplies
 
 The Walther Reign bullpup compressed air rifle is a real eye-catcher, the short bull-pup construction alone makes it stand out from the crowd.
 
+****
+
 ![Walther Regin Bullpups are in stock now!](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223221/Blog/Walther-Reign-Bullpup-FB.jpg)
+
+****
 
 When you hold the Walther Reign in your hands, its real uniqueness reveals itself: First of all, the light weight impresses. The high quality components made of high-strength aluminium are immediately noticeable.
 
@@ -27,30 +31,14 @@ Its operation is so smooth and comfortable that you can locate and operate the c
 
 Light, short and easy to handle, the Walther Reign is ideal for target shooting.
 
-Available as .177 or .22 **Just £779**.
+Available as .177 or .22, Just £779.
 
-#### Order Your Walther Reign Bullpup Today
+****
 
-#### Call: 01527 831 261
+## **TECHNICAL DATA**
 
-## TECHNICAL DATA
-
-Caliber
-
-.177/.22 pellet
-
-Magazine capacity
-
-10 shot(s)
-
-Energy
-
-12 ft/lb
-
-Length
-
-787 mm
-
-Weight
-
-2500 g
+- Caliber: .177/.22 pellet
+- Magazine capacity: 10 shot(s)
+- Energy: 12 ft/lb
+- Length: 787 mm
+- Weight: 2500g

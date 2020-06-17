@@ -10,12 +10,17 @@ category: News
 keywords: shooting, covid-19, BASC, advice
 author: Shooting Supplies
 ---
-![BASC Logo](https://res.cloudinary.com/shooting-supplies/image/upload/v1589393221/Blog/basclogo_x9zehv.png)
 
-# Updated advice on shooting activities in England
+# **Updated advice on shooting activities in England**
 
 
 BASC has updated its advice for shooting, work on shoots and pest control in England – but not in Scotland, Wales and Northern Ireland – following the government's latest changes to the regulations for fighting Covid-19.
+
+****
+
+![BASC Logo](https://res.cloudinary.com/shooting-supplies/image/upload/v1589393221/Blog/basclogo_x9zehv.png)
+
+****
 
 This advice has been formed after discussions with the government and has been submitted to Defra for confirmation.
 

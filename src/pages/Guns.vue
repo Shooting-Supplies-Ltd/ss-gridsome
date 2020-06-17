@@ -15,17 +15,17 @@
         <Sidebar />
       </div>
     </div>
-   
-   <!-- Add the main container -->
+
+    <!-- Add the main container -->
     <div class="flex items-start">
       <!-- Add the Sidebar component -->
       <div class="hidden lg:block lg:mt-40 lg:w-3/8 h-screen">
         <Sidebar class="min-w-full ml-6" />
-      </div> 
+      </div>
 
       <!-- Gun Cards Container -->
       <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
-      <!-- Iterate through guns and create gun cards -->
+        <!-- Iterate through guns and create gun cards -->
         <div
           v-for="edge in $page.allGuns.edges"
           :key="edge.node.id"
@@ -36,7 +36,11 @@
           <g-link :to="`guns/${edge.node.slug}`">
             <!-- Add image to gun card -->
             <div class="gun-card-image h-48 w-full">
-              <g-image :src="edge.node.images[0].FullPath" :alt="edge.node.title" class="h-48 w-full object-cover object-center" />
+              <g-image
+                :src="edge.node.images[0].FullPath"
+                :alt="edge.node.title"
+                class="h-48 w-full object-scale-down object-center"
+              />
             </div>
             <div class="p-4">
               <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.title }}</h2>

@@ -21,7 +21,7 @@ The M4-22 has the look, feel and controls of a true M4 and is a perfect platform
 
 ![Tippmann Arms Elite-S Shadow M4 Rifle](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223255/guns/Tippmann-Arms-Elite-S-Shadow-800x320.jpg)
 
-### Tippmann Arms Elite Shadow Features:
+### **Tippmann Arms Elite Shadow Features:**
 
 - 12" Aluminum Free Float M-LOK Handguard
 - 12.5” 4150 Solid Steel Barrel

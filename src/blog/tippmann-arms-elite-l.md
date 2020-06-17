@@ -13,7 +13,6 @@ author: Shooting Supplies
 
 # **Tippmann Arms Elite-L**
 
-![Tippmann Arms Elite-L](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223188/guns/TippmannArmsElite-L.jpg)
 
 The **Tippmann Arms Elite-L** rifle is a premium .22 caliber semi-automatic tactical rim-fire rifle.
 
@@ -21,7 +20,13 @@ It comes equipped with a 12″ Aluminium free floating M-lok hand guard and a sm
 
 Boasting the same ruggedness and reliability of the classic, the Elite-L is the next level of 22LR semi-auto performance rifles.
 
-### The Tippmann Arms Elite-L Features:
+****
+
+![Tippmann Arms Elite-L](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223188/guns/TippmannArmsElite-L.jpg)
+
+****
+
+### **The Tippmann Arms Elite-L Features:**
 
 - 12" Aluminum Free Float M-LOK Handguard
 - 16” 4150 Solid Steel Barrel
@@ -49,12 +54,14 @@ Boasting the same ruggedness and reliability of the classic, the Elite-L is the 
 - Owner’s Manual
 - Tactical Hard Case
 
-<p></p>
+****
 
 The Elite-L also comes complete with a spare magazine and hard case, priced at just **£999** (scope not included).
 
-Call our experts on [01527831261](tel:01527831261) to check stock, reserve or to answer any any questions.
+Call us on [01527831261](tel:01527831261) to check stock, reserve or to answer any any questions.
 
-#### See The Gun Mart Review [Here](https://www.gunmart.net/gun-reviews/firearms/rifles/tippman-.22lr-ar15)
+See The Gun Mart Review [Here](https://www.gunmart.net/gun-reviews/firearms/rifles/tippman-.22lr-ar15)
+
+****
 
 `youtube:https://youtu.be/ppi2TW4Wv5Y`

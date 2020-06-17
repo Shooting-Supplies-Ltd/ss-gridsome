@@ -17,13 +17,19 @@ A winner since it was first introduced, the Yildiz over and under is a great val
 
 Stocked in our store with a range of options, 12/20 & 410 bores and 26/28 & 30" lengths, ejector & non-ejector variations. The Yildiz over and under offers something for everyone, junior and adult shooters alike.
 
+****
+
 ![Yildiz Over & Under Shotgun](https://res.cloudinary.com/shooting-supplies/image/upload/v1573565466/guns/Yildiz-OverUnder.jpg)
+
+****
 
 ## Yildiz 410
 
 Voted Best New Shotgun for the Shooting Industry Awards on its debut in 2010, the 410 over and under Yildiz shotgun is a 'made to scale' shotgun with conventional top lever opening, auto safety catch, single selective trigger and multi-chokes. The Yildiz 410 over and under offers a lightweight, modern, quality package at a budget price.
 
 _In-store from £425_
+
+****
 
 ## Yildiz 20
 
@@ -32,6 +38,8 @@ This Yildiz 20 bore over and order features a lightweight alloy action and is ea
 The junior version provides a next step from the 410 for youngsters not quite ready for a 12.
 
 _In-store from £525_
+
+****
 
 ## Yildiz 12
 

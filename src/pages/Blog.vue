@@ -17,7 +17,7 @@
               <g-image
                 :src="edge.node.thumbnail"
                 :alt="edge.node.title"
-                class="h-48 w-full object-cover object-center"
+                class="h-48 w-full object-scale-down object-center"
               />
             </div>
             <div class="p-4">

@@ -15,7 +15,11 @@ author: Shooting Supplies
 
 We carry a range of reloading supplies, powders and tools and due to increased interest and glowing reports we are now stocking Swiss RS reloading powder.
 
+****
+
 ![Reload Swiss Reloading Powders](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223056/logos/reload-swiss-logo.png)
+
+****
 
 Swiss powder is well established in the reloading world and is used by many top competative shooters, providing uniform quality and burn performance.
 

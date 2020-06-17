@@ -21,6 +21,8 @@ Airmax scopes all feature 16 layer multi-coated optics that have been developed 
 
 All of the 30mm models have the side parallax adjustment that provides precise focus down to 10 yards/9 meters.
 
+****
+
 ## AMX Reticle
 
 The AMX reticle offers multiple aim points, ideal when shooting air rifles with loopy trajectories and is based on the spacing of a 10x Mil-Dot.
@@ -29,8 +31,12 @@ The horizontal bars are calculated at 0.5, 1.5, 2.5, 3.5 and 4.5 mil spacing. Ho
 
 Half Mil Dot spacing on the lower post provides increased aim points for long shots.
 
+****
+
 ## They have compact models too.
 
 Hawke Airmax Compact scopes have been developed for the increasing range of bullpup and carbine rifles, providing a scope that is lightweight and small in size without compromising on the quality already existing in the Airmax range.
+
+****
 
 `youtube:https://youtu.be/QlZi5eFvWqk`

@@ -24,4 +24,6 @@ With all of the features of the Elite-L plus:
 
 This is one to catch before they sell out.
 
+****
+
 ![Tippmann Arms Elite Alpha Ltd Edition](https://res.cloudinary.com/shooting-supplies/image/upload/v1583521437/guns/Tippmann-Arms-Elite-Alpha.jpg)

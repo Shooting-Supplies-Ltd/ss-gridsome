@@ -21,7 +21,11 @@ _The Daystate Pulsar is a feat of engineering, featuring an electronic firing sy
 
 The Daystate Pulsar doesn't use the standard hammer and valve system, instead it uses a super consistent electric solenoid which reads the pressure within the air cylinder, and strikes the valve the exact amount to provide extreme consistency between shots.
 
+****
+
 ![Daystate Pulsar Synthetic Air Rifle](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223226/guns/Daystate-pulsar-Main.jpg)
+
+****
 
 The Pulsar's Synthetic stock is ergonomic and easy to handle and with a weaver rail underneath the barrel, mounting accessories such as bipods and lamps is effortless.
 

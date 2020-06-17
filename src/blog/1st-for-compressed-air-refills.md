@@ -13,10 +13,12 @@ author: Shooting Supplies
 
 # **Shooting Supplies are your first stop for air refills!**
 
-![Air compressor valve](https://res.cloudinary.com/shooting-supplies/image/upload/v1574353197/Blog/Gun-Charging-Kit-A-Clamp-with-hose_jkwukc.jpg)
-
-We provide quick and easy Air Refills for your air rifles or diving tanks.
+We provide quick and easy Air Refills for your air rifles or diving tanks whilst you wait.
 
 The compressor gives you a full 232 or 300bar charge. We can refill your airsoft, air rifle and scuba/diving tanks.
 
-We also have a stock of spares and accessories on-hand including hoses, valves, straps & adapters for that last minutes repair.
+We also have a stock of spares and accessories on-hand including hoses, valves, straps & adapters for that last minutes repair!
+
+****
+
+![Air compressor valve](https://res.cloudinary.com/shooting-supplies/image/upload/v1574353197/Blog/Gun-Charging-Kit-A-Clamp-with-hose_jkwukc.jpg)

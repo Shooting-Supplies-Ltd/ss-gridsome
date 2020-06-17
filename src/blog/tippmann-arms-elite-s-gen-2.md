@@ -17,7 +17,11 @@ _Just £999 in Store_
 
 New in stock today, we have the next generation Tippmann Arms Elite-S, the Gen II.
 
+****
+
 ![Elite-S Gen II](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223034/guns/Elite-S-Gen-II.png)
+
+****
 
 Sporting a Gen 2 grip for improved handling, a nickel bolt and now also paired with the 25 round mag.
 
@@ -27,7 +31,11 @@ The M4-22 Elite S Gen II is a premium .22 caliber semi-automatic tactical rimfir
 
 The Elite-S Gen II is largely mil-spec compatible and will accept most AR15 stocks, handguards and sights, has the look, feel and controls of a true M4 and is a perfect platform for training applications or backyard plinking.
 
+****
+
 ![Elite-S Gen II In Case](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223028/tippmann/Elite-S-GenII-In-Case.png)
+
+****
 
 ## **Tippmann Arms Elite-S Gen II Features:**
 

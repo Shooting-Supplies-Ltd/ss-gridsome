@@ -4,6 +4,8 @@ title: "Breaking News!!"
 date: "2015-11-27"
 excerpt: >-
   The government is trying to ban .22 semi auto rifles.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1589393221/Blog/basclogo_x9zehv.png
 category: News
 keywords: semi auto rifles
 author: Shooting Supplies
@@ -11,9 +13,9 @@ author: Shooting Supplies
 
 # **Breaking News**
 
-**YOUR SPORT IS UNDER THREAT**
+## **YOUR SPORT IS UNDER THREAT**
 
-**YOU NEED TO ACT NOW**
+### **YOU NEED TO ACT NOW**
 
 After the recent terrorist attacks the EU
 
@@ -27,6 +29,8 @@ law abiding shooters will not change a thing.
 
 TERRORISTS DON’T HAVE LICENCES
 
+****
+
 **Sign this petition now**
 
 Google – CHANGE ORG 22 SEMI AUTO
@@ -38,6 +42,9 @@ https://www.change.org/p/council-of-the-
 [european-union-eu-you-cannot-stop-terrorism-](https://www.change.org/p/council-of-the-european-union-eu-you-cannot-stop-terrorism-by-restricting-legal-gun-ownership)
 
 [by-restricting-legal-gun-ownership](https://www.change.org/p/council-of-the-european-union-eu-you-cannot-stop-terrorism-by-restricting-legal-gun-ownership)
+
+
+****
 
 **ALSO**
 

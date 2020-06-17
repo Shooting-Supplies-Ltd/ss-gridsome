@@ -11,11 +11,15 @@ author: Shooting Supplies
 ---
 
 
-# Sako S20 Hunter (Cerakote)
+# **Sako S20 Hunter (Cerakote)**
+
+Sako describe the S20 Bolt Action Rifle as the first true hybrid rifle, designed with both hunters and precision shooters in mind. It has a fully modular design which easily adapts to changing lifestyles, making the S20 truly future proof.
+
+****
 
 ![Sako S20 Info](https://res.cloudinary.com/shooting-supplies/image/upload/v1591281726/guns/sako-s20-hunter-info_t6xxtj.png)
 
-Sako describe the S20 Bolt Action Rifle as the first true hybrid rifle, designed with both hunters and precision shooters in mind. It has a fully modular design which easily adapts to changing lifestyles, making the S20 truly future proof.
+****
 
 The core of the rifle is a robust v-shaped two-piece aluminium chassis which provides accuracy, consistency and is a solid foundation for lasting stability and balance.  The stock, forestock and pistol grip are easily attached and detached, it is this simplicity of removing the main components that is what makes this rifle fully modular and customisable for wither hunting or precision shooting.
 
@@ -31,7 +35,7 @@ The Sako S20 provides shooters a comfortable and nicely balanced future proof ri
 
 You can get your own Sako S20 Hunter (Cerakote) from **Shooting Supplies**, **£1,699**  
   
-  
+****
 
 `youtube:https://youtu.be/DOnh5W3_U1c`
 

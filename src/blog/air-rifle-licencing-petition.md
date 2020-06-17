@@ -4,6 +4,8 @@ title: Air Rifle Licensing Petition
 excerpt: >-
   As I'm sure most of you are aware, the government has been looking at
   reviewing the air gun licencing laws in England and Wales.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1584619559/guns/Weihrauch-HW110-KT-T.png
 date: 2018-02-15T00:00:00.000Z
 author: Shooting Supplies
 catgeory: News

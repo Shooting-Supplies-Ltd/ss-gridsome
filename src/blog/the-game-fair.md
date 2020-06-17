@@ -19,6 +19,8 @@ Pulling thousands of people from all over the UK, it promises to be as busy as a
 
 Once again Simpsons Brother gunshop will have some Tippmann Arms rifles on the shelf, including the new 12.5" barrelled Elite-S.
 
-![TIppmann Arms Elite-L](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223057/guns/Tippmann-Arms-Image-1-from-their-Website.jpg)
+****
 
 And if you fancy a plink while you are there, pop over to Double-Deuce firing range. They have an assortment of Tippmann Arms rifles for you to try. Happy shopping!!
+
+![TIppmann Arms Elite-L](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223057/guns/Tippmann-Arms-Image-1-from-their-Website.jpg)

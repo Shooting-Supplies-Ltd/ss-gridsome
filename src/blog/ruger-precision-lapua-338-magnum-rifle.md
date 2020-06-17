@@ -21,9 +21,13 @@ Ruger states: “These new magnum calibre models pair exceptional long-range acc
 
 The low cost of this rifle makes it an attractive purchase, not only for first-time long-distance shooters but also a compelling choice for those already in the hobby. Pair the Ruger Precision Lapua .338 Magnum with an optic and match ammunition and this rifle is difficult to beat.
 
+****
+
 ![Ruger Precision 338 Lapua Rifle Front Right Hand View](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222255/guns/Ruger-Precision-Lapua-338-Mag-rh.jpg)
 
-## Ruger Precision Lapua .338 Magnum Features
+****
+
+## **Ruger Precision Lapua .338 Magnum Features**
 
 - In-line recoil path manages recoil directly from the rear of the receiver to the butt-stock, providing maximum accuracy potential.
 - Cold hammer-forged, chrome-moly steel barrel with 5R Rifling at minimum bore and groove dimensions.
@@ -48,9 +52,13 @@ The low cost of this rifle makes it an attractive purchase, not only for first-t
 - Hand-guard includes integral QD sling attachment points to eliminate the need for additional adaptors, a target-style flat bottom that improves stability and an integral bottom 1.50" dovetail that is compatible with RRS S.O.A.R. and similar QD systems.
 - Also includes: two, 5-round AI-Style magazines.
 
+****
+
 ![Ruger Precision 338 Lapua Magnum Rifle, Rear Right Hand View](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222253/guns/Ruger-Precision-Lapua-338-Mag-rh-2.jpg)
 
-## Ruger Precision Lapua .338 Magnum Specs
+****
+
+## **Ruger Precision Lapua .338 Magnum Specs**
 
 - Stock - Folding, Adjustable Length of Pull and Comb Height
 - Finish - Type III Black Hard-Coat Anodized
@@ -67,6 +75,6 @@ The low cost of this rifle makes it an attractive purchase, not only for first-t
 - Folded Length - 40.35"
 - Width - 3.50"
 
-<p></p>
+****
 
 Call us on [01527831261](tel:01527831261) to reserve yours today.

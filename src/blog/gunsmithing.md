@@ -14,18 +14,26 @@ author: Shooting Supplies
 
 We provide professional repair and refurbishment services.
 
-![Gunsmithing Services](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223185/Blog/gunsmith.jpg)
-
 Whether you need to fix an old firearm, repair a broken firearm, want to add scopes and accessories to your favorite firearm, or have a firearm that needs a thorough cleaning, we can help!
 
 Call 01527 831 261 or pop in to our store for further information.
 
-- Shotgun Serviving & Repairs
+****
+
+![Gunsmithing Services](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223185/Blog/gunsmith.jpg)
+
+****
+
+## **Our Gunsmithing Services Include**
+
+- Shotgun Servicing & Repairs
 - Pistol and Rifle Repairs
 - Air Gun Servicing & Repairs
-- Barrel Screwcutting
+- Barrel Screw-cutting
 - Shortening and Proofing
 - Trigger Tuning
+
+****
 
 As an Air Arms approved service center we provide servicing and repairs for most airguns.
 

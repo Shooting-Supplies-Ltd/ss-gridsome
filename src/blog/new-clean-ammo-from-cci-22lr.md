@@ -15,9 +15,13 @@ author: Shooting Supplies
 
 We have received a batch of the new **ammo** from **CCI** for your **22LR rifles**.
 
-<p align="center"><img src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573222009/ammo/CCI-Clean-22.png" /></p>
+****
 
-## **Clean.22** polymer coated
+![CCI Clean Ammo 22LR](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222009/ammo/CCI-Clean-22.png)
+
+****
+
+## **Clean.22 polymer coated**
 
 The **clean 22** range is polymer coated and promises to significantly reduce copper and lead fouling.
 
@@ -25,7 +29,9 @@ With [CCI](https://www.cci-ammunition.com/whatsnew/newproducts.aspx) reporting o
 
 "The future of rimfire is here. CCI Clean-22™ uses an exclusive polymer bullet coating to greatly reduce copper and lead fouling in the barrel—without leaving a residue. It also cuts lead buildup in suppressors 60 to 80 percent. Both the Sub-Sonic and High Velocity loads feature a 40-grain round nose lead bullet with geometry that's been optimized for accuracy. With dependable CCI priming and consistent propellant, Clean-22 provides flawless cycling through semi-automatics and all 22 LR firearms."
 
-## Features and benefits of using CCI's Clean-22:
+****
+
+## **Features and benefits of using CCI's Clean-22:**
 
 - Polymer bullet coating greatly reduces lead fouling in the barrel without leaving residue
 - Cuts lead buildup in suppressors 60 to 80 percent

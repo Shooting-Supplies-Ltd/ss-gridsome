@@ -4,6 +4,8 @@ title: "New Products Arriving"
 date: "2016-08-26"
 excerpt: >-
   New Products have arrived.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573222025/optics/SWA-Z8I075620LDI_brtvwm.jpg
 category: News
 keywords: clothing, anti-tick, vortex rifle scopes, boots, thermal night vision, pulsar, yukon
 author: Shooting Supplies

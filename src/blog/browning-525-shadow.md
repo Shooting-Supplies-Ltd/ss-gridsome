@@ -15,13 +15,19 @@ author: Shooting Supplies
 
 The Browning B525 Shadow over and under shotgun is based on the ever popular 525 action. A special edition featuring upgraded American Walnut, matt black action, a gold trigger and a nice gold engraving on the underside.
 
+****
+
 ![Browning B525 Shadow](https://res.cloudinary.com/shooting-supplies/image/upload/v1578939799/guns/Browning-B525-Shadow_m5omvi.jpg)
+
+****
 
 The barrels on 525 Shadow are of a monobloc construction, backbored, chrome lined to prevent corrosion. Chambered for 3in cartridges and has high performance proof marks.
 
 The Browning 525 Shadow offers great- affordability, perfect balance and a strong, reliable action with a touch of class.
 
-## Browning 525 Shadow Specifications:
+****
+
+## **Browning 525 Shadow Specifications:**
 
 - Calibre - 12 gauge
 - Weight - 3.3 Kg
@@ -37,5 +43,5 @@ The Browning 525 Shadow offers great- affordability, perfect balance and a stron
 - Recoil Pad - Inflex II
 - Stock dimensions - Drop at comb 36mm, Drop at heel 56mm
 - Packaged in Browning ABS case
-  <p></p>  
-  We have both R/H and L/H 30" in store from £1749
+
+We have both R/H and L/H 30" in store from £1749

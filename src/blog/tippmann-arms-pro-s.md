@@ -21,7 +21,11 @@ As far as looks go, you would struggle to tell the difference between the Pro-S 
 
 This brings the weight of the Rifle down to under 5lbs, making it super fast!
 
+****
+
 ![Tippmann Arms Pro-S M4 Rifle](https://res.cloudinary.com/shooting-supplies/image/upload/v1573223257/guns/Tippmann-Arms-Pro-S-800x320.jpg)
+
+****
 
 The Pro-S also features a Gen 2 grip for better handling and a silver nickel coated bolt for extra durability.
 
@@ -29,7 +33,9 @@ Just like the other models of the Tippmann M4 family, the Pro-S comes with a har
 
 All of this for **£949**!!
 
-### Tippmann Arms M4 22 Pro-S Features & Specifications
+****
+
+### **Tippmann Arms M4 22 Pro-S Features & Specifications**
 
 - Composite Free Float Handguard
 - 12.5” 4150 Solid Steel Barrel with Parkerized Finish
@@ -59,6 +65,6 @@ All of this for **£949**!!
 - Owner’s Manual
 - Tactical Hard Case
 
-<p></p>
+****
 
 To check stock, reserve or have any questions, call our experts on [01527831261](tel:01527831261).

@@ -4,6 +4,8 @@ title: "On Sale & Offers"
 date: "2018-12-13"
 excerpt: >-
   Check back here regularly for the updated list of price reduced guns from Shooting Supplies.
+thumbnail: >-
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1573222197/misc/special-offers_ftxhmi_eqolxg.png
 keywords: sale, offers, guns, air guns, rifles, shotguns
 author: Shooting Supplies
 ---
@@ -18,7 +20,9 @@ We also have some Tracer lamping equipment, Sightmark scopes and Beretta boots a
 
 Call for further details: 01527 831 261 or visit us in-store.
 
-## Air Guns
+****
+
+## **Air Guns**
 
 | Description | Std Price | Offer Price |
 |-------------|-----------|-------------|
@@ -27,7 +31,9 @@ Call for further details: 01527 831 261 or visit us in-store.
 | BSA Ultra SE Tactical Package | | £579 |
 | Walther Reign | £799 | £699 |
 
-## Shotguns
+****
+
+## **Shotguns**
 
 | Description                        | Std Price | Offer Price |
 | ---------------------------------- | --------- | ----------- |
@@ -39,7 +45,9 @@ Call for further details: 01527 831 261 or visit us in-store.
 | Hatsan Raider 12g                  | £625      | £549        |
 | Webley Webtac FDE 12g              | £799      | £699        |
 
-## Firearms
+****
+
+## **Firearms**
 
 | Description                            | Std Price | Offer Price |
 | -------------------------------------- | --------- | ----------- |

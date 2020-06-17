@@ -15,4 +15,6 @@ author: Shooting Supplies
 
 We were visited by Tackle & Guns secret shoppers and received the start shop award, have a look at what they had to say. 98 out of 100 is a rating that we're proud of.
 
+****
+
 ![Tackle & Guns Secret Shopper Reviewed Us](https://res.cloudinary.com/shooting-supplies/image/upload/v1573564497/misc/star-shopper-review.gif)

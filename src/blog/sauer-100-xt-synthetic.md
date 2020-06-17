@@ -21,7 +21,11 @@ Offering a wide range of calibre's, available in 223, 243, 308 and 30-06, and ke
 
 For accuracy and build quality, at this price, you won't find much better.
 
+****
+
 ![Sauer 100 XT Synthetic](https://res.cloudinary.com/shooting-supplies/image/upload/v1573222171/guns/Sauer-100-XT.png)
+
+****
 
 ## Features of the Sauer 100 XT:
 
@@ -31,6 +35,8 @@ For accuracy and build quality, at this price, you won't find much better.
 - **ERGO MAX Stock: **Stock allows for improved head position when aiming and reduced felt recoil.
 - **Cold Hammer Forged Barrel: **Original Sauer barrel offers unparalleled accuracy.
 - **Available Calibers: **.222 Remington, .223 Remington, .243 Winchester, .270 Winchester, .30-06 Springfield, .308, 6.5 Creedmoor, 6.5 PRC, 6.5x55, 8x57IS, 9.3x62, 7mm-08, 7mm Remington Magnum, and .300 Winchester Magnum.
+
+****
 
 More info can be found on the Sauer website here: [Sauer 100 XT](https://www.sauer.de/en/s100-classic-xt/)
 

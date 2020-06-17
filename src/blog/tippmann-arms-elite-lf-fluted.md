@@ -11,7 +11,7 @@ keywords: tippmann arms, m4, 22lr, elite-lf, fluted barrel
 author: Shooting Supplies
 ---
 
-# New Tippmann Arms Elite LF Fluted
+# **New Tippmann Arms Elite LF Fluted**
 
 The Tippmann Arms Elite LF Fluted rifle is a premium .22 caliber, semi-automatic, tactical rim fire rifle with all of the features of a true M4.
 
@@ -21,9 +21,15 @@ The Elite LF Fluted is largely MIL spec compatible and will accept most AR-15 st
 
 With the same features, ruggedness and reliability of the Elite. The Elite LF Fluted is the next level of .22 semi-auto performance rifles.
 
+****
+
 ![Tippmann Arms Elite LF Fluted](https://res.cloudinary.com/shooting-supplies/image/upload/v1591889465/tippmann/Tippmann-Arms-Elite-LF-Fluted-1000x1000_eqzehw.jpg)
 
 ![Tippmann Elite LF Fluted Close Up](https://res.cloudinary.com/shooting-supplies/image/upload/v1591953090/tippmann/Tippmann-Arms-LF-Fluted-2-1000x1000_ndsata.jpg)
+
+****
+
+## **Elite LF Fluted Features:**
 
 - 12" Aluminum Free Float M-LOK Handguard
 -  16” 4150 Solid Steel Fluted Barrel
@@ -53,6 +59,6 @@ With the same features, ruggedness and reliability of the Elite. The Elite LF Fl
 
 In store at Shooting Supplies Ltd for just £999.
 
-Call our experts on [01527831261](tel:01527831261) to check stock, reserve or to answer any questions.
+****
 
 `youtube:https://youtu.be/ppi2TW4Wv5Y`
