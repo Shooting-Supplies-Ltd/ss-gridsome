@@ -27,41 +27,41 @@ export default {
         {
           network: "facebook",
           icon: ["fab", "facebook-square"],
-          color: "#1877f2",
+          color: "#4267B2"
         },
         {
           network: "twitter",
           icon: ["fab", "twitter-square"],
-          color: "#1877f2",
+          color: "#1DA1F2"
         },
         {
           network: "pinterest",
           icon: ["fab", "pinterest-square"],
-          color: "#E60023",
+          color: "#E60023"
         },
         {
           network: "whatsapp",
           icon: ["fab", "whatsapp-square"],
-          color: "#00E676",
+          color: "#00E676"
         },
         {
           network: "email",
           icon: ["fas", "envelope-square"],
-          color: "#004D91",
-        },
+          color: "#004D91"
+        }
       ],
-      url: "",
+      url: ""
     };
   },
   methods: {
     setUrl() {
       return (this.url = window.location.href);
-    },
+    }
   },
   mounted() {
     if (process.isClient) {
       this.setUrl();
     }
-  },
+  }
 };
 </script>
