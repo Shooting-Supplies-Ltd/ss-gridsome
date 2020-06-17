@@ -13,11 +13,15 @@
         </div>
         <div class="mt-8 lg:hidden">
           <h3 class="mb-2 text-xl font-bold uppercase">Share this Post</h3>
-          <SocialSidebar />
+          <ClientOnly>
+            <SocialSidebar />
+          </ClientOnly>
         </div>
       </div>
       <div class="w-1/4">
-        <SocialSidebar class="hidden lg:flex lg:flex-col lg:mt-8 lg:ml-4" />
+        <ClientOnly>
+          <SocialSidebar class="hidden lg:flex lg:flex-col lg:mt-8 lg:ml-4" />
+        </ClientOnly>
       </div>
     </div>
   </Layout>
