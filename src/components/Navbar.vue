@@ -2,7 +2,7 @@
   <!-- Setup Navbar and add logo -->
   <div>
     <!-- Logo & Mobile Menu Button-->
-    <div id="main-logo" class="flex justify-center">
+    <div id="main-logo" class="flex items-center justify-center">
       <g-link to="/">
         <h1
           class="flex self-end mt-4 mb-4 text-ssblue text-3xl lg:hidden"

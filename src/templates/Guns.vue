@@ -1,79 +1,112 @@
 <template>
   <Layout>
-    <div class="flex mt-4 mb-4 sm:mt-16 sm:mb-8">
+    <div class="flex lg:mt-4 lg:mb-4 mt-8 sm:mt-16 sm:mb-8">
       <div class="w-1/4"></div>
       <div
-        class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:w-2/4"
+        class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:mb-12 lg:w-2/4"
       >
         <div class="block w-full">
-          <g-image
-            :src="$page.allGuns.images[0].FullPath"
-            :alt="$page.allGuns.title"
-          />
+          <g-image :src="$page.allGuns.images[0].FullPath" :alt="$page.allGuns.title" />
         </div>
         <div class="container flex flex-wrap mb-6 w-full">
-          <div>
-            <h1 class="font-bold text-2xl pl-6 pt-6">
-              {{ $page.allGuns.title }}
-            </h1>
+          <div class="ml-6">
+            <h1
+              class="mt-2 text-5xl text-gray-900 font-extrabold tracking-tighter"
+            >{{ $page.allGuns.title }}</h1>
           </div>
-          <div class="ml-6 mt-6 w-full">
-            <table>
-              <tr>
-                <td>Make: {{ $page.allGuns.make }}</td>
-              </tr>
-              <tr>
-                <td>Model: {{ $page.allGuns.model }}</td>
-              </tr>
-              <tr>
-                <td>Variant: {{ $page.allGuns.variant }}</td>
-              </tr>
-              <tr>
-                <td>Type: {{ $page.allGuns.type }}</td>
-              </tr>
-              <tr>
-                <td>Mechanism: {{ $page.allGuns.mechanism }}</td>
-              </tr>
-              <tr>
-                <td>Calibre: {{ $page.allGuns.calibre }}</td>
-              </tr>
-              <tr>
-                <td>Orientation: {{ $page.allGuns.orientation }}</td>
-              </tr>
-              <tr>
-                <td>Trigger: {{ $page.allGuns.trigger }}</td>
-              </tr>
-              <tr>
-                <td>Length: {{ $page.allGuns.barrelLength }}</td>
-              </tr>
-              <tr>
-                <td>Description: {{ $page.allGuns.description }}</td>
-              </tr>
-              <tr>
-                <td>Condition: {{ $page.allGuns.condition }}</td>
-              </tr>
-              <tr>
-                <td>Licence: {{ $page.allGuns.licence }}</td>
-              </tr>
-              <tr class="font-bold text-lg">
-                <td class="pt-6">Price: £{{ $page.allGuns.price }}</td>
-              </tr>
+          <div class="ml-6 mr-6 mt-4 w-full border border-black">
+            <table class="table-auto w-full mb-4">
+              <thead class="bg-ssblue text-white">
+                <tr>
+                  <th colspan="2" class="p-2 uppercase text-xl">Gun Details</th>
+                  <th></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Make:</span>
+                    {{ $page.allGuns.make }}
+                  </td>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Model:</span>
+                    {{ $page.allGuns.model }}
+                  </td>
+                </tr>
+                <tr class="bg-gray-200">
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Variant:</span>
+                    {{ $page.allGuns.variant }}
+                  </td>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Type:</span>
+                    {{ $page.allGuns.type }}
+                  </td>
+                </tr>
+                <tr>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Mechanism:</span>
+                    {{ $page.allGuns.mechanism }}
+                  </td>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Calibre:</span>
+                    {{ $page.allGuns.calibre }}
+                  </td>
+                </tr>
+                <tr class="bg-gray-200">
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Orientation:</span>
+                    {{ $page.allGuns.orientation }}
+                  </td>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Trigger:</span>
+                    {{ $page.allGuns.trigger }}
+                  </td>
+                </tr>
+                <tr>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Length:</span>
+                    {{ $page.allGuns.barrelLength }}
+                  </td>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Description:</span>
+                    {{ $page.allGuns.description }}
+                  </td>
+                </tr>
+                <tr class="bg-gray-200">
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Licence:</span>
+                    {{ $page.allGuns.licence }}
+                  </td>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Condition:</span>
+                    {{ $page.allGuns.condition }}
+                  </td>
+                </tr>
+                <tr>
+                  <td class="p-2">
+                    <span class="font-bold uppercase tracking-tight">Price:</span>
+                    £{{$page.allGuns.price}}
+                  </td>
+                  <td></td>
+                </tr>
+              </tbody>
             </table>
-
-            <div>
-              <p class="mt-4 font-semibold">
-                Contact Us for Further Information:
-              </p>
-              <div class="mt-4 flex">
-                <a href="tel:01527831261"
-                  ><button
-                    class="h-10 py-2 px-4 mr-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"
-                  >
-                    Call
-                  </button></a
+          </div>
+          <div class="ml-6 mb-6 mt-4">
+            <h3
+              class="mt-4 text-2xl font-extrabold text-gray-900 uppercase tracking-tight"
+            >Please Contact Us to Purchase this item or for more information</h3>
+            <div class="mt-6 flex">
+              <a href="tel:01527831261">
+                <button
+                  class="flex items-center justify-center h-12 w-24 mr-4 bg-ssblue hover:bg-blue-800 text-lg text-white font-bold uppercase rounded"
                 >
-                <a
-                  v-bind:href="
+                  <span class="hover:text-ssorange">Call</span>
+                </button>
+              </a>
+              <a
+                v-bind:href="
                     'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
                       $page.allGuns.title +
                       ' - ' +
@@ -82,18 +115,26 @@
                       $page.allGuns.price +
                       ''
                   "
-                  ><button
-                    class="h-10 py-2 px-4 bg-ssblue hover:bg-blue-700 text-white font-bold rounded flex"
-                  >
-                    Email
-                  </button></a
+              >
+                <button
+                  class="flex items-center justify-center h-12 w-24 bg-ssblue hover:bg-blue-800 text-lg text-white font-bold uppercase rounded"
                 >
-              </div>
+                  <span class="hover:text-ssorange">Email</span>
+                </button>
+              </a>
+            </div>
+            <div class="mt-8 lg:hidden">
+              <h3
+                class="mb-2 text-2xl font-extrabold text-gray-900 uppercase tracking-tight"
+              >Share this item</h3>
+              <ProductSocialSidebar class="flex space-x-6" />
             </div>
           </div>
         </div>
       </div>
-      <div class="w-1/4"></div>
+      <div class="w-1/4">
+        <ProductSocialSidebar class="hidden lg:flex lg:flex-col lg:mt-8 lg:ml-4" />
+      </div>
     </div>
   </Layout>
 </template>
@@ -125,7 +166,12 @@ query ($id: ID!) {
 </page-query>
 
 <script>
+import ProductSocialSidebar from "../components/ProductSocialSidebar";
+
 export default {
+  components: {
+    ProductSocialSidebar
+  },
   metaInfo() {
     return {
       title: this.$page.allGuns.title,

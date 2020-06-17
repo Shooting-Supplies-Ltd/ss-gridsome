@@ -1,14 +1,11 @@
 <template>
   <Layout>
-    <div class="flex justify-center mt-8 mb-4">
+    <div class="flex justify-center mt-4 mb-4">
       <div class="w-1/4"></div>
       <div
         class="flex lg:mb-12 lg:mt-8 lg:w-2/4 p-4 pb-8 justify-center flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue"
       >
-        <div
-          id="blog"
-          class="flex justify-center h-auto sm:h-24 sm:h-auto sm:w-4/5"
-        >
+        <div id="blog" class="flex justify-center h-auto sm:h-24 sm:h-auto sm:w-4/5">
           <div v-html="$page.post.content" />
         </div>
         <div class="mt-8 lg:hidden">
@@ -39,7 +36,7 @@ import SocialSidebar from "../components/SocialSidebar";
 
 export default {
   components: {
-    SocialSidebar,
+    SocialSidebar
   },
   metaInfo() {
     return {
@@ -47,41 +44,39 @@ export default {
       meta: [
         {
           name: "description",
-          content: this.$page.post.excerpt,
+          content: this.$page.post.excerpt
         },
         {
           property: "og:title",
-          content: this.$page.post.title,
+          content: this.$page.post.title
         },
         {
           name: "twitter:card",
-          content: this.$page.post.thumbnail
-            ? "summary_large_image"
-            : "summary",
+          content: this.$page.post.thumbnail ? "summary_large_image" : "summary"
         },
         {
           name: "twitter:creator",
-          content: "@darryljmorley",
+          content: "@darryljmorley"
         },
         {
           property: "og:description",
-          content: this.$page.post.excerpt,
+          content: this.$page.post.excerpt
         },
         {
           property: "og:image",
-          content: this.$page.post.thumbnail,
+          content: this.$page.post.thumbnail
         },
         {
           property: "og:image:width",
-          content: "180",
+          content: "180"
         },
         {
           property: "og:image:height",
-          content: "110",
-        },
-      ],
+          content: "110"
+        }
+      ]
     };
-  },
+  }
 };
 </script>
 
