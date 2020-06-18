@@ -11,7 +11,7 @@
         <div class="container flex flex-wrap mb-6 w-full">
           <div class="ml-6">
             <h1
-              class="mt-2 text-5xl text-gray-900 font-extrabold tracking-tighter"
+              class="mt-2 text-5xl text-gray-900 font-extrabold tracking-tighter uppercase"
             >{{ $page.allGuns.title }}</h1>
           </div>
           <div class="ml-6 mr-6 mt-4 w-full border border-black">

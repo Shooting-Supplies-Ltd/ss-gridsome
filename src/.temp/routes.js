@@ -386,15 +386,15 @@ export default [
     component: c25
   },
   {
+    path: "/guns/weihrauch-hw-97-kt-2272325/",
+    component: c25
+  },
+  {
     path: "/guns/weihrauch-hw-97-kt-2289994/",
     component: c25
   },
   {
     path: "/guns/weihrauch-hw-97-kt-2287957/",
-    component: c25
-  },
-  {
-    path: "/guns/weihrauch-hw-100-fsb-1955585/",
     component: c25
   },
   {
@@ -490,6 +490,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/walther-gold-cupwd-047445/",
+    component: c25
+  },
+  {
     path: "/guns/weihrauch-hw-97-k2295895/",
     component: c25
   },
@@ -510,6 +514,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/weihrauch-hw-35-k1682940/",
+    component: c25
+  },
+  {
     path: "/guns/umarex-mp-40-legends-17-e15670/",
     component: c25
   },
@@ -519,6 +527,10 @@ export default [
   },
   {
     path: "/guns/walther-ppk-s19-k00032/",
+    component: c25
+  },
+  {
+    path: "/guns/umarex-heckler-and-koch-20-c05071/",
     component: c25
   },
   {
@@ -618,6 +630,18 @@ export default [
     component: c25
   },
   {
+    path: "/guns/weihrauchhw-40-pca520114/",
+    component: c25
+  },
+  {
+    path: "/guns/weihrauchhw-40-pca520113/",
+    component: c25
+  },
+  {
+    path: "/guns/weihrauch-hw-44703453/",
+    component: c25
+  },
+  {
     path: "/guns/weihrauch-hw-45436734/",
     component: c25
   },
@@ -631,6 +655,10 @@ export default [
   },
   {
     path: "/guns/weihrauchhw-40-pca597689/",
+    component: c25
+  },
+  {
+    path: "/guns/umarex-glock-17-da-069882/",
     component: c25
   },
   {
@@ -782,6 +810,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/sig-sauer-x-five-18-c00433/",
+    component: c25
+  },
+  {
     path: "/products/lyman-powder-measure-stand/",
     component: c24
   },
@@ -823,10 +855,6 @@ export default [
   },
   {
     path: "/guns/tikka-t1x-mtrx-88904/",
-    component: c25
-  },
-  {
-    path: "/guns/tikka-t1x-mtrx-67678/",
     component: c25
   },
   {
@@ -1186,6 +1214,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/miroku-mk-38-grade-570187-zr/",
+    component: c25
+  },
+  {
     path: "/guns/miroku-mk-38-grade-153138-mm/",
     component: c25
   },
@@ -1199,6 +1231,10 @@ export default [
   },
   {
     path: "/guns/remington5972721178/",
+    component: c25
+  },
+  {
+    path: "/guns/pietta1861-navyp-99122/",
     component: c25
   },
   {
@@ -1378,6 +1414,18 @@ export default [
     component: c25
   },
   {
+    path: "/guns/gamo-varmint-swarm-04-1-c-031103-20/",
+    component: c25
+  },
+  {
+    path: "/guns/gamo-varmint-swarm-04-1-c-031099-20/",
+    component: c25
+  },
+  {
+    path: "/guns/gamo-varmint-swarm-04-1-c-031219-20/",
+    component: c25
+  },
+  {
     path: "/products/cobra-javelin-2/",
     component: c24
   },
@@ -1391,6 +1439,18 @@ export default [
   },
   {
     path: "/guns/lincoln33046/",
+    component: c25
+  },
+  {
+    path: "/guns/henry-repeating-arms-h001104030-h/",
+    component: c25
+  },
+  {
+    path: "/guns/gamo-gx-40-gx-550137-pq/",
+    component: c25
+  },
+  {
+    path: "/guns/gamo-gx-40-gx-450127-pq/",
     component: c25
   },
   {
@@ -1414,6 +1474,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/gamo-phox-px-450336-pq/",
+    component: c25
+  },
+  {
     path: "/guns/fxw-ildcat-synthetic-fx-w-191036/",
     component: c25
   },
@@ -1431,6 +1495,10 @@ export default [
   },
   {
     path: "/guns/guerini-caesar-flyaway-118440/",
+    component: c25
+  },
+  {
+    path: "/guns/browning-b725-new-sporter-adj-brjp-53137-ym-131/",
     component: c25
   },
   {
@@ -1494,6 +1562,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/bsas-upersport-se-beech-sse-22-614745-20/",
+    component: c25
+  },
+  {
     path: "/guns/franchi-eleganteff-036169/",
     component: c25
   },
@@ -1502,11 +1574,19 @@ export default [
     component: c25
   },
   {
+    path: "/guns/browning-b725-sporter-brjp-54857-ym-131/",
+    component: c25
+  },
+  {
     path: "/guns/browning-b525-sporter-brjp-53234-ym-131/",
     component: c25
   },
   {
     path: "/guns/beretta-sv-10-perennia-3-n46573-s/",
+    component: c25
+  },
+  {
+    path: "/guns/beretta686-silver-pigeon-1-sporting-n93828-s/",
     component: c25
   },
   {
@@ -1842,6 +1922,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/cz-457-synthetic-d209964/",
+    component: c25
+  },
+  {
     path: "/guns/cz-457-royald-008728/",
     component: c25
   },
@@ -1867,6 +1951,10 @@ export default [
   },
   {
     path: "/guns/cz-455-thumbhole-c644884/",
+    component: c25
+  },
+  {
+    path: "/guns/cz-452-american-a569596/",
     component: c25
   },
   {
@@ -1943,6 +2031,18 @@ export default [
   },
   {
     path: "/guns/crosman-tyro-818-x16178/",
+    component: c25
+  },
+  {
+    path: "/guns/bsac-omet-ce-049772-20/",
+    component: c25
+  },
+  {
+    path: "/guns/bsac-omet-ce-049774-20/",
+    component: c25
+  },
+  {
+    path: "/guns/bsac-omet-ce-049785-20/",
     component: c25
   },
   {
@@ -2094,10 +2194,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/armsan-rs-a218-a78304/",
-    component: c25
-  },
-  {
     path: "/guns/batnull-mb-35/",
     component: c25
   },
@@ -2114,6 +2210,18 @@ export default [
     component: c25
   },
   {
+    path: "/guns/crosman2250318-b00009/",
+    component: c25
+  },
+  {
+    path: "/guns/crosman2250318-b00003/",
+    component: c25
+  },
+  {
+    path: "/guns/crosman2250318-b00027/",
+    component: c25
+  },
+  {
     path: "/guns/crosman2250418-b01496/",
     component: c25
   },
@@ -2123,10 +2231,6 @@ export default [
   },
   {
     path: "/guns/air-arms-s510-superlite159736/",
-    component: c25
-  },
-  {
-    path: "/guns/air-arms-s510-superlite167342/",
     component: c25
   },
   {
@@ -2155,6 +2259,10 @@ export default [
   },
   {
     path: "/guns/brno-452857628/",
+    component: c25
+  },
+  {
+    path: "/guns/armscor-m22-a1469216/",
     component: c25
   },
   {

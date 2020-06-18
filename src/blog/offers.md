@@ -27,8 +27,7 @@ Call for further details: 01527 831 261 or visit us in-store.
 | Description | Std Price | Offer Price |
 |-------------|-----------|-------------|
 | BSA R10 MK2 Super Carbine .177 – Black Pepper | £779 | £679 |
-| BSA Definite Black Soft Touch .177 | | £899 |
-| BSA Ultra SE Tactical Package | | £579 |
+| BSA Definite Black Soft Touch .177 / .22 | | £899 |
 | Walther Reign | £799 | £699 |
 
 ****
@@ -39,11 +38,12 @@ Call for further details: 01527 831 261 or visit us in-store.
 | ---------------------------------- | --------- | ----------- |
 | Armsan RS A2 12g                   | £599      | £499        |
 | Benelli Vinci 12g Black            | £1625     | £1199       |
-| Benelli 828 Black action 28”       | £2000     | £1899       |
+| Benelli 828 Black action 28”       | £2000     | SOLD        |
 | Beretta Ultralight Classic 28″ 12g | £2035     | £1799       |
-| Beretta 692 Sporting 32″ 12g       | £2950     | SOLD        |
+| Browning 725 Pro Trap              | £3070     | £2699       |
+| Franchi Alcione                    | £949      | £849        |
 | Hatsan Raider 12g                  | £625      | £549        |
-| Webley Webtac FDE 12g              | £799      | £699        |
+| Webley Webtac FDE 12g              | £799      | SOLD        |
 
 ****
 
@@ -55,4 +55,5 @@ Call for further details: 01527 831 261 or visit us in-store.
 | Marlin 1894 44 Mag Walnut              | £959      | £879        |
 | Remington 700 SR Stainless 20″ 223/308 | £1369     | £1195       |
 | Sauer 101 XT Synthetic 308             | £1375     | £999        |
+| Sauer 100 Minox Package 308            | £2278     | £1999       |
 | Titan 16 Synthetic 308                 | £1249     | £799        |

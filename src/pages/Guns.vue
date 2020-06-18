@@ -39,7 +39,7 @@
               <g-image
                 :src="edge.node.images[0].FullPath"
                 :alt="edge.node.title"
-                class="h-48 w-full object-scale-down object-center"
+                class="h-48 w-full object-cover object-center"
               />
             </div>
             <div class="p-4">
