@@ -158,4 +158,28 @@ ol {
 #blog player {
   margin-top: 5em;
 }
+
+#blog table {
+  display: block;
+  width: 100%;
+}
+
+#blog tr {
+  height: 2em;
+}
+
+#blog tr:nth-child(even) {
+  background-color: rgba(237, 242, 247);
+}
+
+#blog th {
+  background-color: #004d91;
+  color: white;
+}
+
+#blog th,
+td {
+  padding: 15px;
+  text-align: left;
+}
 </style>
