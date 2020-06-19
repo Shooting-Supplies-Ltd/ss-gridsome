@@ -1486,10 +1486,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/gamo-pt-85-tactical18-e18511/",
-    component: c25
-  },
-  {
     path: "/guns/hatsan-arms-escort283958/",
     component: c25
   },
@@ -1651,10 +1647,6 @@ export default [
   },
   {
     path: "/guns/browning-maxus-ultimate-partridges115-zp-05819/",
-    component: c25
-  },
-  {
-    path: "/guns/browning-maxus-one-composite115-zr-03422/",
     component: c25
   },
   {
