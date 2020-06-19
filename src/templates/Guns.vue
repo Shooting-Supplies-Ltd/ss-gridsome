@@ -127,13 +127,13 @@
               <h3
                 class="mb-2 text-2xl font-extrabold text-gray-900 uppercase tracking-tight"
               >Share this item</h3>
-              <ProductSocialSidebar class="flex space-x-6" />
+              <GunsSocialSidebar class="flex space-x-6" />
             </div>
           </div>
         </div>
       </div>
       <div class="w-1/4">
-        <ProductSocialSidebar class="hidden lg:flex lg:flex-col lg:mt-8 lg:ml-4" />
+        <GunsSocialSidebar class="hidden lg:flex lg:flex-col lg:mt-8 lg:ml-4" />
       </div>
     </div>
   </Layout>
@@ -166,11 +166,11 @@ query ($id: ID!) {
 </page-query>
 
 <script>
-import ProductSocialSidebar from "../components/ProductSocialSidebar";
+import GunsSocialSidebar from "../components/GunsSocialSidebar";
 
 export default {
   components: {
-    ProductSocialSidebar
+    GunsSocialSidebar
   },
   metaInfo() {
     return {

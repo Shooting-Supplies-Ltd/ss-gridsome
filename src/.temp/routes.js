@@ -242,6 +242,10 @@ export default [
     component: c24
   },
   {
+    path: "/products/tippmann-arms-m4-22lr-elite-l-fluted/",
+    component: c24
+  },
+  {
     path: "/products/tippmann-arms-hard-sided-rifle-case/",
     component: c24
   },
@@ -287,6 +291,10 @@ export default [
   },
   {
     path: "/products/tippmann-arms-25rnd-magazine/",
+    component: c24
+  },
+  {
+    path: "/products/tippmann-arms-20rd-magazine/",
     component: c24
   },
   {
@@ -510,10 +518,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/weihrauch-hw-95-k2273885/",
-    component: c25
-  },
-  {
     path: "/guns/weihrauch-hw-35-k1682940/",
     component: c25
   },
@@ -539,14 +543,6 @@ export default [
   },
   {
     path: "/guns/umarex-walther-cp-88-ag-20177827/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-walther-cp-88-a18127524-g/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-beretta-m-92-fshg-20197523/",
     component: c25
   },
   {
@@ -667,10 +663,6 @@ export default [
   },
   {
     path: "/guns/umarex-glock-17-da-088248/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-colt-python-20-a42020/",
     component: c25
   },
   {
@@ -810,10 +802,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/sig-sauer-x-five-18-c00433/",
-    component: c25
-  },
-  {
     path: "/products/lyman-powder-measure-stand/",
     component: c24
   },
@@ -950,10 +938,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/theoben-mk-1020203/",
-    component: c25
-  },
-  {
     path: "/guns/steyr-mannlicher-lg-11006474/",
     component: c25
   },
@@ -1030,10 +1014,6 @@ export default [
     component: c25
   },
   {
-    path: "/products/fab-defense-t-pod-g2-tactical-bipod/",
-    component: c24
-  },
-  {
     path: "/products/fab-defense-9mm-dummy-rounds-10-pack/",
     component: c24
   },
@@ -1051,6 +1031,10 @@ export default [
   },
   {
     path: "/products/fab-defense-ruger-10-22-precision-stock/",
+    component: c24
+  },
+  {
+    path: "/products/fab-tactical-bipod-grip-2nd-gen-blk/",
     component: c24
   },
   {
@@ -1146,6 +1130,10 @@ export default [
     component: c24
   },
   {
+    path: "/products/fab-cheek-riser-for-gl-core/",
+    component: c24
+  },
+  {
     path: "/guns/ruger10-2212761590/",
     component: c25
   },
@@ -1156,10 +1144,6 @@ export default [
   {
     path: "/guns/pedersoli-rem-patternpd-37686/",
     component: c25
-  },
-  {
-    path: "/products/fab-defense-ar-podium-bipod/",
-    component: c24
   },
   {
     path: "/products/fab-defense-mono-pod-buttstock/",
@@ -1199,6 +1183,14 @@ export default [
   },
   {
     path: "/products/fab-raps-rear-stock-black/",
+    component: c24
+  },
+  {
+    path: "/products/fab-ar-podium-bipod-black/",
+    component: c24
+  },
+  {
+    path: "/products/fab-pistol-grip-ar15-black/",
     component: c24
   },
   {
@@ -1474,10 +1466,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/gamo-phox-px-450336-pq/",
-    component: c25
-  },
-  {
     path: "/guns/fxw-ildcat-synthetic-fx-w-191036/",
     component: c25
   },
@@ -1503,10 +1491,6 @@ export default [
   },
   {
     path: "/guns/gsg-1911-standard-a841484/",
-    component: c25
-  },
-  {
-    path: "/guns/gamo-venarivn-550140-mn/",
     component: c25
   },
   {
@@ -1551,10 +1535,6 @@ export default [
   },
   {
     path: "/guns/bsau-ltra-se-multishot-tactical-use-770218-mn/",
-    component: c25
-  },
-  {
-    path: "/guns/bsar-10-se-black-edition-rse-770172-mn/",
     component: c25
   },
   {
@@ -1627,10 +1607,6 @@ export default [
   },
   {
     path: "/guns/daystate-mk4-panther-is-4901/",
-    component: c25
-  },
-  {
-    path: "/guns/bsar-10-se-walnut-rlse-770115-mn/",
     component: c25
   },
   {
@@ -1914,10 +1890,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/cz-457-synthetic-d209964/",
-    component: c25
-  },
-  {
     path: "/guns/cz-457-royald-008728/",
     component: c25
   },
@@ -1987,10 +1959,6 @@ export default [
   },
   {
     path: "/guns/chiappa-rhino-18-n00384/",
-    component: c25
-  },
-  {
-    path: "/guns/chiappa-rhino-19-n02462/",
     component: c25
   },
   {
@@ -2223,10 +2191,6 @@ export default [
   },
   {
     path: "/guns/air-arms-s510-superlite159736/",
-    component: c25
-  },
-  {
-    path: "/guns/air-arms-s510-beech126595/",
     component: c25
   },
   {

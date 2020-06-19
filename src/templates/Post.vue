@@ -80,12 +80,12 @@ export default {
 };
 </script>
 
-<style>
-#blog a {
+<style scoped>
+#blog >>> a {
   color: #004d91;
 }
 
-#blog h1 {
+#blog >>> h1 {
   font-size: 2.8em;
   font-weight: bolder;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
@@ -98,7 +98,7 @@ export default {
   text-transform: uppercase;
 }
 
-#blog h2 {
+#blog >>> h2 {
   color: #1a202c;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -108,7 +108,7 @@ export default {
   text-transform: uppercase;
 }
 
-#blog h3 {
+#blog >>> h3 {
   color: #1a202c;
   font-weight: 700;
   font-size: 2em;
@@ -117,14 +117,14 @@ export default {
   margin-bottom: 0.5em;
 }
 
-#blog p {
+#blog >>> p {
   color: #1a202c;
   font-size: 1.2em;
   letter-spacing: -0.6px;
   margin-bottom: 0.5em;
 }
 
-#blog img {
+#blog >>> img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -136,13 +136,13 @@ export default {
   border-radius: 10px;
 }
 
-#blog ul,
+#blog >>> ul,
 ol {
   margin-bottom: 1em;
   margin-left: 1em;
 }
 
-#blog li {
+#blog >>> li {
   color: #1a202c;
   font-size: 1.2em;
   list-style: disc;
@@ -150,34 +150,34 @@ ol {
   margin-bottom: 0.2em;
 }
 
-#blog hr {
+#blog >>> hr {
   margin-top: 2em;
   margin-bottom: 2em;
 }
 
-#blog player {
+#blog >>> player {
   margin-top: 5em;
 }
 
-#blog table {
+#blog >>> table {
   display: block;
   width: 100%;
 }
 
-#blog tr {
+#blog >>> tr {
   height: 2em;
 }
 
-#blog tr:nth-child(even) {
+#blog >>> tr:nth-child(even) {
   background-color: rgba(237, 242, 247);
 }
 
-#blog th {
+#blog >>> th {
   background-color: #004d91;
   color: white;
 }
 
-#blog th,
+#blog >>> th,
 td {
   padding: 15px;
   text-align: left;

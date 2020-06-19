@@ -75,7 +75,7 @@ export default {
 
 <page-query>
 query products ($page: Int) {
-  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, id: {in: [18948, 18952, 18951, 18950, 18949]}}, sortBy: "name", order: ASC) @paginate {
+  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, id: {in: [18952, 18951, 18950, 18949, 27461]}}, sortBy: "name", order: ASC) @paginate {
     pageInfo {
     totalPages
     currentPage
