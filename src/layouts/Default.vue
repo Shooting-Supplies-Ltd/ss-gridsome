@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Topbar class="hidden lg:flex" />
+    <Topbar class="hidden xl:flex" />
     <Navbar />
     <transition name="fade" appear>
       <main>

@@ -1,10 +1,10 @@
 <template>
-  <div class="flex items-center justify-center">
+  <div class="flex items-center justify-center border-t">
     <div class="w-full">
       <input
         id="search"
         v-model="searchTerm"
-        class="w-3/4 flex justify-center rounded-lg mt-8 mb-4 p-2 shadow-inner focus:rounded-lg focus:shadow-outline text-black mx-auto lg:mb-8 lg:w-1/2"
+        class="w-3/4 flex justify-center rounded mt-8 mb-4 p-2 shadow-inner focus:rounded focus:shadow-outline text-black mx-auto lg:mb-8 lg:w-1/2"
         type="search"
         placeholder="Search Guns"
       />

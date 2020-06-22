@@ -5,7 +5,7 @@
     <div id="main-logo" class="flex items-center justify-center">
       <g-link to="/">
         <h1
-          class="flex self-end mt-4 mb-4 text-ssblue text-3xl lg:hidden"
+          class="flex self-end mt-4 mb-4 text-ssblue text-3xl xl:hidden"
           style="font-family: ShooterSFRegular;"
         >
           SH
@@ -14,9 +14,9 @@
         </h1>
       </g-link>
     </div>
-    <div class="lg:hidden lg:mt-4 lg:mt-0">
-      <div id="mobile-menu" class="flex p-2 justify-center items-center bg-ssblue lg:hidden">
-        <button @click="toggle" id="mobile-menu" class="p-2 lg:hidden text-white text-xl font-bold">
+    <div class="xl:hidden xl:mt-4 xl:mt-0">
+      <div id="mobile-menu" class="flex p-2 justify-center items-center bg-ssblue xl:hidden">
+        <button @click="toggle" id="mobile-menu" class="p-2 xl:hidden text-white text-xl font-bold">
           MENU
           <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
         </button>
@@ -31,7 +31,7 @@
       <!-- Search Bar Component -->
       <Search />
 
-      <div class="p-1 pb-6 text-lg lg:flex-grow align-center text-2xl text-center">
+      <div class="p-1 pb-6 text-lg xl:flex-grow align-center text-2xl text-center">
         <g-link to="/">
           <p class="mb-4 hover:text-ssorange">Home</p>
         </g-link>
@@ -71,7 +71,7 @@
     </div>
 
     <!-- Main Nav Bar -->
-    <nav id="nav-main" class="hidden lg:bg-ssblue lg:flex">
+    <nav id="nav-main" class="hidden xl:bg-ssblue xl:flex">
       <div id="nav-main-1" class="flex w-1/5 justify-center">
         <div id="logo" class="absolute mt-4 z-10">
           <g-link to="/">
@@ -115,17 +115,18 @@
         <g-link to="/optics" class="p-4 hover:text-ssorange">OPTICS</g-link>
         <g-link to="/blog/safes-security/" class="p-4 hover:text-ssorange">SECURITY</g-link>
         <g-link to="/blog/maintenance-cleaning" class="p-4 hover:text-ssorange">MAINTENANCE</g-link>
-        <g-link to="/blog/clothing-footwear" class="p-4 hover:text-ssorange">CLOTHING</g-link>
+        <g-link to="/blog/clothing-footwear" class="p-4 hidden hover:text-ssorange">CLOTHING</g-link>
       </div>
 
       <!--Add search input to navbar -->
       <div id="nav-main-search" class="w-1/5 flex justify-center p-4 font-bold text-lg text-white">
-        <p class="mr-4 text-xl">SEARCH</p>
+        <p class="hidden mr-4 text-xl">SEARCH</p>
         <input
           id="search"
           v-model="searchTerm"
           type="search"
-          class="rounded-md w-56 text-black pl-2"
+          placeholder="Search Guns"
+          class="rounded-md w-48 mr-4 text-black pl-2"
         />
 
         <!-- Handle search results -->
@@ -164,8 +165,13 @@
 </template>
 
 <script>
+import Search from "../components/Search";
+
 export default {
   name: "Navbar",
+  components: {
+    Search
+  },
   data: () => ({
     searchTerm: "",
     gunsIsOpen: false,
