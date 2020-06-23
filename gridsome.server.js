@@ -6,6 +6,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 const axios = require("axios");
 const slugify = require("@sindresorhus/slugify");
+const getCompleteItems = require('./lsretail/getCompleteItems')
 
 const consumerKey = process.env.WOO_CONSUMER_KEY;
 const consumerSecret = process.env.WOO_CONSUMER_SECRET;
@@ -20,7 +21,23 @@ const WooCommerce = new WooCommerceRestApi({
   queryStringAuth: true
 });
 
-module.exports = function(api) {
+module.exports = async function(api) {
+  
+  api.loadSource(async actions => {
+    const data = await getCompleteItems((err, data) => {
+      if (err) console.error(err)
+      return data
+    })
+
+    const lsretail = actions.addCollection('lsretail')
+
+    for (const item of data) {
+      lsretail.addNode({
+        ...item
+      })
+    }
+  })
+
   api.loadSource(async actions => {
     const { data } = await axios.get(process.env.GRIDSOME_API_URL);
 
