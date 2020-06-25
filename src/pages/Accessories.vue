@@ -25,23 +25,23 @@
       <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
         <!-- Iterate through accessories and create the cards -->
         <div
-          v-for="edge in $page.allWooProducts.edges"
+          v-for="edge in $page.allLsretail.edges"
           :key="edge.node.id"
           id="gun-card"
           class="max-w-xs mb-8 sm:w-1/2 sm:m-4 rounded-lg shadow hover:shadow-lg border-2 border-gray-300 hover:border-2 hover:border-ssorange"
         >
           <!-- Create link to accessory page -->
-          <g-link :to="`/products/${edge.node.slug}`">
+          <g-link :to="`/products/${edge.node.title}`">
             <!-- Add image to accessory card -->
             <div class="gun-card-image h-48 w-full">
               <g-image
-                :src="edge.node.images[0].src"
-                :alt="edge.node.name"
+                :src="edge.node.image"
+                :alt="edge.node.title"
                 class="h-48 w-full object-contain object-center"
               />
             </div>
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.name }}</h2>
+              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.title }}</h2>
               <p class="font-semibold text-lg mt-2">£{{ edge.node.price }}</p>
             </div>
           </g-link>
@@ -50,7 +50,7 @@
         <div class="flex justify-center mb-8 w-full">
           <Pager
             :linkClass="{ pageNum: true }"
-            :info="$page.allWooProducts.pageInfo"
+            :info="$page.allLsretail.pageInfo"
             :showLinks="true"
           />
         </div>
@@ -62,7 +62,6 @@
 <script>
 import AccessoriesSidebar from "~/components/AccessoriesSidebar.vue";
 import { Pager } from "gridsome";
-
 export default {
   metaInfo() {
     return {
@@ -88,7 +87,7 @@ export default {
 
 <page-query>
 query products ($page: Int) {
-  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {eq: 4687}}}, sortBy: "name", order: ASC) @paginate {
+  allLsretail(perPage: 12, page: $page, sortBy: "name", order: ASC) @paginate {
     pageInfo {
     totalPages
     currentPage
@@ -97,20 +96,12 @@ query products ($page: Int) {
       node {
         id
         sku
-        name
-        slug
-        status
-        short_description
-        description
+        title
+        shortDescription
+        fullDescription
         price
-        stock_status
-        categories {
-          id
-          name
-        }
-        images {
-          src
-        }
+        image
+        categoryID
       }
     }
   }
@@ -121,7 +112,6 @@ query products ($page: Int) {
 #gun-card:hover {
   transition: shadow 2s;
 }
-
 .pageNum {
   font-size: 1.6em;
   margin-right: 0.5em;

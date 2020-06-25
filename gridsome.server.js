@@ -8,19 +8,6 @@ const axios = require("axios");
 const slugify = require("@sindresorhus/slugify");
 const getCompleteItems = require('./lsretail/getCompleteItems')
 
-const consumerKey = process.env.WOO_CONSUMER_KEY;
-const consumerSecret = process.env.WOO_CONSUMER_SECRET;
-const wooUrl = process.env.WOO_SITE_URL;
-
-const WooCommerceRestApi = require("@woocommerce/woocommerce-rest-api").default;
-const WooCommerce = new WooCommerceRestApi({
-  url: wooUrl,
-  consumerKey: consumerKey,
-  consumerSecret: consumerSecret,
-  version: "wc/v3",
-  queryStringAuth: true
-});
-
 module.exports = async function(api) {
   
   api.loadSource(async actions => {
@@ -37,6 +24,32 @@ module.exports = async function(api) {
       })
     }
   })
+
+  api.createPages(async ({ graphql, createPage }) => {
+    const { data } = await graphql(`
+      {
+        allLsretail {
+          edges {
+            node {
+              id
+              title
+            }
+          }
+        }
+      }
+    `);
+
+    data.allLsretail.edges.forEach(({ node }) => {
+      createPage({
+        path: `/products/${node.title}`,
+        component: "./src/templates/Products.vue",
+        context: {
+          id: node.id
+        }
+      });
+    });
+  });
+
 
   api.loadSource(async actions => {
     const { data } = await axios.get(process.env.GRIDSOME_API_URL);
@@ -88,47 +101,6 @@ module.exports = async function(api) {
       createPage({
         path: `/guns/${node.slug}`,
         component: "./src/templates/Guns.vue",
-        context: {
-          id: node.id
-        }
-      });
-    });
-  });
-
-  api.loadSource(async ({ addCollection }) => {
-    const products = addCollection("WooProducts");
-
-    let final = [];
-    for (let step = 0; step < 53; step++) {
-      let { data } = await WooCommerce.get("products", {
-        per_page: 100,
-        offset: step * 100
-      });
-      final = [...final, ...data];
-    }
-    for (const item of final) {
-      products.addNode({ ...item });
-    }
-  });
-
-  api.createPages(async ({ graphql, createPage }) => {
-    const { data } = await graphql(`
-      {
-        allWooProducts(filter: { status: { eq: "publish" } }) {
-          edges {
-            node {
-              id
-              slug
-            }
-          }
-        }
-      }
-    `);
-
-    data.allWooProducts.edges.forEach(({ node }) => {
-      createPage({
-        path: `/products/${node.slug}`,
-        component: "./src/templates/Products.vue",
         context: {
           id: node.id
         }

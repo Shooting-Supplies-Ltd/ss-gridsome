@@ -1,0 +1,80 @@
+{
+  level: 'info',
+  message: 'Refresh token successfully pulled',
+  timestamp: '2020-06-24 05:05:39 PM'
+}
+{
+  level: 'info',
+  message: 'Account ID successfully retrieved',
+  timestamp: '2020-06-24 05:05:39 PM'
+}
+{
+  level: 'info',
+  message: 'Refresh token successfully pulled',
+  timestamp: '2020-06-24 05:09:09 PM'
+}
+{
+  level: 'info',
+  message: 'Account ID successfully retrieved',
+  timestamp: '2020-06-24 05:09:09 PM'
+}
+{
+  level: 'info',
+  message: 'Refresh token successfully pulled',
+  timestamp: '2020-06-24 05:12:10 PM'
+}
+{
+  level: 'info',
+  message: 'Account ID successfully retrieved',
+  timestamp: '2020-06-24 05:12:10 PM'
+}
+{
+  level: 'info',
+  message: 'Refresh token successfully pulled',
+  timestamp: '2020-06-24 05:18:46 PM'
+}
+{
+  level: 'info',
+  message: 'Account ID successfully retrieved',
+  timestamp: '2020-06-24 05:18:46 PM'
+}
+{
+  level: 'info',
+  message: 'Refresh token successfully pulled',
+  timestamp: '2020-06-24 05:25:17 PM'
+}
+{
+  level: 'info',
+  message: 'Account ID successfully retrieved',
+  timestamp: '2020-06-24 05:25:17 PM'
+}
+{
+  level: 'info',
+  message: 'Refresh token successfully pulled',
+  timestamp: '2020-06-24 05:36:29 PM'
+}
+{
+  level: 'info',
+  message: 'Account ID successfully retrieved',
+  timestamp: '2020-06-24 05:36:29 PM'
+}
+{
+  level: 'info',
+  message: 'Refresh token successfully pulled',
+  timestamp: '2020-06-24 05:46:51 PM'
+}
+{
+  level: 'info',
+  message: 'Account ID successfully retrieved',
+  timestamp: '2020-06-24 05:46:52 PM'
+}
+{
+  level: 'info',
+  message: 'Refresh token successfully pulled',
+  timestamp: '2020-06-24 05:50:17 PM'
+}
+{
+  level: 'info',
+  message: 'Account ID successfully retrieved',
+  timestamp: '2020-06-24 05:50:17 PM'
+}

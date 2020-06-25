@@ -7,21 +7,21 @@
       >
         <div class="w-full lg:flex">
           <div class="w-5/8 mt-0 lg:mt-4 ml-4 flex justify-center items-center">
-            <g-image :src="$page.wooProducts.images[0].src" :alt="$page.wooProducts.name" />
+            <g-image :src="$page.lsretail.image" :alt="$page.lsretail.title" />
           </div>
 
           <div class="w-3/8 flex ml-4 lg:ml-0 flex-wrap">
             <div>
               <h1
                 class="mr-6 lg:mt-8 text-4xl lg:text-5xl text-gray-900 font-extrabold tracking-tighter leading-snug uppercase"
-              >{{ $page.wooProducts.name }}</h1>
+              >{{ $page.lsretail.title }}</h1>
               <div
-                v-html="$page.wooProducts.short_description"
+                v-html="$page.lsretail.shortDescription"
                 class="mt-4 mr-6 text-xl text-gray-900 tracking-tight leading-snug"
               ></div>
               <div
                 class="mt-4 text-2xl lg:text-2xl font-bold text-gray-900 tracking-tighter leading-snug"
-              >£{{ $page.wooProducts.price }}</div>
+              >£{{ $page.lsretail.price }}</div>
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@
         <div class="w-full">
           <div
             id="description"
-            v-html="$page.wooProducts.description"
+            v-html="$page.lsretail.fullDesription"
             :class="descriptionFull ? 'block' : 'hidden'"
             class="ml-8 mr-8 mt-8 text-lg text-gray-900 tracking-tight leading-snug"
           ></div>
@@ -55,11 +55,11 @@
             <a
               v-bind:href="
                     'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
-                      $page.wooProducts.name +
+                      $page.lsretail.title +
                       ' - ' +
-                      $page.wooProducts.sku +
+                      $page.lsretail.sku +
                       ' - £' +
-                      $page.wooProducts.price +
+                      $page.lsretail.price +
                       ''
                   "
             >
@@ -89,16 +89,14 @@
 
 <page-query>
 query ($id: ID!) {
-  wooProducts(id: $id) {
+  lsretail(id: $id) {
     id
     sku
-    name
+    title
     price
-    description
-    short_description
-    images {
-      src
-    }
+    shortDescription
+    fullDescription
+    image
   }
 }
 </page-query>
@@ -122,15 +120,15 @@ export default {
   },
   metaInfo() {
     return {
-      title: this.$page.wooProducts.name,
+      title: this.$page.lsretail.title,
       meta: [
         {
           name: "description",
-          content: this.$page.wooProducts.short_description
+          content: this.$page.lsretail.shortDescription
         },
         {
           name: "image",
-          content: this.$page.wooProducts.images[0].src
+          content: this.$page.lsretail.image
         }
       ]
     };

@@ -30,11 +30,13 @@ const getCompleteItems = async () => {
         sku: item.customSku,
         price: item.Prices.ItemPrice[0].amount,
         brand: item.manufacturerSku,
+        manufacturerID: item.manufacturerID,
         title: item.description,
         stock: item.ItemShops.ItemShop[0].qoh,
         shortDescription: item.CustomFieldValues.CustomFieldValue[1].value,
         fullDescription: item.CustomFieldValues.CustomFieldValue[0].value,
         image: 'https://res.cloudinary.com/lightspeed-retail/image/upload/' + item.Images.Image.publicID + '.jpg',
+        categoryID: item.categoryID
       }
     })
     return filteredStock
