@@ -113,7 +113,7 @@
           >
         </p>
 
-        <iframe
+        <!-- <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2438.8617078819925!2d-2.062261884200036!3d52.318511879776565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870eb6643a61ef7%3A0x88a54342436aef3e!2sShooting%20Supplies%20Ltd!5e0!3m2!1sen!2suk!4v1583776759759!5m2!1sen!2suk"
           width="300"
           height="225"
@@ -121,7 +121,7 @@
           style="border:0;"
           allowfullscreen
           class="mt-4 rounded-md"
-        ></iframe>
+        ></iframe> -->
       </div>
     </div>
   </div>
