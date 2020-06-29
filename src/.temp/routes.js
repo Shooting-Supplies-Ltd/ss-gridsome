@@ -1,36 +1,36 @@
-const c1 = () => import(/* webpackChunkName: "page--src--pages--guns--brand--tippmann-arms-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/brand/TippmannArms.vue")
-const c2 = () => import(/* webpackChunkName: "page--src--pages--optics--scopes-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/optics/Scopes.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--optics--night-vision-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/optics/NightVision.vue")
-const c4 = () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-silenced-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/ShotgunSilenced.vue")
-const c5 = () => import(/* webpackChunkName: "page--src--pages--guns--rifle-black-powder-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/RifleBlackPowder.vue")
-const c6 = () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Shotgun.vue")
-const c7 = () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/Rifle.vue")
-const c8 = () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
-const c9 = () => import(/* webpackChunkName: "page--src--pages--accessories--targets-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Targets.vue")
-const c10 = () => import(/* webpackChunkName: "page--src--pages--guns--long-barrel-pistol-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/LongBarrelPistol.vue")
-const c11 = () => import(/* webpackChunkName: "page--src--pages--accessories--stocks-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Stocks.vue")
-const c12 = () => import(/* webpackChunkName: "page--src--pages--optics--binoculars-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/optics/Binoculars.vue")
-const c13 = () => import(/* webpackChunkName: "page--src--pages--accessories--magazines-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Magazines.vue")
-const c14 = () => import(/* webpackChunkName: "page--src--pages--guns--blank-pistol-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/BlankPistol.vue")
-const c15 = () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Handguards.vue")
-const c16 = () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Holsters.vue")
-const c17 = () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirRifle.vue")
-const c18 = () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/guns/AirPistol.vue")
-const c19 = () => import(/* webpackChunkName: "page--src--pages--accessories--grips-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Grips.vue")
-const c20 = () => import(/* webpackChunkName: "page--src--pages--accessories--cheek-pieces-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/CheekPieces.vue")
-const c21 = () => import(/* webpackChunkName: "page--src--pages--accessories--bipods-rests-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/BipodsRests.vue")
-const c22 = () => import(/* webpackChunkName: "page--src--pages--accessories--attachments-mounts-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/AttachmentsMounts.vue")
-const c23 = () => import(/* webpackChunkName: "page--src--pages--accessories--buttstocks-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/accessories/Buttstocks.vue")
-const c24 = () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Products.vue")
-const c25 = () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Guns.vue")
-const c26 = () => import(/* webpackChunkName: "page--src--pages--optics-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/Optics.vue")
-const c27 = () => import(/* webpackChunkName: "page--src--pages--guns-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/Guns.vue")
-const c28 = () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/Blog.vue")
-const c29 = () => import(/* webpackChunkName: "page--src--pages--accessories-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/Accessories.vue")
-const c30 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/templates/Post.vue")
-const c31 = () => import(/* webpackChunkName: "page--src--pages--temp-order-form-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/TempOrderForm.vue")
-const c32 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
-const c33 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/work/Projects/shooting-supplies/ss-gridsome/src/pages/Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src--pages--guns--brand--tippmann-arms-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/brand/TippmannArms.vue")
+const c2 = () => import(/* webpackChunkName: "page--src--pages--optics--scopes-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/optics/Scopes.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--optics--night-vision-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/optics/NightVision.vue")
+const c4 = () => import(/* webpackChunkName: "page--src--pages--guns--rifle-black-powder-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/RifleBlackPowder.vue")
+const c5 = () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-silenced-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/ShotgunSilenced.vue")
+const c6 = () => import(/* webpackChunkName: "page--src--pages--guns--shotgun-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/Shotgun.vue")
+const c7 = () => import(/* webpackChunkName: "page--src--pages--guns--pistol-black-powder-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/PistolBlackPowder.vue")
+const c8 = () => import(/* webpackChunkName: "page--src--pages--guns--rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/Rifle.vue")
+const c9 = () => import(/* webpackChunkName: "page--src--pages--accessories--targets-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Targets.vue")
+const c10 = () => import(/* webpackChunkName: "page--src--pages--guns--long-barrel-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/LongBarrelPistol.vue")
+const c11 = () => import(/* webpackChunkName: "page--src--pages--accessories--stocks-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Stocks.vue")
+const c12 = () => import(/* webpackChunkName: "page--src--pages--optics--binoculars-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/optics/Binoculars.vue")
+const c13 = () => import(/* webpackChunkName: "page--src--pages--accessories--magazines-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Magazines.vue")
+const c14 = () => import(/* webpackChunkName: "page--src--pages--guns--blank-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/BlankPistol.vue")
+const c15 = () => import(/* webpackChunkName: "page--src--pages--accessories--handguards-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Handguards.vue")
+const c16 = () => import(/* webpackChunkName: "page--src--pages--accessories--holsters-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Holsters.vue")
+const c17 = () => import(/* webpackChunkName: "page--src--pages--guns--air-pistol-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/AirPistol.vue")
+const c18 = () => import(/* webpackChunkName: "page--src--pages--guns--air-rifle-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/guns/AirRifle.vue")
+const c19 = () => import(/* webpackChunkName: "page--src--pages--accessories--grips-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Grips.vue")
+const c20 = () => import(/* webpackChunkName: "page--src--pages--accessories--cheek-pieces-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/CheekPieces.vue")
+const c21 = () => import(/* webpackChunkName: "page--src--pages--accessories--bipods-rests-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/BipodsRests.vue")
+const c22 = () => import(/* webpackChunkName: "page--src--pages--accessories--attachments-mounts-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/AttachmentsMounts.vue")
+const c23 = () => import(/* webpackChunkName: "page--src--pages--accessories--buttstocks-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/accessories/Buttstocks.vue")
+const c24 = () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Products.vue")
+const c25 = () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Guns.vue")
+const c26 = () => import(/* webpackChunkName: "page--src--pages--optics-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Optics.vue")
+const c27 = () => import(/* webpackChunkName: "page--src--pages--guns-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Guns.vue")
+const c28 = () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Blog.vue")
+const c29 = () => import(/* webpackChunkName: "page--src--pages--accessories-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Accessories.vue")
+const c30 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/ss-gridsome/src/templates/Post.vue")
+const c31 = () => import(/* webpackChunkName: "page--src--pages--temp-order-form-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/TempOrderForm.vue")
+const c32 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
+const c33 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/ss-gridsome/src/pages/Index.vue")
 
 export default [
   {
@@ -46,11 +46,11 @@ export default [
     component: c3
   },
   {
-    path: "/guns/shotgun-silenced/:page(\\d+)?/",
+    path: "/guns/rifle-black-powder/:page(\\d+)?/",
     component: c4
   },
   {
-    path: "/guns/rifle-black-powder/:page(\\d+)?/",
+    path: "/guns/shotgun-silenced/:page(\\d+)?/",
     component: c5
   },
   {
@@ -58,11 +58,11 @@ export default [
     component: c6
   },
   {
-    path: "/guns/rifle/:page(\\d+)?/",
+    path: "/guns/pistol-black-powder/:page(\\d+)?/",
     component: c7
   },
   {
-    path: "/guns/pistol-black-powder/:page(\\d+)?/",
+    path: "/guns/rifle/:page(\\d+)?/",
     component: c8
   },
   {
@@ -98,11 +98,11 @@ export default [
     component: c16
   },
   {
-    path: "/guns/air-rifle/:page(\\d+)?/",
+    path: "/guns/air-pistol/:page(\\d+)?/",
     component: c17
   },
   {
-    path: "/guns/air-pistol/:page(\\d+)?/",
+    path: "/guns/air-rifle/:page(\\d+)?/",
     component: c18
   },
   {
@@ -450,10 +450,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/umarex-beretta-m-92-fs-20-c04403/",
-    component: c25
-  },
-  {
     path: "/guns/umarex-colt-government-1911-a1-fg-0074721/",
     component: c25
   },
@@ -534,6 +530,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/walther-cp-88-a7187411/",
+    component: c25
+  },
+  {
     path: "/guns/umarex-heckler-and-koch-20-c05071/",
     component: c25
   },
@@ -543,6 +543,10 @@ export default [
   },
   {
     path: "/guns/umarex-walther-cp-88-ag-20177827/",
+    component: c25
+  },
+  {
+    path: "/guns/umarex-beretta-m-92-fshg-20218102/",
     component: c25
   },
   {
@@ -622,15 +626,7 @@ export default [
     component: c25
   },
   {
-    path: "/guns/weihrauch-hw-45436371/",
-    component: c25
-  },
-  {
     path: "/guns/weihrauchhw-40-pca520114/",
-    component: c25
-  },
-  {
-    path: "/guns/weihrauchhw-40-pca520113/",
     component: c25
   },
   {
@@ -655,10 +651,6 @@ export default [
   },
   {
     path: "/guns/umarex-glock-17-da-069882/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-glock-17-da-095875/",
     component: c25
   },
   {
@@ -695,10 +687,6 @@ export default [
   },
   {
     path: "/guns/umarex-glock-19-da-010949/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-glock-17-aja-026658/",
     component: c25
   },
   {
@@ -742,6 +730,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/tikka-t3-x-tac-y26410/",
+    component: c25
+  },
+  {
     path: "/guns/tikka-t3-x-tac-n27658/",
     component: c25
   },
@@ -763,10 +755,6 @@ export default [
   },
   {
     path: "/guns/remington700-5-r-mil-specrr-52227-g/",
-    component: c25
-  },
-  {
-    path: "/guns/uberti1858-new-armya-73058/",
     component: c25
   },
   {
@@ -930,6 +918,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/tikka-t1x-y11466/",
+    component: c25
+  },
+  {
     path: "/guns/sako-finnfire-iil-60797/",
     component: c25
   },
@@ -998,6 +990,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/sako-p94-s890417/",
+    component: c25
+  },
+  {
     path: "/guns/ruger10-22-custom117-37985/",
     component: c25
   },
@@ -1019,10 +1015,6 @@ export default [
   },
   {
     path: "/guns/remington700-sps-varmint-g6634267/",
-    component: c25
-  },
-  {
-    path: "/guns/tippmann-sports0018035/",
     component: c25
   },
   {
@@ -1362,10 +1354,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/mossberg-hushpower-v0852086/",
-    component: c25
-  },
-  {
     path: "/guns/mossberg500-bantam-v0938221/",
     component: c25
   },
@@ -1430,11 +1418,11 @@ export default [
     component: c25
   },
   {
-    path: "/guns/gamo-varmint-swarm-04-1-c-031103-20/",
+    path: "/guns/gamo-varmint-swarm-04-1-c-029520-20/",
     component: c25
   },
   {
-    path: "/guns/gamo-varmint-swarm-04-1-c-031099-20/",
+    path: "/guns/gamo-varmint-swarm-04-1-c-029512-20/",
     component: c25
   },
   {
@@ -1522,10 +1510,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/bsar-10-se-super-carbine-walnut-rse-220334-mn/",
-    component: c25
-  },
-  {
     path: "/guns/bsar-10-se-super-carbine-walnut-rse-220342-mn/",
     component: c25
   },
@@ -1542,6 +1526,14 @@ export default [
     component: c25
   },
   {
+    path: "/guns/browning-b525-sporter-one-brjp-54630-ym-131/",
+    component: c25
+  },
+  {
+    path: "/guns/browning-b525-sporter-one-brjp-54565-ym-131/",
+    component: c25
+  },
+  {
     path: "/guns/browning-b525-sporter-one-brjp-53242-ym-131/",
     component: c25
   },
@@ -1551,10 +1543,6 @@ export default [
   },
   {
     path: "/guns/investarm152540/",
-    component: c25
-  },
-  {
-    path: "/guns/daystate-renegade-black-synthetic-re-2177/",
     component: c25
   },
   {
@@ -1607,6 +1595,10 @@ export default [
   },
   {
     path: "/guns/browning-t-bolt-composite-sporter20589-zp-253/",
+    component: c25
+  },
+  {
+    path: "/guns/browning-t-bolt-target-varmint20455-zp-253/",
     component: c25
   },
   {
@@ -1782,6 +1774,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/bsar-10-se-cayennerse-770781-jk/",
+    component: c25
+  },
+  {
     path: "/guns/bsal-ightning-xlxlse-2-612221-19/",
     component: c25
   },
@@ -1811,6 +1807,10 @@ export default [
   },
   {
     path: "/guns/browning-b525-sporter-one55557-zp/",
+    component: c25
+  },
+  {
+    path: "/guns/browning-b525-game-one65741-zn/",
     component: c25
   },
   {
@@ -1914,6 +1914,18 @@ export default [
     component: c25
   },
   {
+    path: "/guns/cz-457-synthetic-d278182/",
+    component: c25
+  },
+  {
+    path: "/guns/cz-457-synthetic-d209918/",
+    component: c25
+  },
+  {
+    path: "/guns/cz-457-synthetic-d209917/",
+    component: c25
+  },
+  {
     path: "/guns/cz-457-royald-008728/",
     component: c25
   },
@@ -1970,6 +1982,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/blaser-r8-ultimate-r-189730/",
+    component: c25
+  },
+  {
     path: "/guns/bergara-b1461-06-200869-15/",
     component: c25
   },
@@ -1991,6 +2007,10 @@ export default [
   },
   {
     path: "/guns/chiappa-rhino-18-n00384/",
+    component: c25
+  },
+  {
+    path: "/guns/chiappa-rhino-19-n02462/",
     component: c25
   },
   {
@@ -2062,6 +2082,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/colt-saa-19-m10606/",
+    component: c25
+  },
+  {
     path: "/guns/colt-saa-19-k96720/",
     component: c25
   },
@@ -2114,10 +2138,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/cz-455-c857989/",
-    component: c25
-  },
-  {
     path: "/guns/cz-452-american795833/",
     component: c25
   },
@@ -2158,6 +2178,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/air-arms-s410-carbine-superlite170309/",
+    component: c25
+  },
+  {
     path: "/guns/air-arms-s400-carbine-superlite160372/",
     component: c25
   },
@@ -2194,19 +2218,11 @@ export default [
     component: c25
   },
   {
-    path: "/guns/blaser-r-189730/",
-    component: c25
-  },
-  {
     path: "/guns/crosman2250318-b00009/",
     component: c25
   },
   {
     path: "/guns/crosman2250318-b00003/",
-    component: c25
-  },
-  {
-    path: "/guns/crosman2250318-b00027/",
     component: c25
   },
   {
@@ -2235,6 +2251,10 @@ export default [
   },
   {
     path: "/guns/brnomodel-2218356/",
+    component: c25
+  },
+  {
+    path: "/guns/brno-452527421/",
     component: c25
   },
   {
