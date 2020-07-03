@@ -310,10 +310,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/winchester-super-x-pump-black-shadow12-azn-20783/",
-    component: c25
-  },
-  {
     path: "/guns/yildiz-spz-m-junior-y27966/",
     component: c25
   },
@@ -398,15 +394,7 @@ export default [
     component: c25
   },
   {
-    path: "/guns/weihrauch-hw-97-kt-2272325/",
-    component: c25
-  },
-  {
     path: "/guns/weihrauch-hw-97-kt-2289994/",
-    component: c25
-  },
-  {
-    path: "/guns/weihrauch-hw-97-kt-2287957/",
     component: c25
   },
   {
@@ -431,10 +419,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-100-bpk-1973155/",
-    component: c25
-  },
-  {
-    path: "/guns/walther-lgu-master-probu-006665/",
     component: c25
   },
   {
@@ -514,14 +498,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/weihrauch-hw-77-k2281783/",
-    component: c25
-  },
-  {
-    path: "/guns/weihrauch-hw-110-t2107268/",
-    component: c25
-  },
-  {
     path: "/guns/umarex-mp-40-legends-17-e15670/",
     component: c25
   },
@@ -539,10 +515,6 @@ export default [
   },
   {
     path: "/guns/umarex-heckler-and-koch-19-k11367/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-walther-cp-88-ag-20177827/",
     component: c25
   },
   {
@@ -575,10 +547,6 @@ export default [
   },
   {
     path: "/guns/winchester-model-18946270315/",
-    component: c25
-  },
-  {
-    path: "/guns/weihrauch-hw-6052144/",
     component: c25
   },
   {
@@ -615,10 +583,6 @@ export default [
   },
   {
     path: "/guns/umarex-ruger-10-2219-h04518/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-ruger-10-2219-h04495/",
     component: c25
   },
   {
@@ -687,10 +651,6 @@ export default [
   },
   {
     path: "/guns/umarex-glock-19-da-010949/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-glock-17-aja-024951/",
     component: c25
   },
   {
@@ -794,10 +754,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/sig-sauer1911-we-the-people-18305507/",
-    component: c25
-  },
-  {
     path: "/guns/sig-sauer-x-five-18-d08948/",
     component: c25
   },
@@ -871,10 +827,6 @@ export default [
   },
   {
     path: "/guns/sako85-s-carbon-wolfx-74483/",
-    component: c25
-  },
-  {
-    path: "/guns/sako85-m-finnlight-fluted-x53614/",
     component: c25
   },
   {
@@ -1510,6 +1462,10 @@ export default [
     component: c25
   },
   {
+    path: "/guns/bsar-10-se-super-carbine-walnut-rse-220334-mn/",
+    component: c25
+  },
+  {
     path: "/guns/bsar-10-se-super-carbine-walnut-rse-220342-mn/",
     component: c25
   },
@@ -1750,10 +1706,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/browning-t-bolt-sporter20243-zp-53/",
-    component: c25
-  },
-  {
     path: "/guns/browning-t-bolt-sporter20875-zp-253/",
     component: c25
   },
@@ -1850,10 +1802,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/beretta-al-390-v94250-e/",
-    component: c25
-  },
-  {
     path: "/guns/beretta-a400-xcel-xa-225973/",
     component: c25
   },
@@ -1942,10 +1890,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/cz-452-style-a213701/",
-    component: c25
-  },
-  {
     path: "/guns/cz-455-thumbhole-c644919/",
     component: c25
   },
@@ -1995,10 +1939,6 @@ export default [
   },
   {
     path: "/guns/chiappa-rhino-18-n00385/",
-    component: c25
-  },
-  {
-    path: "/guns/chiappa-rhino-18-m00571/",
     component: c25
   },
   {
@@ -2075,10 +2015,6 @@ export default [
   },
   {
     path: "/guns/air-arms-s510-ultimate-sporter-regulated166445/",
-    component: c25
-  },
-  {
-    path: "/guns/crosman1377-c413-b06730-c/",
     component: c25
   },
   {
@@ -2226,19 +2162,19 @@ export default [
     component: c25
   },
   {
+    path: "/guns/air-arms-s510-walnut126595/",
+    component: c25
+  },
+  {
+    path: "/guns/air-arms-s410-xtra027507/",
+    component: c25
+  },
+  {
     path: "/guns/air-arms-s510-superlite159736/",
     component: c25
   },
   {
-    path: "/guns/air-arms-s510-beech126595/",
-    component: c25
-  },
-  {
     path: "/guns/air-arms-hft-500169992/",
-    component: c25
-  },
-  {
-    path: "/guns/air-arms-ftp-900167247/",
     component: c25
   },
   {
@@ -2279,10 +2215,6 @@ export default [
   },
   {
     path: "/guns/bsadefiantde-220251/",
-    component: c25
-  },
-  {
-    path: "/guns/air-arms-s510118683/",
     component: c25
   },
   {
