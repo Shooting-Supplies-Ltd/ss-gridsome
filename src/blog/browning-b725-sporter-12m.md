@@ -13,13 +13,15 @@ author: Shooting Supplies
 
 # ** Browning B725 Sporter 12M**
 
-Due to Browning's offering of £150 cashback on new purchases from the B725 Sports range, we thought this would be a good time time to take a quick look at the new Browning Sporter 12M.
+Due to Browning's offering of £150 cashback on new purchases from the B725 Sporter range, we thought this would be a good time to take a quick look at the new Browning Sporter 12M.
 
 Coincidentally, if you have, or a going to be taking advantage of Browning's offer, you will want this link: [Claim your Cashback]( https://browning.promo/cashbackb725sport150uk20_196.html?fbclid=IwAR0DHBM_Uy3le1Ota4kPUXDUj1-heAYhEzP5yZP5OoZdC2yff0_dVjBXwEE)
 
 The B725 range is billed as 'The perfect harmony between the shooter and his weapon', given the popularity of these guns who's to argue?
 
-The B725 Sporter 12M, as with all of the B725 range, feature Inflex II Technology, Invector-DS Chokes and a Low Action Frame. All together these features provide for fantastic shooting comfort and unequalled performance. So what are all of these things that make for such a great shooting experience?
+The B725 Sporter 12M, as with all of the B725 range, features Inflex II Technology, Invector-DS Chokes and a Low Action Frame. All together, these provide for fantastic shooting comfort and unrivalled performance. 
+
+So what are all of these things that make for such a great shooting experience?
 
 ---
 
@@ -49,7 +51,7 @@ More here:
 
 **The B725 Sporter 12M** brings a new matt finish to the barrels, trigger guard, fore-end iron and top lever. There is also a new plain polished design for the body decoration. 
 
-Modifications to the stock and grip shapes have been applied on this model , also the comb has been re-profiled and is now 2-3mm slimmer.
+Modifications to the stock and grip shapes have been applied on this model, you will also find that the comb has been re-profiled and is now 2-3mm slimmer.
 
 ---
 
