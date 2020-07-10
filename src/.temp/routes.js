@@ -1922,10 +1922,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/blaser-r8-ultimate-r-189730/",
-    component: c25
-  },
-  {
     path: "/guns/bergara-b1461-06-200869-15/",
     component: c25
   },

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full bg-gray-900">
+  <div class="w-full h-64 bg-gray-900">
     <div
       class="hidden lg:flex pb-8 pt-8 flex bg-gray-900 text-white justify-around border-t border-black mx-16"
     >
@@ -9,30 +9,22 @@
         <hr class="mb-4 mt-1" />
         <ul>
           <li>
-            <g-link to="/blog" class="hover:text-ssorange font-semibold text-lg"
-              >BLOG</g-link
-            >
+            <g-link to="/blog" class="hover:text-ssorange font-semibold text-lg">BLOG</g-link>
           </li>
           <li>
-            <g-link
-              to="/blog/about-us"
-              class="hover:text-ssorange font-semibold text-lg"
-              >ABOUT US</g-link
-            >
+            <g-link to="/blog/about-us" class="hover:text-ssorange font-semibold text-lg">ABOUT US</g-link>
           </li>
           <li>
             <g-link
               to="/blog/contact-us"
               class="hover:text-ssorange font-semibold text-lg"
-              >CONTACT US</g-link
-            >
+            >CONTACT US</g-link>
           </li>
           <li>
             <g-link
               to="/blog/privacy-policy"
               class="hover:text-ssorange font-semibold text-lg"
-              >PRIVACY POLICY</g-link
-            >
+            >PRIVACY POLICY</g-link>
           </li>
         </ul>
       </div>
@@ -42,23 +34,13 @@
         <hr class="mb-4 mt-1" />
         <ul>
           <li>
-            <g-link to="/guns" class="hover:text-ssorange font-semibold text-lg"
-              >GUNS</g-link
-            >
+            <g-link to="/guns" class="hover:text-ssorange font-semibold text-lg">GUNS</g-link>
           </li>
           <li>
-            <g-link
-              to="/optics"
-              class="hover:text-ssorange font-semibold text-lg"
-              >OPTICS</g-link
-            >
+            <g-link to="/optics" class="hover:text-ssorange font-semibold text-lg">OPTICS</g-link>
           </li>
           <li>
-            <g-link
-              to="/accessories"
-              class="hover:text-ssorange font-semibold text-lg"
-              >ACCESSORIES</g-link
-            >
+            <g-link to="/accessories" class="hover:text-ssorange font-semibold text-lg">ACCESSORIES</g-link>
           </li>
         </ul>
       </div>
@@ -108,9 +90,7 @@
         <p class="font-semibold text-lg">TEL: 01527 831 261</p>
         <p class="font-semibold text-lg hover:text-ssorange">
           EMAIL:
-          <a href="mailto:info@shootingsuppliesltd.co.uk"
-            >INFO@SHOOTINGSUPPLIESLTD.CO.UK</a
-          >
+          <a href="mailto:info@shootingsuppliesltd.co.uk">INFO@SHOOTINGSUPPLIESLTD.CO.UK</a>
         </p>
 
         <!-- <iframe
@@ -121,7 +101,7 @@
           style="border:0;"
           allowfullscreen
           class="mt-4 rounded-md"
-        ></iframe> -->
+        ></iframe>-->
       </div>
     </div>
   </div>
@@ -129,6 +109,6 @@
 
 <script>
 export default {
-  name: "Footer",
+  name: "Footer"
 };
 </script>
