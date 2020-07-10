@@ -13,7 +13,7 @@ author: Shooting Supplies
 
 # **Umarex Glock Co2 Pistols**
 
-Used worldwide by law enforcement and military, the Glock pistol is one of the best selling handguns ever produced. Umarex faithfully reproduced these guns for the airgun market and we have a range of these guns on offer.
+Used worldwide by law enforcement and military, the Glock pistol is one of the best selling handguns ever produced. Umarex faithfully reproduced these guns for the airgun market and we have a range of these guns to offer.
 
 ---
 
@@ -121,4 +121,4 @@ Watch more about the Glock 19 & 19X below:
 
 ---
 
-If your looking to purchase a new airsoft pistol the Umarex range of Glocks offers alot to be admired, pay us a visit in store or give us a call to find out more.
+If your looking to purchase a new air pistol the Umarex range of Glocks offers alot to be admired, pay us a visit in store or give us a call to find out more.
