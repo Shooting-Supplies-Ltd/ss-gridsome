@@ -72,14 +72,6 @@
         <hr class="border-ssblue" />
       </div>
 
-      <div class="hidden md:w-full md:flex md:justify-center md:mt-8">
-        <Browning />
-      </div>
-
-      <div class="flex justify-center md:hidden">
-        <BrowningSocial />
-      </div>
-
       <div
         id="product-select-row-1"
         class="my-8 md:mx-8 md:my-12 lg:mx-24 lg:my-20 xl:mx-32 xl:my-20"
@@ -160,8 +152,6 @@
 <script>
 import Popup from "../components/Popup";
 import Banner from "../components/Banner";
-import Browning from "../components/Browning";
-import BrowningSocial from "../components/BrowningSocial";
 
 export default {
   metaInfo() {
@@ -177,9 +167,7 @@ export default {
   },
   components: {
     Popup,
-    Banner,
-    Browning,
-    BrowningSocial
+    Banner
   }
 };
 </script>
