@@ -1,9 +1,7 @@
 <template>
   <Layout>
     <Banner class="hidden lg:flex lg:border-b-2 lg:border-black lg:mb-8" />
-    <div id="popup" class="flex justify-center mt-24">
-      <Popup class="inset-auto" />
-    </div>
+    
     <div>
       <div id="top-row" class="hidden lg:block lg:mt-8">
         <ul class="flex justify-between items-center sm:py-8 lg:mx-12 xl:mx-24">
@@ -150,7 +148,6 @@
 </template>
 
 <script>
-import Popup from "../components/Popup";
 import Banner from "../components/Banner";
 
 export default {
@@ -166,7 +163,6 @@ export default {
     };
   },
   components: {
-    Popup,
     Banner
   }
 };
