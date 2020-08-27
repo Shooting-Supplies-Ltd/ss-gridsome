@@ -26,7 +26,7 @@ Call for further details: 01527 831 261 or visit us in-store.
 
 | Description | Std Price | Offer Price |
 |-------------|-----------|-------------|
-| Bushnell Elite 4200 2.5-10x50 | | £649 | £499 |
+| Bushnell Elite 4200 2.5-10x50 | £649 | £499 |
 | Hawke Endurance 30SF 4-16x50 IR Mildot | £325 | £249 |
 | Leopold VX-3 6.5-20x50 Windplex | £1095 | £995 |
 | Meopta ZD 6-24x56 RD Mildot | £1699 | £1499 |
