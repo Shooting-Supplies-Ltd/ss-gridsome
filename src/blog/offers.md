@@ -51,8 +51,6 @@ Call for further details: 01527 831 261 or visit us in-store.
 
 | Description                            | Std Price | Offer Price |
 | -------------------------------------- | --------- | ----------- |
-| Marlin 1895 Blk Laminate               | £1119     | £999        |
-| Marlin 1894 44 Mag Walnut              | £959      | £879        |
 | Remington 700 SR Stainless 20″ 223/308 | £1369     | £1195       |
 | Sauer 101 XT Synthetic 308             | £1375     | £999        |
 | Sauer 100 Minox Package 308            | £2278     | £1999       |
