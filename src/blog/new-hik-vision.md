@@ -5,7 +5,7 @@ date: "2020-09-01"
 excerpt: >-
   Hikvison are newcomers to the Shooting Industry but are far from amateurs when it comes to thermal and night vision products.
 thumbnail: >-
-  
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1598890830/Blog/Hikvision-Vulcan-FB_zq3d11.png
 category: News
 keywords: optics, thermal, spotter, hik vision
 author: Shooting Supplies
