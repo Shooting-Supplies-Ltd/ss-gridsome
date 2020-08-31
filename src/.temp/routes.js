@@ -598,19 +598,11 @@ export default [
     component: c25
   },
   {
-    path: "/guns/weihrauchhw-40-pca597689/",
-    component: c25
-  },
-  {
     path: "/guns/walther-p3820-d02615/",
     component: c25
   },
   {
     path: "/guns/umarex-glock-17-da-098554/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-hk-vp-920-c05031/",
     component: c25
   },
   {
@@ -718,10 +710,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/umarex-cowboy-19-k87286/",
-    component: c25
-  },
-  {
     path: "/guns/umarex-cowboy-19-k87285/",
     component: c25
   },
@@ -735,10 +723,6 @@ export default [
   },
   {
     path: "/guns/sig-sauer-mcx-20-am-11334/",
-    component: c25
-  },
-  {
-    path: "/guns/steyr-lp-1-p-compensator-718089/",
     component: c25
   },
   {
@@ -878,10 +862,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/ruger10-22-standard-beech239-42433/",
-    component: c25
-  },
-  {
     path: "/guns/taurus66-vf-954612/",
     component: c25
   },
@@ -935,10 +915,6 @@ export default [
   },
   {
     path: "/guns/sako-iv-963713/",
-    component: c25
-  },
-  {
-    path: "/guns/ruger-sr-22280-46325/",
     component: c25
   },
   {
@@ -1015,10 +991,6 @@ export default [
   },
   {
     path: "/guns/sauer100-c024922/",
-    component: c25
-  },
-  {
-    path: "/guns/sauer100-c008935/",
     component: c25
   },
   {
@@ -1278,10 +1250,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/marlin1894-cbmr-54629-g/",
-    component: c25
-  },
-  {
     path: "/guns/marlin1894-sblmr-37580-i/",
     component: c25
   },
@@ -1367,10 +1335,6 @@ export default [
   },
   {
     path: "/guns/gamo-delta-fox-gt-whisper04-1-c-234105-19/",
-    component: c25
-  },
-  {
-    path: "/guns/gamo-delta-fox-gt-04-1-c-313035-19/",
     component: c25
   },
   {
@@ -1518,10 +1482,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/franchi-harrier-sport-9512624/",
-    component: c25
-  },
-  {
     path: "/guns/browning-b525-sporter-one-brjp-54630-ym-131/",
     component: c25
   },
@@ -1646,10 +1606,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/dan-wesson2-5-15-j44563/",
-    component: c25
-  },
-  {
     path: "/guns/derya-lion-practicalipsc-839/",
     component: c25
   },
@@ -1662,15 +1618,7 @@ export default [
     component: c25
   },
   {
-    path: "/guns/browning-maxus-ultimate-partridges115-zp-05819/",
-    component: c25
-  },
-  {
     path: "/guns/browning-maxus-carbon-fibre115-zn-06688/",
-    component: c25
-  },
-  {
-    path: "/guns/browning-maxus-carbon-fibre115-zn-06698/",
     component: c25
   },
   {
@@ -1759,10 +1707,6 @@ export default [
   },
   {
     path: "/guns/cz-455-black-syntheticc-496760/",
-    component: c25
-  },
-  {
-    path: "/guns/browning-t-bolt-sporter20298-zt-253/",
     component: c25
   },
   {
@@ -1882,10 +1826,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/benelli-vinci-cg-064026-j/",
-    component: c25
-  },
-  {
     path: "/guns/benelli-m2-comfortech-m973846-p19/",
     component: c25
   },
@@ -1935,10 +1875,6 @@ export default [
   },
   {
     path: "/guns/cz-455-thumbhole-c644884/",
-    component: c25
-  },
-  {
-    path: "/guns/cz-452-american-a569596/",
     component: c25
   },
   {
@@ -2014,10 +1950,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/bsac-omet-cd-062731-20/",
-    component: c25
-  },
-  {
     path: "/guns/air-arms-tx-200-hc-168773/",
     component: c25
   },
@@ -2031,10 +1963,6 @@ export default [
   },
   {
     path: "/guns/air-arms-s510-ultimate-sporter-regulated166445/",
-    component: c25
-  },
-  {
-    path: "/guns/dan-wesson71515-j16989/",
     component: c25
   },
   {
