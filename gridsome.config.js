@@ -78,7 +78,7 @@ module.exports = {
           }
         }
       }
-    }
+    },
   ],
   templates: {
     Post: "/blog/:slug"

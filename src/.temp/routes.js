@@ -326,10 +326,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/walther-colt-gold-cup-1911-wd-047319/",
-    component: c25
-  },
-  {
     path: "/products/ranger-pro-5x42/",
     component: c24
   },
@@ -386,10 +382,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/weihrauch-hw-100-kt-laminate-adjustable1977073/",
-    component: c25
-  },
-  {
     path: "/guns/weihrauch-hw-100-kt-laminate-adjustable1977027/",
     component: c25
   },
@@ -419,14 +411,6 @@ export default [
   },
   {
     path: "/guns/walther-ppq-m2-pp-029736/",
-    component: c25
-  },
-  {
-    path: "/guns/walther-ppq-m2-pp-034708/",
-    component: c25
-  },
-  {
-    path: "/guns/weihrauch-hw-100-kt-1976499/",
     component: c25
   },
   {
@@ -763,10 +747,6 @@ export default [
   },
   {
     path: "/guns/tippmann-arms-elite-s004152/",
-    component: c25
-  },
-  {
-    path: "/guns/tippmann-arms-elite-l004708/",
     component: c25
   },
   {
@@ -1350,15 +1330,7 @@ export default [
     component: c25
   },
   {
-    path: "/guns/heckler-and-koch-hk-416-hk-010028/",
-    component: c25
-  },
-  {
     path: "/guns/gamo-varmint-swarm-04-1-c-472423-20/",
-    component: c25
-  },
-  {
-    path: "/guns/gamo-maxxim-elite-04-1-c-263694-20/",
     component: c25
   },
   {
@@ -1734,10 +1706,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/daystate-wolverine-rlw-2439/",
-    component: c25
-  },
-  {
     path: "/guns/bsal-ightning-selse-22-610526-19/",
     component: c25
   },
@@ -1962,10 +1930,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/air-arms-s510-ultimate-sporter-regulated166445/",
-    component: c25
-  },
-  {
     path: "/guns/colt-saa-15-d73656/",
     component: c25
   },
@@ -2031,10 +1995,6 @@ export default [
   },
   {
     path: "/guns/blaser-r8-r-077134/",
-    component: c25
-  },
-  {
-    path: "/guns/bsas-upersport-ds-67124/",
     component: c25
   },
   {

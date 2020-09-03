@@ -70,6 +70,16 @@
         <hr class="border-ssblue" />
       </div>
 
+      <g-link to="/blog/offers">
+        <div class="w-full my-6 flex justify-center">
+            <g-image src='../assets/images/Sale-Banner.png' class="w-5/6" />
+        </div>
+      </g-link>
+
+      <div class="hidden lg:block mx-8">
+        <hr class="border-ssblue" />
+      </div>
+
       <div
         id="product-select-row-1"
         class="my-8 md:mx-8 md:my-12 lg:mx-24 lg:my-20 xl:mx-32 xl:my-20"
@@ -163,7 +173,7 @@ export default {
     };
   },
   components: {
-    Banner
-  }
+    Banner,
+  },
 };
 </script>

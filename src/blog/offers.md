@@ -12,6 +12,10 @@ author: Shooting Supplies
 
 # **On Sale & Offers**
 
+![Big Clothing Sale 25% Off!](https://res.cloudinary.com/shooting-supplies/image/upload/v1599155127/Blog/Sale-Banner_oyfqni.png)
+
+**Our Big Clothing Sale gives you 25% off all Clothing & Footwear in-store throughout September.**
+
 Check back here regularly for the updated list of price reduced guns and scopes from Shooting Supplies.
 
 We still have half a rail of clearance clothing and accessories at a massive 50% off!!
