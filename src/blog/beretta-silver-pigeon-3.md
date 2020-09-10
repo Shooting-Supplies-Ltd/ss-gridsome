@@ -29,20 +29,20 @@ The Beretta Silver Pigeon III is equipped with Beretta's cold hammer forged, dee
 
 The furniture of the 2020 Silver Pigeon III shotgun is made of a class 2.5 walnut wood and has a new eye catching gloss finish that provides better protection in field conditions, providing more protection from water.
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1599732998/Blog/SilverPigeon3/SPIII_bg22_xyq48k.jpg)
+![Beretta Silver Pigeon III Stock](https://res.cloudinary.com/shooting-supplies/image/upload/v1599732998/Blog/SilverPigeon3/SPIII_bg22_xyq48k.jpg)
 
 ---
 
 The action of the new Silver Pigeon III features a new modern, high-contrast floral game scene. Engraved using the latest update in laser engraving technology, a 5-axis lase which is capable of engraving rounded surfaces whilst maintaining perfect continuity.
 
-![](https://res.cloudinary.com/shooting-supplies/image/upload/v1599728116/Blog/SilverPigeon3/SPIII_dettaglio-lato-2_cmurhe.png)
+![Beretta Silver Pigeon III Action](https://res.cloudinary.com/shooting-supplies/image/upload/v1599728116/Blog/SilverPigeon3/SPIII_dettaglio-lato-2_cmurhe.png)
 
 ---
 
 This new updated 2020 version of the 687 Silver Pigeon III has improved over it's predecessors thanks to new manufacturing, quality control and laser engraving techniques and is available in-store at Shooting Supplies Ltd.
 
 
-In-Store £1949
+In-Store £1949 - [Baretta 687 Silver Pigeon III](https://www.shootingsuppliesltd.co.uk/guns/beretta687-silver-pigeon-iiif-06452-x)
 
 ---
 
