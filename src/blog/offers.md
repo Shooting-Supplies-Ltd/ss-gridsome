@@ -30,11 +30,13 @@ Call for further details: 01527 831 261 or visit us in-store.
 
 | Description | Std Price | Offer Price |
 |-------------|-----------|-------------|
+| Akah Range finding binoculars 8x42 | £699 | £399 |
 | Bushnell Elite 4200 2.5-10x50 | £649 | £499 |
 | Hawke Endurance 30SF 4-16x50 IR Mildot | £325 | £249 |
 | Leopold VX-3 6.5-20x50 Windplex | £1095 | £995 |
 | Meopta ZD 6-24x56 RD Mildot | £1699 | £1499 |
 | Meopta MeoStar R1r 3-12x56 R6D 4C | £1099 | £899 |
+| Zeiss Victory HT 3-12x56 ASV | £1999 | £1599 |
 
 ****
 
@@ -46,8 +48,11 @@ Call for further details: 01527 831 261 or visit us in-store.
 | Benelli Vinci 12g Black            | £1625     | £1199       |
 | Beretta Ultralight Classic 28″ 12g | £2035     | £1799       |
 | Browning 725 Pro Trap              | £3070     | £2699       |
+| Browning 725 MK2 sporter 30"/32" | £2000 | £1799 |
+| Browning 725 MK2 sporter adjustable 32" | £2179 | £1999 |
 | Franchi Alcione                    | £949      | £849        |
 | Hatsan Raider 12g                  | £625      | £549        |
+| Marocchi First 20g O/U | £1099 | £899 |
 
 ****
 

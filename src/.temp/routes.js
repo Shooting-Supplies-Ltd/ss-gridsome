@@ -134,6 +134,10 @@ export default [
     component: c24
   },
   {
+    path: "/products/vantage-wa-ffp-6-24x50-ir-sf-1-2md/",
+    component: c24
+  },
+  {
     path: "/products/vortex-crossfire-ii-3-9x40-dead-hold-rifle-scope/",
     component: c24
   },
@@ -166,11 +170,19 @@ export default [
     component: c24
   },
   {
+    path: "/products/utg-leapers-bug-buster-3-9x32-ao-rgb-md/",
+    component: c24
+  },
+  {
     path: "/products/vortex-crossfire-ii-4-12x40-ao-rifle-scope/",
     component: c24
   },
   {
     path: "/products/vortex-diamondback-hp-4-16x42-bdc-rifle-scope/",
+    component: c24
+  },
+  {
+    path: "/products/vortex-razor-lht-3-15x50-g4i-bdc-mrad/",
     component: c24
   },
   {
@@ -183,6 +195,14 @@ export default [
   },
   {
     path: "/products/swarovski-z8i-2-16x50-p-ill-4a-i-rifle-scope/",
+    component: c24
+  },
+  {
+    path: "/products/vantage-3-12x44sf-1-2-mil-dot/",
+    component: c24
+  },
+  {
+    path: "/products/vantage-4-16x44sf-1-2-mil-dot/",
     component: c24
   },
   {
@@ -207,6 +227,30 @@ export default [
   },
   {
     path: "/products/swarovski-z8i-0-75-6x20-ld-i-rifle-scope/",
+    component: c24
+  },
+  {
+    path: "/products/top-notch-3-9-x40-ir-mdot-ao/",
+    component: c24
+  },
+  {
+    path: "/products/vanguard-endeavor-rs-4-16x50-ds6/",
+    component: c24
+  },
+  {
+    path: "/products/vanguard-endeavor-rs-5-20x50-dsv/",
+    component: c24
+  },
+  {
+    path: "/products/vantage-4-12x50-ir-mdot-ao/",
+    component: c24
+  },
+  {
+    path: "/products/vantage-wa-30mm-1-4x24-ir/",
+    component: c24
+  },
+  {
+    path: "/products/vortex-seagle-1-8x24-ar-bdc/",
     component: c24
   },
   {
@@ -239,6 +283,10 @@ export default [
   },
   {
     path: "/products/tippmann-arms-pro-s-m4-22-rifle/",
+    component: c24
+  },
+  {
+    path: "/products/vantage-3-9-x40-milldot/",
     component: c24
   },
   {
@@ -275,6 +323,10 @@ export default [
   },
   {
     path: "/products/tippmann-arms-extended-charging-handle/",
+    component: c24
+  },
+  {
+    path: "/products/vantage-4x32-mdot/",
     component: c24
   },
   {
@@ -462,6 +514,14 @@ export default [
     component: c24
   },
   {
+    path: "/products/kahles-ki-5-25x56-ccw-skmr3-w-l/",
+    component: c24
+  },
+  {
+    path: "/products/meopta-r1r-3-12x56-rgd-4c/",
+    component: c24
+  },
+  {
     path: "/products/nm400-ir-ic-torch-only/",
     component: c24
   },
@@ -567,10 +627,6 @@ export default [
   },
   {
     path: "/guns/umarex-beretta-m9-a320-a01709/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-colt-python-20-f28555/",
     component: c25
   },
   {
@@ -863,6 +919,14 @@ export default [
   },
   {
     path: "/products/form-pistol-grip-for-chiappa-rhino-lh-black-laminte/",
+    component: c24
+  },
+  {
+    path: "/products/frontier-30-5-30x56-sf-ir-mil-pro-20/",
+    component: c24
+  },
+  {
+    path: "/products/frontier-ffp-5-25x56-sf-ir-mil-pro-25/",
     component: c24
   },
   {
@@ -1396,6 +1460,10 @@ export default [
   {
     path: "/guns/lithgow-woomerax-00364/",
     component: c25
+  },
+  {
+    path: "/products/airmax-touch3-12x32-ir-sf/",
+    component: c24
   },
   {
     path: "/products/cobra-javelin-2/",
