@@ -36,6 +36,7 @@ Call for further details: 01527 831 261 or visit us in-store.
 | Leopold VX-3 6.5-20x50 Windplex | £1095 | £995 |
 | Meopta ZD 6-24x56 RD Mildot | £1699 | £1499 |
 | Meopta MeoStar R1r 3-12x56 R6D 4C | £1099 | £899 |
+| Pulsar Core FXQ50 BW | £2989 | £2749 |
 | Zeiss Victory HT 3-12x56 ASV | £1999 | £1599 |
 
 ****
