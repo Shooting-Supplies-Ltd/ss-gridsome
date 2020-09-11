@@ -23,14 +23,15 @@ const c22 = () => import(/* webpackChunkName: "page--src--pages--accessories--at
 const c23 = () => import(/* webpackChunkName: "page--src--pages--accessories--buttstocks-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/accessories/Buttstocks.vue")
 const c24 = () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Products.vue")
 const c25 = () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Guns.vue")
-const c26 = () => import(/* webpackChunkName: "page--src--pages--optics-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Optics.vue")
-const c27 = () => import(/* webpackChunkName: "page--src--pages--guns-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Guns.vue")
-const c28 = () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Blog.vue")
-const c29 = () => import(/* webpackChunkName: "page--src--pages--accessories-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Accessories.vue")
-const c30 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Post.vue")
-const c31 = () => import(/* webpackChunkName: "page--src--pages--temp-order-form-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/TempOrderForm.vue")
-const c32 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
-const c33 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Index.vue")
+const c26 = () => import(/* webpackChunkName: "page--src--pages--security-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Security.vue")
+const c27 = () => import(/* webpackChunkName: "page--src--pages--optics-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Optics.vue")
+const c28 = () => import(/* webpackChunkName: "page--src--pages--guns-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Guns.vue")
+const c29 = () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Blog.vue")
+const c30 = () => import(/* webpackChunkName: "page--src--pages--accessories-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Accessories.vue")
+const c31 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Post.vue")
+const c32 = () => import(/* webpackChunkName: "page--src--pages--temp-order-form-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/TempOrderForm.vue")
+const c33 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
+const c34 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Index.vue")
 
 export default [
   {
@@ -294,6 +295,10 @@ export default [
     component: c24
   },
   {
+    path: "/products/space-saver-safe-2-shotgun-b-d/",
+    component: c24
+  },
+  {
     path: "/products/tippmann-arms-9-m-lok-handguard/",
     component: c24
   },
@@ -303,6 +308,18 @@ export default [
   },
   {
     path: "/products/tippmann-arms-low-pro-10rnd-magazine/",
+    component: c24
+  },
+  {
+    path: "/products/safe-2-gun-breakdown-2-lock/",
+    component: c24
+  },
+  {
+    path: "/products/safe-5-gun-scoped-riflet-lck/",
+    component: c24
+  },
+  {
+    path: "/products/safe-7-gun-scoped-riflet-lck/",
     component: c24
   },
   {
@@ -330,6 +347,34 @@ export default [
     component: c24
   },
   {
+    path: "/products/safe-3-shotgun-2-lock/",
+    component: c24
+  },
+  {
+    path: "/products/safe-5-gun-scoped-rifle/",
+    component: c24
+  },
+  {
+    path: "/products/safe-5-shotgun-2-lock/",
+    component: c24
+  },
+  {
+    path: "/products/safe-5-shotgun-top-lock/",
+    component: c24
+  },
+  {
+    path: "/products/safe-7-gun-scoped-rifle/",
+    component: c24
+  },
+  {
+    path: "/products/safe-9-shotgun-top-lock/",
+    component: c24
+  },
+  {
+    path: "/products/safe-ammo-cabinet-2-shelves/",
+    component: c24
+  },
+  {
     path: "/products/swarovski-el-10x42-hd-binoculars/",
     component: c24
   },
@@ -350,11 +395,23 @@ export default [
     component: c24
   },
   {
+    path: "/products/safe-5-extra-tall/",
+    component: c24
+  },
+  {
     path: "/products/swarovski-slc-8x56-binoculars/",
     component: c24
   },
   {
     path: "/products/tippmann-arms-cap/",
+    component: c24
+  },
+  {
+    path: "/products/safe-9-shotgun/",
+    component: c24
+  },
+  {
+    path: "/products/safe-ammo-lge/",
     component: c24
   },
   {
@@ -387,6 +444,10 @@ export default [
   },
   {
     path: "/products/ranger-pro-5x42/",
+    component: c24
+  },
+  {
+    path: "/products/safe-ammo/",
     component: c24
   },
   {
@@ -711,10 +772,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-572272281/",
-    component: c25
-  },
-  {
-    path: "/guns/weihrauch-hw-951674706/",
     component: c25
   },
   {
@@ -2286,42 +2343,46 @@ export default [
     component: c25
   },
   {
-    path: "/optics/:page(\\d+)?/",
+    path: "/security/:page(\\d+)?/",
     component: c26
   },
   {
-    path: "/guns/:page(\\d+)?/",
+    path: "/optics/:page(\\d+)?/",
     component: c27
   },
   {
-    path: "/blog/:page(\\d+)?/",
+    path: "/guns/:page(\\d+)?/",
     component: c28
   },
   {
-    path: "/accessories/:page(\\d+)?/",
+    path: "/blog/:page(\\d+)?/",
     component: c29
   },
   {
-    path: "/blog/:slug/",
+    path: "/accessories/:page(\\d+)?/",
     component: c30
   },
   {
-    path: "/temp-order-form/",
+    path: "/blog/:slug/",
     component: c31
+  },
+  {
+    path: "/temp-order-form/",
+    component: c32
   },
   {
     name: "404",
     path: "/404/",
-    component: c32
+    component: c33
   },
   {
     name: "home",
     path: "/",
-    component: c33
+    component: c34
   },
   {
     name: "*",
     path: "*",
-    component: c32
+    component: c33
   }
 ]

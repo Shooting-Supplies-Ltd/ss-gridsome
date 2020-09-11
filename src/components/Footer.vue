@@ -42,6 +42,9 @@
           <li>
             <g-link to="/accessories" class="hover:text-ssorange font-semibold text-lg">ACCESSORIES</g-link>
           </li>
+          <li>
+            <g-link to="/security" class="hover:text-ssorange font-semibold text-lg">SECURITY</g-link>
+          </li>
         </ul>
       </div>
       <!-- Social Footer Menu -->

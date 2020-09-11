@@ -52,7 +52,7 @@
           <p class="mb-4 hover:text-ssorange">Clothing</p>
         </g-link>
 
-        <g-link to="/blog/safes-security/">
+        <g-link to="/security">
           <p class="mb-4 hover:text-ssorange">Security</p>
         </g-link>
 
@@ -113,7 +113,7 @@
 
         <g-link to="/accessories" class="p-4 hover:text-ssorange">ACCESSORIES</g-link>
         <g-link to="/optics" class="p-4 hover:text-ssorange">OPTICS</g-link>
-        <g-link to="/blog/safes-security/" class="p-4 hover:text-ssorange">SECURITY</g-link>
+        <g-link to="/security" class="p-4 hover:text-ssorange">SECURITY</g-link>
         <g-link to="/blog/maintenance-cleaning" class="p-4 hover:text-ssorange">MAINTENANCE</g-link>
         <g-link to="/blog/clothing-footwear" class="p-4 hidden hover:text-ssorange">CLOTHING</g-link>
       </div>
