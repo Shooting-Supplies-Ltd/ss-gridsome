@@ -90,7 +90,9 @@ module.exports = function(api) {
       final = [...final, ...data];
     }
     for (const item of final) {
-      products.addNode({ ...item });
+      if (item.stock_quantity > 0) {
+        products.addNode({ ...item });
+      }
     }
   });
 

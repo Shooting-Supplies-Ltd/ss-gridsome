@@ -127,10 +127,6 @@ export default [
     component: c23
   },
   {
-    path: "/products/yukon-photon-rt-6x50s-night-vision-rifle-scope/",
-    component: c24
-  },
-  {
     path: "/products/swarovski-z8i-2-3-18x56-p-ill-4a-300-i-rifle-scope/",
     component: c24
   },
@@ -147,15 +143,7 @@ export default [
     component: c24
   },
   {
-    path: "/products/vortex-crossfire-ii-6-24x50-ao-bdc-rifle-scope/",
-    component: c24
-  },
-  {
     path: "/products/vortex-diamondback-tactical-6-24x50-ffp-moa-rifle-scope/",
-    component: c24
-  },
-  {
-    path: "/products/vortex-strikeeagle-4-24x50-ebr-4-moa-rifle-scope/",
     component: c24
   },
   {
@@ -271,10 +259,6 @@ export default [
     component: c24
   },
   {
-    path: "/products/tippmann-arms-elite-shadow-m4-22-rifle/",
-    component: c24
-  },
-  {
     path: "/products/tippmann-arms-m4-22-lr-classic-rifle/",
     component: c24
   },
@@ -303,10 +287,6 @@ export default [
     component: c24
   },
   {
-    path: "/products/tippmann-arms-hard-sided-rifle-case/",
-    component: c24
-  },
-  {
     path: "/products/tippmann-arms-low-pro-10rnd-magazine/",
     component: c24
   },
@@ -323,23 +303,11 @@ export default [
     component: c24
   },
   {
-    path: "/products/swarovski-cl-companion-8x30-binoculars-green/",
-    component: c24
-  },
-  {
     path: "/products/swarovski-cl-pocket-8x25-binoculars-green/",
     component: c24
   },
   {
-    path: "/products/tippmann-arms-12-aluminium-handguard/",
-    component: c24
-  },
-  {
     path: "/products/tippmann-arms-ambi-safety-selector/",
-    component: c24
-  },
-  {
-    path: "/products/tippmann-arms-extended-charging-handle/",
     component: c24
   },
   {
@@ -348,10 +316,6 @@ export default [
   },
   {
     path: "/products/safe-3-shotgun-2-lock/",
-    component: c24
-  },
-  {
-    path: "/products/safe-5-gun-scoped-rifle/",
     component: c24
   },
   {
@@ -364,10 +328,6 @@ export default [
   },
   {
     path: "/products/safe-7-gun-scoped-rifle/",
-    component: c24
-  },
-  {
-    path: "/products/safe-9-shotgun-top-lock/",
     component: c24
   },
   {
@@ -392,10 +352,6 @@ export default [
   },
   {
     path: "/products/tippmann-arms-25rnd-magazine/",
-    component: c24
-  },
-  {
-    path: "/products/safe-5-extra-tall/",
     component: c24
   },
   {
@@ -599,10 +555,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/umarex-beretta-m-92-fshg-20279236/",
-    component: c25
-  },
-  {
     path: "/guns/walther-g22-wp-001461/",
     component: c25
   },
@@ -651,19 +603,11 @@ export default [
     component: c25
   },
   {
-    path: "/products/hawke-airmax-30-compact-3-12x40-amx-ir-rifle-scope/",
-    component: c24
-  },
-  {
     path: "/products/hawke-airmax-30-compact-4-16x44-amx-ir-rifle-scope/",
     component: c24
   },
   {
     path: "/products/hawke-airmax-30-sf-4-16x50-amx-ir-rifle-scope/",
-    component: c24
-  },
-  {
-    path: "/products/hawke-airmax-30-sf-6-24x50-amx-ir-rifle-scope/",
     component: c24
   },
   {
@@ -684,10 +628,6 @@ export default [
   },
   {
     path: "/guns/uberti1858-new-impr-armyd-07300/",
-    component: c25
-  },
-  {
-    path: "/guns/umarex-beretta-m9-a320-a01709/",
     component: c25
   },
   {
@@ -1043,14 +983,6 @@ export default [
     component: c25
   },
   {
-    path: "/products/fab-defense-gl-core-ar15-m4-collapsible-buttstock/",
-    component: c24
-  },
-  {
-    path: "/products/fab-defense-t-pod-g2-qr-tactical-bipod/",
-    component: c24
-  },
-  {
     path: "/guns/remington700-adlrr-71776-k/",
     component: c25
   },
@@ -1107,10 +1039,6 @@ export default [
     component: c24
   },
   {
-    path: "/products/fab-defense-ruger-10-22-collapsible-stock/",
-    component: c24
-  },
-  {
     path: "/products/fab-defense-ruger-10-22-precision-stock/",
     component: c24
   },
@@ -1124,10 +1052,6 @@ export default [
   },
   {
     path: "/guns/pietta1862-spiller-and-burrb-8653/",
-    component: c25
-  },
-  {
-    path: "/guns/remington1100-l821328-v/",
     component: c25
   },
   {
@@ -1207,14 +1131,6 @@ export default [
     component: c24
   },
   {
-    path: "/products/fab-defense-scorpus-glock-belt-holster/",
-    component: c24
-  },
-  {
-    path: "/products/fab-defense-scorpus-glock-paddle-holster/",
-    component: c24
-  },
-  {
     path: "/guns/pedersoli-rem-patternpd-37686/",
     component: c25
   },
@@ -1223,16 +1139,8 @@ export default [
     component: c25
   },
   {
-    path: "/guns/ruger10-2212761590/",
-    component: c25
-  },
-  {
     path: "/guns/ruger96620-50233/",
     component: c25
-  },
-  {
-    path: "/products/fab-ar-podium-bipod-black/",
-    component: c24
   },
   {
     path: "/products/fab-defense-adjustable-cheek-rest/",
@@ -1240,14 +1148,6 @@ export default [
   },
   {
     path: "/products/fab-defense-ar15-collapsible-buttstock/",
-    component: c24
-  },
-  {
-    path: "/products/fab-defense-glock-scope-mount/",
-    component: c24
-  },
-  {
-    path: "/products/fab-defense-mag-well-grip/",
     component: c24
   },
   {
@@ -1499,10 +1399,6 @@ export default [
     component: c25
   },
   {
-    path: "/guns/gamo-maxxim-elite-04-1-c-070755-18/",
-    component: c25
-  },
-  {
     path: "/guns/gamo-varmint-swarm-04-1-c-472423-20/",
     component: c25
   },
@@ -1612,14 +1508,6 @@ export default [
   },
   {
     path: "/guns/gamo-boxerbx-450153-mn/",
-    component: c25
-  },
-  {
-    path: "/guns/gamo-p-2518-c02285/",
-    component: c25
-  },
-  {
-    path: "/guns/gamo-pt-8520-b01338/",
     component: c25
   },
   {
@@ -1776,10 +1664,6 @@ export default [
   },
   {
     path: "/guns/benelli828-u-black-bs-022641-b17/",
-    component: c25
-  },
-  {
-    path: "/guns/benelli828-u-black-bs-023142-t17/",
     component: c25
   },
   {
@@ -2152,10 +2036,6 @@ export default [
   },
   {
     path: "/guns/cz-457-synthetic-d278182/",
-    component: c25
-  },
-  {
-    path: "/guns/fabarm97942/",
     component: c25
   },
   {
