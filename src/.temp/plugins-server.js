@@ -9,7 +9,7 @@ export default [
   },
   {
     run: plugin_gridsome_plugin_flexsearch_7,
-    options: {"pathPrefix":"","siteUrl":"https://www.shootingsuppliesltd.co.uk","collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","slug","images","price","mechanism","id","variant","condition","calibre"]}],"searchFields":["title","mechanism","calibre"],"chunk":false,"autoFetch":true,"autoSetup":true,"flexsearch":{"profile":"default"}}
+    options: {"pathPrefix":"","siteUrl":"https://www.shootingsuppliesltd.co.uk","collections":[{"typeName":"Guns","indexName":"Guns","fields":["title","slug","images","price","mechanism","variant","condition"]}],"searchFields":["title","mechanism","calibre"],"chunk":false,"autoFetch":true,"autoSetup":true,"flexsearch":{"profile":"default"}}
   },
   {
     run: plugin_gridsome_plugin_google_analytics_8,

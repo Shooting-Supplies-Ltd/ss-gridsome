@@ -1784,10 +1784,6 @@ export default [
     component: c26
   },
   {
-    path: "/guns/daystate-air-wolf-aw-1051/",
-    component: c26
-  },
-  {
     path: "/guns/daystate-mk4-panther-is-4901/",
     component: c26
   },
@@ -1805,10 +1801,6 @@ export default [
   },
   {
     path: "/guns/derya-mk-1220-rg-2263/",
-    component: c26
-  },
-  {
-    path: "/guns/falcon-fn-1980380/",
     component: c26
   },
   {

@@ -51,12 +51,10 @@ module.exports = {
               "images",
               "price",
               "mechanism",
-              "id",
               "variant",
-              "condition",
-              "calibre"
+              "condition"
             ]
-          }
+          },
         ],
         searchFields: ["title", "mechanism", "calibre"]
       }
