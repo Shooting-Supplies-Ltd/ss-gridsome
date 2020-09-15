@@ -11,14 +11,14 @@
       </button>
     </div>
     <div :class="open ? 'block' : 'hidden'" class="uppercase font-semibold">
-      <AccessoriesSidebar />
+      <SecuritySidebar />
     </div>
 
     <!-- Add the main container -->
     <div class="flex items-start">
       <!-- Add the Sidebar -->
       <div class="hidden lg:block lg:mt-40 lg:w-3/8 h-screen">
-        <AccessoriesSidebar class="min-w-full ml-6" />
+        <SecuritySidebar class="min-w-full ml-6" />
       </div>
 
       <!-- Accessory Cards Container -->
@@ -60,13 +60,13 @@
 </template>
 
 <script>
-import AccessoriesSidebar from "~/components/AccessoriesSidebar.vue";
+import SecuritySidebar from "~/components/SecuritySidebar.vue";
 import { Pager } from "gridsome";
 
 export default {
   metaInfo() {
     return {
-      title: "Grips"
+      title: "Security"
     };
   },
   data() {
@@ -80,7 +80,7 @@ export default {
     }
   },
   components: {
-    AccessoriesSidebar,
+    SecuritySidebar,
     Pager
   }
 };
@@ -88,7 +88,7 @@ export default {
 
 <page-query>
 query products ($page: Int) {
-  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {in: [4760, 4763]}}}, sortBy: "name", order: ASC) @paginate {
+  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {eq: 4500}}}, sortBy: "name", order: ASC) @paginate {
     pageInfo {
     totalPages
     currentPage

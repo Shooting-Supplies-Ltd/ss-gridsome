@@ -7,6 +7,11 @@
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange rounded-t text-lg text-grey-darkest hover:text-ssorange"
       >
+        <g-link to="/accessories">All</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange rounded-t text-lg text-grey-darkest hover:text-ssorange"
+      >
         <g-link to="/accessories/attachments-mounts">Attachments & Mounts</g-link>
       </div>
       <div
@@ -28,11 +33,6 @@
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
       >
         <g-link to="/accessories/grips">Grips</g-link>
-      </div>
-      <div
-        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
-      >
-        <g-link to="/accessories/handguards">Handguards</g-link>
       </div>
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"

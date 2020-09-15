@@ -7,7 +7,17 @@
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange rounded-t text-lg text-grey-darkest hover:text-ssorange"
       >
-        <g-link to="/security">Gun & Ammo Safes</g-link>
+        <g-link to="/security">All</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange rounded-t text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/security/gun-safes">Gun Safes</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange rounded-t text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/security/ammo-safes">Ammo Safes</g-link>
       </div>
     </div>
   </div>
