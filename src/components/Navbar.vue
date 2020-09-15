@@ -44,7 +44,7 @@
           <p class="mb-4 hover:text-ssorange">Optics</p>
         </a>
 
-        <g-link to="/blog/ammunition/">
+        <g-link to="/ammunition">
           <p class="mb-4 hover:text-ssorange">Ammo</p>
         </g-link>
 
@@ -100,7 +100,7 @@
         </div>
         <div>
           <button @mouseover="ammoIsOpen = !ammoIsOpen" class="text-white text-xl font-bold">
-            <g-link to="/blog/ammunition" class="p-4 hover:text-ssorange">AMMO</g-link>
+            <g-link to="/ammunition" class="p-4 hover:text-ssorange">AMMO</g-link>
           </button>
           <div
             v-if="ammoIsOpen"

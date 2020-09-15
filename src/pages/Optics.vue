@@ -54,6 +54,13 @@
         </div>
       </div>
     </div>
+    <div class="page-description w-full mt-8 p-20 bg-gray-100">
+      <div class="mx-24 my-8">
+        <h1 class="font-bold text-2xl">OPTICS</h1>
+        <p class="mt-4">We carry a vast range of optics from all of the major manufacturers e.g. Bushnell, Hawke, Leupold, Meopta, Night Force, Schmidt and Bender, Swarovski, and Vortex.</p>
+        <p class="mt-2">Please call us on 01527831261 to discuss your current requirements, if we don't have it in stock we can usually source it for you.</p>
+      </div>
+    </div>
   </Layout>
 </template>
 
