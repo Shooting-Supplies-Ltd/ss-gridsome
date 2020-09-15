@@ -1186,10 +1186,6 @@ export default [
     component: c27
   },
   {
-    path: "/guns/rossi-sk-115025/",
-    component: c27
-  },
-  {
     path: "/guns/ruger10-220013-86308/",
     component: c27
   },
@@ -1627,10 +1623,6 @@ export default [
   },
   {
     path: "/guns/marlin189493228043/",
-    component: c27
-  },
-  {
-    path: "/guns/mossberg9400002371/",
     component: c27
   },
   {

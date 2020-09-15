@@ -46,6 +46,7 @@ module.exports = {
             typeName: "Guns",
             indexName: "Guns",
             fields: [
+              "id",
               "title",
               "slug",
               "images",

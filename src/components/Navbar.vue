@@ -126,7 +126,7 @@
           v-model="searchTerm"
           type="search"
           placeholder="Search Guns"
-          class="rounded-md w-48 mr-4 text-black pl-2"
+          class="rounded-lg w-48 mr-4 text-black pl-2"
         />
 
         <!-- Handle search results -->
