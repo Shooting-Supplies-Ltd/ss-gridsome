@@ -179,6 +179,10 @@ export default [
     component: c27
   },
   {
+    path: "/products/utg-recon-flex-m-lok-bipod-5-7-8/",
+    component: c27
+  },
+  {
     path: "/products/vortex-crossfire-ii-4-12x40-ao-rifle-scope/",
     component: c27
   },
@@ -200,6 +204,10 @@ export default [
   },
   {
     path: "/products/swarovski-z8i-2-16x50-p-ill-4a-i-rifle-scope/",
+    component: c27
+  },
+  {
+    path: "/products/utg-recon-flex-m-lok-bipod-8-12/",
     component: c27
   },
   {
@@ -299,6 +307,10 @@ export default [
     component: c27
   },
   {
+    path: "/products/spartan-javelin-lite-leg-only-std-length/",
+    component: c27
+  },
+  {
     path: "/products/tippmann-arms-9-m-lok-handguard/",
     component: c27
   },
@@ -316,6 +328,10 @@ export default [
   },
   {
     path: "/products/safe-7-gun-scoped-riflet-lck/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-prohunt-leg-only-std-length/",
     component: c27
   },
   {
@@ -355,6 +371,26 @@ export default [
     component: c27
   },
   {
+    path: "/products/spartan-300-carbon-fibre-bipod/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-javelin-lite-bipod-mini/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-prohunt-bipod-standard-length/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-universal-key-mod-adapter/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-universal-m-lok-adapter/",
+    component: c27
+  },
+  {
     path: "/products/swarovski-el-10x42-hd-binoculars/",
     component: c27
   },
@@ -391,7 +427,31 @@ export default [
     component: c28
   },
   {
+    path: "/products/sako-monopod-m-lok/",
+    component: c27
+  },
+  {
     path: "/products/shoulder-guard-rifle-rest/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-prohunt-bipod-long/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-universal-gunsmith-adapter/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-universal-picatinney-adapter/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-universal-rifle-adapter/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-valhalla-picatinney-adapter/",
     component: c27
   },
   {
@@ -412,6 +472,10 @@ export default [
   },
   {
     path: "/products/safe-ammo-lge/",
+    component: c27
+  },
+  {
+    path: "/products/spartan-valhalla-bipod/",
     component: c27
   },
   {
@@ -1381,6 +1445,14 @@ export default [
   {
     path: "/guns/rizzininull44084/",
     component: c28
+  },
+  {
+    path: "/products/equaliser-pro-10-13-bipod/",
+    component: c27
+  },
+  {
+    path: "/products/equaliser-pro-8-10-bipod/",
+    component: c27
   },
   {
     path: "/products/fab-bungee-sling-black/",
