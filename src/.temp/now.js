@@ -1,1 +1,1 @@
-export default 1600696295202
+export default 1600708580494

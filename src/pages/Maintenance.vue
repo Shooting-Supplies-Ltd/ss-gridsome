@@ -54,7 +54,7 @@
         </div>
       </div>
     </div>
-    <div class="page-description w-full mt-8 p-20 bg-gray-100">
+    <div class="page-description w-full mt-8 lg:p-20 bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">Maintenance & Cleaning</h1>
         <p class="mt-4">If it’s a new cleaning kit for that great new shiny rifle you have just bought or replacement parts and chemicals you need, we have it all. Our extensive range of popular cleaning products, Hoppes, Bisley, Tetra, Napier, KG, Legia and Birchwood Casey enable you to keep your gun/equipment in tip top condition.</p>

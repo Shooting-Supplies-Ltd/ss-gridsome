@@ -54,7 +54,7 @@
         </div>
       </div>
     </div>
-    <div class="page-description w-full mt-8 p-20 bg-gray-100">
+    <div class="page-description w-full mt-8 lg:p-20 bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">AMMO & CARTRIDGES</h1>
         <p class="mt-4">We carry a comprehensive range of Ammunition catering for all guns and calibres from all of the popular manufacturers including CCI, Eley, Winchester, Federal, Hornady, Remington, Sako, Lapua, Magtech, Norma, RWS, Geco, SK, Aguila, and Privi Partisan.</p>

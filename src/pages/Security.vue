@@ -56,7 +56,7 @@
         </div>
       </div>
     </div>
-    <div class="page-description w-full mt-8 p-20 bg-gray-100">
+    <div class="page-description w-full mt-8 lg:p-20 bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">SECURITY</h1>
         <p class="mt-4">We carry a comprehensive range of Security products catering for all types of guns or ammunition from all of the popular manufacturers.</p>

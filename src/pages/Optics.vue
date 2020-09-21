@@ -54,7 +54,7 @@
         </div>
       </div>
     </div>
-    <div class="page-description w-full mt-8 p-20 bg-gray-100">
+    <div class="page-description w-full mt-8 lg:p-20 flex bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">OPTICS</h1>
         <p class="mt-4">We carry a vast range of optics from all of the major manufacturers e.g. Bushnell, Hawke, Leupold, Meopta, Night Force, Schmidt and Bender, Swarovski, and Vortex.</p>

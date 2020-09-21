@@ -56,7 +56,7 @@
         </div>
       </div>
     </div>
-    <div class="page-description w-full mt-8 p-20 bg-gray-100">
+    <div class="page-description w-full mt-8 lg:p-20 bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">ACCESSORIES</h1>
         <p class="mt-4">We carry a comprehensive range of Shooting Accessories from all of the major manufacturers.</p>
