@@ -60,6 +60,10 @@
           <p class="mb-4 hover:text-ssorange">Accessories</p>
         </a>
 
+        <a href="/maintenance/">
+          <p class="mb-4 hover:text-ssorange">Maintenance</p>
+        </a>
+
         <a href="/blog/offers/">
           <p class="mb-4 hover:text-ssorange">Offers</p>
         </a>
@@ -114,7 +118,7 @@
         <g-link to="/accessories" class="p-4 hover:text-ssorange">ACCESSORIES</g-link>
         <g-link to="/optics" class="p-4 hover:text-ssorange">OPTICS</g-link>
         <g-link to="/security" class="p-4 hover:text-ssorange">SECURITY</g-link>
-        <g-link to="/blog/maintenance-cleaning" class="p-4 hover:text-ssorange">MAINTENANCE</g-link>
+        <g-link to="/maintenance" class="p-4 hover:text-ssorange">MAINTENANCE</g-link>
         <g-link to="/blog/clothing-footwear" class="p-4 hidden hover:text-ssorange">CLOTHING</g-link>
       </div>
 
