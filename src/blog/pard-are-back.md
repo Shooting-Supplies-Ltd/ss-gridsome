@@ -45,6 +45,8 @@ The NV007 is a rear mounted scope that allows you to quickly and easily convert 
 - 16mm focusable lens
 - Includes 42mm, 45mm or 48mm ring mount for fitting over ocular lens
 
+---
+
 `youtube:https://youtu.be/b18ILk488Do`
 
 ---
@@ -69,6 +71,8 @@ Easy to use and operate with a great range of features, this is a great night vi
 - Day & Night Modes
 - Waterproof IPX7 Rated
 - 6061 Grade Aluminium Alloy Construction
+
+---
 
 `youtube:https://youtu.be/8e557-w2AnY`
 
