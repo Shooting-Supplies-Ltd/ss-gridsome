@@ -73,7 +73,7 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Optics"
+      title: "Cleaning Kits"
     };
   },
   data() {
