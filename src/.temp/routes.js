@@ -166,10 +166,6 @@ export default [
     component: c29
   },
   {
-    path: "/products/vortex-crossfire-ii-4-12x50-ao-bdc-rifle-scope/",
-    component: c29
-  },
-  {
     path: "/products/vortex-diamondback-tactical-6-24x50-ffp-moa-rifle-scope/",
     component: c29
   },
@@ -231,10 +227,6 @@ export default [
   },
   {
     path: "/products/vortex-diamondback-tactical-4-12x40-rifle-scope/",
-    component: c29
-  },
-  {
-    path: "/products/vortex-pst-ii-5-25x50-rifle-scope/",
     component: c29
   },
   {
@@ -726,10 +718,6 @@ export default [
     component: c30
   },
   {
-    path: "/guns/weihrauch-hw-99-s2318412/",
-    component: c30
-  },
-  {
     path: "/guns/winchester-model-9422-f322274/",
     component: c30
   },
@@ -902,6 +890,10 @@ export default [
     component: c30
   },
   {
+    path: "/products/lyman-crosshair-front-shooting-bag/",
+    component: c29
+  },
+  {
     path: "/products/lyman-crosshair-rear-shooting-bag/",
     component: c29
   },
@@ -943,6 +935,14 @@ export default [
   },
   {
     path: "/guns/savage-arms-axis-mk-2-j473064/",
+    component: c30
+  },
+  {
+    path: "/guns/schmeisser-sp-15-m4-flc-19307/",
+    component: c30
+  },
+  {
+    path: "/guns/schmeisser-sp-15-m5-flc-19325/",
     component: c30
   },
   {
@@ -1071,6 +1071,10 @@ export default [
   },
   {
     path: "/guns/savage-arms-model-110-f328091/",
+    component: c30
+  },
+  {
+    path: "/guns/schmeisser-sp-15-lmrc-19262/",
     component: c30
   },
   {
@@ -1230,10 +1234,6 @@ export default [
     component: c30
   },
   {
-    path: "/guns/retay-g17-rtaid-200700135/",
-    component: c30
-  },
-  {
     path: "/guns/ruger-m77-22702-14430/",
     component: c30
   },
@@ -1306,6 +1306,10 @@ export default [
     component: c29
   },
   {
+    path: "/products/harris-bi-pod-swiv-lm/",
+    component: c29
+  },
+  {
     path: "/guns/pietta-navy-yank-sheriff-656192/",
     component: c30
   },
@@ -1356,10 +1360,6 @@ export default [
   {
     path: "/guns/theoben17007536/",
     component: c30
-  },
-  {
-    path: "/products/fab-cheek-riser-for-gl-core/",
-    component: c29
   },
   {
     path: "/products/fab-defense-advanced-mag-well-grip/",
@@ -1766,6 +1766,10 @@ export default [
     component: c30
   },
   {
+    path: "/guns/marlin3936125/",
+    component: c30
+  },
+  {
     path: "/guns/gamo-gx-40-gx-550293-pq/",
     component: c30
   },
@@ -1811,10 +1815,6 @@ export default [
   },
   {
     path: "/guns/browning-b725-new-sporter-adj-brjp-53137-ym-131/",
-    component: c30
-  },
-  {
-    path: "/guns/bsar-10-se-realtree-xtra-camo-rse-770841-gh/",
     component: c30
   },
   {
@@ -2118,6 +2118,10 @@ export default [
     component: c30
   },
   {
+    path: "/guns/fxwildcatfx-40565/",
+    component: c30
+  },
+  {
     path: "/guns/air-arms-s510-ultimate-sporter-carbine173279/",
     component: c30
   },
@@ -2235,10 +2239,6 @@ export default [
   },
   {
     path: "/guns/bsac-omet-cd-062731-20/",
-    component: c30
-  },
-  {
-    path: "/guns/bsau-ltra-jsrujs-770116-jk/",
     component: c30
   },
   {
@@ -2523,10 +2523,6 @@ export default [
   },
   {
     path: "/guns/brno-452527421/",
-    component: c30
-  },
-  {
-    path: "/guns/bsadefiantde-220251/",
     component: c30
   },
   {
