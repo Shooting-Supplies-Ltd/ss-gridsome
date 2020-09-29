@@ -9,15 +9,20 @@
       >
         <g-link to="/ammunition">All</g-link>
       </div>
-      <div
-        class="flex px-4 py-2 cursor-pointer border rounded-t hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
-      >
-        <g-link to="/ammunition/target">Target</g-link>
-      </div>
-      <div
-        class="flex px-4 py-2 cursor-pointer border rounded-t hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+       <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
       >
         <g-link to="/ammunition/cartridges">Cartridges</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/ammunition/game">Game</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border rounded-b hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/ammunition/target">Target</g-link>
       </div>
     </div>
   </div>
