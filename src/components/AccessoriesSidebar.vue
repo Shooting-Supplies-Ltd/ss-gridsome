@@ -37,12 +37,22 @@
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
       >
+        <g-link to="/accessories/slips-cases">Gun Slips & Cases</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+      >
         <g-link to="/accessories/holsters">Holsters</g-link>
       </div>
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
       >
         <g-link to="/accessories/magazines">Magazines</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/accessories/safety">Safety Equipment</g-link>
       </div>
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
