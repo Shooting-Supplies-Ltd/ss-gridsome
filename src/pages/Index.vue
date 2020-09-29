@@ -97,7 +97,7 @@
           </div>
           <div>
             <li class="mb-12 hover:text-ssorange border-t lg:border-none">
-              <g-link to="/blog/ammunition/">
+              <g-link to="/ammunition">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561043/shootingsuppliesltd.co.uk/Ammo.jpg"
                 />
@@ -121,7 +121,7 @@
         <ul class="flex flex-wrap items-center justify-around">
           <div>
             <li class="hover:text-ssorange mb-12 border-t lg:border-none">
-              <g-link to="/blog/maintenance-cleaning/">
+              <g-link to="/maintenance">
                 <g-image
                   src="https://res.cloudinary.com/shooting-supplies/image/upload/v1573561073/shootingsuppliesltd.co.uk/Maintenance.jpg"
                 />
