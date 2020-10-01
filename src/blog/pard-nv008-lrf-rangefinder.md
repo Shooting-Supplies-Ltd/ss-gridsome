@@ -52,5 +52,3 @@ Call Us on 01527831261 to reserve yours or visit us in-store.
 `youtube:https://www.youtube.com/watch?v=BNO-frXYrNs`
 
 ****
-
-We stock both Pulsar & Pard night vision scopes.
