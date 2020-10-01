@@ -13,9 +13,9 @@ author: Shooting Supplies
 
 # **Pard NV008 LRF Rangefinder**
 
-_In-Store from £829.00_
+_In-Store from £899.00_
 
-New in stock is the [Pard NV008 LRF](/product/pard-nv008-lrf-digital-scope/) Rangefinder, bringing both performance and value for money to our Night Vision range.
+New in stock is the Pard NV008 LRF Rangefinder, bringing both performance and value for money to our Night Vision range.
 
 The NV008 LRF is a brilliant all in one package, equipped with a 600m laser rangefinder and digital 1080p day/night vision. MP4 video recording and quick swap batteries, plus a weaver rail mount all included.
 
