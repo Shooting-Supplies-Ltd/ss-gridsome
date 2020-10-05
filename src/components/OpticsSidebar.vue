@@ -27,6 +27,11 @@
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
       >
+        <g-link to="/optics/rangefinders/">Rangefinders</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+      >
         <g-link to="/optics/red-dot/">Red Dot</g-link>
       </div>
       <div
