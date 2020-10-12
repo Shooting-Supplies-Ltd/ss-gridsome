@@ -22,6 +22,11 @@
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
       >
+        <g-link to="/optics/illuminators/">Illuminators</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+      >
         <g-link to="/optics/night-vision/">Night-Vision</g-link>
       </div>
       <div
@@ -35,9 +40,14 @@
         <g-link to="/optics/red-dot/">Red Dot</g-link>
       </div>
       <div
-        class="flex px-4 py-2 cursor-pointer border rounded-b hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
       >
         <g-link to="/optics/scopes/">Scopes</g-link>
+      </div>
+      <div
+        class="flex px-4 py-2 cursor-pointer border rounded-b hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/optics/thermal/">Thermal</g-link>
       </div>
     </div>
   </div>
