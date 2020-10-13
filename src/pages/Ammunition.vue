@@ -24,7 +24,9 @@
       </div>
 
       <!-- Ammunition Cards Container -->
-      <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
+      <div
+        class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12"
+      >
         <!-- Iterate through optics and create optic cards -->
         <div
           v-for="edge in $page.allWooProducts.edges"
@@ -36,10 +38,16 @@
           <g-link :to="`/products/${edge.node.slug}`">
             <!-- Add image to optic card -->
             <div class="gun-card-image h-48 w-full">
-              <g-image :src="edge.node.images[0].src" :alt="edge.node.name" class="h-48 w-full object-cover object-center" />
+              <g-image
+                :src="edge.node.images[0].src"
+                :alt="edge.node.name"
+                class="h-48 w-full object-cover object-center"
+              />
             </div>
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.name }}</h2>
+              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">
+                {{ edge.node.name }}
+              </h2>
               <p class="font-semibold text-lg mt-2">£{{ edge.node.price }}</p>
             </div>
           </g-link>
@@ -50,6 +58,7 @@
             :linkClass="{ pageNum: true }"
             :info="$page.allWooProducts.pageInfo"
             :showLinks="true"
+            class="pageNum"
           />
         </div>
       </div>
@@ -57,8 +66,16 @@
     <div class="page-description w-full mt-8 lg:p-20 bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">AMMO & CARTRIDGES</h1>
-        <p class="mt-4">We carry a comprehensive range of Ammunition catering for all guns and calibres from all of the popular manufacturers including CCI, Eley, Winchester, Federal, Hornady, Remington, Sako, Lapua, Magtech, Norma, RWS, Geco, SK, Aguila, and Privi Partisan.</p>
-        <p class="mt-2">Please call us on 01527831261 to discuss your current requirements, if we don't have it in stock we can usually source it for you.</p>
+        <p class="mt-4">
+          We carry a comprehensive range of Ammunition catering for all guns and
+          calibres from all of the popular manufacturers including CCI, Eley,
+          Winchester, Federal, Hornady, Remington, Sako, Lapua, Magtech, Norma,
+          RWS, Geco, SK, Aguila, and Privi Partisan.
+        </p>
+        <p class="mt-2">
+          Please call us on 01527831261 to discuss your current requirements, if
+          we don't have it in stock we can usually source it for you.
+        </p>
       </div>
     </div>
   </Layout>
@@ -71,23 +88,23 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Ammunition"
+      title: "Ammunition",
     };
   },
   data() {
     return {
-      open: false
+      open: false,
     };
   },
   methods: {
     toggle() {
       this.open = !this.open;
-    }
+    },
   },
   components: {
     AmmunitionSidebar,
-    Pager
-  }
+    Pager,
+  },
 };
 </script>
 
@@ -128,10 +145,15 @@ query products ($page: Int) {
 }
 
 .pageNum {
-  font-size: 1.6em;
+  font-size: 1.3em;
+  margin-top: 1em;
   margin-right: 0.5em;
 }
-.pageNum:active {
-  color: #004d91;
+
+a.active--exact.active.pageNum {
+  border-radius: 15%;
+  padding: 3px;
+  background: #004d91;
+  color: white;
 }
 </style>

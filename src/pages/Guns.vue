@@ -24,7 +24,9 @@
       </div>
 
       <!-- Gun Cards Container -->
-      <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
+      <div
+        class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12"
+      >
         <!-- Iterate through guns and create gun cards -->
         <div
           v-for="edge in $page.allGuns.edges"
@@ -43,7 +45,9 @@
               />
             </div>
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.title }}</h2>
+              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">
+                {{ edge.node.title }}
+              </h2>
               <h3 class="font-semibold">Variant: {{ edge.node.variant }}</h3>
               <table>
                 <tr>
@@ -60,15 +64,26 @@
         </div>
 
         <div class="flex justify-center mb-8 w-full">
-          <Pager :linkClass="{ pageNum: true }" :info="$page.allGuns.pageInfo" :showLinks="true" />
+          <Pager
+            :linkClass="{ pageNum: true }"
+            :info="$page.allGuns.pageInfo"
+            :showLinks="true"
+            class="pageNum"
+          />
         </div>
       </div>
     </div>
     <div class="page-description w-full mt-8 lg:p-20 bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">GUNS</h1>
-        <p class="mt-4">We carry a comprehensive range of both new & used guns from all of the major manufacturers.</p>
-        <p class="mt-2">Please call us on 01527831261 to discuss your current requirements, if we don't have it in stock we can usually source it for you.</p>
+        <p class="mt-4">
+          We carry a comprehensive range of both new & used guns from all of the
+          major manufacturers.
+        </p>
+        <p class="mt-2">
+          Please call us on 01527831261 to discuss your current requirements, if
+          we don't have it in stock we can usually source it for you.
+        </p>
       </div>
     </div>
   </Layout>
@@ -81,23 +96,23 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Guns"
+      title: "Guns",
     };
   },
   data() {
     return {
-      open: false
+      open: false,
     };
   },
   methods: {
     toggle() {
       this.open = !this.open;
-    }
+    },
   },
   components: {
     Sidebar,
-    Pager
-  }
+    Pager,
+  },
 };
 </script>
 
@@ -136,10 +151,15 @@ query ($page: Int) {
 }
 
 .pageNum {
-  font-size: 1.6em;
+  font-size: 1.3em;
+  margin-top: 1em;
   margin-right: 0.5em;
 }
-.pageNum:active {
-  color: #004d91;
+
+a.active--exact.active.pageNum {
+  border-radius: 15%;
+  padding: 3px;
+  background: #004d91;
+  color: white;
 }
 </style>

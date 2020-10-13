@@ -251,15 +251,19 @@ export default [
     component: c38
   },
   {
+    path: "/products/utg-mini-reflex-sight-4-moa-green-dot/",
+    component: c38
+  },
+  {
+    path: "/products/utg-mini-reflex-sight-4-moa-red-dot/",
+    component: c38
+  },
+  {
     path: "/products/utg-recon-flex-m-lok-bipod-8-12/",
     component: c38
   },
   {
     path: "/products/vantage-3-12x44sf-1-2-mil-dot/",
-    component: c38
-  },
-  {
-    path: "/products/vantage-4-16x44sf-1-2-mil-dot/",
     component: c38
   },
   {
@@ -276,6 +280,14 @@ export default [
   },
   {
     path: "/products/winchester-17-hmr-v-max-17g/",
+    component: c38
+  },
+  {
+    path: "/products/yukon-sightline-n450s-digisight/",
+    component: c38
+  },
+  {
+    path: "/products/yukon-sightline-n470s-digisight/",
     component: c38
   },
   {
@@ -631,6 +643,10 @@ export default [
     component: c39
   },
   {
+    path: "/products/pard-nv008p-lrf-digital-scope/",
+    component: c38
+  },
+  {
     path: "/products/safe-ammo/",
     component: c38
   },
@@ -699,6 +715,18 @@ export default [
     component: c38
   },
   {
+    path: "/products/pulsar-core-fxq50-bw/",
+    component: c38
+  },
+  {
+    path: "/products/pulsar-thermion-xm50-scope/",
+    component: c38
+  },
+  {
+    path: "/products/pulsar-thermion-xq50-scope/",
+    component: c38
+  },
+  {
     path: "/guns/umarex-beretta-m-92-fsh-18091640-g/",
     component: c39
   },
@@ -744,10 +772,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-100-ks-1977108/",
-    component: c39
-  },
-  {
-    path: "/guns/weihrauch-hw-100-kt-1976499/",
     component: c39
   },
   {
@@ -824,6 +848,10 @@ export default [
   },
   {
     path: "/products/nm400-ir-ic-torch-only/",
+    component: c38
+  },
+  {
+    path: "/products/pulsar-forward-f455/",
     component: c38
   },
   {
@@ -1271,15 +1299,7 @@ export default [
     component: c39
   },
   {
-    path: "/guns/sig-sauer-p22620-bm-01393/",
-    component: c39
-  },
-  {
     path: "/guns/sig-sauer-p22620-f3079-0/",
-    component: c39
-  },
-  {
-    path: "/guns/sig-sauer-p22620-f3080-0/",
     component: c39
   },
   {
@@ -1408,10 +1428,6 @@ export default [
   },
   {
     path: "/guns/sako-finnfire-iil-60797/",
-    component: c39
-  },
-  {
-    path: "/guns/sako-quad-rangej-83566/",
     component: c39
   },
   {
@@ -1605,10 +1621,6 @@ export default [
   {
     path: "/guns/theoben17007536/",
     component: c39
-  },
-  {
-    path: "/products/fab-defense-advanced-mag-well-grip/",
-    component: c38
   },
   {
     path: "/products/fab-defense-agr43-tactical-pistol-grip/",
@@ -2091,10 +2103,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/gamo-phox-px-450467-pq/",
-    component: c39
-  },
-  {
     path: "/guns/gamo-phox-px-550812-pq/",
     component: c39
   },
@@ -2376,10 +2384,6 @@ export default [
   },
   {
     path: "/guns/browning-x-bolt-composite56335-zp-354/",
-    component: c39
-  },
-  {
-    path: "/guns/bsal-ightning-selse-77-617572-20/",
     component: c39
   },
   {
@@ -2768,10 +2772,6 @@ export default [
   },
   {
     path: "/guns/cz-452-american795833/",
-    component: c39
-  },
-  {
-    path: "/guns/air-arms-hft-500173096/",
     component: c39
   },
   {

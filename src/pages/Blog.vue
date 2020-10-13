@@ -21,15 +21,24 @@
               />
             </div>
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2">{{ edge.node.title }}</h2>
-              <h5 class="italic">{{ edge.node.author }} - {{ edge.node.date }}</h5>
+              <h2 class="font-bold uppercase text-xl mt-2">
+                {{ edge.node.title }}
+              </h2>
+              <h5 class="italic">
+                {{ edge.node.author }} - {{ edge.node.date }}
+              </h5>
               <p style="margin-top: 10px">{{ edge.node.excerpt }}</p>
             </div>
           </g-link>
         </div>
 
         <div class="flex justify-center mb-8 w-full">
-          <Pager :linkClass="{ pageNum: true }" :info="$page.allPost.pageInfo" :showLinks="true" />
+          <Pager
+            :linkClass="{ pageNum: true }"
+            :info="$page.allPost.pageInfo"
+            :showLinks="true"
+            class="pageNum"
+          />
         </div>
       </div>
     </div>
@@ -43,13 +52,13 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Blog"
+      title: "Blog",
     };
   },
   components: {
     Sidebar,
-    Pager
-  }
+    Pager,
+  },
 };
 </script>
 
@@ -82,10 +91,15 @@ query ($page: Int) {
 }
 
 .pageNum {
-  font-size: 1.6em;
+  font-size: 1.3em;
+  margin-top: 1em;
   margin-right: 0.5em;
 }
-.pageNum:active {
-  color: #004d91;
+
+a.active--exact.active.pageNum {
+  border-radius: 15%;
+  padding: 3px;
+  background: #004d91;
+  color: white;
 }
 </style>
