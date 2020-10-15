@@ -267,6 +267,10 @@ export default [
     component: c38
   },
   {
+    path: "/products/vantage-4-16x44sf-1-2-mil-dot/",
+    component: c38
+  },
+  {
     path: "/products/vortex-diamondback-tactical-4-12x40-rifle-scope/",
     component: c38
   },
@@ -436,6 +440,14 @@ export default [
   },
   {
     path: "/products/tippmann-arms-low-pro-10rnd-magazine/",
+    component: c38
+  },
+  {
+    path: "/products/vip-game-30gr-f6/",
+    component: c38
+  },
+  {
+    path: "/products/vip-game-32gr-f5/",
     component: c38
   },
   {
@@ -699,11 +711,19 @@ export default [
     component: c38
   },
   {
+    path: "/products/oly-blues-28gr-p7-5/",
+    component: c38
+  },
+  {
     path: "/products/pard-adapter-ring-48mm/",
     component: c38
   },
   {
     path: "/products/pard-nv008p-digital-scope/",
+    component: c38
+  },
+  {
+    path: "/products/pigeon-hv-32gr-f6/",
     component: c38
   },
   {
@@ -747,10 +767,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/walther-cp-99-jg-20348924/",
-    component: c39
-  },
-  {
     path: "/guns/walther-ppq-m2-pp-029736/",
     component: c39
   },
@@ -788,6 +804,22 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-30-k-kit2316685/",
+    component: c39
+  },
+  {
+    path: "/guns/weihrauch-hw-40-pca-621051/",
+    component: c39
+  },
+  {
+    path: "/guns/weihrauch-hw-40-pca-621052/",
+    component: c39
+  },
+  {
+    path: "/guns/weihrauch-hw-40-pca-621053/",
+    component: c39
+  },
+  {
+    path: "/guns/weihrauch-hw-40-pca-621054/",
     component: c39
   },
   {
@@ -848,6 +880,14 @@ export default [
   },
   {
     path: "/products/nm400-ir-ic-torch-only/",
+    component: c38
+  },
+  {
+    path: "/products/oly-blues-28gr-f8/",
+    component: c38
+  },
+  {
+    path: "/products/oly-blues-28gr-p8/",
     component: c38
   },
   {
@@ -925,6 +965,10 @@ export default [
   {
     path: "/guns/yildiz-s86830/",
     component: c39
+  },
+  {
+    path: "/products/hawke-airmax-30-compact-4-16x44-amx-ir-rifle-scope/",
+    component: c38
   },
   {
     path: "/products/hawke-airmax-30-sf-4-16x50-amx-ir-rifle-scope/",
@@ -1043,6 +1087,14 @@ export default [
     component: c39
   },
   {
+    path: "/guns/umarex-hk-usp-18-k05684/",
+    component: c39
+  },
+  {
+    path: "/guns/umarex-hk-usp-18-k05718/",
+    component: c39
+  },
+  {
     path: "/guns/umarex-rp-5-rpg-18402551/",
     component: c39
   },
@@ -1056,6 +1108,10 @@ export default [
   },
   {
     path: "/guns/umarex-ruger-10-2219-h04044/",
+    component: c39
+  },
+  {
+    path: "/guns/weihrauch-hw-1001977439/",
     component: c39
   },
   {
@@ -1156,6 +1212,14 @@ export default [
   },
   {
     path: "/guns/sig-sauer-mpx-20-bm-10152/",
+    component: c39
+  },
+  {
+    path: "/guns/sig-sauer-mpx-20-g0359-1/",
+    component: c39
+  },
+  {
+    path: "/guns/sig-sauer-mpx-20-g0360-1/",
     component: c39
   },
   {
@@ -1296,6 +1360,10 @@ export default [
   },
   {
     path: "/guns/schmeisser-sp-15-lmrc-19262/",
+    component: c39
+  },
+  {
+    path: "/guns/sig-sauer-m1720-f1979-0/",
     component: c39
   },
   {
@@ -1507,6 +1575,10 @@ export default [
     component: c39
   },
   {
+    path: "/guns/sako85-finnlightd-56322/",
+    component: c39
+  },
+  {
     path: "/guns/sauer100-fieldshootco-17273/",
     component: c39
   },
@@ -1651,11 +1723,23 @@ export default [
     component: c38
   },
   {
+    path: "/products/grand-prix-std-30gr-f5/",
+    component: c38
+  },
+  {
+    path: "/products/grand-prix-std-30gr-f6/",
+    component: c38
+  },
+  {
     path: "/products/hik-vision-vulcan-15mm/",
     component: c38
   },
   {
     path: "/products/hik-vision-vulcan-6mm/",
+    component: c38
+  },
+  {
+    path: "/products/impax-28gr-f6/",
     component: c38
   },
   {
@@ -1731,6 +1815,18 @@ export default [
     component: c39
   },
   {
+    path: "/guns/mossberg940-jm-pro-94-r-0003723/",
+    component: c39
+  },
+  {
+    path: "/guns/mossberg940-jm-pro-94-r-0003738/",
+    component: c39
+  },
+  {
+    path: "/guns/mossberg940-jm-pro-94-r-0004116/",
+    component: c39
+  },
+  {
     path: "/guns/pedersoli-tryonda-116637/",
     component: c39
   },
@@ -1765,6 +1861,10 @@ export default [
   {
     path: "/products/fab-bungee-sling-black/",
     component: c38
+  },
+  {
+    path: "/guns/lanber-sporter-13-03-07523-03/",
+    component: c39
   },
   {
     path: "/guns/lanbernull13-03-10476-01-12-76/",
@@ -1967,10 +2067,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/miroku-mk-3800598482/",
-    component: c39
-  },
-  {
     path: "/guns/mossberg500-bantam-v0938221/",
     component: c39
   },
@@ -2039,11 +2135,19 @@ export default [
     component: c38
   },
   {
+    path: "/products/alpha-elite-28gr-f7-5/",
+    component: c38
+  },
+  {
     path: "/products/cobra-javelin-2/",
     component: c38
   },
   {
     path: "/guns/gamo-junior-hunter04-1-c-232624-20/",
+    component: c39
+  },
+  {
+    path: "/guns/gamo-junior-hunter04-1-c-264427-20/",
     component: c39
   },
   {
@@ -2064,6 +2168,10 @@ export default [
   },
   {
     path: "/guns/marlin189493228043/",
+    component: c39
+  },
+  {
+    path: "/guns/miroku800598482/",
     component: c39
   },
   {
@@ -2120,6 +2228,10 @@ export default [
   },
   {
     path: "/guns/browning-b525-sporter-laminated-adj-brjp-59600-ym-131/",
+    component: c39
+  },
+  {
+    path: "/guns/browning-b525-sporter-laminated-adj-brjp-60419-ym-131/",
     component: c39
   },
   {
@@ -2295,6 +2407,10 @@ export default [
     component: c39
   },
   {
+    path: "/guns/fxd-reamline-classic0110635/",
+    component: c39
+  },
+  {
     path: "/guns/gsgfireflyf-407856/",
     component: c39
   },
@@ -2439,6 +2555,14 @@ export default [
     component: c39
   },
   {
+    path: "/products/20b-grand-prix-25gr-f6/",
+    component: c38
+  },
+  {
+    path: "/products/20b-subsonic-24gr-f7-5/",
+    component: c38
+  },
+  {
     path: "/guns/air-arms-s510-ultimate-sporter-carbine173215/",
     component: c39
   },
@@ -2548,6 +2672,10 @@ export default [
   },
   {
     path: "/guns/browning-gold-medallion24055-nxg-36/",
+    component: c39
+  },
+  {
+    path: "/guns/browning-gt-i-ultra59618-ny/",
     component: c39
   },
   {
@@ -2683,11 +2811,19 @@ export default [
     component: c39
   },
   {
+    path: "/guns/air-arms-s400-classic-046308/",
+    component: c39
+  },
+  {
     path: "/guns/air-arms-s410-carbine-beech072910/",
     component: c39
   },
   {
     path: "/guns/air-arms-s410-carbine-superlite170424/",
+    component: c39
+  },
+  {
+    path: "/guns/air-arms-s410-classic-109292/",
     component: c39
   },
   {
@@ -2811,6 +2947,10 @@ export default [
     component: c39
   },
   {
+    path: "/guns/brocock-commandernc-2488/",
+    component: c39
+  },
+  {
     path: "/guns/browning-b52539591-mw/",
     component: c39
   },
@@ -2872,6 +3012,10 @@ export default [
   },
   {
     path: "/guns/anschutz14163139154/",
+    component: c39
+  },
+  {
+    path: "/guns/anschutz17301354307/",
     component: c39
   },
   {

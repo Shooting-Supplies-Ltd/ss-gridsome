@@ -7,21 +7,31 @@
       >
         <div class="w-full lg:flex">
           <div class="w-5/8 mt-0 lg:mt-4 ml-4 flex justify-center items-center">
-            <g-image :src="$page.wooProducts.images[0].src" :alt="$page.wooProducts.name" />
+            <g-image
+              :src="$page.wooProducts.images[0].src"
+              :alt="$page.wooProducts.name"
+            />
           </div>
-
           <div class="w-3/8 flex ml-4 lg:ml-0 flex-wrap">
             <div>
               <h1
                 class="mr-6 lg:mt-8 text-4xl lg:text-5xl text-gray-900 font-extrabold tracking-tighter leading-snug uppercase"
-              >{{ $page.wooProducts.name }}</h1>
+              >
+                {{ $page.wooProducts.name }}
+              </h1>
               <div
                 v-html="$page.wooProducts.short_description"
                 class="mt-4 mr-6 text-xl text-gray-900 tracking-tight leading-snug"
               ></div>
               <div
                 class="mt-4 text-2xl lg:text-2xl font-bold text-gray-900 tracking-tighter leading-snug"
-              >£{{ $page.wooProducts.price }}</div>
+              >
+                £{{ $page.wooProducts.price }}
+
+                <div v-if="$page.wooProducts.brands[0].id === 4770">
+                  <DiscountsEleyHawk />
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -29,8 +39,14 @@
         <button
           @click="toggle"
           class="w-full ml-6 mr-6 mt-8 lg:mt-0 h-12 uppercase bg-ssblue text-white hover:text-ssorange text-lg font-bold"
-          style="iframe: {width: 600px;}"
-        >Full Description</button>
+          style="
+            iframe: {
+              width: 600px;
+            }
+          "
+        >
+          Full Description
+        </button>
 
         <div class="w-full">
           <div
@@ -43,7 +59,9 @@
         <div class="ml-6 mr-6 mb-6 mt-16 lg:mt-8">
           <h3
             class="text-2xl font-extrabold text-gray-900 uppercase tracking-tight"
-          >Please Contact Us to Purchase this item or for more information</h3>
+          >
+            Please Contact Us to Purchase this item or for more information
+          </h3>
           <div class="mt-6 flex">
             <a href="tel:01527831261">
               <button
@@ -54,14 +72,14 @@
             </a>
             <a
               v-bind:href="
-                    'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
-                      $page.wooProducts.name +
-                      ' - ' +
-                      $page.wooProducts.sku +
-                      ' - £' +
-                      $page.wooProducts.price +
-                      ''
-                  "
+                'mailto:info@shootingsuppliesltd.co.uk?subject=New Website Enquiry - ' +
+                $page.wooProducts.name +
+                ' - ' +
+                $page.wooProducts.sku +
+                ' - £' +
+                $page.wooProducts.price +
+                ''
+              "
             >
               <button
                 class="flex items-center justify-center h-12 w-24 bg-ssblue hover:bg-blue-800 text-lg text-white font-bold uppercase rounded"
@@ -73,13 +91,17 @@
           <div class="mt-16 lg:hidden">
             <h3
               class="mb-2 text-2xl font-extrabold text-gray-900 uppercase tracking-tight"
-            >Share this item</h3>
+            >
+              Share this item
+            </h3>
             <ProductsSocialSidebar class="flex space-x-6 lg:hidden" />
           </div>
         </div>
       </div>
       <div class="w-1/4">
-        <ProductsSocialSidebar class="hidden lg:flex lg:flex-col lg:mt-8 lg:ml-4" />
+        <ProductsSocialSidebar
+          class="hidden lg:flex lg:flex-col lg:mt-8 lg:ml-4"
+        />
       </div>
     </div>
   </Layout>
@@ -96,8 +118,16 @@ query ($id: ID!) {
     price
     description
     short_description
+    categories {
+      id
+      name
+    }
     images {
       src
+    }
+    brands {
+      id
+      name
     }
   }
 }
@@ -105,20 +135,22 @@ query ($id: ID!) {
 
 <script>
 import ProductsSocialSidebar from "../components/ProductsSocialSidebar";
+import DiscountsEleyHawk from "../components/DiscountsEleyHawk";
 
 export default {
   components: {
-    ProductsSocialSidebar
+    ProductsSocialSidebar,
+    DiscountsEleyHawk,
   },
   data() {
     return {
-      descriptionFull: false
+      descriptionFull: false,
     };
   },
   methods: {
     toggle() {
       this.descriptionFull = !this.descriptionFull;
-    }
+    },
   },
   metaInfo() {
     return {
@@ -126,15 +158,15 @@ export default {
       meta: [
         {
           name: "description",
-          content: this.$page.wooProducts.short_description
+          content: this.$page.wooProducts.short_description,
         },
         {
           name: "image",
-          content: this.$page.wooProducts.images[0].src
-        }
-      ]
+          content: this.$page.wooProducts.images[0].src,
+        },
+      ],
     };
-  }
+  },
 };
 </script>
 
