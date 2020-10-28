@@ -20,7 +20,7 @@ const WooCommerce = new WooCommerceRestApi({
   queryStringAuth: true
 });
 
-module.exports = function(api) {
+module.exports = function (api) {
   api.loadSource(async actions => {
     const { data } = await axios.get(process.env.GRIDSOME_API_URL);
 
@@ -98,16 +98,16 @@ module.exports = function(api) {
 
   api.createPages(async ({ graphql, createPage }) => {
     const { data } = await graphql(`
-      {
-        allWooProducts(filter: { status: { eq: "publish" } }) {
-          edges {
-            node {
-              id
-              slug
-            }
+    {
+      allWooProducts(filter: { status: { eq: "publish" }, stock_quantity: {gt: 0}, id: {ne: "undefined"} }) {
+        edges {
+          node {
+            id
+            slug
           }
         }
       }
+    }
     `);
 
     data.allWooProducts.edges.forEach(({ node }) => {
