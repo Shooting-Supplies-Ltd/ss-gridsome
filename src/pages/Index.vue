@@ -1,5 +1,6 @@
 <template>
   <Layout>
+    <Popup style="left: 32%; top: 20%" />
     <Banner class="hidden lg:flex lg:border-b-2 lg:border-black lg:mb-8" />
 
     <div>
@@ -180,6 +181,7 @@
 
 <script>
 import Banner from "../components/Banner";
+import Popup from "../components/Popup";
 
 export default {
   metaInfo() {
@@ -195,6 +197,7 @@ export default {
   },
   components: {
     Banner,
+    Popup,
   },
 };
 </script>

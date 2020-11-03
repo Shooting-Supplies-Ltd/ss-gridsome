@@ -22,9 +22,11 @@
     "global": "^4.4.0",
     "gridsome": "^0.7.11",
     "gridsome-plugin-flexsearch": "^0.1.6",
+    "gridsome-plugin-modal": "^0.1.1",
     "gridsome-plugin-remark-youtube": "^1.0.1",
     "gridsome-plugin-tailwindcss": "^2.2.27",
     "vue": "~2",
+    "vue-js-modal": "^2.0.0-rc.6",
     "vue-popup": "^0.2.14",
     "vue-social-sharing": "^3.0.0-beta.11"
   }

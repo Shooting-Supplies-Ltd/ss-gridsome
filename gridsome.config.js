@@ -78,6 +78,9 @@ module.exports = {
         }
       }
     },
+    {
+      use: 'gridsome-plugin-modal'
+    },
   ],
   templates: {
     Post: "/blog/:slug"
