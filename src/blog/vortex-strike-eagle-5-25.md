@@ -3,10 +3,10 @@ slug: vortex-strike-eagle-5-25
 title: "Vortex Strike Eagle 5-25x56"
 date: "2020-11-17"
 excerpt: >-
-  The blacked-out, tricked-out Marlin 1894 Dark .44 is now available in-store.
+  With the Stike Eagle 5-25x56 you get top end features at an affordable price.
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1605183433/Blog/Marlin%20Dark%201894%2044/marlin-dark-44-fb_pyz4ge.png
-category: Gun of the Week
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1605614562/Blog/Vortex-Strike-Eagle/vortex-strike-eagle-5-25-fb_jpfadi.png
+category: News
 keywords: vortex, rifle scope, scope, strike eagle, vortex strike eagle 5-25x56
 author: Shooting Supplies
 ---
