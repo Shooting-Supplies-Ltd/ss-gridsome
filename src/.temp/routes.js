@@ -207,6 +207,10 @@ export default [
     component: c38
   },
   {
+    path: "/products/vortex-crossfire-ii-4-12x50-ao-bdc-rifle-scope/",
+    component: c38
+  },
+  {
     path: "/products/vortex-diamondback-tactical-6-24x50-ffp-moa-rifle-scope/",
     component: c38
   },
@@ -243,6 +247,10 @@ export default [
     component: c38
   },
   {
+    path: "/products/vortex-viper-hst-6-24x50-vmr1-rifle-scope/",
+    component: c38
+  },
+  {
     path: "/products/swarovski-x5-5-25x56-1-8-moa-plex-rifle-scope/",
     component: c38
   },
@@ -276,6 +284,10 @@ export default [
   },
   {
     path: "/products/vortex-pst-ii-5-25x50-rifle-scope/",
+    component: c38
+  },
+  {
+    path: "/products/vortex-strike-eagle-1-6x24-rifle-scope/",
     component: c38
   },
   {
@@ -324,10 +336,6 @@ export default [
   },
   {
     path: "/products/vortex-seagle-1-8x24-ar-bdc/",
-    component: c38
-  },
-  {
-    path: "/products/vortex-spitfire-ar-1x-red-dot/",
     component: c38
   },
   {
@@ -704,10 +712,6 @@ export default [
   },
   {
     path: "/products/pard-adapter-ring-48mm/",
-    component: c38
-  },
-  {
-    path: "/products/pard-nv008p-digital-scope/",
     component: c38
   },
   {
@@ -1679,10 +1683,6 @@ export default [
     component: c38
   },
   {
-    path: "/products/fab-defense-gl-shock-cp-buttstock/",
-    component: c38
-  },
-  {
     path: "/products/fab-defense-harris-aluminium-bipod-mount/",
     component: c38
   },
@@ -1704,6 +1704,10 @@ export default [
   },
   {
     path: "/products/grand-prix-std-30gr-f6/",
+    component: c38
+  },
+  {
+    path: "/products/hik-vision-vulcan-15mm/",
     component: c38
   },
   {
@@ -2179,6 +2183,10 @@ export default [
     component: c39
   },
   {
+    path: "/guns/marlin3936125/",
+    component: c39
+  },
+  {
     path: "/guns/miroku800598482/",
     component: c39
   },
@@ -2555,10 +2563,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/daystate-huntsman-reverers-0160/",
-    component: c39
-  },
-  {
     path: "/guns/daystate-huntsman-reverers-0219/",
     component: c39
   },
@@ -2615,10 +2619,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/baikal-mp-18-m-m08024803/",
-    component: c39
-  },
-  {
     path: "/guns/benelli-m2-comfortech-m973846-p19/",
     component: c39
   },
@@ -2648,10 +2648,6 @@ export default [
   },
   {
     path: "/guns/beretta-ultralight-classic-n62360-s/",
-    component: c39
-  },
-  {
-    path: "/guns/beretta-ultralight-gold-n96467-s/",
     component: c39
   },
   {
