@@ -1255,10 +1255,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/tikka-t3-x-roughtech-y80476/",
-    component: c39
-  },
-  {
     path: "/guns/tikka-t3-x-tac-n27640/",
     component: c39
   },
@@ -1727,10 +1723,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/rwsr-apier279/",
-    component: c39
-  },
-  {
     path: "/products/fab-ar-podium-bipod-tan/",
     component: c38
   },
@@ -2059,10 +2051,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/mauser-cz-1662/",
-    component: c39
-  },
-  {
     path: "/guns/mauser-m03-m013796/",
     component: c39
   },
@@ -2080,10 +2068,6 @@ export default [
   },
   {
     path: "/guns/mossberg500-hushpowerv-1046989/",
-    component: c39
-  },
-  {
-    path: "/guns/mossberg500-hushpowerv-1051097/",
     component: c39
   },
   {
