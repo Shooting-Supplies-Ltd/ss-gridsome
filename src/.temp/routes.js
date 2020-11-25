@@ -46,9 +46,8 @@ const c45 = () => import(/* webpackChunkName: "page--src--pages--accessories-vue
 const c46 = () => import(/* webpackChunkName: "page--src--pages--ammunition-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Ammunition.vue")
 const c47 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Post.vue")
 const c48 = () => import(/* webpackChunkName: "page--src--pages--temp-order-form-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/TempOrderForm.vue")
-const c49 = () => import(/* webpackChunkName: "page--src--pages--barcode-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Barcode.vue")
-const c50 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
-const c51 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Index.vue")
+const c49 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
+const c50 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Index.vue")
 
 export default [
   {
@@ -240,6 +239,10 @@ export default [
     component: c38
   },
   {
+    path: "/products/vortex-razor-lht-3-15x42-hsr-5i-moa/",
+    component: c38
+  },
+  {
     path: "/products/vortex-razor-lht-3-15x50-g4i-bdc-mrad/",
     component: c38
   },
@@ -296,6 +299,10 @@ export default [
     component: c38
   },
   {
+    path: "/products/yukon-mpr-mobile-recorder/",
+    component: c38
+  },
+  {
     path: "/products/yukon-sightline-n450s-digisight/",
     component: c38
   },
@@ -336,11 +343,23 @@ export default [
     component: c38
   },
   {
+    path: "/products/vortex-cantilever-30mm-quick-release-mount/",
+    component: c38
+  },
+  {
+    path: "/products/vortex-razor-lh-3-15x42-g4bdc/",
+    component: c38
+  },
+  {
     path: "/products/vortex-seagle-1-8x24-ar-bdc/",
     component: c38
   },
   {
     path: "/products/vortex-strikefire-ii-r-g-dot/",
+    component: c38
+  },
+  {
+    path: "/products/vortex-x3-mag-flip-mount-magnifier/",
     component: c38
   },
   {
@@ -389,6 +408,10 @@ export default [
   },
   {
     path: "/products/vantage-3-9-x40-milldot/",
+    component: c38
+  },
+  {
+    path: "/products/vortex-cantilever-30mm-ext-20moa/",
     component: c38
   },
   {
@@ -445,6 +468,10 @@ export default [
   },
   {
     path: "/products/vip-game-32gr-f5/",
+    component: c38
+  },
+  {
+    path: "/products/vortex-cantilever-30mm-ext/",
     component: c38
   },
   {
@@ -737,10 +764,6 @@ export default [
   },
   {
     path: "/guns/umarex-colt-government-1911-a1-fg-0074721/",
-    component: c39
-  },
-  {
-    path: "/guns/umarex-heckler-and-koch-usp-19-m00055/",
     component: c39
   },
   {
@@ -1113,10 +1136,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-1001977439/",
-    component: c39
-  },
-  {
-    path: "/guns/weihrauch-hw-1102106791/",
     component: c39
   },
   {
@@ -3008,22 +3027,18 @@ export default [
     component: c48
   },
   {
-    path: "/barcode/",
-    component: c49
-  },
-  {
     name: "404",
     path: "/404/",
-    component: c50
+    component: c49
   },
   {
     name: "home",
     path: "/",
-    component: c51
+    component: c50
   },
   {
     name: "*",
     path: "*",
-    component: c50
+    component: c49
   }
 ]

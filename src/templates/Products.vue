@@ -5,11 +5,12 @@
       <div
         class="flex flex-wrap rounded-b-lg shadow-lg border-t-4 border-ssblue lg:mt-8 lg:mb-12 lg:w-2/4"
       >
-        <div class="w-full lg:flex">
+        <div class="w-full lg:flex mb-4">
           <div class="w-5/8 mt-0 lg:mt-4 ml-4 flex justify-center items-center">
             <g-image
               :src="$page.wooProducts.images[0].src"
               :alt="$page.wooProducts.name"
+              class="object-scale-down object-cente mx-24 p-4"
             />
           </div>
           <div class="w-3/8 flex ml-4 lg:ml-0 flex-wrap">

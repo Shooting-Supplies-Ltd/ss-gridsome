@@ -24,7 +24,9 @@
       </div>
 
       <!-- Optics Cards Container -->
-      <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
+      <div
+        class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12"
+      >
         <!-- Iterate through optics and create optic cards -->
         <div
           v-for="edge in $page.allWooProducts.edges"
@@ -36,10 +38,16 @@
           <g-link :to="`/products/${edge.node.slug}`">
             <!-- Add image to optic card -->
             <div class="gun-card-image h-48 w-full">
-              <g-image :src="edge.node.images[0].src" :alt="edge.node.name" class="h-48 w-full object-cover object-center" />
+              <g-image
+                :src="edge.node.images[0].src"
+                :alt="edge.node.name"
+                class="h-48 w-full object-scale-down object-center"
+              />
             </div>
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.name }}</h2>
+              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">
+                {{ edge.node.name }}
+              </h2>
               <p class="font-semibold text-lg mt-2">£{{ edge.node.price }}</p>
             </div>
           </g-link>
@@ -57,10 +65,27 @@
     <div class="page-description w-full mt-8 lg:p-20 bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">Maintenance & Cleaning</h1>
-        <p class="mt-4">If it’s a new cleaning kit for that great new shiny rifle you have just bought or replacement parts and chemicals you need, we have it all. Our extensive range of popular cleaning products, Hoppes, Bisley, Tetra, Napier, KG, Legia and Birchwood Casey enable you to keep your gun/equipment in tip top condition.</p>
-        <p class="mt-2">From bore guides, tools, blueing, cleaning chemicals, rods, cloths and patches to jags, mops, phosphor bronze brushes, oils, greases, pull-throughs and rust inhibitors. Alternatively, our range of cleaning kits offer everything you need in one box.</p>
-        <p class="mt-2">A clean, correctly lubricated gun will last longer and shoot better – our advice is free, just ask!</p>
-        <p class="mt-2">Call our team on 01527831261 to discuss your requirements, if we don't have it in stock we can usually source it for you.</p>
+        <p class="mt-4">
+          If it’s a new cleaning kit for that great new shiny rifle you have
+          just bought or replacement parts and chemicals you need, we have it
+          all. Our extensive range of popular cleaning products, Hoppes, Bisley,
+          Tetra, Napier, KG, Legia and Birchwood Casey enable you to keep your
+          gun/equipment in tip top condition.
+        </p>
+        <p class="mt-2">
+          From bore guides, tools, blueing, cleaning chemicals, rods, cloths and
+          patches to jags, mops, phosphor bronze brushes, oils, greases,
+          pull-throughs and rust inhibitors. Alternatively, our range of
+          cleaning kits offer everything you need in one box.
+        </p>
+        <p class="mt-2">
+          A clean, correctly lubricated gun will last longer and shoot better –
+          our advice is free, just ask!
+        </p>
+        <p class="mt-2">
+          Call our team on 01527831261 to discuss your requirements, if we don't
+          have it in stock we can usually source it for you.
+        </p>
       </div>
     </div>
   </Layout>
@@ -73,23 +98,23 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Maintenance & Cleaning"
+      title: "Maintenance & Cleaning",
     };
   },
   data() {
     return {
-      open: false
+      open: false,
     };
   },
   methods: {
     toggle() {
       this.open = !this.open;
-    }
+    },
   },
   components: {
     MaintenanceSidebar,
-    Pager
-  }
+    Pager,
+  },
 };
 </script>
 

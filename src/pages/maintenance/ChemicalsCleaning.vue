@@ -36,7 +36,7 @@
           <g-link :to="`/products/${edge.node.slug}`">
             <!-- Add image to optic card -->
             <div class="gun-card-image h-48 w-full">
-              <g-image :src="edge.node.images[0].src" :alt="edge.node.name" class="h-48 w-full object-cover object-center" />
+              <g-image :src="edge.node.images[0].src" :alt="edge.node.name" class="h-48 w-full object-scale-down object-center" />
             </div>
             <div class="p-4">
               <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.name }}</h2>
@@ -74,23 +74,23 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Chemicals & Cleaning"
+      title: "Chemicals & Cleaning",
     };
   },
   data() {
     return {
-      open: false
+      open: false,
     };
   },
   methods: {
     toggle() {
       this.open = !this.open;
-    }
+    },
   },
   components: {
     MaintenanceSidebar,
-    Pager
-  }
+    Pager,
+  },
 };
 </script>
 

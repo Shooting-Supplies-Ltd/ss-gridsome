@@ -32,7 +32,7 @@
               <g-image
                 :src="edge.node.images[0].src"
                 :alt="edge.node.name"
-                class="h-48 w-full object-cover object-center"
+                class="h-48 w-full object-scale-down object-center"
               />
             </div>
             <div class="p-4">

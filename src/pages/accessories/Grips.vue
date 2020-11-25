@@ -22,7 +22,9 @@
       </div>
 
       <!-- Accessory Cards Container -->
-      <div class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12">
+      <div
+        class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12"
+      >
         <!-- Iterate through accessories and create the cards -->
         <div
           v-for="edge in $page.allWooProducts.edges"
@@ -37,11 +39,13 @@
               <g-image
                 :src="edge.node.images[0].src"
                 :alt="edge.node.name"
-                class="h-48 w-full object-contain object-center"
+                class="h-48 w-full object-scale-down object-center"
               />
             </div>
             <div class="p-4">
-              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">{{ edge.node.name }}</h2>
+              <h2 class="font-bold uppercase text-xl mt-2 hover:text-ssorange">
+                {{ edge.node.name }}
+              </h2>
               <p class="font-semibold text-lg mt-2">£{{ edge.node.price }}</p>
             </div>
           </g-link>
@@ -59,8 +63,13 @@
     <div class="page-description w-full mt-8 p-20 bg-gray-100">
       <div class="mx-24 my-8">
         <h1 class="font-bold text-2xl">GRIPS</h1>
-        <p class="mt-4">We carry a range of Grips from all of the major manufacturers.</p>
-        <p class="mt-2">Please call us on 01527831261 to discuss your current requirements, if we don't have it in stock we can usually source it for you.</p>
+        <p class="mt-4">
+          We carry a range of Grips from all of the major manufacturers.
+        </p>
+        <p class="mt-2">
+          Please call us on 01527831261 to discuss your current requirements, if
+          we don't have it in stock we can usually source it for you.
+        </p>
       </div>
     </div>
   </Layout>
@@ -73,23 +82,23 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Grips"
+      title: "Grips",
     };
   },
   data() {
     return {
-      open: false
+      open: false,
     };
   },
   methods: {
     toggle() {
       this.open = !this.open;
-    }
+    },
   },
   components: {
     AccessoriesSidebar,
-    Pager
-  }
+    Pager,
+  },
 };
 </script>
 
