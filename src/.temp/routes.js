@@ -46,8 +46,9 @@ const c45 = () => import(/* webpackChunkName: "page--src--pages--accessories-vue
 const c46 = () => import(/* webpackChunkName: "page--src--pages--ammunition-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Ammunition.vue")
 const c47 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Post.vue")
 const c48 = () => import(/* webpackChunkName: "page--src--pages--temp-order-form-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/TempOrderForm.vue")
-const c49 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
-const c50 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Index.vue")
+const c49 = () => import(/* webpackChunkName: "page--src--pages--barcode-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Barcode.vue")
+const c50 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
+const c51 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Index.vue")
 
 export default [
   {
@@ -355,10 +356,6 @@ export default [
     component: c38
   },
   {
-    path: "/products/winchester-223-55-varmint-x/",
-    component: c38
-  },
-  {
     path: "/products/winchester-30-06-150g-powerpoint/",
     component: c38
   },
@@ -563,10 +560,6 @@ export default [
     component: c38
   },
   {
-    path: "/products/spartan-prohunt-bipod-long/",
-    component: c38
-  },
-  {
     path: "/products/spartan-universal-gunsmith-adapter/",
     component: c38
   },
@@ -608,10 +601,6 @@ export default [
   },
   {
     path: "/guns/smith-and-wesson-m-and-p-15-22-sport-dfa-9574/",
-    component: c39
-  },
-  {
-    path: "/guns/walther-colt-gold-cup-1911-wd-052305/",
     component: c39
   },
   {
@@ -664,10 +653,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-100-t-laminate-adjustable1978183/",
-    component: c39
-  },
-  {
-    path: "/guns/winchester-ultimate-sporting-11-hzt-12872/",
     component: c39
   },
   {
@@ -1727,10 +1712,6 @@ export default [
     component: c38
   },
   {
-    path: "/products/fab-defense-adjustable-cheek-rest/",
-    component: c38
-  },
-  {
     path: "/products/fab-defense-ar15-collapsible-buttstock/",
     component: c38
   },
@@ -1979,10 +1960,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/marlin1984-mr-70868-i/",
-    component: c39
-  },
-  {
     path: "/guns/marocchi-cd-mf-4858/",
     component: c39
   },
@@ -2183,6 +2160,10 @@ export default [
     component: c39
   },
   {
+    path: "/guns/glock-17-gen-5-da-075423/",
+    component: c39
+  },
+  {
     path: "/guns/henry-repeating-arms-h001104030-h/",
     component: c39
   },
@@ -2264,10 +2245,6 @@ export default [
   },
   {
     path: "/guns/gamo-boxerbx-450153-mn/",
-    component: c39
-  },
-  {
-    path: "/guns/gamo-pt-8520-c06867/",
     component: c39
   },
   {
@@ -2603,10 +2580,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/benelli-m2-comfortech-m973846-p19/",
-    component: c39
-  },
-  {
     path: "/guns/benelli-m2-comfortech-m980786-q20/",
     component: c39
   },
@@ -2843,10 +2816,6 @@ export default [
     component: c39
   },
   {
-    path: "/guns/blaser-r8-r-096943/",
-    component: c39
-  },
-  {
     path: "/guns/blaser-r8-r-198947/",
     component: c39
   },
@@ -3039,18 +3008,22 @@ export default [
     component: c48
   },
   {
+    path: "/barcode/",
+    component: c49
+  },
+  {
     name: "404",
     path: "/404/",
-    component: c49
+    component: c50
   },
   {
     name: "home",
     path: "/",
-    component: c50
+    component: c51
   },
   {
     name: "*",
     path: "*",
-    component: c49
+    component: c50
   }
 ]

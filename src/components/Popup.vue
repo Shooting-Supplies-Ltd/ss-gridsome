@@ -24,6 +24,11 @@
         01527831261 or by completing a short form
         <a class="text-ssblue" href="/temp-order-form">here</a>.
       </p>
+      <h3>UPDATE</h3>
+      <p>
+        Our opening hours shall be returning to normal as of Wednesday 2nd
+        December.
+      </p>
       <br />
       <p></p>
     </div>
