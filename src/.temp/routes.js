@@ -352,6 +352,10 @@ export default [
     component: c39
   },
   {
+    path: "/products/vortex-micro-x3-mag-flip-mount/",
+    component: c39
+  },
+  {
     path: "/products/vortex-razor-lh-3-15x42-g4bdc/",
     component: c39
   },
@@ -389,6 +393,10 @@ export default [
   },
   {
     path: "/products/swarovski-z6i-2-12x50-4a-300-rifle-scope/",
+    component: c39
+  },
+  {
+    path: "/products/teales-premier-gun-slip-dark-brn-zip/",
     component: c39
   },
   {
@@ -460,6 +468,10 @@ export default [
     component: c39
   },
   {
+    path: "/products/tier-one-unimount-30mm-high-20moa/",
+    component: c39
+  },
+  {
     path: "/products/tippmann-arms-9-m-lok-handguard/",
     component: c39
   },
@@ -528,6 +540,10 @@ export default [
     component: c39
   },
   {
+    path: "/products/sightmark-wraith-4-32x50-digisight/",
+    component: c39
+  },
+  {
     path: "/products/spartan-300-carbon-fibre-bipod/",
     component: c39
   },
@@ -556,6 +572,14 @@ export default [
     component: c39
   },
   {
+    path: "/products/teales-premier-gun-slip/",
+    component: c39
+  },
+  {
+    path: "/products/teales-premier-loaders-bag/",
+    component: c39
+  },
+  {
     path: "/products/tippmann-arms-20rd-magazine/",
     component: c39
   },
@@ -578,6 +602,10 @@ export default [
   {
     path: "/guns/winchester-sx-4-composite-wipt-14056-ym-11-k/",
     component: c40
+  },
+  {
+    path: "/products/pard-nv007a-12mm-1x-digital-add-on/",
+    component: c39
   },
   {
     path: "/products/pard-nv007a-16mm-4x-digital-add-on/",
@@ -632,6 +660,10 @@ export default [
     component: c39
   },
   {
+    path: "/products/swarovski-ballistic-turret/",
+    component: c39
+  },
+  {
     path: "/guns/smith-and-wesson-m-and-p-15-22-sport-dfa-9574/",
     component: c40
   },
@@ -669,6 +701,14 @@ export default [
   },
   {
     path: "/products/pard-nv008p-lrf-digital-scope/",
+    component: c39
+  },
+  {
+    path: "/products/pulsar-axion-key-xm22-monocular/",
+    component: c39
+  },
+  {
+    path: "/products/pulsar-axion-key-xm30-monocular/",
     component: c39
   },
   {
@@ -1176,6 +1216,10 @@ export default [
     component: c39
   },
   {
+    path: "/products/leupold-vx3i-6-5-20x50/",
+    component: c39
+  },
+  {
     path: "/products/lrf1000-o-led-rangefinder-6x21/",
     component: c39
   },
@@ -1189,6 +1233,10 @@ export default [
   },
   {
     path: "/products/lyman-crosshair-rear-shooting-bag/",
+    component: c39
+  },
+  {
+    path: "/products/minox-bf-8x42-binoculars/",
     component: c39
   },
   {
@@ -1513,10 +1561,6 @@ export default [
   },
   {
     path: "/guns/sig-sauer-p32019-e06212/",
-    component: c40
-  },
-  {
-    path: "/guns/sports-match-gc-2104/",
     component: c40
   },
   {
@@ -2444,6 +2488,10 @@ export default [
     component: c40
   },
   {
+    path: "/products/__trashed/",
+    component: c39
+  },
+  {
     path: "/guns/benelli-raffaello-500th-anniversary-f390629-j20/",
     component: c40
   },
@@ -2461,10 +2509,6 @@ export default [
   },
   {
     path: "/guns/benelli828-u-silver-bs-024420-u17/",
-    component: c40
-  },
-  {
-    path: "/guns/beretta-dt-10-af-6850-b/",
     component: c40
   },
   {
