@@ -24,6 +24,11 @@
       >
         <g-link to="/optics/illuminators/">Illuminators</g-link>
       </div>
+       <div
+        class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
+      >
+        <g-link to="/optics/mounts-rails/">Mounts & Rails</g-link>
+      </div>
       <div
         class="flex px-4 py-2 cursor-pointer border hover:border-ssorange text-lg text-grey-darkest hover:text-ssorange"
       >

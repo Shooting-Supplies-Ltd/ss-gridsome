@@ -55,9 +55,10 @@
     </div>
     <div class="page-description w-full mt-8 p-20 bg-gray-100">
       <div class="mx-24 my-8">
-        <h1 class="font-bold text-2xl">MAGNIFIERS</h1>
+        <h1 class="font-bold text-2xl">NIGHT VISION</h1>
         <p class="mt-4">
-          We carry a range of Magnifiers from all of the major manufacturers.
+          We carry a range of Mounts, Rails & Optics from all of the major
+          manufacturers.
         </p>
         <p class="mt-2">
           Please call us on 01527831261 to discuss your current requirements, if
@@ -75,7 +76,7 @@ import { Pager } from "gridsome";
 export default {
   metaInfo() {
     return {
-      title: "Magnifiers",
+      title: "Mounts & Rails",
     };
   },
   data() {
@@ -97,7 +98,7 @@ export default {
 
 <page-query>
 query products ($page: Int) {
-  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {eq: 4674}} }, sortBy: "name", order: ASC) @paginate {
+  allWooProducts(perPage: 12, page: $page, filter: { status: { eq: "publish" }, categories: {id: {eq: 4678}} }, sortBy: "name", order: ASC) @paginate {
     pageInfo {
     totalPages
     currentPage
