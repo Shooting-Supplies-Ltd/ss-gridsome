@@ -11,26 +11,16 @@
       </div>
     </div>
     <div class="bg-gray-200 md:text-base text-sm border-b p-4 h-36">
-      <p>
-        Due to the latest government instructions, we shall be opening on a
-        COLLECTION ONLY basis, with reduced opening hours, as of Thursday 5th
-        November.
-      </p>
-      <br />
-      <p>Our opening hours during this period will be Tue-Sat, 10am-2pm.</p>
-      <br />
-      <p>
-        Orders and Collections during this time can be arranged by calling us on
-        01527831261 or by completing a short form
-        <a class="text-ssblue" href="/temp-order-form">here</a>.
-      </p>
-      <h3 class="mt-4">UPDATE</h3>
+    <div class="mb-2">
+      <h3 class="mt-2 text-red-400">UPDATE</h3>
+    </div>
       <p>
         Our opening hours shall be returning to normal as of Wednesday 2nd
         December.
       </p>
       <br />
-      <p></p>
+      <p>Mon-Thu & Sat: 09:00-17:30</p>
+      <p>Fri: 09:00-19:00</p>
     </div>
     <div class="p-2 flex justify-end rounded-b">
       <button
