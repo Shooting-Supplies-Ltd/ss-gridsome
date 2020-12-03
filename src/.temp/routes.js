@@ -209,6 +209,14 @@ export default [
     component: c39
   },
   {
+    path: "/products/zippo-heatbank-3-hr-rechargeable-hand-warmer-power-bank-black/",
+    component: c40
+  },
+  {
+    path: "/products/zippo-heatbank-6-hr-rechargeable-hand-warmer/",
+    component: c40
+  },
+  {
     path: "/products/vantage-wa-ffp-6-24x50-ir-sf-1-2md/",
     component: c40
   },
@@ -357,10 +365,6 @@ export default [
     component: c40
   },
   {
-    path: "/products/vortex-micro-x3-mag-flip-mount/",
-    component: c40
-  },
-  {
     path: "/products/vortex-razor-lh-3-15x42-g4bdc/",
     component: c40
   },
@@ -398,6 +402,10 @@ export default [
   },
   {
     path: "/products/swarovski-z6i-2-12x50-4a-300-rifle-scope/",
+    component: c40
+  },
+  {
+    path: "/products/teales-premier-double-shotgun-firearms-certificate-wallet/",
     component: c40
   },
   {
@@ -469,6 +477,10 @@ export default [
     component: c40
   },
   {
+    path: "/products/roedale-muzzle-brake-30cal-5-8unf-matt-blued/",
+    component: c40
+  },
+  {
     path: "/products/space-saver-safe-2-shotgun-b-d/",
     component: c40
   },
@@ -518,6 +530,10 @@ export default [
   },
   {
     path: "/products/tactical-bipod-grip-qr-blk/",
+    component: c40
+  },
+  {
+    path: "/products/teales-devonshire-double-certificate-wallet/",
     component: c40
   },
   {
@@ -593,11 +609,19 @@ export default [
     component: c40
   },
   {
+    path: "/products/teales-devonshire-certificate-wallet/",
+    component: c40
+  },
+  {
     path: "/products/teales-premier-gun-slip/",
     component: c40
   },
   {
     path: "/products/teales-premier-loaders-bag/",
+    component: c40
+  },
+  {
+    path: "/products/teales-shotgun-certificate-holder/",
     component: c40
   },
   {
@@ -662,6 +686,10 @@ export default [
   },
   {
     path: "/products/swarovski-slc-8x56-binoculars/",
+    component: c40
+  },
+  {
+    path: "/products/teales-huntsman-wallet/",
     component: c40
   },
   {
@@ -782,10 +810,6 @@ export default [
   },
   {
     path: "/guns/yildiz-spz-my-32316/",
-    component: c41
-  },
-  {
-    path: "/guns/yildiz-tk-36-s87547/",
     component: c41
   },
   {
@@ -930,6 +954,10 @@ export default [
   },
   {
     path: "/products/kahles-ki-5-25x56-ccw-skmr3-w-l/",
+    component: c40
+  },
+  {
+    path: "/products/leatherman-wingman-14-in-1-multi-tool/",
     component: c40
   },
   {
@@ -1089,10 +1117,6 @@ export default [
     component: c40
   },
   {
-    path: "/products/napier-airgun-cleaning-kit/",
-    component: c40
-  },
-  {
     path: "/products/napier-airgun-cleaning-patch/",
     component: c40
   },
@@ -1233,10 +1257,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/umarex-ruger-10-2219-h01022/",
-    component: c41
-  },
-  {
     path: "/guns/umarex-ruger-10-2219-h03990/",
     component: c41
   },
@@ -1266,10 +1286,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-44703731/",
-    component: c41
-  },
-  {
-    path: "/guns/weihrauch-hw-45436332/",
     component: c41
   },
   {
@@ -1501,10 +1517,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/sig-sauer-m1720-f1979-0/",
-    component: c41
-  },
-  {
     path: "/guns/sig-sauer-p22620-f3079-0/",
     component: c41
   },
@@ -1526,10 +1538,6 @@ export default [
   },
   {
     path: "/guns/theoben-rapid-mkii-012745/",
-    component: c41
-  },
-  {
-    path: "/guns/tikka-t1x-mtrx-76190/",
     component: c41
   },
   {
@@ -1561,15 +1569,15 @@ export default [
     component: c41
   },
   {
-    path: "/guns/uberti-dragoond-28077/",
-    component: c41
-  },
-  {
     path: "/guns/uberti-walker-04072/",
     component: c41
   },
   {
     path: "/guns/uberti1849-pocket-d04462/",
+    component: c41
+  },
+  {
+    path: "/guns/ubertinull-uf-0851/",
     component: c41
   },
   {
@@ -1670,6 +1678,10 @@ export default [
   },
   {
     path: "/products/hawke-bipod-adaptor-weaver-to-stud/",
+    component: c40
+  },
+  {
+    path: "/products/hoppes-6-5-boresnake-den-rifle/",
     component: c40
   },
   {
@@ -1793,10 +1805,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/sauer100-c006100/",
-    component: c41
-  },
-  {
     path: "/guns/sauer100-c006110/",
     component: c41
   },
@@ -1825,11 +1833,23 @@ export default [
     component: c41
   },
   {
+    path: "/products/fab-cheek-riser-for-gl-core/",
+    component: c40
+  },
+  {
+    path: "/products/fab-defense-advanced-mag-well-grip/",
+    component: c40
+  },
+  {
     path: "/products/fab-defense-agr43-tactical-pistol-grip/",
     component: c40
   },
   {
     path: "/products/fab-defense-gl-core-s-buttstock/",
+    component: c40
+  },
+  {
+    path: "/products/fab-defense-gl-shock-cp-buttstock/",
     component: c40
   },
   {
@@ -2033,10 +2053,6 @@ export default [
     component: c40
   },
   {
-    path: "/products/eley-22-action-plus/",
-    component: c40
-  },
-  {
     path: "/guns/henry-repeating-arms-big-boy-steel-bbs-017200-m/",
     component: c41
   },
@@ -2082,10 +2098,6 @@ export default [
   },
   {
     path: "/guns/marlin1894-mr-52092-f/",
-    component: c41
-  },
-  {
-    path: "/guns/marlin1894-mr-52214-f/",
     component: c41
   },
   {
@@ -2189,10 +2201,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/heckler-and-koch-hk-416-d145-rshk-025687/",
-    component: c41
-  },
-  {
     path: "/guns/henry-repeating-arms-all-weather-bbs-01329-maw/",
     component: c41
   },
@@ -2217,10 +2225,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/mossberg500-hushpowerv-0938198/",
-    component: c41
-  },
-  {
     path: "/guns/mossbergnull-mvp-070048/",
     component: c41
   },
@@ -2238,6 +2242,14 @@ export default [
   },
   {
     path: "/products/blaser-carbon-fibre-shooting-stick/",
+    component: c40
+  },
+  {
+    path: "/products/blaser-qd-saddle-mount-30mm/",
+    component: c40
+  },
+  {
+    path: "/products/blaser-qd-saddle-mount-40mm/",
     component: c40
   },
   {
@@ -2366,10 +2378,6 @@ export default [
   },
   {
     path: "/guns/fxw-ildcat-synthetic-fx-w-191036/",
-    component: c41
-  },
-  {
-    path: "/guns/gamo-phox-px-450830-pq/",
     component: c41
   },
   {
@@ -2601,10 +2609,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/derya-mk-1220-rg-2263/",
-    component: c41
-  },
-  {
     path: "/guns/fxd-reamline-classic0110635/",
     component: c41
   },
@@ -2813,6 +2817,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/benelli-super-nova-z794994-u15/",
+    component: c41
+  },
+  {
     path: "/guns/benelli-super-nova-z905354-k19/",
     component: c41
   },
@@ -2890,10 +2898,6 @@ export default [
   },
   {
     path: "/guns/browning-gt-i-ultra59618-ny/",
-    component: c41
-  },
-  {
-    path: "/guns/bsac-omet-cd-062731-20/",
     component: c41
   },
   {
@@ -3101,10 +3105,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/blaser-r8-successr-200329/",
-    component: c41
-  },
-  {
     path: "/guns/blaser-r8-ultimater-166879/",
     component: c41
   },
@@ -3145,6 +3145,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/armi-san-marco-dragoon06501/",
+    component: c41
+  },
+  {
     path: "/guns/armi-sport-corsair-07329/",
     component: c41
   },
@@ -3174,10 +3178,6 @@ export default [
   },
   {
     path: "/guns/crosman2240920-b26269/",
-    component: c41
-  },
-  {
-    path: "/guns/crosman2240920-b26289/",
     component: c41
   },
   {
