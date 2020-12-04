@@ -39,17 +39,18 @@ const c38 = () => import(/* webpackChunkName: "page--src--pages--accessories--at
 const c39 = () => import(/* webpackChunkName: "page--src--pages--accessories--buttstocks-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/accessories/Buttstocks.vue")
 const c40 = () => import(/* webpackChunkName: "page--src--templates--products-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Products.vue")
 const c41 = () => import(/* webpackChunkName: "page--src--templates--guns-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Guns.vue")
-const c42 = () => import(/* webpackChunkName: "page--src--pages--security-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Security.vue")
-const c43 = () => import(/* webpackChunkName: "page--src--pages--optics-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Optics.vue")
-const c44 = () => import(/* webpackChunkName: "page--src--pages--maintenance-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Maintenance.vue")
-const c45 = () => import(/* webpackChunkName: "page--src--pages--guns-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Guns.vue")
-const c46 = () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Blog.vue")
-const c47 = () => import(/* webpackChunkName: "page--src--pages--accessories-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Accessories.vue")
-const c48 = () => import(/* webpackChunkName: "page--src--pages--ammunition-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Ammunition.vue")
-const c49 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Post.vue")
-const c50 = () => import(/* webpackChunkName: "page--src--pages--temp-order-form-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/TempOrderForm.vue")
-const c51 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
-const c52 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Index.vue")
+const c42 = () => import(/* webpackChunkName: "page--src--pages--xmas-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Xmas.vue")
+const c43 = () => import(/* webpackChunkName: "page--src--pages--security-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Security.vue")
+const c44 = () => import(/* webpackChunkName: "page--src--pages--optics-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Optics.vue")
+const c45 = () => import(/* webpackChunkName: "page--src--pages--maintenance-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Maintenance.vue")
+const c46 = () => import(/* webpackChunkName: "page--src--pages--guns-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Guns.vue")
+const c47 = () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Blog.vue")
+const c48 = () => import(/* webpackChunkName: "page--src--pages--accessories-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Accessories.vue")
+const c49 = () => import(/* webpackChunkName: "page--src--pages--ammunition-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Ammunition.vue")
+const c50 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/templates/Post.vue")
+const c51 = () => import(/* webpackChunkName: "page--src--pages--temp-order-form-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/TempOrderForm.vue")
+const c52 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/node_modules/gridsome/app/pages/404.vue")
+const c53 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/darryl/Projects/shootingSupplies/ss-gridsome/src/pages/Index.vue")
 
 export default [
   {
@@ -2821,10 +2822,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/beretta-a-400-xcelxa-157335/",
-    component: c41
-  },
-  {
     path: "/guns/beretta-a400-xcel-xa-225973/",
     component: c41
   },
@@ -3249,54 +3246,58 @@ export default [
     component: c41
   },
   {
-    path: "/security/:page(\\d+)?/",
+    path: "/xmas/:page(\\d+)?/",
     component: c42
   },
   {
-    path: "/optics/:page(\\d+)?/",
+    path: "/security/:page(\\d+)?/",
     component: c43
   },
   {
-    path: "/maintenance/:page(\\d+)?/",
+    path: "/optics/:page(\\d+)?/",
     component: c44
   },
   {
-    path: "/guns/:page(\\d+)?/",
+    path: "/maintenance/:page(\\d+)?/",
     component: c45
   },
   {
-    path: "/blog/:page(\\d+)?/",
+    path: "/guns/:page(\\d+)?/",
     component: c46
   },
   {
-    path: "/accessories/:page(\\d+)?/",
+    path: "/blog/:page(\\d+)?/",
     component: c47
   },
   {
-    path: "/ammunition/:page(\\d+)?/",
+    path: "/accessories/:page(\\d+)?/",
     component: c48
   },
   {
-    path: "/blog/:slug/",
+    path: "/ammunition/:page(\\d+)?/",
     component: c49
   },
   {
-    path: "/temp-order-form/",
+    path: "/blog/:slug/",
     component: c50
+  },
+  {
+    path: "/temp-order-form/",
+    component: c51
   },
   {
     name: "404",
     path: "/404/",
-    component: c51
+    component: c52
   },
   {
     name: "home",
     path: "/",
-    component: c52
+    component: c53
   },
   {
     name: "*",
     path: "*",
-    component: c51
+    component: c52
   }
 ]

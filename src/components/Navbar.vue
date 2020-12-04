@@ -6,17 +6,24 @@
       <g-link to="/">
         <h1
           class="flex self-end mt-4 mb-4 text-ssblue text-3xl xl:hidden"
-          style="font-family: ShooterSFRegular;"
+          style="font-family: ShooterSFRegular"
         >
           SH
           <span class="text-ssorange">O</span>
-          <span style="color:black;">O</span>TING SUPPLIES LTD
+          <span style="color: black">O</span>TING SUPPLIES LTD
         </h1>
       </g-link>
     </div>
     <div class="xl:hidden xl:mt-4 xl:mt-0">
-      <div id="mobile-menu" class="flex p-2 justify-center items-center bg-ssblue xl:hidden">
-        <button @click="toggle" id="mobile-menu" class="p-2 xl:hidden text-white text-xl font-bold">
+      <div
+        id="mobile-menu"
+        class="flex p-2 justify-center items-center bg-ssblue xl:hidden"
+      >
+        <button
+          @click="toggle"
+          id="mobile-menu"
+          class="p-2 xl:hidden text-white text-xl font-bold"
+        >
           MENU
           <!-- <font-awesome :icon="['fas', 'bars']" class="my-4 ml-6 text-ssblue" /> -->
         </button>
@@ -31,7 +38,9 @@
       <!-- Search Bar Component -->
       <Search />
 
-      <div class="p-1 pb-6 text-lg xl:flex-grow align-center text-2xl text-center">
+      <div
+        class="p-1 pb-6 text-lg xl:flex-grow align-center text-2xl text-center"
+      >
         <g-link to="/">
           <p class="mb-4 hover:text-ssorange">Home</p>
         </g-link>
@@ -87,11 +96,14 @@
       <!-- Add main links to navbar -->
       <div
         id="nav-main"
-        class="w-3/5 flex justify-center items-center text-white text-xl font-bold"
-        @mouseleave="gunsIsOpen = false, ammoIsOpen = false"
+        class="w-3/5 flex items-center space-x-1 text-white text-xl font-bold"
+        @mouseleave="(gunsIsOpen = false), (ammoIsOpen = false)"
       >
         <div>
-          <button @mouseover="gunsIsOpen = !gunsIsOpen" class="text-white text-xl font-bold">
+          <button
+            @mouseover="gunsIsOpen = !gunsIsOpen"
+            class="text-white text-xl font-bold"
+          >
             <g-link to="/guns" class="p-4 hover:text-ssorange">GUNS</g-link>
           </button>
           <div
@@ -99,31 +111,51 @@
             @mouseleave="gunsIsOpen = false"
             class="absolute z-100 w-38 mt-4 p-4 bg-ssblue rounded-b"
           >
-            <g-link to="/guns/brand/tippmann-arms" class="hover:text-ssorange">TIPPMANN</g-link>
+            <g-link to="/guns/brand/tippmann-arms" class="hover:text-ssorange"
+              >TIPPMANN</g-link
+            >
           </div>
         </div>
         <div>
-          <button @mouseover="ammoIsOpen = !ammoIsOpen" class="text-white text-xl font-bold">
-            <g-link to="/ammunition" class="p-4 hover:text-ssorange">AMMO</g-link>
+          <button
+            @mouseover="ammoIsOpen = !ammoIsOpen"
+            class="text-white text-xl font-bold"
+          >
+            <g-link to="/ammunition" class="p-4 hover:text-ssorange"
+              >AMMO</g-link
+            >
           </button>
           <div
             v-if="ammoIsOpen"
             @mouseleave="ammoIsOpen = false"
             class="absolute z-100 w-38 mt-4 p-4 bg-ssblue rounded-b"
           >
-            <g-link to="/blog/reloading" class="hover:text-ssorange">RELOADING</g-link>
+            <g-link to="/blog/reloading" class="hover:text-ssorange"
+              >RELOADING</g-link
+            >
           </div>
         </div>
 
-        <g-link to="/accessories" class="p-4 hover:text-ssorange">ACCESSORIES</g-link>
+        <g-link to="/accessories" class="p-4 hover:text-ssorange"
+          >ACCESSORIES</g-link
+        >
         <g-link to="/optics" class="p-4 hover:text-ssorange">OPTICS</g-link>
         <g-link to="/security" class="p-4 hover:text-ssorange">SECURITY</g-link>
-        <g-link to="/maintenance" class="p-4 hover:text-ssorange">MAINTENANCE</g-link>
-        <g-link to="/blog/clothing-footwear" class="p-4 hidden hover:text-ssorange">CLOTHING</g-link>
+        <g-link to="/maintenance" class="p-4 hover:text-ssorange"
+          >MAINTENANCE</g-link
+        >
+        <g-link
+          to="/xmas"
+          class="p-4 bg-red-700 hover:text-ssorange transform skew-y-6"
+          >XMAS</g-link
+        >
       </div>
 
       <!--Add search input to navbar -->
-      <div id="nav-main-search" class="w-1/5 flex justify-center p-4 font-bold text-lg text-white">
+      <div
+        id="nav-main-search"
+        class="w-1/5 flex justify-end p-4 font-bold text-lg text-white"
+      >
         <p class="hidden mr-4 text-xl">SEARCH</p>
         <input
           id="search"
@@ -138,7 +170,11 @@
           id="results"
           class="max-h-screen mt-4 absolute z-10 bg-ssblue mt-8 w-1/5 rounded-b overflow-auto"
         >
-          <div v-for="result in searchResults" :key="result.id" class="p-4 w-full">
+          <div
+            v-for="result in searchResults"
+            :key="result.id"
+            class="p-4 w-full"
+          >
             <g-link :to="`/guns/${result.slug}`">
               <figure
                 :v-if="result.images[1]"
@@ -151,13 +187,12 @@
                 />
                 <h2 class="mt-2 text-md" v-if="result.variant != null">
                   {{
-                  result.condition + " " + result.title + " " + result.variant
+                    result.condition + " " + result.title + " " + result.variant
                   }}
                 </h2>
-                <h2
-                  class="hover:text-ssorange hover:border-ssorange"
-                  v-else
-                >{{ result.condition + " " + result.title }}</h2>
+                <h2 class="hover:text-ssorange hover:border-ssorange" v-else>
+                  {{ result.condition + " " + result.title }}
+                </h2>
                 <p>£{{ result.price }}</p>
               </figure>
             </g-link>
@@ -174,29 +209,29 @@ import Search from "../components/Search";
 export default {
   name: "Navbar",
   components: {
-    Search
+    Search,
   },
   data: () => ({
     searchTerm: "",
     gunsIsOpen: false,
     ammoIsOpen: false,
-    open: false
+    open: false,
   }),
   computed: {
     searchResults() {
       const searchTerm = this.searchTerm;
       if (searchTerm.length < 3) return [];
       return this.$search.search({ query: searchTerm, limit: 50 });
-    }
+    },
   },
   methods: {
-    clearSearch: function(event) {
+    clearSearch: function (event) {
       this.searchTerm = "";
     },
     toggle() {
       this.open = !this.open;
-    }
-  }
+    },
+  },
 };
 </script>
 
