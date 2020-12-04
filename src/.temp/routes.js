@@ -869,6 +869,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/walther-cp-99-jg-20459931/",
+    component: c41
+  },
+  {
     path: "/guns/walther-ppq-m2-pp-029736/",
     component: c41
   },
@@ -1961,10 +1965,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/north-west-custom-partsnwcp-0059/",
-    component: c41
-  },
-  {
     path: "/guns/pedersoli-tryonda-116637/",
     component: c41
   },
@@ -2081,10 +2081,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/marlin1894-csblmr-99513-h/",
-    component: c41
-  },
-  {
     path: "/guns/marlin1894-cstmr-24382-i/",
     component: c41
   },
@@ -2113,15 +2109,7 @@ export default [
     component: c41
   },
   {
-    path: "/guns/marlin1894-sblmr-67729-i/",
-    component: c41
-  },
-  {
     path: "/guns/marlin1895-darkmr-06155-j/",
-    component: c41
-  },
-  {
-    path: "/guns/marlin1895-darkmr-13919-j/",
     component: c41
   },
   {
@@ -2997,6 +2985,14 @@ export default [
     component: c41
   },
   {
+    path: "/guns/colt-saa-20-h10299/",
+    component: c41
+  },
+  {
+    path: "/guns/crosman1377-c820-b21304-c/",
+    component: c41
+  },
+  {
     path: "/guns/cz-455-thumbhole-c644884/",
     component: c41
   },
@@ -3105,6 +3101,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/blaser-r8-successr-200329/",
+    component: c41
+  },
+  {
     path: "/guns/blaser-r8-ultimater-166879/",
     component: c41
   },
@@ -3174,10 +3174,6 @@ export default [
   },
   {
     path: "/guns/browning-b52539591-mw/",
-    component: c41
-  },
-  {
-    path: "/guns/crosman2240920-b26269/",
     component: c41
   },
   {
