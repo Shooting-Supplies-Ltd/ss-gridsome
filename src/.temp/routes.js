@@ -213,6 +213,10 @@ export default [
     component: c40
   },
   {
+    path: "/products/yukon-photon-xt-6-5x50s-night-vision-rifle-scope/",
+    component: c40
+  },
+  {
     path: "/products/zippo-heatbank-6-hr-rechargeable-hand-warmer/",
     component: c40
   },
