@@ -33,19 +33,19 @@ Fri - 09:00 - 19:00
 Sat - 09:00 - 17:30  
 Sun - Closed  
 
-**Xmas Hours**
-20th: 10:00 - 16:00
-21st: 09:00 - 17:30
-22nd: 09:00 - 17:30
-23rd: 09:00 - 17:30
-24th: CLOSED
-25th: CLOSED
-27th: 10:00 - 16:00
-28th: 10:00 - 16:00
-29th: 10:00 - 16:00
-30th: 10:00 - 16:00
-31st: CLOSED
-1st: CLOSED
+**Xmas Hours**  
+20th: 10:00 - 16:00  
+21st: 09:00 - 17:30  
+22nd: 09:00 - 17:30  
+23rd: 09:00 - 17:30  
+24th: CLOSED  
+25th: CLOSED  
+27th: 10:00 - 16:00  
+28th: 10:00 - 16:00  
+29th: 10:00 - 16:00  
+30th: 10:00 - 16:00  
+31st: CLOSED  
+1st: CLOSED  
 
 Normal Opening Hours Resume Sat 2nd Jan
 
