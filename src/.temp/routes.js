@@ -818,6 +818,10 @@ export default [
     component: c40
   },
   {
+    path: "/products/pard-nv008p-digital-scope/",
+    component: c40
+  },
+  {
     path: "/products/pigeon-hv-32gr-f6/",
     component: c40
   },

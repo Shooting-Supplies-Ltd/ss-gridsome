@@ -4,7 +4,12 @@
     class="absolute z-20 bg-white rounded md:w-1/3 w-1/2 border shadow-lg"
   >
     <div>
-      <g-image src="~/assets/images/photon-sale.png" alt="Yukon Photon Winter Sale" />
+      <g-link to="/products/yukon-photon-xt-6-5x50s-night-vision-rifle-scope">
+        <g-image
+          src="~/assets/images/photon-sale.png"
+          alt="Yukon Photon Winter Sale"
+        />
+      </g-link>
     </div>
     <div class="p-2 flex justify-center rounded-b">
       <button
