@@ -1,6 +1,8 @@
 <template>
   <div id="main-banner">
-    <g-image src="~/assets/images/Slide1.png" />
+    <g-link to="https://gb.harkila.com/en-gb/shop">
+      <g-image src="~/assets/images/harkila-click-collect.png" />
+    </g-link>
   </div>
 </template>
 
