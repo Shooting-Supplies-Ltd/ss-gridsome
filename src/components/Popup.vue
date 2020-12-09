@@ -4,10 +4,7 @@
     class="absolute z-20 bg-white rounded md:w-1/3 w-1/2 border shadow-lg"
   >
     <div>
-      <img
-        src="https://res.cloudinary.com/shooting-supplies/image/upload/v1607015100/Blog/Photon-XT/Yukon-Photon-XT-Clearance-insta_stk9ec.png"
-        alt="Image of the Photon XT Clearance blog post."
-      />
+      <g-image src="~/assets/images/photon-sale.png" alt="Yukon Photon Winter Sale" />
     </div>
     <div class="p-2 flex justify-center rounded-b">
       <button
