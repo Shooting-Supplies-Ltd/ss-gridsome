@@ -32,3 +32,5 @@ The single action 1873 is a timeless handgun and a symbol of the American West. 
 - 12" barrel
 
 ---
+
+For further details visit us in store or call us on 01527831261.
