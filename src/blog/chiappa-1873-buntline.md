@@ -27,7 +27,7 @@ The single action 1873 is a timeless handgun and a symbol of the American West. 
 
 - Looks and feels like the old Colt .45 Buntline
 - Light recoil for long, entertaining shooting sessions
-- Fully adjustable reasr sight
+- Fully adjustable rear sight
 - 6 shot capacity
 - 12" barrel
 
