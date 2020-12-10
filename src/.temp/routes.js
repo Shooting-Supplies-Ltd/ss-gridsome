@@ -714,6 +714,10 @@ export default [
     component: c40
   },
   {
+    path: "/guns/walther-colt-gold-cup-1911-wd-047319/",
+    component: c41
+  },
+  {
     path: "/guns/walther-colt-gold-cup-1911-wd-052306/",
     component: c41
   },
@@ -1498,15 +1502,7 @@ export default [
     component: c41
   },
   {
-    path: "/guns/sig-sauer-p22620-f3079-0/",
-    component: c41
-  },
-  {
     path: "/guns/sig-sauer-p22620-f3081-0/",
-    component: c41
-  },
-  {
-    path: "/guns/sig-sauer-p36520-d2623-1/",
     component: c41
   },
   {
