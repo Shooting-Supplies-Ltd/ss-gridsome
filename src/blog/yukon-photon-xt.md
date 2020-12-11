@@ -13,9 +13,9 @@ author: Shooting Supplies
 
 # ***Yukon Photon XT 6.5x50 Night Vision Clearance***
 
-In-Store £399, limited stock.
+In-Store £369, limited stock.
 
-We have several units of the excellent Yukon Photon XT 6.5x50 Night Vision Scopes for sale at clearance prices. Get yours in-store now.
+We have several units of the excellent Yukon Photon XT 6.5x50S Night Vision Scopes for Sale. Get yours in-store now.
 
 ---
 
