@@ -96,7 +96,7 @@
       <!-- Add main links to navbar -->
       <div
         id="nav-main"
-        class="w-3/5 flex items-center space-x-1 text-white text-xl font-bold"
+        class="w-3/5 flex items-center justify-center space-x-1 text-white text-xl font-bold"
         @mouseleave="(gunsIsOpen = false), (ammoIsOpen = false)"
       >
         <div>
@@ -143,11 +143,6 @@
         <g-link to="/security" class="p-4 hover:text-ssorange">SECURITY</g-link>
         <g-link to="/maintenance" class="p-4 hover:text-ssorange"
           >MAINTENANCE</g-link
-        >
-        <g-link
-          to="/xmas"
-          class="p-4 bg-red-700 hover:text-ssorange transform skew-y-6"
-          >XMAS</g-link
         >
       </div>
 

@@ -706,6 +706,10 @@ export default [
     component: c40
   },
   {
+    path: "/guns/winchester-super-x-pump-stealth-witk-54766-ymsxp/",
+    component: c41
+  },
+  {
     path: "/products/rem-223-sp-55g/",
     component: c40
   },
@@ -926,10 +930,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/weihrauch-hw-97-kt-2324002/",
-    component: c41
-  },
-  {
     path: "/guns/weihrauch-hw-98-laminated-2321072/",
     component: c41
   },
@@ -1019,6 +1019,10 @@ export default [
   },
   {
     path: "/guns/umarex-glock-17-gen4-aja-037041/",
+    component: c41
+  },
+  {
+    path: "/guns/umarex-glock-17-gen5-da-078298/",
     component: c41
   },
   {
@@ -1338,6 +1342,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/savage-arms-mk-2-btvstb-1126669/",
+    component: c41
+  },
+  {
     path: "/guns/sig-sauer-mpx-20-g0360-1/",
     component: c41
   },
@@ -1347,6 +1355,10 @@ export default [
   },
   {
     path: "/guns/sig-sauer-x-five-18-d08949/",
+    component: c41
+  },
+  {
+    path: "/guns/tikka-t3-lite-stainless-a57323/",
     component: c41
   },
   {
@@ -1408,14 +1420,6 @@ export default [
   {
     path: "/guns/victrix-tormentumm-17324/",
     component: c41
-  },
-  {
-    path: "/products/hawke-airmax-30-sf-3-12x50-rifle-scope/",
-    component: c40
-  },
-  {
-    path: "/products/kite-optics-toucan-binoculars-10x42/",
-    component: c40
   },
   {
     path: "/products/leupold-lto-therm-tracker/",
@@ -1806,6 +1810,10 @@ export default [
     component: c40
   },
   {
+    path: "/products/guide-trackir-25-thermal-monocular/",
+    component: c40
+  },
+  {
     path: "/products/hik-vision-vulcan-15mm/",
     component: c40
   },
@@ -1883,6 +1891,10 @@ export default [
   },
   {
     path: "/guns/miroku-mk-38-grade-570187-zr/",
+    component: c41
+  },
+  {
+    path: "/guns/miroku-mk-60-grade-160742-nv/",
     component: c41
   },
   {
@@ -2166,10 +2178,6 @@ export default [
     component: c40
   },
   {
-    path: "/products/blaser-qd-saddle-mount-30mm/",
-    component: c40
-  },
-  {
     path: "/products/blaser-qd-saddle-mount-40mm/",
     component: c40
   },
@@ -2379,6 +2387,10 @@ export default [
   },
   {
     path: "/guns/browning-bl-grade-2-brjp-20648-ym-242/",
+    component: c41
+  },
+  {
+    path: "/guns/browning-maxus-limited-edition-brpt-06751-ym-115/",
     component: c41
   },
   {
@@ -2850,6 +2862,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/cz-455-varmint-b595259/",
+    component: c41
+  },
+  {
     path: "/guns/cz-455-varmint-c239778/",
     component: c41
   },
@@ -2882,6 +2898,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/dan-wesson71516-m10146/",
+    component: c41
+  },
+  {
     path: "/guns/formchieftannvn/",
     component: c41
   },
@@ -2891,6 +2911,14 @@ export default [
   },
   {
     path: "/guns/air-arms-s400-carbine-superlite170402/",
+    component: c41
+  },
+  {
+    path: "/guns/air-arms-s410-carbine-superlite79132/",
+    component: c41
+  },
+  {
+    path: "/guns/air-arms-s500-carbine-superlite80400/",
     component: c41
   },
   {
@@ -3047,6 +3075,10 @@ export default [
   },
   {
     path: "/guns/brno-452527421/",
+    component: c41
+  },
+  {
+    path: "/guns/brno-452889484/",
     component: c41
   },
   {
