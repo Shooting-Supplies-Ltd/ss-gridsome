@@ -67,6 +67,13 @@ module.exports = {
       }
     },
     {
+      use: 'gridsome-plugin-ackee',
+      options: {
+        domain: 'https://ackee-k395.onrender.com/',
+        domainId: 'a47c7716-dba1-4ef5-b62b-d00ad176301a'
+      }
+    },
+    {
       use: "@gridsome/plugin-sitemap",
       options: {
         cacheTime: 600000, // default
