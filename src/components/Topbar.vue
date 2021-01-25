@@ -7,12 +7,14 @@
         <a href="/blog" class="underline">Blog</a>
       </p>
     </div>
-    <div class="w-1/3 flex justify-center">Call 01527 831 261</div>
+    <div class="w-1/3 flex justify-center">
+      Call <a href="tel:01527831261">01527 831 261</a>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "TopBar"
+  name: "TopBar",
 };
 </script>

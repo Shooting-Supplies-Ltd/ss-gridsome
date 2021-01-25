@@ -11,9 +11,7 @@
           <p class="mr-8 font-semibold">
             <a href="tel:01527831261">
               <font-awesome :icon="['fas', 'phone-alt']" size="lg" />
-              <span class="text-lg ml-2"
-                ><a href="tel:01527831261">01527 831 261</a></span
-              >
+              <span class="text-lg ml-2">01527 831 261</span>
             </a>
           </p>
         </div>

@@ -226,6 +226,10 @@ export default [
     component: c40
   },
   {
+    path: "/products/vortex-crossfire-ii-4-12x50-ao-bdc-rifle-scope/",
+    component: c40
+  },
+  {
     path: "/products/vortex-diamondback-tactical-6-24x50-ffp-moa-rifle-scope/",
     component: c40
   },
@@ -515,10 +519,6 @@ export default [
   },
   {
     path: "/products/spartan-prohunt-leg-only-std-length/",
-    component: c40
-  },
-  {
-    path: "/products/swarovski-cl-pocket-8x25-binoculars-green/",
     component: c40
   },
   {
@@ -994,10 +994,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/umarex-beretta-m-92-fshg-20350668/",
-    component: c41
-  },
-  {
     path: "/guns/umarex-glock-17-gen4-aja-037040/",
     component: c41
   },
@@ -1219,10 +1215,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-1102108448/",
-    component: c41
-  },
-  {
-    path: "/guns/weihrauch-hw-302273800/",
     component: c41
   },
   {
@@ -2302,10 +2294,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/glock-19-da-110912/",
-    component: c41
-  },
-  {
     path: "/guns/gsg-1911-tana-841601/",
     component: c41
   },
@@ -2362,10 +2350,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/howa1500-b200436/",
-    component: c41
-  },
-  {
     path: "/guns/investarm152540/",
     component: c41
   },
@@ -2415,10 +2399,6 @@ export default [
   },
   {
     path: "/guns/browning-t-bolt-target-varmint20455-zp-253/",
-    component: c41
-  },
-  {
-    path: "/guns/bsas-corpion-se-multishot-beech-se-220256/",
     component: c41
   },
   {
@@ -2819,10 +2799,6 @@ export default [
   },
   {
     path: "/guns/cz-457-thumbhole-e008598/",
-    component: c41
-  },
-  {
-    path: "/guns/dan-wesson71516-m10146/",
     component: c41
   },
   {
