@@ -886,6 +886,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/weihrauch-hw-100-kt-1945776/",
+    component: c41
+  },
+  {
     path: "/guns/weihrauch-hw-100-kt-1977341/",
     component: c41
   },
@@ -898,19 +902,11 @@ export default [
     component: c41
   },
   {
-    path: "/guns/weihrauch-hw-40-pca-621051/",
-    component: c41
-  },
-  {
     path: "/guns/weihrauch-hw-77-k-laminate2318035/",
     component: c41
   },
   {
     path: "/guns/weihrauch-hw-77-k-laminate2324162/",
-    component: c41
-  },
-  {
-    path: "/guns/weihrauch-hw-97-black-line2321368/",
     component: c41
   },
   {
@@ -1235,10 +1231,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-45439359/",
-    component: c41
-  },
-  {
-    path: "/guns/westlake3561-mlr-3561238/",
     component: c41
   },
   {
@@ -1586,6 +1578,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/retayglock-17-rtaid-201100220/",
+    component: c41
+  },
+  {
     path: "/guns/rossi-puma-sk-008227/",
     component: c41
   },
@@ -1695,10 +1691,6 @@ export default [
   },
   {
     path: "/guns/steyr-mannlicher205325/",
-    component: c41
-  },
-  {
-    path: "/guns/theoben17007536/",
     component: c41
   },
   {
@@ -2198,6 +2190,10 @@ export default [
     component: c40
   },
   {
+    path: "/guns/gamo-gx-40-gx-450797-pq/",
+    component: c41
+  },
+  {
     path: "/guns/gamo-gx-40-gx-550790-pq/",
     component: c41
   },
@@ -2238,11 +2234,11 @@ export default [
     component: c41
   },
   {
-    path: "/guns/gamo-venari-tacticalvn-450082-pq/",
+    path: "/guns/gamo-pt-85-tactical20-a00792/",
     component: c41
   },
   {
-    path: "/guns/grandpowerk-22-x-trimk-047682/",
+    path: "/guns/gamo-venari-tacticalvn-450082-pq/",
     component: c41
   },
   {
@@ -2347,6 +2343,10 @@ export default [
   },
   {
     path: "/guns/gsggsg-16-a838330/",
+    component: c41
+  },
+  {
+    path: "/guns/huglu11-p1821/",
     component: c41
   },
   {
@@ -2602,6 +2602,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/benelli-super-nova-z764798-t15/",
+    component: c41
+  },
+  {
     path: "/guns/benelli-super-nova-z928779-q20/",
     component: c41
   },
@@ -2782,6 +2786,14 @@ export default [
     component: c41
   },
   {
+    path: "/guns/cz-457-lrpe-029482/",
+    component: c41
+  },
+  {
+    path: "/guns/cz-457-mtre-041624/",
+    component: c41
+  },
+  {
     path: "/guns/cz-457-synthetic-d057608/",
     component: c41
   },
@@ -2815,6 +2827,10 @@ export default [
   },
   {
     path: "/guns/air-arms-s500-carbine-superlite80400/",
+    component: c41
+  },
+  {
+    path: "/guns/air-arms-s510-carbine-superlite176482/",
     component: c41
   },
   {
@@ -2902,6 +2918,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/battle-armsl-006016/",
+    component: c41
+  },
+  {
     path: "/guns/bettinsoli-universal-268729/",
     component: c41
   },
@@ -2922,11 +2942,19 @@ export default [
     component: c41
   },
   {
+    path: "/guns/anschutz-match-54142619/",
+    component: c41
+  },
+  {
     path: "/guns/asgs-chofield19-h75489/",
     component: c41
   },
   {
     path: "/guns/asgschofield-19-h75692/",
+    component: c41
+  },
+  {
+    path: "/guns/brno-368243/",
     component: c41
   },
   {
@@ -2959,6 +2987,10 @@ export default [
   },
   {
     path: "/guns/anschutz17301354307/",
+    component: c41
+  },
+  {
+    path: "/guns/anschutz1807186532/",
     component: c41
   },
   {
