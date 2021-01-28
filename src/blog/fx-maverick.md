@@ -5,7 +5,7 @@ date: "2021-01-28"
 excerpt: >-
   Part Wildcat, part Impact, the perfect blend?
 thumbnail: >-
-  https://res.cloudinary.com/shooting-supplies/image/upload/v1574353197/Blog/Gun-Charging-Kit-A-Clamp-with-hose_jkwukc.jpg
+  https://res.cloudinary.com/shooting-supplies/image/upload/v1611852625/Blog/FX-Maverick/fx-maverick-fb_mqqnp9.png
 category: News
 keywords: fx maverick, air rifle, pcp air rifle, fx airguns
 author: Shooting Supplies
