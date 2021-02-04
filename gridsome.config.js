@@ -61,16 +61,16 @@ module.exports = {
       }
     },
     {
-      use: "@gridsome/plugin-google-analytics",
-      options: {
-        id: "UA-144478142-2"
-      }
-    },
-    {
       use: 'gridsome-plugin-ackee',
       options: {
         domain: 'https://ackee-k395.onrender.com/',
         domainId: 'a47c7716-dba1-4ef5-b62b-d00ad176301a'
+      }
+    },
+    {
+      use: 'gridsome-plugin-yandex-metrika',
+      options: {
+        id: 55362838
       }
     },
     {

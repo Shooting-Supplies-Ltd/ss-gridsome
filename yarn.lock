@@ -919,13 +919,6 @@
     sort-package-json "^1.15.0"
     update-notifier "^4.1.0"
 
-"@gridsome/plugin-google-analytics@^0.1.0":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@gridsome/plugin-google-analytics/-/plugin-google-analytics-0.1.2.tgz#5ffe9c80a0c9c3418a51c21fcbdc5fae7dd4ff1f"
-  integrity sha512-41rWKTXQLnZphP8Fozzjh240lg/v5/JEDacB6ZJEr3RzXz3oYvoEQMOxQaUEgZkS8oOSG9TYDoBWVegzwMOuaw==
-  dependencies:
-    vue-analytics "^5.16.1"
-
 "@gridsome/plugin-sitemap@^0.2.3":
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/@gridsome/plugin-sitemap/-/plugin-sitemap-0.2.3.tgz#44c2655d97349f8a02a76a38452313442b6cdab5"
@@ -4608,6 +4601,13 @@ gridsome-plugin-tailwindcss@^2.2.27:
     postcss-import-url "^5.1.0"
     postcss-preset-env "^6.7.0"
     tailwindcss ">=1.4"
+
+gridsome-plugin-yandex-metrika@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/gridsome-plugin-yandex-metrika/-/gridsome-plugin-yandex-metrika-0.1.2.tgz#d94e3e84f0bc24cfd80fd1839195d8d6c12dd796"
+  integrity sha512-k8PSoUQuNAiX70bAJx0o+O7tDU5edSlaj8SRIy1KwslJyaVuYPeiwHS3i+jPku9tkVlA6iTgdPkAwQrjdDCJHw==
+  dependencies:
+    vue-yandex-metrika "^1.7.3"
 
 gridsome@^0.7.11:
   version "0.7.22"
@@ -9998,11 +9998,6 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-vue-analytics@^5.16.1:
-  version "5.22.1"
-  resolved "https://registry.yarnpkg.com/vue-analytics/-/vue-analytics-5.22.1.tgz#9d6b32da56daee1b9dfb23a267b50349a03f710f"
-  integrity sha512-HPKQMN7gfcUqS5SxoO0VxqLRRSPkG1H1FqglsHccz6BatBatNtm/Vyy8brApktZxNCfnAkrSVDpxg3/FNDeOgQ==
-
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"
@@ -10089,6 +10084,11 @@ vue-template-es2015-compiler@^1.9.0:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
+
+vue-yandex-metrika@^1.7.3:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/vue-yandex-metrika/-/vue-yandex-metrika-1.8.3.tgz#f27d71f385ae3f20544a4d295865a2e446293c60"
+  integrity sha512-WD/2CPM5NWXg7JdmgfiOq8J5QbidrCDoDAaE0JfE32wceY56ewzERVGnOGS/Tfx+HvarGc+oJsBbZxl/e2BWTA==
 
 vue@^2.6.10, vue@~2:
   version "2.6.12"
