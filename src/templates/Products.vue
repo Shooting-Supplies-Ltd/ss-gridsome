@@ -161,11 +161,14 @@ export default {
           name: "description",
           content: this.$page.wooProducts.short_description
             .replace("<p>", "")
-            .replace("</p>", ""),
+            .replace("</p>", "")
+            .replace("&#8243", '"'),
         },
         {
           name: "keywords",
-          content: this.$page.wooProducts.name.replace(" ", ","),
+          content: this.$page.wooProducts.name
+            .replace(" ", ",")
+            .replace("&#8243", '"'),
         },
         {
           name: "image",
