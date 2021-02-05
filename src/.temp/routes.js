@@ -542,6 +542,10 @@ export default [
     component: c40
   },
   {
+    path: "/products/vantage-4x32-mdot/",
+    component: c40
+  },
+  {
     path: "/products/primary-arms-slx-5x36-gen3-comp-prism-acss/",
     component: c40
   },
@@ -575,10 +579,6 @@ export default [
   },
   {
     path: "/products/seeland-key-point-jacket-38/",
-    component: c40
-  },
-  {
-    path: "/products/sightmark-wraith-4-32x50-digisight/",
     component: c40
   },
   {
@@ -718,10 +718,6 @@ export default [
     component: c40
   },
   {
-    path: "/guns/weihrauch-hw-97-black-line-stl-2327506/",
-    component: c41
-  },
-  {
     path: "/guns/yildiz-spz-m-junior-y16036/",
     component: c41
   },
@@ -739,10 +735,6 @@ export default [
   },
   {
     path: "/guns/yildiz-spz-me-steel-o182394/",
-    component: c41
-  },
-  {
-    path: "/guns/yildiz-spz-me-steel-o182406/",
     component: c41
   },
   {
@@ -1026,10 +1018,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/weihrauch-hw-100-t1978686/",
-    component: c41
-  },
-  {
     path: "/guns/weihrauch-hw-60-j37921/",
     component: c41
   },
@@ -1039,10 +1027,6 @@ export default [
   },
   {
     path: "/guns/weihrauch-hw-95k-luxus2327405/",
-    component: c41
-  },
-  {
-    path: "/guns/weihrauch-hw-95k-luxus2329043/",
     component: c41
   },
   {
@@ -1210,14 +1194,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/weihrauch-hw-1102108448/",
-    component: c41
-  },
-  {
-    path: "/guns/weihrauch-hw-44700507/",
-    component: c41
-  },
-  {
     path: "/guns/weihrauch-hw-44703666/",
     component: c41
   },
@@ -1343,10 +1319,6 @@ export default [
   },
   {
     path: "/guns/uberti-0020-walkerd-21943/",
-    component: c41
-  },
-  {
-    path: "/guns/uberti1858-new-armya-76810/",
     component: c41
   },
   {
@@ -1482,6 +1454,14 @@ export default [
     component: c40
   },
   {
+    path: "/products/guide-ir510-n1-nano-thermal-monocular-w-wifi/",
+    component: c40
+  },
+  {
+    path: "/products/guide-ir510-n2-nano-thermal-monocular-w-wifi/",
+    component: c40
+  },
+  {
     path: "/products/hawke-red-dot-sight-spot-on-4/",
     component: c40
   },
@@ -1515,10 +1495,6 @@ export default [
   },
   {
     path: "/guns/ruger10-22-synthetic-blued0007-04343/",
-    component: c41
-  },
-  {
-    path: "/guns/sako-barrel-only-002533/",
     component: c41
   },
   {
@@ -1622,6 +1598,10 @@ export default [
     component: c40
   },
   {
+    path: "/products/fab-defense-ruger-10-22-collapsible-stock/",
+    component: c40
+  },
+  {
     path: "/products/fab-defense-ruger-10-22-precision-stock/",
     component: c40
   },
@@ -1639,6 +1619,14 @@ export default [
   },
   {
     path: "/products/grand-prix-h-v-32gr-f5/",
+    component: c40
+  },
+  {
+    path: "/products/guide-ir510-n1-nano-thermal-monocular/",
+    component: c40
+  },
+  {
+    path: "/products/guide-ir510-n2-nano-thermal-monocular/",
     component: c40
   },
   {
@@ -1687,10 +1675,6 @@ export default [
   },
   {
     path: "/guns/sauer101-a007112/",
-    component: c41
-  },
-  {
-    path: "/guns/steyr-mannlicher205325/",
     component: c41
   },
   {
@@ -2062,6 +2046,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/gamo-whisper-x-swarm-04-1-c-330831-20/",
+    component: c41
+  },
+  {
     path: "/guns/henry-repeating-arms-all-weather-bbs-01329-maw/",
     component: c41
   },
@@ -2112,10 +2100,6 @@ export default [
   {
     path: "/products/cci-22-ar-tactical/",
     component: c40
-  },
-  {
-    path: "/guns/gamo-maxxim-elite-04-1-c-263694-20/",
-    component: c41
   },
   {
     path: "/guns/gamo-varmint-swarm-04-1-c-472423-20/",
@@ -2218,19 +2202,15 @@ export default [
     component: c41
   },
   {
+    path: "/guns/bsar-10-se-super-carbine-black-edition-rt-770007-st/",
+    component: c41
+  },
+  {
     path: "/guns/fxw-ildcat-synthetic-fx-w-191023/",
     component: c41
   },
   {
     path: "/guns/gamo-phox-px-550812-pq/",
-    component: c41
-  },
-  {
-    path: "/guns/gamo-phox-px-551537-pq/",
-    component: c41
-  },
-  {
-    path: "/guns/gamo-pt-85-tactical20-a00681/",
     component: c41
   },
   {
@@ -2251,10 +2231,6 @@ export default [
   },
   {
     path: "/guns/hatsan-arms-escort-magnum284384/",
-    component: c41
-  },
-  {
-    path: "/guns/hatsan-arms-synthetic-368874/",
     component: c41
   },
   {
@@ -2283,6 +2259,10 @@ export default [
   },
   {
     path: "/guns/bsar-10-se-super-carbine-walnut-rt-220228-pq/",
+    component: c41
+  },
+  {
+    path: "/guns/bsar-10-se-super-carbine-walnut-rt-770013-st/",
     component: c41
   },
   {
@@ -2342,6 +2322,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/daystate-wolverine-b-type-litewl-3615/",
+    component: c41
+  },
+  {
     path: "/guns/gsggsg-16-a838330/",
     component: c41
   },
@@ -2363,6 +2347,10 @@ export default [
   },
   {
     path: "/guns/beretta686-silver-pigeon-1-sporting-f00936-x/",
+    component: c41
+  },
+  {
+    path: "/guns/beretta686-silver-pigeon-1-sporting-f01149-x/",
     component: c41
   },
   {
@@ -2498,6 +2486,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/bsal-ightning-selse-77-816421-20/",
+    component: c41
+  },
+  {
     path: "/guns/bsal-ightning-xlxdlse-7-616879-19/",
     component: c41
   },
@@ -2570,6 +2562,14 @@ export default [
     component: c41
   },
   {
+    path: "/guns/fxmaverick-0114922/",
+    component: c41
+  },
+  {
+    path: "/guns/fxmaverick-0118754/",
+    component: c41
+  },
+  {
     path: "/products/20b-grand-prix-25gr-f6/",
     component: c40
   },
@@ -2599,10 +2599,6 @@ export default [
   },
   {
     path: "/guns/benelli-m2-spm-965590-z19/",
-    component: c41
-  },
-  {
-    path: "/guns/benelli-super-nova-z764798-t15/",
     component: c41
   },
   {
@@ -2774,6 +2770,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/cz-452-american-b046449/",
+    component: c41
+  },
+  {
     path: "/guns/cz-455-varmint-b595259/",
     component: c41
   },
@@ -2818,6 +2818,10 @@ export default [
     component: c41
   },
   {
+    path: "/guns/air-arms-pro-sport-walnut175205/",
+    component: c41
+  },
+  {
     path: "/guns/air-arms-s400-carbine-superlite170402/",
     component: c41
   },
@@ -2827,10 +2831,6 @@ export default [
   },
   {
     path: "/guns/air-arms-s500-carbine-superlite80400/",
-    component: c41
-  },
-  {
-    path: "/guns/air-arms-s510-carbine-superlite176482/",
     component: c41
   },
   {
