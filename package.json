@@ -25,6 +25,7 @@
     "gridsome-plugin-remark-youtube": "^1.0.1",
     "gridsome-plugin-tailwindcss": "^2.2.27",
     "gridsome-plugin-yandex-metrika": "^0.1.2",
+    "string-strip-html": "^8.1.0",
     "vue": "~2",
     "vue-js-modal": "^2.0.0-rc.6",
     "vue-popup": "^0.2.14",

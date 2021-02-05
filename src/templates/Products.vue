@@ -159,7 +159,13 @@ export default {
       meta: [
         {
           name: "description",
-          content: this.$page.wooProducts.short_description,
+          content: this.$page.wooProducts.short_description
+            .replace("<p>", "")
+            .replace("</p>", ""),
+        },
+        {
+          name: "keywords",
+          content: this.$page.wooProducts.name.replace(" ", ","),
         },
         {
           name: "image",
