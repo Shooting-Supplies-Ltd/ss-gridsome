@@ -5,8 +5,6 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "Shooting Supplies Ltd",
-  siteDescription: "The Midlands Leading Shooting Supplier",
   siteUrl: "https://www.shootingsuppliesltd.co.uk",
   transformers: {
     remark: {
