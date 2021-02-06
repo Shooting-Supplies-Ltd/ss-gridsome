@@ -68,11 +68,30 @@ module.exports = {
     {
       use: "@gridsome/plugin-sitemap",
       options: {
-        cacheTime: 600000, // default
         config: {
           "/guns/*": {
             changefreq: "daily",
             priority: 0.8
+          },
+          "/ammunition/*": {
+            changefreq: "weekly",
+            priority: 0.5
+          },
+          "/accessories/*": {
+            changefreq: "weekly",
+            priority: 0.5
+          },
+          "/optics/*": {
+            changefreq: "weekly",
+            priority: 0.5
+          },
+          "/security/*": {
+            changefreq: "monthly",
+            priority: 0.5
+          },
+          "/maintenance/*": {
+            changefreq: "weekly",
+            priority: 0.5
           }
         }
       }
