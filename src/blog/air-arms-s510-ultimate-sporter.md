@@ -4,16 +4,16 @@ title: "Air Arms S510 Ultimate Sporter"
 date: "2020-01-23"
 author: Shooting Supplies
 excerpt: >-
-  The S510 Ultimate Sporter from Air Arms is packed with quality and great features.
+  The Air Arms S510 Ultimate Sporter PCP Air Rifle is packed with great features.
 thumbnail: >-
   https://res.cloudinary.com/shooting-supplies/image/upload/v1583521476/guns/Air-Arms-Ultimate-Sporter-177-Black-Air-Rifle-scaled_glg6d0.jpg
 category: Gun of the Week
 keywords: air arms, s510 ultimate sporter, pcp air rifle
 ---
 
-# **Air Arms S510 Ultimate Sporter**
+# **The Air Arms S510 Ultimate Sporter**
 
-The S510 Ultimate Sporter from Air Arms is packed with quality and great features. This PCP air rifle has a fresh look, new features, and is built to be one of the best hunting rifles available.
+The Air Arms S510 Ultimate Sporter is packed with great features and is a great example of Air Arms build quality. This PCP air rifle has a fresh look, new features, and has been designed to be one of the best hunting air rifles available.
 
 ****
 
@@ -21,7 +21,7 @@ The S510 Ultimate Sporter from Air Arms is packed with quality and great feature
 
 ****
 
-With its fully-adjustable cheekpiece and butt pad providing the perfect fit and comfort. The waterproof, non-warp, laminate stock and the world-renowned recoilless action, the S510 Ultimate Sporter provides outstanding results.
+With its fully-adjustable cheekpiece and butt pad providing the perfect fit and comfort for the user. The waterproof, non-warp, laminate stock and the world-renowned recoil-less action, the S510 Ultimate Sporter provides outstanding results every time.
 
 The Ultimate Sporter also features very smooth side lever action and a new style gauge based on a rotary design rather than the traditional needle.
 
