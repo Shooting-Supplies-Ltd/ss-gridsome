@@ -2578,10 +2578,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/benelli-m2-comfortech-m980786-q20/",
-    component: c41
-  },
-  {
     path: "/guns/benelli-m2-spm-965588-r19/",
     component: c41
   },
