@@ -318,10 +318,6 @@ export default [
     component: c40
   },
   {
-    path: "/products/yukon-sightline-n450s-digisight/",
-    component: c40
-  },
-  {
     path: "/products/yukon-sightline-n470s-digisight/",
     component: c40
   },
@@ -579,10 +575,6 @@ export default [
   },
   {
     path: "/products/seeland-key-point-jacket-38/",
-    component: c40
-  },
-  {
-    path: "/products/spartan-300-carbon-fibre-bipod/",
     component: c40
   },
   {
@@ -2386,10 +2378,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/browning-t-bolt-target-varmint20455-zp-253/",
-    component: c41
-  },
-  {
     path: "/guns/daystate-mk4-panther-is-4901/",
     component: c41
   },
@@ -2766,10 +2754,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/cz-452-american-a520468/",
-    component: c41
-  },
-  {
     path: "/guns/cz-452-american-b046449/",
     component: c41
   },
@@ -2787,10 +2771,6 @@ export default [
   },
   {
     path: "/guns/cz-457-lrpe-029482/",
-    component: c41
-  },
-  {
-    path: "/guns/cz-457-mtre-041624/",
     component: c41
   },
   {

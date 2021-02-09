@@ -21,6 +21,9 @@
       <div
         class="flex justify-center flex-wrap mx-4 mt-8 h-auto lg:w-5/6 lg:mt-12"
       >
+        <div class="mx-24">
+          <FabBanner />
+        </div>
         <div
           v-for="edge in $page.allWooProducts.edges"
           :key="edge.node.id"
@@ -70,6 +73,7 @@
 
 <script>
 import AccessoriesSidebar from "~/components/AccessoriesSidebar.vue";
+import FabBanner from "~/components/FabBanner.vue";
 import { Pager } from "gridsome";
 
 export default {
@@ -91,6 +95,7 @@ export default {
   components: {
     AccessoriesSidebar,
     Pager,
+    FabBanner,
   },
 };
 </script>
