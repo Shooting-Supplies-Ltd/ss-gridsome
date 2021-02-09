@@ -2750,10 +2750,6 @@ export default [
     component: c41
   },
   {
-    path: "/guns/cz-452-american-b046449/",
-    component: c41
-  },
-  {
     path: "/guns/cz-455-varmint-b595259/",
     component: c41
   },
